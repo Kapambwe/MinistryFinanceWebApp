@@ -1,0 +1,44 @@
+[
+  {
+    "donorId": 1,
+    "donorCode": "WB",
+    "donorName": "World Bank",
+    "donorType": "Multilateral",
+    "country": "International",
+    "contactPerson": "Dr. Sarah Johnson",
+    "email": "sjohnson@worldbank.org",
+    "phone": "+1 202 473 1000",
+    "address": "1818 H Street NW, Washington, DC 20433, USA",
+    "website": "www.worldbank.org",
+    "status": "Active",
+    "registrationDate": "2020-01-15T00:00:00"
+  },
+  {
+    "donorId": 2,
+    "donorCode": "USAID",
+    "donorName": "United States Agency for International Development",
+    "donorType": "Bilateral",
+    "country": "United States",
+    "contactPerson": "Ms. Jennifer Martinez",
+    "email": "jmartinez@usaid.gov",
+    "phone": "+260 211 357 000",
+    "address": "Embassy of the United States, Lusaka, Zambia",
+    "website": "www.usaid.gov",
+    "status": "Active",
+    "registrationDate": "2018-06-20T00:00:00"
+  },
+  {
+    "donorId": 3,
+    "donorCode": "EU",
+    "donorName": "European Union",
+    "donorType": "Multilateral",
+    "country": "International",
+    "contactPerson": "Mr. Hans Schmidt",
+    "email": "hans.schmidt@eeas.europa.eu",
+    "phone": "+260 211 250 711",
+    "address": "EU Delegation, Lusaka, Zambia",
+    "website": "www.europa.eu",
+    "status": "Active",
+    "registrationDate": "2019-03-10T00:00:00"
+  }
+]

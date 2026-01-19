@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "revenueNumber": "REV-2024-001",
+    "revenueSource": "Tax Collection",
+    "revenueType": "CorporateTax",
+    "ministry": "Ministry of Finance",
+    "department": "Revenue Division",
+    "collectionDate": "2024-01-15T00:00:00",
+    "amount": 25000000.00,
+    "currency": "ZMW",
+    "payerName": "ABC Corporation Ltd",
+    "payerTpin": "1234567890",
+    "receiptNumber": "RCP-2024-001",
+    "bankName": "Bank of Zambia",
+    "accountNumber": "TSA-001-2024",
+    "collectedBy": "Revenue Officer",
+    "verifiedBy": "Senior Revenue Officer",
+    "status": "Verified"
+  },
+  {
+    "id": 2,
+    "revenueNumber": "REV-2024-002",
+    "revenueSource": "Non-Tax Revenue",
+    "revenueType": "Licenses",
+    "ministry": "Ministry of Finance",
+    "department": "Revenue Division",
+    "collectionDate": "2024-01-16T00:00:00",
+    "amount": 5000000.00,
+    "currency": "ZMW",
+    "payerName": "XYZ Mining Company",
+    "payerTpin": "0987654321",
+    "receiptNumber": "RCP-2024-002",
+    "bankName": "Bank of Zambia",
+    "accountNumber": "TSA-001-2024",
+    "collectedBy": "Revenue Officer",
+    "verifiedBy": "Senior Revenue Officer",
+    "status": "Verified"
+  }
+]

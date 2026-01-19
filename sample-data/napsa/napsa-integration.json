@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "integrationId": "NAPSA-INT-001",
+    "transactionType": "ContributionRemittance",
+    "transactionDate": "2024-01-15T00:00:00",
+    "employerTpin": "1234567890",
+    "employerName": "ABC Corporation Ltd",
+    "contributionMonth": "December 2023",
+    "numberOfEmployees": 150,
+    "employeeContributions": 750000.00,
+    "employerContributions": 750000.00,
+    "totalContributions": 1500000.00,
+    "currency": "ZMW",
+    "receiptNumber": "NAPSA-RCP-2024-001",
+    "paymentMethod": "BankTransfer",
+    "bankReference": "NAPSA-TXN-2024-001",
+    "status": "Verified",
+    "integrationStatus": "Posted",
+    "processedDate": "2024-01-15T11:00:00",
+    "errorMessage": null
+  }
+]

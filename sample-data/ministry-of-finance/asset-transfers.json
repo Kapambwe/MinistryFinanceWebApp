@@ -1,0 +1,250 @@
+[
+  {
+    "transferId": "XFER-2024-0089",
+    "transferDate": "2024-06-15T00:00:00Z",
+    "effectiveDate": "2024-07-01T00:00:00Z",
+    "transferType": "Inter-Ministry Transfer",
+    "fromMinistry": "Ministry of Finance",
+    "fromDepartment": "Treasury Department",
+    "toMinistry": "Ministry of Agriculture",
+    "toDepartment": "Provincial Agriculture Office - Eastern",
+    "assets": [
+      {
+        "assetId": "GRZ-VEH-2020-0234",
+        "assetType": "Vehicle",
+        "description": "Toyota Land Cruiser 4x4 - GRZ 3421 CD",
+        "acquisitionDate": "2020-03-15T00:00:00Z",
+        "acquisitionCost": 425000.00,
+        "currentValue": 297500.00,
+        "accumulatedDepreciation": 127500.00
+      },
+      {
+        "assetId": "GRZ-IT-2021-0567",
+        "assetType": "IT Equipment",
+        "description": "Dell Latitude 5520 Laptop x 5 units",
+        "acquisitionDate": "2021-08-20T00:00:00Z",
+        "acquisitionCost": 75000.00,
+        "currentValue": 37500.00,
+        "accumulatedDepreciation": 37500.00
+      }
+    ],
+    "totalTransferValue": 335000.00,
+    "reason": "Reallocation to support agricultural extension services in Eastern Province",
+    "approvedBy": "Permanent Secretary - Ministry of Finance",
+    "approvalDate": "2024-06-10T00:00:00Z",
+    "transferOfficer": "Kenneth Mwansa",
+    "receivingOfficer": "Sarah Zulu",
+    "status": "Completed",
+    "documentReference": "MOF/ASSET/XFER/2024/089"
+  },
+  {
+    "transferId": "XFER-2024-0102",
+    "transferDate": "2024-06-25T00:00:00Z",
+    "effectiveDate": "2024-07-15T00:00:00Z",
+    "transferType": "Inter-Ministry Transfer",
+    "fromMinistry": "Ministry of Health",
+    "fromDepartment": "Central Medical Stores",
+    "toMinistry": "Ministry of Community Development",
+    "toDepartment": "Social Welfare Division - Lusaka",
+    "assets": [
+      {
+        "assetId": "GRZ-FURN-2019-0445",
+        "assetType": "Furniture",
+        "description": "Office desks and chairs - 20 sets",
+        "acquisitionDate": "2019-06-10T00:00:00Z",
+        "acquisitionCost": 180000.00,
+        "currentValue": 90000.00,
+        "accumulatedDepreciation": 90000.00
+      }
+    ],
+    "totalTransferValue": 90000.00,
+    "reason": "Surplus furniture redeployment to newly established social welfare offices",
+    "approvedBy": "Secretary to the Treasury",
+    "approvalDate": "2024-06-20T00:00:00Z",
+    "transferOfficer": "Dr. Mary Lungu",
+    "receivingOfficer": "Peter Chanda",
+    "status": "In Transit",
+    "documentReference": "MOH/ASSET/XFER/2024/102"
+  },
+  {
+    "transferId": "XFER-2024-0115",
+    "transferDate": "2024-07-05T00:00:00Z",
+    "effectiveDate": "2024-08-01T00:00:00Z",
+    "transferType": "Inter-Ministry Transfer",
+    "fromMinistry": "Ministry of Transport",
+    "fromDepartment": "Road Transport and Safety Agency",
+    "toMinistry": "Ministry of Local Government",
+    "toDepartment": "Ndola City Council",
+    "assets": [
+      {
+        "assetId": "GRZ-VEH-2018-0678",
+        "assetType": "Vehicle",
+        "description": "Isuzu NPR Truck 7.5 Ton - GRZ 5678 EF",
+        "acquisitionDate": "2018-11-25T00:00:00Z",
+        "acquisitionCost": 550000.00,
+        "currentValue": 220000.00,
+        "accumulatedDepreciation": 330000.00
+      },
+      {
+        "assetId": "GRZ-EQUIP-2019-0234",
+        "assetType": "Equipment",
+        "description": "Concrete mixer - industrial grade",
+        "acquisitionDate": "2019-04-15T00:00:00Z",
+        "acquisitionCost": 125000.00,
+        "currentValue": 56250.00,
+        "accumulatedDepreciation": 68750.00
+      }
+    ],
+    "totalTransferValue": 276250.00,
+    "reason": "Transfer to support municipal infrastructure maintenance projects",
+    "approvedBy": "Permanent Secretary - Ministry of Transport",
+    "approvalDate": "2024-06-28T00:00:00Z",
+    "transferOfficer": "Francis Banda",
+    "receivingOfficer": "Emmanuel Mulenga",
+    "status": "Pending Approval",
+    "documentReference": "MOT/ASSET/XFER/2024/115"
+  },
+  {
+    "transferId": "XFER-2024-0078",
+    "transferDate": "2024-05-20T00:00:00Z",
+    "effectiveDate": "2024-06-01T00:00:00Z",
+    "transferType": "Inter-Ministry Transfer",
+    "fromMinistry": "Ministry of Education",
+    "fromDepartment": "Curriculum Development Centre",
+    "toMinistry": "Ministry of Higher Education",
+    "toDepartment": "Technical Education Division",
+    "assets": [
+      {
+        "assetId": "GRZ-IT-2022-0789",
+        "assetType": "IT Equipment",
+        "description": "HP ProBook 450 G9 Laptops x 15 units",
+        "acquisitionDate": "2022-02-10T00:00:00Z",
+        "acquisitionCost": 225000.00,
+        "currentValue": 146250.00,
+        "accumulatedDepreciation": 78750.00
+      },
+      {
+        "assetId": "GRZ-IT-2022-0790",
+        "assetType": "IT Equipment",
+        "description": "Epson EB-2250U Projectors x 5 units",
+        "acquisitionDate": "2022-03-05T00:00:00Z",
+        "acquisitionCost": 87500.00,
+        "currentValue": 56875.00,
+        "accumulatedDepreciation": 30625.00
+      }
+    ],
+    "totalTransferValue": 203125.00,
+    "reason": "Equipment reallocation to support technical training programs",
+    "approvedBy": "Permanent Secretary - Ministry of Education",
+    "approvalDate": "2024-05-15T00:00:00Z",
+    "transferOfficer": "Grace Tembo",
+    "receivingOfficer": "Dr. Joseph Phiri",
+    "status": "Completed",
+    "documentReference": "MOE/ASSET/XFER/2024/078"
+  },
+  {
+    "transferId": "XFER-2024-0134",
+    "transferDate": "2024-07-18T00:00:00Z",
+    "effectiveDate": "2024-08-15T00:00:00Z",
+    "transferType": "Inter-Ministry Transfer",
+    "fromMinistry": "Ministry of Finance",
+    "fromDepartment": "Accountant General's Office",
+    "toMinistry": "Ministry of Lands",
+    "toDepartment": "Land Registration Department",
+    "assets": [
+      {
+        "assetId": "GRZ-IT-2023-0456",
+        "assetType": "IT Equipment",
+        "description": "Dell PowerEdge R740 Server",
+        "acquisitionDate": "2023-05-20T00:00:00Z",
+        "acquisitionCost": 275000.00,
+        "currentValue": 229167.00,
+        "accumulatedDepreciation": 45833.00
+      },
+      {
+        "assetId": "GRZ-IT-2023-0457",
+        "assetType": "IT Equipment",
+        "description": "Cisco Catalyst 3850 Network Switch",
+        "acquisitionDate": "2023-06-01T00:00:00Z",
+        "acquisitionCost": 165000.00,
+        "currentValue": 137500.00,
+        "accumulatedDepreciation": 27500.00
+      }
+    ],
+    "totalTransferValue": 366667.00,
+    "reason": "IT infrastructure upgrade for digitized land records system",
+    "approvedBy": "Secretary to the Treasury",
+    "approvalDate": "2024-07-12T00:00:00Z",
+    "transferOfficer": "Moses Mwamba",
+    "receivingOfficer": "Catherine Ngoma",
+    "status": "Scheduled",
+    "documentReference": "MOF/ASSET/XFER/2024/134"
+  },
+  {
+    "transferId": "XFER-2024-0091",
+    "transferDate": "2024-06-10T00:00:00Z",
+    "effectiveDate": "2024-07-01T00:00:00Z",
+    "transferType": "Inter-Ministry Transfer",
+    "fromMinistry": "Ministry of Energy",
+    "fromDepartment": "Department of Energy",
+    "toMinistry": "Ministry of Water Development",
+    "toDepartment": "Water Resources Management",
+    "assets": [
+      {
+        "assetId": "GRZ-GEN-2020-0123",
+        "assetType": "Generator",
+        "description": "Perkins 150 KVA Diesel Generator",
+        "acquisitionDate": "2020-09-15T00:00:00Z",
+        "acquisitionCost": 325000.00,
+        "currentValue": 195000.00,
+        "accumulatedDepreciation": 130000.00
+      }
+    ],
+    "totalTransferValue": 195000.00,
+    "reason": "Power backup support for critical water pumping stations",
+    "approvedBy": "Permanent Secretary - Ministry of Energy",
+    "approvalDate": "2024-06-05T00:00:00Z",
+    "transferOfficer": "Richard Siame",
+    "receivingOfficer": "Alice Mwanza",
+    "status": "Completed",
+    "documentReference": "MOE/ASSET/XFER/2024/091"
+  },
+  {
+    "transferId": "XFER-2024-0145",
+    "transferDate": "2024-07-22T00:00:00Z",
+    "effectiveDate": "2024-09-01T00:00:00Z",
+    "transferType": "Inter-Ministry Transfer",
+    "fromMinistry": "Ministry of Justice",
+    "fromDepartment": "Legal Aid Department",
+    "toMinistry": "Ministry of Home Affairs",
+    "toDepartment": "Immigration Department - Livingstone",
+    "assets": [
+      {
+        "assetId": "GRZ-FURN-2021-0567",
+        "assetType": "Furniture",
+        "description": "Reception counter and waiting area furniture",
+        "acquisitionDate": "2021-07-20T00:00:00Z",
+        "acquisitionCost": 145000.00,
+        "currentValue": 87000.00,
+        "accumulatedDepreciation": 58000.00
+      },
+      {
+        "assetId": "GRZ-SEC-2021-0234",
+        "assetType": "Security Equipment",
+        "description": "Metal detector and X-ray screening system",
+        "acquisitionDate": "2021-08-10T00:00:00Z",
+        "acquisitionCost": 285000.00,
+        "currentValue": 171000.00,
+        "accumulatedDepreciation": 114000.00
+      }
+    ],
+    "totalTransferValue": 258000.00,
+    "reason": "Equipment reallocation following office consolidation",
+    "approvedBy": "Permanent Secretary - Ministry of Justice",
+    "approvalDate": "2024-07-15T00:00:00Z",
+    "transferOfficer": "Patricia Mulenga",
+    "receivingOfficer": "John Sakala",
+    "status": "Scheduled",
+    "documentReference": "MOJ/ASSET/XFER/2024/145"
+  }
+]

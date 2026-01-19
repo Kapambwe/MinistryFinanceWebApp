@@ -1,0 +1,121 @@
+[
+  {
+    "id": "BR-2024-001",
+    "reconciliationDate": "2024-01-31T23:59:59Z",
+    "bankAccountId": "BA-MOF-001",
+    "bankAccountName": "Bank of Zambia - TSA Main Account",
+    "accountNumber": "BOZ-TSA-001-2024",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 45678900.00,
+    "bankStatementBalance": 46234150.00,
+    "outstandingChecks": 850000.00,
+    "depositsInTransit": 294750.00,
+    "bankCharges": 0.00,
+    "interestEarned": 0.00,
+    "adjustments": 0.00,
+    "reconciledBalance": 45678900.00,
+    "variance": 0.00,
+    "status": "Reconciled",
+    "outstandingChecksList": [
+      {"checkNumber": "0012347", "amount": 125000.00, "payee": "Lusaka IT Solutions", "date": "2024-01-20"},
+      {"checkNumber": "0012349", "amount": 320000.00, "payee": "Zambia Consulting Group", "date": "2024-01-25"},
+      {"checkNumber": "0012351", "amount": 405000.00, "payee": "Energy Solutions Zambia", "date": "2024-01-28"}
+    ],
+    "depositsInTransitList": [
+      {"receiptNumber": "RV-2024-156", "amount": 145000.00, "source": "Ministry of Lands", "date": "2024-01-30"},
+      {"receiptNumber": "RV-2024-157", "amount": 149750.00, "source": "Ministry of Commerce", "date": "2024-01-31"}
+    ],
+    "reconciledBy": "Senior Accountant - Grace Mulenga",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": "BR-2023-012",
+    "reconciliationDate": "2023-12-31T23:59:59Z",
+    "bankAccountId": "BA-MOF-001",
+    "bankAccountName": "Bank of Zambia - TSA Main Account",
+    "accountNumber": "BOZ-TSA-001-2024",
+    "reconciliationPeriod": "December 2023",
+    "fiscalYear": 2023,
+    "bookBalance": 42350000.00,
+    "bankStatementBalance": 42815000.00,
+    "outstandingChecks": 680000.00,
+    "depositsInTransit": 215000.00,
+    "bankCharges": 0.00,
+    "interestEarned": 0.00,
+    "adjustments": 0.00,
+    "reconciledBalance": 42350000.00,
+    "variance": 0.00,
+    "status": "Reconciled",
+    "outstandingChecksList": [
+      {"checkNumber": "0012298", "amount": 280000.00, "payee": "Construction Works Ltd", "date": "2023-12-28"},
+      {"checkNumber": "0012302", "amount": 400000.00, "payee": "Medical Equipment Suppliers", "date": "2023-12-30"}
+    ],
+    "depositsInTransitList": [
+      {"receiptNumber": "RV-2023-450", "amount": 95000.00, "source": "Ministry of Tourism", "date": "2023-12-29"},
+      {"receiptNumber": "RV-2023-451", "amount": 120000.00, "source": "Ministry of Transport", "date": "2023-12-30"}
+    ],
+    "reconciledBy": "Senior Accountant - Grace Mulenga",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": "BR-2024-002",
+    "reconciliationDate": "2024-02-15T23:59:59Z",
+    "bankAccountId": "BA-MOF-002",
+    "bankAccountName": "Bank of Zambia - Project Account",
+    "accountNumber": "BOZ-PROJ-002-2024",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 18500000.00,
+    "bankStatementBalance": 18650000.00,
+    "outstandingChecks": 320000.00,
+    "depositsInTransit": 170000.00,
+    "bankCharges": 0.00,
+    "interestEarned": 0.00,
+    "adjustments": 0.00,
+    "reconciledBalance": 18500000.00,
+    "variance": 0.00,
+    "status": "Reconciled",
+    "outstandingChecksList": [
+      {"checkNumber": "0045678", "amount": 185000.00, "payee": "Road Works Zambia", "date": "2024-01-29"},
+      {"checkNumber": "0045679", "amount": 135000.00, "payee": "Bridge Construction Ltd", "date": "2024-01-30"}
+    ],
+    "depositsInTransitList": [
+      {"receiptNumber": "PROJ-2024-023", "amount": 170000.00, "source": "World Bank Disbursement", "date": "2024-01-31"}
+    ],
+    "reconciledBy": "Project Accountant - Joseph Banda",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": "BR-2024-003",
+    "reconciliationDate": "2024-02-01T12:00:00Z",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-2024",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 5640000.00,
+    "bankStatementBalance": 5720000.00,
+    "outstandingChecks": 155000.00,
+    "depositsInTransit": 75000.00,
+    "bankCharges": 0.00,
+    "interestEarned": 0.00,
+    "adjustments": 0.00,
+    "reconciledBalance": 5640000.00,
+    "variance": 0.00,
+    "status": "Reconciled",
+    "outstandingChecksList": [
+      {"checkNumber": "DON-0012", "amount": 95000.00, "payee": "Health Sector Support", "date": "2024-01-28"},
+      {"checkNumber": "DON-0013", "amount": 60000.00, "payee": "Education Program Partners", "date": "2024-01-30"}
+    ],
+    "depositsInTransitList": [
+      {"receiptNumber": "DON-RV-045", "amount": 75000.00, "source": "USAID Grant", "date": "2024-01-31"}
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  }
+]

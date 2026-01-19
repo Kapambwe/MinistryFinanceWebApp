@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "date": "2024-01-15T00:00:00",
+    "accountType": "CentralBankReserve",
+    "bankName": "Bank of Zambia",
+    "accountNumber": "BOZ-RESERVE-001",
+    "openingBalance": 2500000000.00,
+    "receipts": 450000000.00,
+    "payments": 380000000.00,
+    "closingBalance": 2570000000.00,
+    "currency": "USD",
+    "ministry": "Bank of Zambia",
+    "recordedBy": "Foreign Exchange Officer",
+    "verifiedBy": "Director Foreign Exchange",
+    "status": "Verified"
+  }
+]

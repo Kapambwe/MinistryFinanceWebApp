@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "warrantNumber": "WAR-2024-Q1-003",
+    "fiscalYear": "2024",
+    "issueDate": "2024-01-05T00:00:00",
+    "type": "Quarterly",
+    "period": "Q1",
+    "issuedTo": "Accounting Officer",
+    "ministry": "Ministry of Health",
+    "department": "Primary Health Care",
+    "totalAmount": 3800000000.00,
+    "status": "Released",
+    "issuedBy": "Director Budget",
+    "approvedBy": "Minister of Finance",
+    "approvedDate": "2024-01-03T00:00:00",
+    "releaseDate": "2024-01-05T00:00:00",
+    "releasedBy": "Director Treasury",
+    "justification": "Q1 2024 budget allocation for primary health care services",
+    "conditions": "Funds to be used for approved budget items only. Monthly expenditure reports required.",
+    "expiryDate": "2024-03-31T00:00:00"
+  }
+]

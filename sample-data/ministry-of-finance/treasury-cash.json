@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "date": "2024-01-15T00:00:00",
+    "accountType": "TreasurySingleAccount",
+    "bankName": "Bank of Zambia",
+    "accountNumber": "TSA-001-2024",
+    "openingBalance": 15000000000.00,
+    "receipts": 2500000000.00,
+    "payments": 2000000000.00,
+    "closingBalance": 15500000000.00,
+    "currency": "ZMW",
+    "ministry": "Ministry of Finance",
+    "recordedBy": "Treasury Officer",
+    "verifiedBy": "Senior Treasury Officer",
+    "status": "Verified"
+  },
+  {
+    "id": 2,
+    "date": "2024-01-16T00:00:00",
+    "accountType": "TreasurySingleAccount",
+    "bankName": "Bank of Zambia",
+    "accountNumber": "TSA-001-2024",
+    "openingBalance": 15500000000.00,
+    "receipts": 3200000000.00,
+    "payments": 2800000000.00,
+    "closingBalance": 15900000000.00,
+    "currency": "ZMW",
+    "ministry": "Ministry of Finance",
+    "recordedBy": "Treasury Officer",
+    "verifiedBy": "Senior Treasury Officer",
+    "status": "Verified"
+  }
+]

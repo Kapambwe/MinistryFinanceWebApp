@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "revenueNumber": "ZRA-2024-001",
+    "revenueSource": "Tax Collection",
+    "revenueType": "VAT",
+    "ministry": "Zambia Revenue Authority",
+    "department": "Domestic Taxes",
+    "collectionDate": "2024-01-15T00:00:00",
+    "amount": 125000000.00,
+    "currency": "ZMW",
+    "payerName": "ABC Corporation Ltd",
+    "payerTpin": "1234567890",
+    "receiptNumber": "ZRA-RCP-2024-001",
+    "bankName": "Bank of Zambia",
+    "accountNumber": "ZRA-VAT-001",
+    "collectedBy": "Tax Officer",
+    "verifiedBy": "Senior Tax Officer",
+    "status": "Verified"
+  },
+  {
+    "id": 2,
+    "revenueNumber": "ZRA-2024-002",
+    "revenueSource": "Tax Collection",
+    "revenueType": "CorporateTax",
+    "ministry": "Zambia Revenue Authority",
+    "department": "Domestic Taxes",
+    "collectionDate": "2024-01-16T00:00:00",
+    "amount": 85000000.00,
+    "currency": "ZMW",
+    "payerName": "XYZ Mining Company",
+    "payerTpin": "0987654321",
+    "receiptNumber": "ZRA-RCP-2024-002",
+    "bankName": "Bank of Zambia",
+    "accountNumber": "ZRA-CORP-001",
+    "collectedBy": "Tax Officer",
+    "verifiedBy": "Senior Tax Officer",
+    "status": "Verified"
+  }
+]

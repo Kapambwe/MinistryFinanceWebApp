@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "assetNumber": "CEEC-AST-2024-001",
+    "assetName": "Training Facility - CEEC Business Incubator",
+    "assetCategory": "Building",
+    "assetType": "Commercial Building",
+    "description": "Business incubation center with training rooms and co-working space",
+    "ministry": "Citizen Economic Empowerment Commission",
+    "department": "Enterprise Development",
+    "location": "Lusaka - Industrial Area",
+    "acquisitionDate": "2023-06-15T00:00:00",
+    "acquisitionCost": 5500000.00,
+    "currentValue": 5500000.00,
+    "depreciationMethod": "StraightLine",
+    "usefulLife": 40,
+    "residualValue": 550000.00,
+    "serialNumber": "BLD-2023-001",
+    "manufacturer": "N/A",
+    "model": "N/A",
+    "warrantyExpiry": null,
+    "custodian": "Director Enterprise Development",
+    "status": "Active",
+    "condition": "Excellent"
+  }
+]

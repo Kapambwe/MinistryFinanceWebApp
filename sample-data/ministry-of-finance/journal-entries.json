@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "journalNumber": "JE-2024-001",
+    "journalDate": "2024-01-15T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Finance",
+    "department": "Human Resources",
+    "totalDebit": 15000000.00,
+    "totalCredit": 15000000.00,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-16T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.00,
+        "credit": 0.00,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.00,
+        "credit": 0.00,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.00,
+        "credit": 15000000.00,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  }
+]

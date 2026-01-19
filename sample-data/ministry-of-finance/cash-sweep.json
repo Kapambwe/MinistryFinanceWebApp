@@ -1,0 +1,92 @@
+[
+  {
+    "id": "CS-2024-001",
+    "sweepDate": "2024-01-15T17:00:00Z",
+    "sweepPeriod": "Daily Sweep - 15 January 2024",
+    "fiscalYear": 2024,
+    "sourceAccounts": [
+      {"accountId": "BA-MOH-001", "accountName": "Ministry of Health - Operations", "balance": 850000.00, "sweptAmount": 650000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOE-001", "accountName": "Ministry of Education - Operations", "balance": 720000.00, "sweptAmount": 520000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOA-001", "accountName": "Ministry of Agriculture - Operations", "balance": 450000.00, "sweptAmount": 250000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOI-001", "accountName": "Ministry of Infrastructure - Operations", "balance": 980000.00, "sweptAmount": 780000.00, "retainedAmount": 200000.00}
+    ],
+    "destinationAccountId": "BA-MOF-001",
+    "destinationAccountName": "Bank of Zambia - TSA Main Account",
+    "totalSweptAmount": 2200000.00,
+    "totalRetainedAmount": 800000.00,
+    "sweepType": "Automatic Daily Sweep",
+    "retentionPolicy": "Minimum balance ZMW 200,000 per ministry account",
+    "status": "Completed",
+    "processedBy": "TSA System - Automated",
+    "verifiedBy": "Treasury Officer - John Mwanza",
+    "notes": "Routine end-of-day sweep to TSA"
+  },
+  {
+    "id": "CS-2024-002",
+    "sweepDate": "2024-01-22T17:00:00Z",
+    "sweepPeriod": "Daily Sweep - 22 January 2024",
+    "fiscalYear": 2024,
+    "sourceAccounts": [
+      {"accountId": "BA-MOH-001", "accountName": "Ministry of Health - Operations", "balance": 920000.00, "sweptAmount": 720000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOE-001", "accountName": "Ministry of Education - Operations", "balance": 680000.00, "sweptAmount": 480000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOA-001", "accountName": "Ministry of Agriculture - Operations", "balance": 550000.00, "sweptAmount": 350000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOTS-001", "accountName": "Ministry of Technology - Operations", "balance": 410000.00, "sweptAmount": 210000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOLG-001", "accountName": "Ministry of Local Government - Operations", "balance": 780000.00, "sweptAmount": 580000.00, "retainedAmount": 200000.00}
+    ],
+    "destinationAccountId": "BA-MOF-001",
+    "destinationAccountName": "Bank of Zambia - TSA Main Account",
+    "totalSweptAmount": 2340000.00,
+    "totalRetainedAmount": 1000000.00,
+    "sweepType": "Automatic Daily Sweep",
+    "retentionPolicy": "Minimum balance ZMW 200,000 per ministry account",
+    "status": "Completed",
+    "processedBy": "TSA System - Automated",
+    "verifiedBy": "Treasury Officer - Sarah Phiri",
+    "notes": "Routine end-of-day sweep to TSA"
+  },
+  {
+    "id": "CS-2024-003",
+    "sweepDate": "2024-01-29T17:00:00Z",
+    "sweepPeriod": "Daily Sweep - 29 January 2024",
+    "fiscalYear": 2024,
+    "sourceAccounts": [
+      {"accountId": "BA-MOH-001", "accountName": "Ministry of Health - Operations", "balance": 1150000.00, "sweptAmount": 950000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOE-001", "accountName": "Ministry of Education - Operations", "balance": 890000.00, "sweptAmount": 690000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOA-001", "accountName": "Ministry of Agriculture - Operations", "balance": 620000.00, "sweptAmount": 420000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOI-001", "accountName": "Ministry of Infrastructure - Operations", "balance": 1250000.00, "sweptAmount": 1050000.00, "retainedAmount": 200000.00}
+    ],
+    "destinationAccountId": "BA-MOF-001",
+    "destinationAccountName": "Bank of Zambia - TSA Main Account",
+    "totalSweptAmount": 3110000.00,
+    "totalRetainedAmount": 800000.00,
+    "sweepType": "Automatic Daily Sweep",
+    "retentionPolicy": "Minimum balance ZMW 200,000 per ministry account",
+    "status": "Completed",
+    "processedBy": "TSA System - Automated",
+    "verifiedBy": "Treasury Officer - John Mwanza",
+    "notes": "Month-end sweep - higher balances observed"
+  },
+  {
+    "id": "CS-2024-004",
+    "sweepDate": "2024-01-31T17:00:00Z",
+    "sweepPeriod": "Daily Sweep - 31 January 2024",
+    "fiscalYear": 2024,
+    "sourceAccounts": [
+      {"accountId": "BA-MOH-001", "accountName": "Ministry of Health - Operations", "balance": 980000.00, "sweptAmount": 780000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOE-001", "accountName": "Ministry of Education - Operations", "balance": 750000.00, "sweptAmount": 550000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOA-001", "accountName": "Ministry of Agriculture - Operations", "balance": 520000.00, "sweptAmount": 320000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOI-001", "accountName": "Ministry of Infrastructure - Operations", "balance": 1100000.00, "sweptAmount": 900000.00, "retainedAmount": 200000.00},
+      {"accountId": "BA-MOTS-001", "accountName": "Ministry of Technology - Operations", "balance": 380000.00, "sweptAmount": 180000.00, "retainedAmount": 200000.00}
+    ],
+    "destinationAccountId": "BA-MOF-001",
+    "destinationAccountName": "Bank of Zambia - TSA Main Account",
+    "totalSweptAmount": 2730000.00,
+    "totalRetainedAmount": 1000000.00,
+    "sweepType": "Automatic Daily Sweep",
+    "retentionPolicy": "Minimum balance ZMW 200,000 per ministry account",
+    "status": "Completed",
+    "processedBy": "TSA System - Automated",
+    "verifiedBy": "Treasury Officer - Sarah Phiri",
+    "notes": "Final sweep for January 2024"
+  }
+]
