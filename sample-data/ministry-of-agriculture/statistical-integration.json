@@ -1,0 +1,1012 @@
+[
+  {
+    "integrationId": "CSO-STAT-2024-Q1",
+    "reportType": "GDP by Sector",
+    "reportingPeriod": "2024-Q1",
+    "publishDate": "2024-05-15",
+    "dataCategory": "National Accounts",
+    "gdpData": {
+      "totalGDP": 625000000000.0,
+      "currency": "ZMW",
+      "realGrowthRate": 4.2,
+      "nominalGrowthRate": 9.8,
+      "gdpPerCapita": 31250.0,
+      "sectorContributions": [
+        {
+          "sector": "Agriculture",
+          "value": 62500000000.0,
+          "percentageOfGDP": 10.0,
+          "growthRate": 3.5
+        },
+        {
+          "sector": "Mining and Quarrying",
+          "value": 187500000000.0,
+          "percentageOfGDP": 30.0,
+          "growthRate": 5.8
+        },
+        {
+          "sector": "Manufacturing",
+          "value": 81250000000.0,
+          "percentageOfGDP": 13.0,
+          "growthRate": 3.2
+        },
+        {
+          "sector": "Services",
+          "value": 293750000000.0,
+          "percentageOfGDP": 47.0,
+          "growthRate": 4.5
+        }
+      ]
+    },
+    "fiscalImplications": {
+      "taxRevenueProjection": 156250000000.0,
+      "taxToGDPRatio": 25.0,
+      "debtToGDPRatio": 84.5,
+      "budgetDeficitToGDP": 6.8
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-05-16T09:00:00Z",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-002",
+    "reportType": "Consumer Price Index",
+    "reportingPeriod": "2024-05",
+    "publishDate": "2024-06-10",
+    "dataCategory": "Inflation Statistics",
+    "cpiData": {
+      "overallCPI": 198.5,
+      "baseYear": "2018",
+      "monthlyInflation": 0.8,
+      "annualInflation": 9.5,
+      "coreInflation": 8.2,
+      "categoryInflation": [
+        {
+          "category": "Food and Non-Alcoholic Beverages",
+          "weight": 46.5,
+          "cpiValue": 215.3,
+          "annualChange": 12.3
+        },
+        {
+          "category": "Transport",
+          "weight": 14.2,
+          "cpiValue": 205.8,
+          "annualChange": 11.5
+        },
+        {
+          "category": "Housing and Utilities",
+          "weight": 18.7,
+          "cpiValue": 188.2,
+          "annualChange": 7.8
+        },
+        {
+          "category": "Other Goods and Services",
+          "weight": 20.6,
+          "cpiValue": 182.6,
+          "annualChange": 6.5
+        }
+      ]
+    },
+    "fiscalImplications": {
+      "realWageAdjustment": -1.2,
+      "pensionIndexation": 9.5,
+      "debtServicingImpact": 5850000000.0,
+      "socialProtectionBudget": 12500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-06-11T09:00:00Z",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-003",
+    "reportType": "Labor Force Survey",
+    "reportingPeriod": "2024-Q1",
+    "publishDate": "2024-05-20",
+    "dataCategory": "Employment Statistics",
+    "laborData": {
+      "laborForceSize": 8500000,
+      "employed": 5950000,
+      "unemployed": 2550000,
+      "unemploymentRate": 30.0,
+      "youthUnemploymentRate": 42.5,
+      "formalSectorEmployment": 1785000,
+      "informalSectorEmployment": 4165000,
+      "sectoralEmployment": [
+        {
+          "sector": "Agriculture",
+          "employed": 3570000,
+          "percentageOfTotal": 60.0
+        },
+        {
+          "sector": "Manufacturing",
+          "employed": 476000,
+          "percentageOfTotal": 8.0
+        },
+        {
+          "sector": "Mining",
+          "employed": 238000,
+          "percentageOfTotal": 4.0
+        },
+        {
+          "sector": "Services",
+          "employed": 1666000,
+          "percentageOfTotal": 28.0
+        }
+      ]
+    },
+    "fiscalImplications": {
+      "payeTaxBase": 1785000,
+      "socialSecurityContributors": 1250000,
+      "youthEmploymentPrograms": 8500000000.0,
+      "skillsDevelopmentBudget": 5200000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-05-21T09:00:00Z",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-004",
+    "reportType": "Poverty and Living Conditions",
+    "reportingPeriod": "2023",
+    "publishDate": "2024-04-15",
+    "dataCategory": "Social Statistics",
+    "povertyData": {
+      "populationTotal": 20000000,
+      "povertyHeadcount": 11400000,
+      "povertyRate": 57.0,
+      "extremePovertyRate": 42.0,
+      "urbanPovertyRate": 38.5,
+      "ruralPovertyRate": 70.2,
+      "giniCoefficient": 0.571,
+      "provincialPoverty": [
+        {
+          "province": "Lusaka",
+          "povertyRate": 35.2
+        },
+        {
+          "province": "Copperbelt",
+          "povertyRate": 41.8
+        },
+        {
+          "province": "Western",
+          "povertyRate": 78.5
+        },
+        {
+          "province": "Eastern",
+          "povertyRate": 72.3
+        }
+      ]
+    },
+    "fiscalImplications": {
+      "socialCashTransferBudget": 18500000000.0,
+      "beneficiaries": 1250000,
+      "foodSecurityPrograms": 12000000000.0,
+      "healthSubsidies": 8500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-04-16T09:00:00Z",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-005",
+    "reportType": "Balance of Payments",
+    "reportingPeriod": "2024-Q1",
+    "publishDate": "2024-05-25",
+    "dataCategory": "External Sector Statistics",
+    "bopData": {
+      "currentAccount": -1875000000.0,
+      "currentAccountToGDP": -3.0,
+      "tradeBalance": 12500000000.0,
+      "exports": 87500000000.0,
+      "imports": 75000000000.0,
+      "servicesBalance": -6250000000.0,
+      "primaryIncomeBalance": -8125000000.0,
+      "capitalAccount": 625000000.0,
+      "financialAccount": 1250000000.0,
+      "foreignDirectInvestment": 3125000000.0,
+      "foreignReserves": 31250000000.0,
+      "reservesCoverMonths": 4.2
+    },
+    "fiscalImplications": {
+      "externalDebtService": 15625000000.0,
+      "importDutyRevenue": 11250000000.0,
+      "exportLevyRevenue": 1875000000.0,
+      "exchangeRateImpact": "ZMW depreciation pressure"
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-05-26T09:00:00Z",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-006",
+    "reportType": "Retail Trade Survey",
+    "reportingPeriod": "2024-04",
+    "publishDate": "2024-06-05",
+    "dataCategory": "Economic Activity",
+    "retailData": {
+      "totalRetailSales": 15625000000.0,
+      "monthlyGrowth": 2.5,
+      "annualGrowth": 8.7,
+      "volumeGrowth": -0.8,
+      "categoryPerformance": [
+        {
+          "category": "Food and Beverages",
+          "sales": 7812500000.0,
+          "growth": 10.2
+        },
+        {
+          "category": "General Merchandise",
+          "sales": 3906250000.0,
+          "growth": 6.5
+        },
+        {
+          "category": "Fuel",
+          "sales": 2343750000.0,
+          "growth": 12.8
+        },
+        {
+          "category": "Other",
+          "sales": 1562500000.0,
+          "growth": 4.3
+        }
+      ]
+    },
+    "fiscalImplications": {
+      "vatRevenueProjection": 2812500000.0,
+      "consumerSpendingTrend": "Positive but volume declining",
+      "corporateIncomeBase": "Retail sector expansion",
+      "economicGrowthIndicator": "Moderate expansion"
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-06-06T09:00:00Z",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-06-02T09:00:00Z",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-06-30T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2023-12-10T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2023-02-25T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-12-28T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-06-20T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-10-24T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2023-03-08T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-12-04T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-09-27T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-08-01T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2023-02-09T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2024-05-13T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  },
+  {
+    "integrationId": "CSO-STAT-2024-007",
+    "reportType": "Agricultural Production Survey",
+    "reportingPeriod": "2023/2024 Season",
+    "publishDate": "2024-06-01",
+    "dataCategory": "Agricultural Statistics",
+    "agricultureData": {
+      "totalCropProduction": 3750000000.0,
+      "currency": "ZMW",
+      "seasonalVariance": -8.5,
+      "mainCrops": [
+        {
+          "crop": "Maize",
+          "production": 2850000,
+          "unit": "Metric Tons",
+          "variance": -12.5,
+          "value": 1425000000.0
+        },
+        {
+          "crop": "Cotton",
+          "production": 125000,
+          "unit": "Metric Tons",
+          "variance": 5.2,
+          "value": 625000000.0
+        },
+        {
+          "crop": "Tobacco",
+          "production": 18000,
+          "unit": "Metric Tons",
+          "variance": -3.8,
+          "value": 900000000.0
+        },
+        {
+          "crop": "Soybeans",
+          "production": 95000,
+          "unit": "Metric Tons",
+          "variance": 15.6,
+          "value": 475000000.0
+        }
+      ],
+      "livestockProduction": 325000000.0
+    },
+    "fiscalImplications": {
+      "agriculturalSubsidies": 6250000000.0,
+      "farmerInputSupportProgram": 4500000000.0,
+      "foodSecurityImpact": "Maize imports required",
+      "exportRevenueProjection": 1500000000.0
+    },
+    "integrationStatus": "Integrated with Budget Model",
+    "lastSyncDate": "2023-09-26T00:00:00",
+    "syncStatus": "Success",
+    "dataSource": "Central Statistical Office"
+  }
+]

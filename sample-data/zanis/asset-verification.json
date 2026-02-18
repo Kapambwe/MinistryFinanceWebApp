@@ -1,0 +1,1470 @@
+[
+  {
+    "verificationId": "VERIFY-2024-Q2-001",
+    "verificationDate": "2024-06-15T00:00:00Z",
+    "verificationPeriod": "Q2 2024",
+    "ministry": "Ministry of Finance",
+    "department": "Treasury Department",
+    "verificationTeam": [
+      {
+        "name": "George Mwale",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOF-2345"
+      },
+      {
+        "name": "Ruth Banda",
+        "role": "Asset Auditor",
+        "employeeId": "EMP-MOF-3456"
+      },
+      {
+        "name": "Patrick Lungu",
+        "role": "IT Specialist",
+        "employeeId": "EMP-MOF-4567"
+      }
+    ],
+    "totalAssetsRegistered": 487,
+    "totalAssetsVerified": 485,
+    "totalAssetsMissing": 2,
+    "verificationRate": 99.59,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 245,
+        "verified": 243,
+        "missing": 2
+      },
+      {
+        "category": "Furniture",
+        "registered": 125,
+        "verified": 125,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 72,
+        "verified": 72,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-IT-2022-0456",
+        "description": "Dell OptiPlex 7090 Desktop Computer",
+        "lastKnownLocation": "Finance Office Room 204",
+        "action": "Investigation initiated, temporary replacement issued"
+      },
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-IT-2022-0457",
+        "description": "HP LaserJet Pro M404n Printer",
+        "lastKnownLocation": "Treasury Section",
+        "action": "Asset located in maintenance - record updated"
+      }
+    ],
+    "status": "Completed",
+    "reportSubmittedDate": "2024-06-20T00:00:00Z",
+    "approvedBy": "Director of Assets",
+    "nextVerificationDate": "2024-09-15T00:00:00Z"
+  },
+  {
+    "verificationId": "VERIFY-2024-Q2-002",
+    "verificationDate": "2024-06-20T00:00:00Z",
+    "verificationPeriod": "Q2 2024",
+    "ministry": "Ministry of Health",
+    "department": "Central Medical Stores",
+    "verificationTeam": [
+      {
+        "name": "Dr. Sarah Phiri",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOH-5678"
+      },
+      {
+        "name": "James Mwanza",
+        "role": "Medical Equipment Specialist",
+        "employeeId": "EMP-MOH-6789"
+      },
+      {
+        "name": "Grace Tembo",
+        "role": "Inventory Officer",
+        "employeeId": "EMP-MOH-7890"
+      }
+    ],
+    "totalAssetsRegistered": 1245,
+    "totalAssetsVerified": 1238,
+    "totalAssetsMissing": 7,
+    "verificationRate": 99.44,
+    "assetCategories": [
+      {
+        "category": "Medical Equipment",
+        "registered": 567,
+        "verified": 562,
+        "missing": 5
+      },
+      {
+        "category": "Vehicles",
+        "registered": 78,
+        "verified": 78,
+        "missing": 0
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 345,
+        "verified": 343,
+        "missing": 2
+      },
+      {
+        "category": "Furniture",
+        "registered": 255,
+        "verified": 255,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-MED-2021-0234",
+        "description": "Patient Monitor - Philips IntelliVue MP30",
+        "lastKnownLocation": "Ward 3B",
+        "action": "Asset transferred to district hospital - records being updated"
+      },
+      {
+        "findingType": "Damaged Asset",
+        "assetId": "GRZ-MED-2020-0567",
+        "description": "Ultrasound Machine - GE LOGIQ P5",
+        "lastKnownLocation": "Radiology Department",
+        "action": "Scheduled for repair, temporary replacement arranged"
+      }
+    ],
+    "status": "In Progress",
+    "reportSubmittedDate": null,
+    "approvedBy": null,
+    "nextVerificationDate": "2024-09-20T00:00:00Z"
+  },
+  {
+    "verificationId": "VERIFY-2024-Q2-003",
+    "verificationDate": "2024-06-25T00:00:00Z",
+    "verificationPeriod": "Q2 2024",
+    "ministry": "Ministry of Education",
+    "department": "Provincial Education Office - Lusaka",
+    "verificationTeam": [
+      {
+        "name": "Moses Chanda",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOE-8901"
+      },
+      {
+        "name": "Catherine Ngoma",
+        "role": "Asset Verifier",
+        "employeeId": "EMP-MOE-9012"
+      }
+    ],
+    "totalAssetsRegistered": 2134,
+    "totalAssetsVerified": 2115,
+    "totalAssetsMissing": 19,
+    "verificationRate": 99.11,
+    "assetCategories": [
+      {
+        "category": "School Furniture",
+        "registered": 1456,
+        "verified": 1442,
+        "missing": 14
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 423,
+        "verified": 420,
+        "missing": 3
+      },
+      {
+        "category": "Library Books",
+        "registered": 189,
+        "verified": 187,
+        "missing": 2
+      },
+      {
+        "category": "Sports Equipment",
+        "registered": 66,
+        "verified": 66,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Assets",
+        "assetId": "GRZ-FURN-2019-BATCH-045",
+        "description": "Student desks and chairs - 14 units",
+        "lastKnownLocation": "Various schools in Lusaka Province",
+        "action": "Schools contacted for reconciliation, physical count underway"
+      },
+      {
+        "findingType": "Unrecorded Asset",
+        "assetId": "Not Yet Assigned",
+        "description": "Donation of 25 computers from private sector",
+        "lastKnownLocation": "Matero Secondary School",
+        "action": "Assets being registered in system"
+      }
+    ],
+    "status": "Pending Reconciliation",
+    "reportSubmittedDate": null,
+    "approvedBy": null,
+    "nextVerificationDate": "2024-09-25T00:00:00Z"
+  },
+  {
+    "verificationId": "VERIFY-2024-Q1-005",
+    "verificationDate": "2024-03-28T00:00:00Z",
+    "verificationPeriod": "Q1 2024",
+    "ministry": "Ministry of Agriculture",
+    "department": "Department of Agriculture Research",
+    "verificationTeam": [
+      {
+        "name": "Francis Banda",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOA-1234"
+      },
+      {
+        "name": "Alice Mwale",
+        "role": "Equipment Specialist",
+        "employeeId": "EMP-MOA-2345"
+      },
+      {
+        "name": "David Sakala",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOA-3456"
+      }
+    ],
+    "totalAssetsRegistered": 678,
+    "totalAssetsVerified": 678,
+    "totalAssetsMissing": 0,
+    "verificationRate": 100.0,
+    "assetCategories": [
+      {
+        "category": "Agricultural Equipment",
+        "registered": 234,
+        "verified": 234,
+        "missing": 0
+      },
+      {
+        "category": "Vehicles",
+        "registered": 89,
+        "verified": 89,
+        "missing": 0
+      },
+      {
+        "category": "Laboratory Equipment",
+        "registered": 167,
+        "verified": 167,
+        "missing": 0
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 188,
+        "verified": 188,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Excellent Compliance",
+        "assetId": "N/A",
+        "description": "All assets verified and in good condition",
+        "lastKnownLocation": "N/A",
+        "action": "Commendation issued to asset management team"
+      }
+    ],
+    "status": "Completed",
+    "reportSubmittedDate": "2024-04-05T00:00:00Z",
+    "approvedBy": "Permanent Secretary - Ministry of Agriculture",
+    "nextVerificationDate": "2024-06-28T00:00:00Z"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2024-05-15T00:00:00Z",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Transport",
+    "department": "Road Transport and Safety Agency",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Completed",
+    "reportSubmittedDate": "2024-05-25T00:00:00Z",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2025-05-15T00:00:00Z"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2023-05-10T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Youth and Sports",
+    "department": "Procurement",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Released",
+    "reportSubmittedDate": "2024-09-22T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2024-06-11T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2023-10-31T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Tourism",
+    "department": "Finance Division",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Completed",
+    "reportSubmittedDate": "2024-12-28T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2024-03-08T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2024-12-09T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Lands",
+    "department": "Procurement",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Pending",
+    "reportSubmittedDate": "2023-05-21T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2024-02-03T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2024-01-21T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Lands",
+    "department": "Planning",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Cancelled",
+    "reportSubmittedDate": "2023-03-07T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2023-02-16T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2023-12-04T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Mines and Minerals Development",
+    "department": "Finance Division",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Approved",
+    "reportSubmittedDate": "2024-02-04T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2023-01-31T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2024-07-23T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Transport and Communications",
+    "department": "ICT",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Posted",
+    "reportSubmittedDate": "2024-09-18T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2023-11-23T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2024-09-02T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Finance",
+    "department": "Procurement",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Active",
+    "reportSubmittedDate": "2024-01-27T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2023-12-21T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2024-03-11T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Commerce and Industry",
+    "department": "Finance Division",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Released",
+    "reportSubmittedDate": "2023-12-18T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2023-02-03T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2023-01-11T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Youth and Sports",
+    "department": "Procurement",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Released",
+    "reportSubmittedDate": "2024-04-08T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2023-02-16T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2024-11-30T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Water Development",
+    "department": "Planning",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Posted",
+    "reportSubmittedDate": "2024-05-05T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2024-10-25T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2024-03-03T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Mines and Minerals Development",
+    "department": "Finance Division",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Pending",
+    "reportSubmittedDate": "2023-08-01T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2024-12-01T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2023-01-19T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Technology and Science",
+    "department": "Finance Division",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Posted",
+    "reportSubmittedDate": "2023-05-04T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2023-10-18T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2023-02-14T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Mines and Minerals Development",
+    "department": "ICT",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Active",
+    "reportSubmittedDate": "2024-06-26T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2024-05-17T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2024-10-11T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Mines and Minerals Development",
+    "department": "Procurement",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Posted",
+    "reportSubmittedDate": "2024-11-15T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2023-08-03T00:00:00"
+  },
+  {
+    "verificationId": "VERIFY-2024-ANNUAL-001",
+    "verificationDate": "2023-02-18T00:00:00",
+    "verificationPeriod": "Annual 2024",
+    "ministry": "Ministry of Defense",
+    "department": "Planning",
+    "verificationTeam": [
+      {
+        "name": "Emmanuel Mulenga",
+        "role": "Team Leader",
+        "employeeId": "EMP-MOT-4567"
+      },
+      {
+        "name": "Patricia Zulu",
+        "role": "Vehicle Inspector",
+        "employeeId": "EMP-MOT-5678"
+      },
+      {
+        "name": "Richard Nyirenda",
+        "role": "Equipment Auditor",
+        "employeeId": "EMP-MOT-6789"
+      }
+    ],
+    "totalAssetsRegistered": 356,
+    "totalAssetsVerified": 351,
+    "totalAssetsMissing": 5,
+    "verificationRate": 98.6,
+    "assetCategories": [
+      {
+        "category": "Vehicles",
+        "registered": 187,
+        "verified": 183,
+        "missing": 4
+      },
+      {
+        "category": "Road Equipment",
+        "registered": 89,
+        "verified": 88,
+        "missing": 1
+      },
+      {
+        "category": "IT Equipment",
+        "registered": 45,
+        "verified": 45,
+        "missing": 0
+      },
+      {
+        "category": "Office Equipment",
+        "registered": 35,
+        "verified": 35,
+        "missing": 0
+      }
+    ],
+    "findings": [
+      {
+        "findingType": "Missing Asset",
+        "assetId": "GRZ-VEH-2019-0345",
+        "description": "Toyota Hilux - GRZ 2345 BC",
+        "lastKnownLocation": "Kabwe District Office",
+        "action": "Vehicle found at workshop for major repairs - records updated"
+      },
+      {
+        "findingType": "Disposed Asset",
+        "assetId": "GRZ-EQUIP-2015-0678",
+        "description": "Road marking machine - obsolete",
+        "lastKnownLocation": "Equipment Yard",
+        "action": "Asset disposal process initiated, awaiting authorization"
+      }
+    ],
+    "status": "Posted",
+    "reportSubmittedDate": "2023-11-25T00:00:00",
+    "approvedBy": "Director - Road Transport and Safety Agency",
+    "nextVerificationDate": "2023-08-16T00:00:00"
+  }
+]

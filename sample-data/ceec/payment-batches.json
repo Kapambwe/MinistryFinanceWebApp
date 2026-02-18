@@ -1,0 +1,603 @@
+[
+  {
+    "id": "PB-2024-001",
+    "batchNumber": "BATCH-20240115-01",
+    "batchDate": "2024-01-15T10:00:00Z",
+    "totalAmount": 1730000.0,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": "2024-01-15T14:30:00Z",
+    "settlementDate": "2024-01-16T09:00:00Z",
+    "status": "Completed",
+    "paymentIds": [
+      "PV-2024-1234",
+      "PV-2024-1235",
+      "PV-2024-1236",
+      "PV-2024-1237",
+      "PV-2024-1238"
+    ],
+    "ministries": [
+      "Ministry of Health",
+      "Ministry of Education",
+      "Ministry of Infrastructure"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": "Accountant General - Mary Banda",
+    "batchDescription": "Regular payments - Week 3 January 2024",
+    "fileReference": "BATCH-20240115-01.txt"
+  },
+  {
+    "id": "PB-2024-002",
+    "batchNumber": "BATCH-20240122-01",
+    "batchDate": "2024-01-22T09:00:00Z",
+    "totalAmount": 2450000.0,
+    "currency": "ZMW",
+    "numberOfPayments": 7,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": "2024-01-22T11:30:00Z",
+    "settlementDate": "2024-01-23T09:00:00Z",
+    "status": "Completed",
+    "paymentIds": [
+      "PV-2024-1456",
+      "PV-2024-1457",
+      "PV-2024-1458",
+      "PV-2024-1459",
+      "PV-2024-1460",
+      "PV-2024-1461",
+      "PV-2024-1462"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Health",
+      "Ministry of Technology and Science"
+    ],
+    "preparedBy": "Treasury Officer - Sarah Phiri",
+    "approvedBy": "Accountant General - Mary Banda",
+    "batchDescription": "Regular payments - Week 4 January 2024",
+    "fileReference": "BATCH-20240122-01.txt"
+  },
+  {
+    "id": "PB-2024-003",
+    "batchNumber": "BATCH-20240125-01",
+    "batchDate": "2024-01-25T10:30:00Z",
+    "totalAmount": 3850000.0,
+    "currency": "ZMW",
+    "numberOfPayments": 4,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": "2024-01-25T13:00:00Z",
+    "settlementDate": "2024-01-26T09:00:00Z",
+    "status": "Completed",
+    "paymentIds": [
+      "PV-2024-1678",
+      "PV-2024-1679",
+      "PV-2024-1680",
+      "PV-2024-1681"
+    ],
+    "ministries": [
+      "Ministry of Infrastructure",
+      "Ministry of Energy"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": "Accountant General - Mary Banda",
+    "batchDescription": "Capital projects - Infrastructure payments",
+    "fileReference": "BATCH-20240125-01.txt"
+  },
+  {
+    "id": "PB-2024-004",
+    "batchNumber": "BATCH-20240129-01",
+    "batchDate": "2024-01-29T08:45:00Z",
+    "totalAmount": 1920000.0,
+    "currency": "ZMW",
+    "numberOfPayments": 6,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": "2024-01-29T11:15:00Z",
+    "settlementDate": null,
+    "status": "Processing",
+    "paymentIds": [
+      "PV-2024-1789",
+      "PV-2024-1790",
+      "PV-2024-1791",
+      "PV-2024-1792",
+      "PV-2024-1793",
+      "PV-2024-1794"
+    ],
+    "ministries": [
+      "Ministry of Finance",
+      "Ministry of Local Government",
+      "Ministry of Education"
+    ],
+    "preparedBy": "Treasury Officer - Sarah Phiri",
+    "approvedBy": "Accountant General - Mary Banda",
+    "batchDescription": "Regular payments - End of month January 2024",
+    "fileReference": "BATCH-20240129-01.txt"
+  },
+  {
+    "id": "PB-2024-005",
+    "batchNumber": "BATCH-20240131-01",
+    "batchDate": "2024-01-31T14:00:00Z",
+    "totalAmount": 2680000.0,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Pending Approval",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 6,
+    "batchNumber": "BATCH-20240131-06",
+    "batchDate": "2023-04-11T00:00:00",
+    "totalAmount": 30821534.92,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Completed",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 7,
+    "batchNumber": "BATCH-20240131-07",
+    "batchDate": "2024-05-30T00:00:00",
+    "totalAmount": 4386759.0,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Cancelled",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 8,
+    "batchNumber": "BATCH-20240131-08",
+    "batchDate": "2023-11-07T00:00:00",
+    "totalAmount": 5691901.05,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Posted",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 9,
+    "batchNumber": "BATCH-20240131-09",
+    "batchDate": "2024-01-24T00:00:00",
+    "totalAmount": 39783193.57,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Completed",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 10,
+    "batchNumber": "BATCH-20240131-10",
+    "batchDate": "2023-12-03T00:00:00",
+    "totalAmount": 32020956.88,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Cancelled",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 11,
+    "batchNumber": "BATCH-20240131-11",
+    "batchDate": "2023-08-09T00:00:00",
+    "totalAmount": 43245330.19,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Completed",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 12,
+    "batchNumber": "BATCH-20240131-12",
+    "batchDate": "2023-03-06T00:00:00",
+    "totalAmount": 30201981.58,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Cancelled",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 13,
+    "batchNumber": "BATCH-20240131-13",
+    "batchDate": "2024-02-12T00:00:00",
+    "totalAmount": 27505112.07,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Completed",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 14,
+    "batchNumber": "BATCH-20240131-14",
+    "batchDate": "2023-12-11T00:00:00",
+    "totalAmount": 7754182.78,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Released",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 15,
+    "batchNumber": "BATCH-20240131-15",
+    "batchDate": "2023-08-15T00:00:00",
+    "totalAmount": 40108039.23,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Cancelled",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 16,
+    "batchNumber": "BATCH-20240131-16",
+    "batchDate": "2024-05-05T00:00:00",
+    "totalAmount": 36817331.64,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Approved",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 17,
+    "batchNumber": "BATCH-20240131-17",
+    "batchDate": "2023-03-17T00:00:00",
+    "totalAmount": 2885243.7,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Approved",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 18,
+    "batchNumber": "BATCH-20240131-18",
+    "batchDate": "2024-09-20T00:00:00",
+    "totalAmount": 40640600.85,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Pending",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 19,
+    "batchNumber": "BATCH-20240131-19",
+    "batchDate": "2024-01-20T00:00:00",
+    "totalAmount": 30295532.06,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Active",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  },
+  {
+    "id": 20,
+    "batchNumber": "BATCH-20240131-20",
+    "batchDate": "2023-04-21T00:00:00",
+    "totalAmount": 18607478.96,
+    "currency": "ZMW",
+    "numberOfPayments": 5,
+    "paymentMethod": "Electronic Transfer",
+    "bankAccountId": "BA-MOF-001",
+    "bankName": "Bank of Zambia - TSA Main Account",
+    "processingDate": null,
+    "settlementDate": null,
+    "status": "Cancelled",
+    "paymentIds": [
+      "PV-2024-1890",
+      "PV-2024-1891",
+      "PV-2024-1892",
+      "PV-2024-1893",
+      "PV-2024-1894"
+    ],
+    "ministries": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries",
+      "Ministry of Water Development"
+    ],
+    "preparedBy": "Treasury Officer - John Mwanza",
+    "approvedBy": null,
+    "batchDescription": "FISP and rural development payments",
+    "fileReference": "BATCH-20240131-01.txt"
+  }
+]

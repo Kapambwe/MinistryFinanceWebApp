@@ -1,0 +1,1689 @@
+[
+  {
+    "id": "PR-2024-001",
+    "reportName": "Ministry of Health Performance Report",
+    "reportType": "Ministry Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-01-15T16:00:00Z",
+    "ministry": "Ministry of Health",
+    "status": "Submitted",
+    "overallRating": "Good",
+    "performanceScore": 78.5,
+    "sections": [
+      {
+        "category": "Service Delivery",
+        "score": 82.3,
+        "rating": "Good",
+        "achievements": [
+          "Increased primary care visits by 32%",
+          "Reduced hospital admissions by 15%",
+          "Improved immunization coverage to 87.2%"
+        ],
+        "challenges": [
+          "Staff shortages in rural health facilities",
+          "Medical supply stockouts in 12 facilities"
+        ]
+      },
+      {
+        "category": "Financial Performance",
+        "score": 71.5,
+        "rating": "Satisfactory",
+        "achievements": [
+          "Budget execution rate of 76.3%",
+          "Reduced payment delays by 25%"
+        ],
+        "challenges": [
+          "Capital budget execution only 58%",
+          "Donor fund utilization below target"
+        ]
+      },
+      {
+        "category": "Human Resources",
+        "score": 68.2,
+        "rating": "Satisfactory",
+        "achievements": [
+          "Recruited 450 health workers",
+          "Conducted training for 2,800 staff"
+        ],
+        "challenges": [
+          "High attrition in rural areas (18%)",
+          "Unfilled specialist positions (28%)"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 85.0,
+        "rating": "Excellent",
+        "achievements": [
+          "All audit findings addressed",
+          "Improved procurement compliance to 94%"
+        ],
+        "challenges": [
+          "Minor reporting delays in 2 districts"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "budgetUtilization": 76.3,
+      "targetAchievement": 78.5,
+      "auditCompliance": 94.0,
+      "staffFill": 82.5
+    },
+    "recommendations": [
+      "Accelerate capital project implementation",
+      "Strengthen rural retention incentives",
+      "Improve medical supply chain management"
+    ],
+    "nextSteps": [
+      "Submit improvement plan by Feb 15",
+      "Quarterly progress review in April"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "PR-2024-002",
+    "reportName": "Ministry of Education Performance Report",
+    "reportType": "Ministry Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-01-18T15:00:00Z",
+    "ministry": "Ministry of Education",
+    "status": "Submitted",
+    "overallRating": "Excellent",
+    "performanceScore": 84.2,
+    "sections": [
+      {
+        "category": "Service Delivery",
+        "score": 88.5,
+        "rating": "Excellent",
+        "achievements": [
+          "Learning outcomes improved 18% over 3 years",
+          "School enrollment increased to 94.2%",
+          "Reduced classroom overcrowding by 28%"
+        ],
+        "challenges": [
+          "Teacher shortage in rural schools",
+          "Infrastructure gaps in new settlements"
+        ]
+      },
+      {
+        "category": "Financial Performance",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Budget execution at 82.5%",
+          "Efficient textbook procurement saved ZMW 45M",
+          "Grant utilization at 88%"
+        ],
+        "challenges": [
+          "Q4 budget surge (42% of annual spending)"
+        ]
+      },
+      {
+        "category": "Human Resources",
+        "score": 79.5,
+        "rating": "Good",
+        "achievements": [
+          "Recruited 5,000 new teachers",
+          "95,000 teachers received training"
+        ],
+        "challenges": [
+          "Urban-rural teacher distribution gap",
+          "Delayed deployment of 800 teachers"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 87.0,
+        "rating": "Excellent",
+        "achievements": [
+          "E-procurement adoption at 92%",
+          "Audit compliance excellent"
+        ],
+        "challenges": [
+          "Minor documentation gaps in 12 contracts"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "budgetUtilization": 82.5,
+      "targetAchievement": 84.2,
+      "auditCompliance": 96.0,
+      "staffFill": 88.3
+    },
+    "recommendations": [
+      "Implement rural teacher incentive package",
+      "Smooth budget execution throughout year",
+      "Continue infrastructure expansion in growth areas"
+    ],
+    "nextSteps": [
+      "Share best practices with other ministries",
+      "Scale successful programs nationally"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "PR-2024-003",
+    "reportName": "Ministry of Agriculture Performance Report",
+    "reportType": "Ministry Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-01-20T14:00:00Z",
+    "ministry": "Ministry of Agriculture",
+    "status": "Submitted",
+    "overallRating": "Good",
+    "performanceScore": 76.8,
+    "sections": [
+      {
+        "category": "Service Delivery",
+        "score": 81.0,
+        "rating": "Good",
+        "achievements": [
+          "Extension services reached 125,000 farmers",
+          "Farmer yields increased 38%",
+          "Input distribution 95% complete"
+        ],
+        "challenges": [
+          "Drought impact in Southern Province",
+          "Delayed input delivery in 3 districts"
+        ]
+      },
+      {
+        "category": "Financial Performance",
+        "score": 68.5,
+        "rating": "Satisfactory",
+        "achievements": [
+          "Input program spending on target",
+          "Seasonal procurement efficiency improved"
+        ],
+        "challenges": [
+          "Overall budget execution only 67.3%",
+          "Capital budget utilization 52%"
+        ]
+      },
+      {
+        "category": "Human Resources",
+        "score": 72.0,
+        "rating": "Satisfactory",
+        "achievements": [
+          "Trained 850 extension workers",
+          "Deployed staff to all districts"
+        ],
+        "challenges": [
+          "Extension worker-to-farmer ratio still high",
+          "Specialist vacancies in livestock sector"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 88.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Grant compliance excellent (94%)",
+          "Timely donor reporting maintained"
+        ],
+        "challenges": [
+          "Minor budget reallocation documentation gaps"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "budgetUtilization": 67.3,
+      "targetAchievement": 76.8,
+      "auditCompliance": 94.0,
+      "staffFill": 78.5
+    },
+    "recommendations": [
+      "Address budget execution bottlenecks",
+      "Double extension worker deployment",
+      "Strengthen drought resilience programs"
+    ],
+    "nextSteps": [
+      "Develop budget acceleration plan",
+      "Expand climate-smart agriculture"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "PR-2024-004",
+    "reportName": "Lusaka District Council Performance Report",
+    "reportType": "District Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-01-22T16:30:00Z",
+    "ministry": "Ministry of Local Government",
+    "district": "Lusaka District",
+    "status": "Submitted",
+    "overallRating": "Satisfactory",
+    "performanceScore": 72.5,
+    "sections": [
+      {
+        "category": "Service Delivery",
+        "score": 75.0,
+        "rating": "Satisfactory",
+        "achievements": [
+          "Waste collection improved to 85% coverage",
+          "Road maintenance increased by 40%",
+          "Market infrastructure upgraded"
+        ],
+        "challenges": [
+          "Urban growth outpacing service expansion",
+          "Water supply challenges in peri-urban areas"
+        ]
+      },
+      {
+        "category": "Financial Performance",
+        "score": 68.0,
+        "rating": "Satisfactory",
+        "achievements": [
+          "Revenue collection improved 12%",
+          "Reduced payment delays"
+        ],
+        "challenges": [
+          "Budget execution only 71%",
+          "Revenue still 18% below target"
+        ]
+      },
+      {
+        "category": "Human Resources",
+        "score": 70.5,
+        "rating": "Satisfactory",
+        "achievements": [
+          "Recruited 85 new staff",
+          "Reduced vacancy rate to 22%"
+        ],
+        "challenges": [
+          "High staff turnover in technical positions",
+          "Training budget constraints"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 77.0,
+        "rating": "Good",
+        "achievements": [
+          "Improved audit performance",
+          "Strengthened procurement processes"
+        ],
+        "challenges": [
+          "Some recurring audit findings",
+          "Asset register update delays"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "budgetUtilization": 71.0,
+      "targetAchievement": 72.5,
+      "auditCompliance": 77.0,
+      "staffFill": 78.0
+    },
+    "recommendations": [
+      "Enhance revenue collection systems",
+      "Address recurring audit findings",
+      "Improve staff retention strategies"
+    ],
+    "nextSteps": [
+      "Implement revenue enhancement plan",
+      "Complete asset verification by March"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "PR-2024-005",
+    "reportName": "Ministry of Infrastructure Performance Report",
+    "reportType": "Ministry Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-01-24T15:00:00Z",
+    "ministry": "Ministry of Infrastructure",
+    "status": "Under Review",
+    "overallRating": "Satisfactory",
+    "performanceScore": 69.5,
+    "sections": [
+      {
+        "category": "Service Delivery",
+        "score": 72.0,
+        "rating": "Satisfactory",
+        "achievements": [
+          "Road maintenance program effectiveness 42% improvement",
+          "Bridge rehabilitation completed on 8 projects",
+          "Drainage improvements in 35 locations"
+        ],
+        "challenges": [
+          "Project delays on 6 major contracts",
+          "Contractor performance issues",
+          "Weather-related construction delays"
+        ]
+      },
+      {
+        "category": "Financial Performance",
+        "score": 58.5,
+        "rating": "Needs Improvement",
+        "achievements": [
+          "Maintenance budget well utilized (88%)",
+          "Cost savings on materials procurement"
+        ],
+        "challenges": [
+          "Capital budget execution only 52.3%",
+          "Slow procurement processes",
+          "Payment processing delays"
+        ]
+      },
+      {
+        "category": "Human Resources",
+        "score": 71.0,
+        "rating": "Satisfactory",
+        "achievements": [
+          "Recruited 45 engineers",
+          "Technical training for 280 staff"
+        ],
+        "challenges": [
+          "Engineer shortage in rural districts",
+          "High turnover in project management"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 76.5,
+        "rating": "Good",
+        "achievements": [
+          "Improved procurement compliance",
+          "Contract management strengthened"
+        ],
+        "challenges": [
+          "Single-source procurement issues",
+          "Contract variation documentation gaps"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "budgetUtilization": 52.3,
+      "targetAchievement": 69.5,
+      "auditCompliance": 76.5,
+      "staffFill": 74.0
+    },
+    "recommendations": [
+      "Accelerate capital project implementation",
+      "Streamline procurement approval processes",
+      "Strengthen contractor performance management",
+      "Address recurring compliance issues"
+    ],
+    "nextSteps": [
+      "Submit budget acceleration action plan",
+      "Implement procurement reforms",
+      "Monthly progress monitoring meetings"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "PR-2024-006",
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-01-26T17:00:00Z",
+    "ministry": "Ministry of Finance",
+    "agency": "Zambia Revenue Authority",
+    "status": "Submitted",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 7,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-04-15T00:00:00",
+    "ministry": "Ministry of Health",
+    "agency": "Zambia Revenue Authority",
+    "status": "Approved",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 8,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-02-17T00:00:00",
+    "ministry": "Ministry of Gender",
+    "agency": "Zambia Revenue Authority",
+    "status": "Pending",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 9,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2023-02-27T00:00:00",
+    "ministry": "Ministry of Green Economy and Environment",
+    "agency": "Zambia Revenue Authority",
+    "status": "Pending",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2023-05-05T00:00:00",
+    "ministry": "Ministry of Defense",
+    "agency": "Zambia Revenue Authority",
+    "status": "Cancelled",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2023-12-14T00:00:00",
+    "ministry": "Ministry of Lands",
+    "agency": "Zambia Revenue Authority",
+    "status": "In Progress",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2023-05-09T00:00:00",
+    "ministry": "Ministry of Community Development",
+    "agency": "Zambia Revenue Authority",
+    "status": "Active",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-05-05T00:00:00",
+    "ministry": "Ministry of Education",
+    "agency": "Zambia Revenue Authority",
+    "status": "Posted",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-06-02T00:00:00",
+    "ministry": "Ministry of Water Development",
+    "agency": "Zambia Revenue Authority",
+    "status": "Cancelled",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-11-13T00:00:00",
+    "ministry": "Ministry of Commerce and Industry",
+    "agency": "Zambia Revenue Authority",
+    "status": "Pending",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-09-21T00:00:00",
+    "ministry": "Ministry of Youth and Sports",
+    "agency": "Zambia Revenue Authority",
+    "status": "Approved",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2023-05-27T00:00:00",
+    "ministry": "Ministry of Technology and Science",
+    "agency": "Zambia Revenue Authority",
+    "status": "Released",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2023-07-06T00:00:00",
+    "ministry": "Ministry of Commerce and Industry",
+    "agency": "Zambia Revenue Authority",
+    "status": "Cancelled",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2024-09-12T00:00:00",
+    "ministry": "Ministry of Technology and Science",
+    "agency": "Zambia Revenue Authority",
+    "status": "Pending",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "reportName": "Zambia Revenue Authority Performance Report",
+    "reportType": "Agency Performance",
+    "reportingPeriod": "Q4 2023",
+    "submittedDate": "2023-12-30T00:00:00",
+    "ministry": "Ministry of Finance",
+    "agency": "Zambia Revenue Authority",
+    "status": "Posted",
+    "overallRating": "Excellent",
+    "performanceScore": 86.3,
+    "sections": [
+      {
+        "category": "Revenue Collection",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Revenue collection at 94.2% of target",
+          "Tax compliance improved to 79.2%",
+          "Additional ZMW 385M from compliance program"
+        ],
+        "challenges": [
+          "Mining sector compliance gaps",
+          "SME tax compliance still low"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85.5,
+        "rating": "Excellent",
+        "achievements": [
+          "E-filing adoption at 85%",
+          "Processing time reduced by 35%",
+          "Risk-based audit selection deployed"
+        ],
+        "challenges": [
+          "System downtime incidents",
+          "Backlog in dispute resolution"
+        ]
+      },
+      {
+        "category": "Customer Service",
+        "score": 82.0,
+        "rating": "Good",
+        "achievements": [
+          "Taxpayer satisfaction at 78%",
+          "Reduced query resolution time",
+          "Expanded taxpayer education"
+        ],
+        "challenges": [
+          "Call center capacity constraints",
+          "Service center congestion in peak periods"
+        ]
+      },
+      {
+        "category": "Governance & Compliance",
+        "score": 89.0,
+        "rating": "Excellent",
+        "achievements": [
+          "Internal audit findings minimal",
+          "Strong integrity framework",
+          "Transparent operations"
+        ],
+        "challenges": [
+          "Minor IT security incidents"
+        ]
+      }
+    ],
+    "keyMetrics": {
+      "revenueTarget": 94.2,
+      "complianceRate": 79.2,
+      "auditCompliance": 96.0,
+      "customerSatisfaction": 78.0
+    },
+    "recommendations": [
+      "Scale successful compliance interventions",
+      "Invest in IT infrastructure resilience",
+      "Expand service center capacity"
+    ],
+    "nextSteps": [
+      "Implement advanced analytics platform",
+      "Deploy additional service points"
+    ],
+    "currency": "ZMW"
+  }
+]

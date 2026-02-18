@@ -1,0 +1,1061 @@
+[
+  {
+    "recordId": "PAC-2024-001",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Health",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Health Accounts 2023",
+    "submissionDate": "2024-04-15",
+    "pacSessionDate": "2024-05-20",
+    "sessionNumber": "PAC/2024/15",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18500000000.0,
+    "actualExpenditure": 17825000000.0,
+    "utilizationRate": 96.4,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Misapplication of Funds",
+        "amount": 125000000.0,
+        "description": "Expenditure on ineligible items contrary to appropriation",
+        "severity": "High"
+      },
+      {
+        "findingType": "Unretired Accountable Imprest",
+        "amount": 45000000.0,
+        "description": "Accountable imprests not retired within 30 days",
+        "severity": "Medium"
+      },
+      {
+        "findingType": "Irregular Procurement",
+        "amount": 85000000.0,
+        "description": "Procurement not compliant with ZPPA guidelines",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 255000000.0,
+    "permanentSecretary": "Dr. Kennedy Malama",
+    "pacRecommendations": [
+      "Recover misapplied funds within 90 days",
+      "Discipline officers responsible for irregular procurement",
+      "Strengthen internal controls and oversight",
+      "Submit quarterly compliance reports to PAC"
+    ],
+    "ministryResponse": "Accepted all recommendations. Recovery plan submitted.",
+    "recoveryPlan": {
+      "targetRecovery": 255000000.0,
+      "recoveredToDate": 85000000.0,
+      "recoveryRate": 33.3,
+      "deadline": "2024-08-20"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-15",
+    "status": "Active"
+  },
+  {
+    "recordId": "PAC-2024-002",
+    "accountabilityType": "Spending Agency Audit",
+    "reportingEntity": "Road Development Agency",
+    "financialYear": "2023",
+    "reportTitle": "Performance Audit of Road Development Agency 2023",
+    "submissionDate": "2024-03-28",
+    "pacSessionDate": "2024-05-10",
+    "sessionNumber": "PAC/2024/12",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 42500000000.0,
+    "actualExpenditure": 39950000000.0,
+    "utilizationRate": 94.0,
+    "auditOpinion": "Unqualified Opinion with Emphasis of Matter",
+    "findings": [
+      {
+        "findingType": "Cost Overruns",
+        "amount": 325000000.0,
+        "description": "Construction cost overruns on 5 major road projects",
+        "severity": "Medium"
+      },
+      {
+        "findingType": "Delayed Project Completion",
+        "amount": 0.0,
+        "description": "12 projects delayed beyond contracted completion dates",
+        "severity": "Medium"
+      },
+      {
+        "findingType": "Weak Contract Management",
+        "amount": 0.0,
+        "description": "Inadequate monitoring of contractor performance",
+        "severity": "Low"
+      }
+    ],
+    "totalQueriedAmount": 325000000.0,
+    "chiefExecutive": "Eng. Fredrick Mwangala",
+    "pacRecommendations": [
+      "Review project management systems",
+      "Implement stricter contractor monitoring",
+      "Establish early warning system for delays",
+      "Strengthen technical capacity"
+    ],
+    "agencyResponse": "Recommendations accepted. Action plan submitted.",
+    "recoveryPlan": {
+      "targetRecovery": 0.0,
+      "recoveredToDate": 0.0,
+      "recoveryRate": 0.0,
+      "deadline": null
+    },
+    "complianceStatus": "Implementing Recommendations",
+    "nextFollowUpDate": "2024-11-10",
+    "status": "Active"
+  },
+  {
+    "recordId": "PAC-2024-003",
+    "accountabilityType": "Local Authority Audit",
+    "reportingEntity": "Lusaka City Council",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Lusaka City Council Accounts 2023",
+    "submissionDate": "2024-04-20",
+    "pacSessionDate": "2024-05-25",
+    "sessionNumber": "PAC/2024/17",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 3250000000.0,
+    "actualExpenditure": 2925000000.0,
+    "utilizationRate": 90.0,
+    "auditOpinion": "Adverse Opinion",
+    "findings": [
+      {
+        "findingType": "Missing Payment Vouchers",
+        "amount": 185000000.0,
+        "description": "Payment vouchers and supporting documents not produced",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Uncollected Revenue",
+        "amount": 425000000.0,
+        "description": "Property rates and business levies not collected",
+        "severity": "High"
+      },
+      {
+        "findingType": "Ghost Workers",
+        "amount": 65000000.0,
+        "description": "Payments made to non-existent employees",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Irregular Expenditure",
+        "amount": 95000000.0,
+        "description": "Expenditure without proper authorization",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 770000000.0,
+    "townClerk": "Mr. Alexander Mwansa",
+    "pacRecommendations": [
+      "Immediate suspension of implicated officers",
+      "Forensic audit to be conducted",
+      "Recovery of all misappropriated funds",
+      "Overhaul of financial management systems",
+      "Ministry of Local Government to provide technical support"
+    ],
+    "councilResponse": "Partially accepted. Requesting extension for full compliance.",
+    "recoveryPlan": {
+      "targetRecovery": 770000000.0,
+      "recoveredToDate": 15000000.0,
+      "recoveryRate": 1.9,
+      "deadline": "2025-05-25"
+    },
+    "complianceStatus": "Non-Compliant - Under Investigation",
+    "nextFollowUpDate": "2024-07-25",
+    "status": "Critical"
+  },
+  {
+    "recordId": "PAC-2024-004",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Education",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Education Accounts 2023",
+    "submissionDate": "2024-04-10",
+    "pacSessionDate": "2024-05-15",
+    "sessionNumber": "PAC/2024/13",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 28500000000.0,
+    "actualExpenditure": 27350000000.0,
+    "utilizationRate": 96.0,
+    "auditOpinion": "Unqualified Opinion",
+    "findings": [
+      {
+        "findingType": "Minor Control Weaknesses",
+        "amount": 0.0,
+        "description": "Some internal control deficiencies noted",
+        "severity": "Low"
+      }
+    ],
+    "totalQueriedAmount": 0.0,
+    "permanentSecretary": "Dr. Jobbicks Kalumba",
+    "pacRecommendations": [
+      "Address minor control weaknesses identified",
+      "Continue current good financial management practices"
+    ],
+    "ministryResponse": "Accepted. Implementing recommendations.",
+    "recoveryPlan": null,
+    "complianceStatus": "Compliant",
+    "nextFollowUpDate": "2025-05-15",
+    "status": "Closed"
+  },
+  {
+    "recordId": "PAC-2024-005",
+    "accountabilityType": "Statutory Body Audit",
+    "reportingEntity": "Zambia Revenue Authority",
+    "financialYear": "2023",
+    "reportTitle": "Performance Audit of Zambia Revenue Authority 2023",
+    "submissionDate": "2024-03-15",
+    "pacSessionDate": "2024-04-30",
+    "sessionNumber": "PAC/2024/09",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 5625000000.0,
+    "actualExpenditure": 5456250000.0,
+    "utilizationRate": 97.0,
+    "revenueTarget": 156250000000.0,
+    "revenueCollected": 149875000000.0,
+    "collectionRate": 95.9,
+    "auditOpinion": "Unqualified Opinion with Emphasis of Matter",
+    "findings": [
+      {
+        "findingType": "Revenue Leakage",
+        "amount": 2850000000.0,
+        "description": "Tax exemptions improperly granted",
+        "severity": "High"
+      },
+      {
+        "findingType": "Undervaluation at Customs",
+        "amount": 1250000000.0,
+        "description": "Import values understated leading to revenue loss",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 4100000000.0,
+    "commissionerGeneral": "Mr. Dingani Banda",
+    "pacRecommendations": [
+      "Strengthen customs valuation procedures",
+      "Review and tighten tax exemption approvals",
+      "Enhance post-clearance audit capacity",
+      "Implement risk-based audit approach"
+    ],
+    "authorityResponse": "Accepted all recommendations. Implementation underway.",
+    "recoveryPlan": {
+      "targetRecovery": 4100000000.0,
+      "recoveredToDate": 850000000.0,
+      "recoveryRate": 20.7,
+      "deadline": "2024-12-31"
+    },
+    "complianceStatus": "Implementing Recommendations",
+    "nextFollowUpDate": "2024-10-30",
+    "status": "Active"
+  },
+  {
+    "recordId": "PAC-2024-006",
+    "accountabilityType": "Project Audit",
+    "reportingEntity": "Link Zambia 8000 Project",
+    "financialYear": "2023",
+    "reportTitle": "Performance Audit of Link Zambia 8000 Road Project 2023",
+    "submissionDate": "2024-04-25",
+    "pacSessionDate": "2024-06-05",
+    "sessionNumber": "PAC/2024/19",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 12500000000.0,
+    "actualExpenditure": 9875000000.0,
+    "utilizationRate": 79.0,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Project Implementation Delays",
+        "amount": 0.0,
+        "description": "Project 18 months behind schedule",
+        "severity": "High"
+      },
+      {
+        "findingType": "Cost Escalation",
+        "amount": 1875000000.0,
+        "description": "Projected cost overrun of 15%",
+        "severity": "High"
+      },
+      {
+        "findingType": "Variation Orders",
+        "amount": 625000000.0,
+        "description": "Excessive variation orders not properly justified",
+        "severity": "Medium"
+      }
+    ],
+    "totalQueriedAmount": 2500000000.0,
+    "projectCoordinator": "Eng. Misheck Lungu",
+    "pacRecommendations": [
+      "Accelerate project implementation",
+      "Review and justify all variation orders",
+      "Hold project management accountable for delays",
+      "Consider contractor penalties for delays"
+    ],
+    "projectResponse": "Accepted. Revised implementation plan submitted.",
+    "recoveryPlan": {
+      "targetRecovery": 0.0,
+      "recoveredToDate": 0.0,
+      "recoveryRate": 0.0,
+      "deadline": null
+    },
+    "complianceStatus": "Implementing Recommendations",
+    "nextFollowUpDate": "2024-09-05",
+    "status": "Active"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 710000000.0,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Active"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 24746810.15,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "In Progress"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 6785900.41,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Posted"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 1376448.28,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Released"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 19845623.28,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Completed"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 17825684.99,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Cancelled"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 6212867.17,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Active"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 33315685.72,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Pending"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 759114.42,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Approved"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 8142754.3,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Active"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 4979488.25,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Approved"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 7295123.46,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Pending"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 6419052.29,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Pending"
+  },
+  {
+    "recordId": "PAC-2024-007",
+    "accountabilityType": "Ministry Audit Report",
+    "reportingEntity": "Ministry of Agriculture",
+    "financialYear": "2023",
+    "reportTitle": "Audit of Ministry of Agriculture Accounts 2023 (FISP Focus)",
+    "submissionDate": "2024-04-05",
+    "pacSessionDate": "2024-05-08",
+    "sessionNumber": "PAC/2024/11",
+    "auditorGeneral": "Dr. Dick Sichembe",
+    "totalBudget": 18750000000.0,
+    "actualExpenditure": 18225000000.0,
+    "utilizationRate": 97.2,
+    "auditOpinion": "Qualified Opinion",
+    "findings": [
+      {
+        "findingType": "Ghost Farmers",
+        "amount": 285000000.0,
+        "description": "FISP inputs distributed to non-existent farmers",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Input Diversion",
+        "amount": 425000000.0,
+        "description": "Fertilizer and seed diverted to unintended recipients",
+        "severity": "Critical"
+      },
+      {
+        "findingType": "Weak Beneficiary Verification",
+        "amount": 0.0,
+        "description": "Inadequate verification of FISP beneficiaries",
+        "severity": "High"
+      }
+    ],
+    "totalQueriedAmount": 48254422.72,
+    "permanentSecretary": "Mr. Robert Samusoddo",
+    "pacRecommendations": [
+      "Immediately suspend implicated officers",
+      "Recover all diverted inputs or cash equivalent",
+      "Implement biometric registration for FISP beneficiaries",
+      "Digitize FISP management system",
+      "Strengthen monitoring and evaluation"
+    ],
+    "ministryResponse": "Accepted. E-voucher system rollout accelerated.",
+    "recoveryPlan": {
+      "targetRecovery": 710000000.0,
+      "recoveredToDate": 125000000.0,
+      "recoveryRate": 17.6,
+      "deadline": "2024-10-08"
+    },
+    "complianceStatus": "Partial Compliance - Under Monitoring",
+    "nextFollowUpDate": "2024-08-08",
+    "status": "Posted"
+  }
+]

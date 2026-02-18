@@ -1,0 +1,900 @@
+[
+  {
+    "id": "BR-2024-001",
+    "reconciliationDate": "2024-01-31T23:59:59Z",
+    "bankAccountId": "BA-MOF-001",
+    "bankAccountName": "Bank of Zambia - TSA Main Account",
+    "accountNumber": "BOZ-TSA-001-2024",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 45678900.0,
+    "bankStatementBalance": 46234150.0,
+    "outstandingChecks": 850000.0,
+    "depositsInTransit": 294750.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 45678900.0,
+    "variance": 0.0,
+    "status": "Reconciled",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "0012347",
+        "amount": 125000.0,
+        "payee": "Lusaka IT Solutions",
+        "date": "2024-01-20"
+      },
+      {
+        "checkNumber": "0012349",
+        "amount": 320000.0,
+        "payee": "Zambia Consulting Group",
+        "date": "2024-01-25"
+      },
+      {
+        "checkNumber": "0012351",
+        "amount": 405000.0,
+        "payee": "Energy Solutions Zambia",
+        "date": "2024-01-28"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "RV-2024-156",
+        "amount": 145000.0,
+        "source": "Ministry of Lands",
+        "date": "2024-01-30"
+      },
+      {
+        "receiptNumber": "RV-2024-157",
+        "amount": 149750.0,
+        "source": "Ministry of Commerce",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Senior Accountant - Grace Mulenga",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": "BR-2023-012",
+    "reconciliationDate": "2023-12-31T23:59:59Z",
+    "bankAccountId": "BA-MOF-001",
+    "bankAccountName": "Bank of Zambia - TSA Main Account",
+    "accountNumber": "BOZ-TSA-001-2024",
+    "reconciliationPeriod": "December 2023",
+    "fiscalYear": 2023,
+    "bookBalance": 42350000.0,
+    "bankStatementBalance": 42815000.0,
+    "outstandingChecks": 680000.0,
+    "depositsInTransit": 215000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 42350000.0,
+    "variance": 0.0,
+    "status": "Reconciled",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "0012298",
+        "amount": 280000.0,
+        "payee": "Construction Works Ltd",
+        "date": "2023-12-28"
+      },
+      {
+        "checkNumber": "0012302",
+        "amount": 400000.0,
+        "payee": "Medical Equipment Suppliers",
+        "date": "2023-12-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "RV-2023-450",
+        "amount": 95000.0,
+        "source": "Ministry of Tourism",
+        "date": "2023-12-29"
+      },
+      {
+        "receiptNumber": "RV-2023-451",
+        "amount": 120000.0,
+        "source": "Ministry of Transport",
+        "date": "2023-12-30"
+      }
+    ],
+    "reconciledBy": "Senior Accountant - Grace Mulenga",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": "BR-2024-002",
+    "reconciliationDate": "2024-02-15T23:59:59Z",
+    "bankAccountId": "BA-MOF-002",
+    "bankAccountName": "Bank of Zambia - Project Account",
+    "accountNumber": "BOZ-PROJ-002-2024",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 18500000.0,
+    "bankStatementBalance": 18650000.0,
+    "outstandingChecks": 320000.0,
+    "depositsInTransit": 170000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 18500000.0,
+    "variance": 0.0,
+    "status": "Reconciled",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "0045678",
+        "amount": 185000.0,
+        "payee": "Road Works Zambia",
+        "date": "2024-01-29"
+      },
+      {
+        "checkNumber": "0045679",
+        "amount": 135000.0,
+        "payee": "Bridge Construction Ltd",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "PROJ-2024-023",
+        "amount": 170000.0,
+        "source": "World Bank Disbursement",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Project Accountant - Joseph Banda",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": "BR-2024-003",
+    "reconciliationDate": "2024-02-01T12:00:00Z",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-2024",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 5640000.0,
+    "bankStatementBalance": 5720000.0,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 5640000.0,
+    "variance": 0.0,
+    "status": "Reconciled",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 5,
+    "reconciliationDate": "2023-01-10T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0005",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 16102037.67,
+    "bankStatementBalance": 10706235.82,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 16952476.8,
+    "variance": 0.0,
+    "status": "Approved",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 6,
+    "reconciliationDate": "2023-09-16T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0006",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 32906637.18,
+    "bankStatementBalance": 12607745.13,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 8268909.2,
+    "variance": 0.0,
+    "status": "Cancelled",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 7,
+    "reconciliationDate": "2024-01-28T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0007",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 3577945.21,
+    "bankStatementBalance": 45037217.58,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 40133761.55,
+    "variance": 0.0,
+    "status": "Pending",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 8,
+    "reconciliationDate": "2023-09-08T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0008",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 593010.64,
+    "bankStatementBalance": 44570089.87,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 1656922.32,
+    "variance": 0.0,
+    "status": "Pending",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 9,
+    "reconciliationDate": "2024-04-20T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0009",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 24124413.94,
+    "bankStatementBalance": 154064.95,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 10442083.19,
+    "variance": 0.0,
+    "status": "Approved",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 10,
+    "reconciliationDate": "2023-10-29T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0010",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 21389348.07,
+    "bankStatementBalance": 907688.23,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 20758191.46,
+    "variance": 0.0,
+    "status": "Posted",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 11,
+    "reconciliationDate": "2024-09-08T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0011",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 31789596.34,
+    "bankStatementBalance": 34308427.15,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 10350280.4,
+    "variance": 0.0,
+    "status": "Pending",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 12,
+    "reconciliationDate": "2024-06-25T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0012",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 49013786.72,
+    "bankStatementBalance": 2440468.65,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 9506792.64,
+    "variance": 0.0,
+    "status": "In Progress",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 13,
+    "reconciliationDate": "2023-11-22T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0013",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 27959105.12,
+    "bankStatementBalance": 42917390.41,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 6108734.23,
+    "variance": 0.0,
+    "status": "Approved",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 14,
+    "reconciliationDate": "2024-11-17T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0014",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 37612895.27,
+    "bankStatementBalance": 46413022.22,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 17853295.66,
+    "variance": 0.0,
+    "status": "Pending",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 15,
+    "reconciliationDate": "2024-01-30T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0015",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 27937980.26,
+    "bankStatementBalance": 33998036.22,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 9203473.01,
+    "variance": 0.0,
+    "status": "Released",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 16,
+    "reconciliationDate": "2024-12-28T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0016",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 21550626.93,
+    "bankStatementBalance": 18106619.97,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 8226911.56,
+    "variance": 0.0,
+    "status": "Approved",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 17,
+    "reconciliationDate": "2024-01-02T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0017",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 8865514.97,
+    "bankStatementBalance": 4863370.6,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 5371797.25,
+    "variance": 0.0,
+    "status": "Cancelled",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 18,
+    "reconciliationDate": "2023-07-17T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0018",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 15156242.1,
+    "bankStatementBalance": 7093371.34,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 23974938.09,
+    "variance": 0.0,
+    "status": "In Progress",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 19,
+    "reconciliationDate": "2023-08-12T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0019",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 14004602.25,
+    "bankStatementBalance": 32380669.68,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 3367425.5,
+    "variance": 0.0,
+    "status": "Approved",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  },
+  {
+    "id": 20,
+    "reconciliationDate": "2023-09-07T00:00:00",
+    "bankAccountId": "BA-MOF-003",
+    "bankAccountName": "Zanaco - Donor Funds Account",
+    "accountNumber": "ZAN-DON-003-0020",
+    "reconciliationPeriod": "January 2024",
+    "fiscalYear": 2024,
+    "bookBalance": 36540602.57,
+    "bankStatementBalance": 45743354.39,
+    "outstandingChecks": 155000.0,
+    "depositsInTransit": 75000.0,
+    "bankCharges": 0.0,
+    "interestEarned": 0.0,
+    "adjustments": 0.0,
+    "reconciledBalance": 19897723.54,
+    "variance": 0.0,
+    "status": "Completed",
+    "outstandingChecksList": [
+      {
+        "checkNumber": "DON-0012",
+        "amount": 95000.0,
+        "payee": "Health Sector Support",
+        "date": "2024-01-28"
+      },
+      {
+        "checkNumber": "DON-0013",
+        "amount": 60000.0,
+        "payee": "Education Program Partners",
+        "date": "2024-01-30"
+      }
+    ],
+    "depositsInTransitList": [
+      {
+        "receiptNumber": "DON-RV-045",
+        "amount": 75000.0,
+        "source": "USAID Grant",
+        "date": "2024-01-31"
+      }
+    ],
+    "reconciledBy": "Donor Funds Accountant - Martha Siame",
+    "reviewedBy": "Chief Accountant - Peter Lungu",
+    "approvedBy": "Accountant General - Mary Banda"
+  }
+]

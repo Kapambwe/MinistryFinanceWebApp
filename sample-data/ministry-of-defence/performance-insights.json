@@ -1,0 +1,1483 @@
+[
+  {
+    "id": "PI-2024-001",
+    "insightType": "Service Delivery",
+    "category": "Education",
+    "title": "Learning Outcomes Improvement Trend",
+    "description": "Grade 5 literacy scores improved 18% over 3 years correlating with increased teacher training investment",
+    "generatedDate": "2024-01-15T09:00:00Z",
+    "timeframe": {
+      "start": "2021-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "performanceMetrics": {
+      "baseline": {
+        "year": 2020,
+        "literacyScore": 54.2,
+        "numeracyScore": 48.5,
+        "teacherTrainingInvestment": 45000000.0
+      },
+      "current": {
+        "year": 2023,
+        "literacyScore": 64.0,
+        "numeracyScore": 56.8,
+        "teacherTrainingInvestment": 95000000.0
+      },
+      "improvement": {
+        "literacy": 18.1,
+        "numeracy": 17.1,
+        "investmentIncrease": 111.1
+      }
+    },
+    "keyDrivers": [
+      {
+        "factor": "Teacher Training Programs",
+        "contribution": 45.5,
+        "evidence": "Trained teachers' students score 22% higher"
+      },
+      {
+        "factor": "Learning Materials Improvement",
+        "contribution": 28.3,
+        "evidence": "Textbook-to-student ratio improved from 1:5 to 1:2"
+      },
+      {
+        "factor": "Reduced Class Sizes",
+        "contribution": 26.2,
+        "evidence": "Average class size down from 62 to 48 students"
+      }
+    ],
+    "regionalPerformance": [
+      {
+        "region": "Lusaka Province",
+        "improvement": 22.5,
+        "investment": 28000000.0
+      },
+      {
+        "region": "Copperbelt Province",
+        "improvement": 19.8,
+        "investment": 24000000.0
+      },
+      {
+        "region": "Luapula Province",
+        "improvement": 12.4,
+        "investment": 12000000.0
+      }
+    ],
+    "recommendations": [
+      "Increase teacher training budget by additional 30%",
+      "Scale successful programs to low-performing regions",
+      "Maintain textbook procurement momentum",
+      "Continue classroom construction program"
+    ],
+    "returnOnInvestment": {
+      "investmentPeriod": "3 years",
+      "totalInvestment": 235000000.0,
+      "learningGain": 18.1,
+      "costPerPercentagePoint": 12983425.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "PI-2024-002",
+    "insightType": "Healthcare Efficiency",
+    "category": "Health",
+    "title": "Primary Healthcare Utilization Increase",
+    "description": "Primary care visits increased 32% while hospital admissions decreased 15%, indicating improved preventive care",
+    "generatedDate": "2024-01-18T10:30:00Z",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.89,
+    "performanceMetrics": {
+      "primaryCareVisits": {
+        "baseline": 2850000,
+        "current": 3762000,
+        "change": 32.0,
+        "costPerVisit": 85.0
+      },
+      "hospitalAdmissions": {
+        "baseline": 485000,
+        "current": 412250,
+        "change": -15.0,
+        "costPerAdmission": 1250.0
+      },
+      "costSavings": {
+        "reducedAdmissions": 90937500.0,
+        "increasedPrimaryCare": 77520000.0,
+        "netSavings": 13417500.0
+      }
+    },
+    "keyDrivers": [
+      {
+        "factor": "Community Health Worker Program",
+        "contribution": 42.0,
+        "evidence": "CHW areas show 45% higher primary care use"
+      },
+      {
+        "factor": "Free Primary Care Policy",
+        "contribution": 35.0,
+        "evidence": "Eliminated cost barrier for vulnerable populations"
+      },
+      {
+        "factor": "Health Post Expansion",
+        "contribution": 23.0,
+        "evidence": "38 new health posts reduced average travel distance"
+      }
+    ],
+    "healthOutcomes": [
+      {
+        "indicator": "Under-5 Mortality Rate",
+        "baseline": 61.2,
+        "current": 54.8,
+        "improvement": 10.5
+      },
+      {
+        "indicator": "Maternal Mortality Ratio",
+        "baseline": 278,
+        "current": 252,
+        "improvement": 9.4
+      },
+      {
+        "indicator": "Immunization Coverage",
+        "baseline": 78.5,
+        "current": 87.2,
+        "improvement": 11.1
+      }
+    ],
+    "recommendations": [
+      "Expand CHW program to all districts",
+      "Continue health post construction",
+      "Strengthen referral system efficiency",
+      "Invest in primary care diagnostics"
+    ],
+    "returnOnInvestment": {
+      "programCost": 125000000.0,
+      "healthSavings": 13417500.0,
+      "productivityGains": 285000000.0,
+      "totalReturn": 2.38
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "PI-2024-003",
+    "insightType": "Infrastructure Delivery",
+    "category": "Roads",
+    "title": "Road Maintenance Program Effectiveness",
+    "description": "Proactive maintenance program reduced road deterioration rate by 42% and extended asset life by 6 years",
+    "generatedDate": "2024-01-20T14:15:00Z",
+    "timeframe": {
+      "start": "2021-06-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.91,
+    "performanceMetrics": {
+      "roadCondition": {
+        "goodConditionBaseline": 42.0,
+        "goodConditionCurrent": 61.5,
+        "improvement": 46.4
+      },
+      "deteriorationRate": {
+        "baseline": 8.5,
+        "current": 4.9,
+        "reduction": 42.4
+      },
+      "assetLife": {
+        "baseline": 12,
+        "current": 18,
+        "extension": 50.0
+      }
+    },
+    "financialMetrics": {
+      "maintenanceInvestment": 420000000.0,
+      "reconstructionAvoided": 1850000000.0,
+      "netSavings": 1430000000.0,
+      "roi": 3.4
+    },
+    "programComponents": [
+      {
+        "activity": "Routine Maintenance",
+        "budget": 185000000.0,
+        "coverage": 4200,
+        "effectiveness": 88.5
+      },
+      {
+        "activity": "Pothole Patching",
+        "budget": 125000000.0,
+        "coverage": 2800,
+        "effectiveness": 82.3
+      },
+      {
+        "activity": "Drainage Improvement",
+        "budget": 110000000.0,
+        "coverage": 1500,
+        "effectiveness": 91.2
+      }
+    ],
+    "economicImpact": [
+      {
+        "benefit": "Reduced Vehicle Operating Costs",
+        "annualSaving": 325000000.0,
+        "beneficiaries": "All road users"
+      },
+      {
+        "benefit": "Improved Market Access",
+        "valueCreated": 480000000.0,
+        "beneficiaries": "Rural farmers and traders"
+      },
+      {
+        "benefit": "Enhanced Safety",
+        "accidentReduction": 28.0,
+        "livesAndInjuriesPrevented": 1250
+      }
+    ],
+    "recommendations": [
+      "Increase maintenance budget to sustain gains",
+      "Expand program to secondary road network",
+      "Implement performance-based contracts",
+      "Deploy road condition monitoring technology"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "PI-2024-004",
+    "insightType": "Revenue Performance",
+    "category": "Tax Administration",
+    "title": "Tax Compliance Improvement Initiative Results",
+    "description": "Targeted compliance program increased tax collections by ZMW 385M (22%) with minimal additional enforcement costs",
+    "generatedDate": "2024-01-22T11:00:00Z",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.94,
+    "performanceMetrics": {
+      "revenueCollection": {
+        "baseline": 1750000000.0,
+        "current": 2135000000.0,
+        "increase": 385000000.0,
+        "growthRate": 22.0
+      },
+      "complianceRate": {
+        "baseline": 68.5,
+        "current": 79.2,
+        "improvement": 15.6
+      },
+      "programCost": {
+        "investment": 45000000.0,
+        "netRevenue": 340000000.0,
+        "roi": 7.56
+      }
+    },
+    "programComponents": [
+      {
+        "component": "Taxpayer Education Campaigns",
+        "cost": 12000000.0,
+        "revenueImpact": 95000000.0,
+        "roi": 7.92
+      },
+      {
+        "component": "Risk-Based Audit Selection",
+        "cost": 18000000.0,
+        "revenueImpact": 185000000.0,
+        "roi": 10.28
+      },
+      {
+        "component": "E-Filing Platform Enhancement",
+        "cost": 15000000.0,
+        "revenueImpact": 105000000.0,
+        "roi": 7.0
+      }
+    ],
+    "sectorPerformance": [
+      {
+        "sector": "Mining",
+        "revenueIncrease": 145000000.0,
+        "complianceGain": 12.5
+      },
+      {
+        "sector": "Retail & Wholesale",
+        "revenueIncrease": 125000000.0,
+        "complianceGain": 18.2
+      },
+      {
+        "sector": "Professional Services",
+        "revenueIncrease": 65000000.0,
+        "complianceGain": 22.5
+      },
+      {
+        "sector": "Manufacturing",
+        "revenueIncrease": 50000000.0,
+        "complianceGain": 14.8
+      }
+    ],
+    "recommendations": [
+      "Scale successful interventions nationwide",
+      "Invest in advanced data analytics",
+      "Strengthen third-party data integration",
+      "Continue taxpayer service improvements"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "PI-2024-005",
+    "insightType": "Social Protection",
+    "category": "Cash Transfer",
+    "title": "Social Cash Transfer Poverty Reduction Impact",
+    "description": "SCT program lifted 285,000 households above extreme poverty line, demonstrating strong targeting effectiveness",
+    "generatedDate": "2024-01-24T13:30:00Z",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.87,
+    "performanceMetrics": {
+      "programReach": {
+        "beneficiaryHouseholds": 700000,
+        "individuals": 3150000,
+        "coverage": 22.5
+      },
+      "povertyImpact": {
+        "householdsLiftedAbovePovertyLine": 285000,
+        "impactRate": 40.7,
+        "povertyGapReduction": 32.5
+      },
+      "programCost": {
+        "annualBudget": 920000000.0,
+        "avgTransferPerHousehold": 1314.0,
+        "adminCost": 10.9
+      }
+    },
+    "outcomeIndicators": [
+      {
+        "indicator": "Food Security",
+        "baseline": 42.5,
+        "current": 71.2,
+        "improvement": 67.5
+      },
+      {
+        "indicator": "School Enrollment",
+        "baseline": 68.2,
+        "current": 84.5,
+        "improvement": 23.9
+      },
+      {
+        "indicator": "Healthcare Access",
+        "baseline": 54.8,
+        "current": 76.3,
+        "improvement": 39.2
+      },
+      {
+        "indicator": "Household Assets",
+        "baseline": 100,
+        "current": 134,
+        "improvement": 34.0
+      }
+    ],
+    "costEffectiveness": {
+      "costPerHouseholdLifted": 3228.0,
+      "costPerIndividualLifted": 717.0,
+      "comparisonToFoodAid": "60% more cost-effective"
+    },
+    "recommendations": [
+      "Expand coverage to additional 95,000 households",
+      "Index transfer amounts to inflation",
+      "Strengthen graduation pathways",
+      "Link with livelihood programs"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "PI-2024-006",
+    "insightType": "Procurement Efficiency",
+    "category": "Public Procurement",
+    "title": "E-Procurement Platform Efficiency Gains",
+    "description": "Electronic procurement reduced cycle times by 45% and generated savings of ZMW 125M through improved competition",
+    "generatedDate": "2024-01-26T15:20:00Z",
+    "timeframe": {
+      "start": "2023-03-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.9,
+    "performanceMetrics": {
+      "processingTime": {
+        "baseline": 45,
+        "current": 25,
+        "reduction": 44.4
+      },
+      "competitionLevel": {
+        "avgBidsBaseline": 3.2,
+        "avgBidsCurrent": 5.8,
+        "increase": 81.3
+      },
+      "costSavings": {
+        "competitionEffect": 85000000.0,
+        "efficiencyGains": 40000000.0,
+        "totalSavings": 125000000.0
+      }
+    },
+    "adoptionMetrics": {
+      "platformInvestment": 32000000.0,
+      "transactionsMigrated": 2850,
+      "adoptionRate": 78.5,
+      "userSatisfaction": 82.3
+    },
+    "efficiencyGains": [
+      {
+        "area": "Document Processing",
+        "timeReduction": 65.0,
+        "costReduction": 15000000.0
+      },
+      {
+        "area": "Vendor Communication",
+        "timeReduction": 52.0,
+        "costReduction": 8000000.0
+      },
+      {
+        "area": "Evaluation Process",
+        "timeReduction": 38.0,
+        "costReduction": 12000000.0
+      },
+      {
+        "area": "Contract Award",
+        "timeReduction": 42.0,
+        "costReduction": 5000000.0
+      }
+    ],
+    "transparencyImpact": {
+      "complaintsReduction": 58.0,
+      "auditFindingsReduction": 42.0,
+      "vendorSatisfaction": 76.5
+    },
+    "recommendations": [
+      "Mandate e-procurement for all transactions",
+      "Integrate with financial management system",
+      "Expand vendor training programs",
+      "Deploy mobile procurement app"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "PI-2024-007",
+    "insightType": "Agricultural Productivity",
+    "category": "Extension Services",
+    "title": "Agricultural Extension Services Impact on Yields",
+    "description": "Farmers receiving extension services achieved 38% higher yields and 42% higher incomes than comparison group",
+    "generatedDate": "2024-01-28T09:45:00Z",
+    "timeframe": {
+      "start": "2022-06-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.88,
+    "performanceMetrics": {
+      "programReach": {
+        "farmersServed": 125000,
+        "coverage": 18.5,
+        "extensionWorkers": 850
+      },
+      "productivityImpact": {
+        "yieldIncreasePercentage": 38.2,
+        "treatmentGroupYield": 3.2,
+        "controlGroupYield": 2.3,
+        "difference": 0.9
+      },
+      "incomeImpact": {
+        "avgIncomeTreated": 15800.0,
+        "avgIncomeControl": 11150.0,
+        "increasePercentage": 41.7,
+        "totalIncomeGain": 581250000.0
+      }
+    },
+    "programCost": {
+      "annualBudget": 85000000.0,
+      "costPerFarmer": 680.0,
+      "incomeGainPerFarmer": 4650.0,
+      "roi": 6.84
+    },
+    "serviceComponents": [
+      {
+        "service": "Improved Seed Distribution",
+        "participants": 98000,
+        "yieldImpact": 15.2
+      },
+      {
+        "service": "Agronomic Training",
+        "participants": 125000,
+        "yieldImpact": 12.5
+      },
+      {
+        "service": "Pest Management Advice",
+        "participants": 75000,
+        "yieldImpact": 8.5
+      },
+      {
+        "service": "Market Linkages",
+        "participants": 62000,
+        "incomeImpact": 22.3
+      }
+    ],
+    "secondaryBenefits": [
+      "Improved food security for 450,000 people",
+      "Reduced post-harvest losses by 25%",
+      "Enhanced soil conservation practices",
+      "Increased female farmer participation (38%)"
+    ],
+    "recommendations": [
+      "Double extension worker deployment",
+      "Strengthen digital extension platforms",
+      "Expand to additional 200,000 farmers",
+      "Integrate climate-smart agriculture"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "PI-2024-008",
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2024-01-30T14:10:00Z",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 9,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2024-12-09T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2024-12-19T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2024-02-01T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2023-11-06T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2024-03-14T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2023-04-24T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2024-10-21T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2023-04-14T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2024-12-06T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2024-04-18T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2024-09-10T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "insightType": "Energy Access",
+    "category": "Rural Electrification",
+    "title": "Solar Mini-Grid Program Socioeconomic Impact",
+    "description": "Solar mini-grids in 85 communities improved incomes by 28% and enabled 1,200 new businesses",
+    "generatedDate": "2024-01-07T00:00:00",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "performanceMetrics": {
+      "accessMetrics": {
+        "miniGridsInstalled": 85,
+        "householdsConnected": 12750,
+        "populationServed": 63750,
+        "businessesConnected": 1580
+      },
+      "economicImpact": {
+        "avgIncomeIncreasePercentage": 28.3,
+        "newBusinessesCreated": 1200,
+        "totalEconomicValue": 185000000.0,
+        "employmentCreated": 3400
+      },
+      "programCost": {
+        "totalInvestment": 325000000.0,
+        "costPerConnection": 25490.0,
+        "economicReturn": 0.57
+      }
+    },
+    "sectoralImpact": [
+      {
+        "sector": "Agriculture Processing",
+        "businesses": 385,
+        "incomeGenerated": 65000000.0
+      },
+      {
+        "sector": "Retail & Services",
+        "businesses": 520,
+        "incomeGenerated": 72000000.0
+      },
+      {
+        "sector": "Manufacturing & Crafts",
+        "businesses": 295,
+        "incomeGenerated": 48000000.0
+      }
+    ],
+    "socialBenefits": [
+      {
+        "benefit": "Extended Study Hours",
+        "impact": "School performance improved 15%",
+        "beneficiaries": 18500
+      },
+      {
+        "benefit": "Health Service Quality",
+        "impact": "24/7 health post operations",
+        "beneficiaries": 63750
+      },
+      {
+        "benefit": "Communication Access",
+        "impact": "Mobile phone charging and internet",
+        "beneficiaries": 48200
+      }
+    ],
+    "recommendations": [
+      "Accelerate mini-grid deployment",
+      "Provide business development support",
+      "Establish productive use promotion",
+      "Develop sustainable tariff models"
+    ],
+    "currency": "ZMW"
+  }
+]

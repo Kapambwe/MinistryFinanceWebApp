@@ -1,0 +1,459 @@
+[
+  {
+    "id": "WD-2024-001",
+    "delegationType": "Payment Authorization",
+    "delegatedBy": "Permanent Secretary - Ministry of Health",
+    "delegatedTo": "Deputy Permanent Secretary",
+    "effectiveDate": "2024-01-15T00:00:00Z",
+    "expiryDate": "2024-02-15T23:59:59Z",
+    "reason": "Official Travel - WHO Conference Geneva",
+    "scope": {
+      "workflows": [
+        "Payment Processing",
+        "Budget Virement"
+      ],
+      "amountLimit": 10000000.0,
+      "restrictions": "Exclude capital expenditure approvals"
+    },
+    "status": "Active",
+    "approvedBy": "Secretary to Treasury",
+    "approvalDate": "2024-01-12T14:00:00Z",
+    "workflowsProcessed": 23,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WD-2024-002",
+    "delegationType": "Procurement Approval",
+    "delegatedBy": "Controlling Officer - Ministry of Education",
+    "delegatedTo": "Director of Finance",
+    "effectiveDate": "2024-01-20T00:00:00Z",
+    "expiryDate": "2024-03-20T23:59:59Z",
+    "reason": "Extended Medical Leave",
+    "scope": {
+      "workflows": [
+        "Procurement Approval",
+        "Contract Signing"
+      ],
+      "amountLimit": 25000000.0,
+      "restrictions": "Requires co-signature for amounts >ZMW 15M"
+    },
+    "status": "Active",
+    "approvedBy": "Permanent Secretary",
+    "approvalDate": "2024-01-18T16:30:00Z",
+    "workflowsProcessed": 8,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WD-2024-003",
+    "delegationType": "Audit Response",
+    "delegatedBy": "Chief Accountant - Livingstone District",
+    "delegatedTo": "Senior Accountant",
+    "effectiveDate": "2024-01-10T00:00:00Z",
+    "expiryDate": "2024-01-31T23:59:59Z",
+    "reason": "Training Assignment in Lusaka",
+    "scope": {
+      "workflows": [
+        "Audit Finding Response",
+        "Implementation Reporting"
+      ],
+      "amountLimit": 0.0,
+      "restrictions": "Critical findings require consultation"
+    },
+    "status": "Expired",
+    "approvedBy": "District Commissioner",
+    "approvalDate": "2024-01-08T10:00:00Z",
+    "workflowsProcessed": 15,
+    "expiryAction": "Delegation expired, authority reverted",
+    "currency": "ZMW"
+  },
+  {
+    "id": "WD-2024-004",
+    "delegationType": "Grant Management",
+    "delegatedBy": "Director of Planning - Ministry of Agriculture",
+    "delegatedTo": "Deputy Director",
+    "effectiveDate": "2024-01-25T00:00:00Z",
+    "expiryDate": "2024-04-25T23:59:59Z",
+    "reason": "Maternity Leave",
+    "scope": {
+      "workflows": [
+        "Grant Application",
+        "Donor Reporting",
+        "Grant Virement"
+      ],
+      "amountLimit": 50000000.0,
+      "restrictions": "World Bank projects only, AfDB excluded"
+    },
+    "status": "Active",
+    "approvedBy": "Permanent Secretary",
+    "approvalDate": "2024-01-22T11:00:00Z",
+    "workflowsProcessed": 4,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WD-2024-005",
+    "delegationType": "Budget Review",
+    "delegatedBy": "Budget Director - Ministry of Finance",
+    "delegatedTo": "Assistant Budget Director",
+    "effectiveDate": "2024-02-01T00:00:00Z",
+    "expiryDate": "2024-02-14T23:59:59Z",
+    "reason": "Annual Leave",
+    "scope": {
+      "workflows": [
+        "Budget Virement Review",
+        "Supplementary Budget"
+      ],
+      "amountLimit": 100000000.0,
+      "restrictions": "Cannot approve virements affecting debt servicing"
+    },
+    "status": "Pending",
+    "approvedBy": "Secretary to Treasury",
+    "approvalDate": "2024-01-28T15:00:00Z",
+    "workflowsProcessed": 0,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WD-2024-006",
+    "delegationType": "Contract Management",
+    "delegatedBy": "Project Manager - Roads Development Agency",
+    "delegatedTo": "Assistant Project Manager",
+    "effectiveDate": "2024-01-12T00:00:00Z",
+    "expiryDate": "2024-02-12T23:59:59Z",
+    "reason": "Field Supervision - Luapula Province Projects",
+    "scope": {
+      "workflows": [
+        "Contract Variations",
+        "Progress Payments",
+        "Site Instructions"
+      ],
+      "amountLimit": 5000000.0,
+      "restrictions": "Contract terminations excluded"
+    },
+    "status": "Active",
+    "approvedBy": "Director General - RDA",
+    "approvalDate": "2024-01-10T09:00:00Z",
+    "workflowsProcessed": 12,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WD-2024-007",
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2024-01-18T00:00:00Z",
+    "expiryDate": "2024-01-25T23:59:59Z",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Expired",
+    "approvedBy": "Mayor",
+    "approvalDate": "2024-01-16T13:00:00Z",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 8,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2024-10-11T00:00:00",
+    "expiryDate": "2023-12-14T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Posted",
+    "approvedBy": "Mayor",
+    "approvalDate": "2023-04-02T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 9,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2023-07-23T00:00:00",
+    "expiryDate": "2024-01-31T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "In Progress",
+    "approvedBy": "Mayor",
+    "approvalDate": "2023-06-22T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2023-05-15T00:00:00",
+    "expiryDate": "2024-05-24T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Posted",
+    "approvedBy": "Mayor",
+    "approvalDate": "2024-07-28T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2023-07-09T00:00:00",
+    "expiryDate": "2024-10-12T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Completed",
+    "approvedBy": "Mayor",
+    "approvalDate": "2023-07-14T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2024-02-12T00:00:00",
+    "expiryDate": "2023-12-23T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Posted",
+    "approvedBy": "Mayor",
+    "approvalDate": "2023-04-29T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2024-05-09T00:00:00",
+    "expiryDate": "2023-03-16T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Cancelled",
+    "approvedBy": "Mayor",
+    "approvalDate": "2024-12-15T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2024-03-20T00:00:00",
+    "expiryDate": "2024-11-29T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Pending",
+    "approvedBy": "Mayor",
+    "approvalDate": "2024-07-04T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2024-06-25T00:00:00",
+    "expiryDate": "2024-10-18T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Active",
+    "approvedBy": "Mayor",
+    "approvalDate": "2023-04-03T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2023-07-18T00:00:00",
+    "expiryDate": "2024-12-18T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Cancelled",
+    "approvedBy": "Mayor",
+    "approvalDate": "2024-11-02T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2024-03-15T00:00:00",
+    "expiryDate": "2024-01-26T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Pending",
+    "approvedBy": "Mayor",
+    "approvalDate": "2023-06-18T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2023-11-04T00:00:00",
+    "expiryDate": "2024-11-24T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Completed",
+    "approvedBy": "Mayor",
+    "approvalDate": "2024-09-27T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2023-05-23T00:00:00",
+    "expiryDate": "2023-01-09T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Posted",
+    "approvedBy": "Mayor",
+    "approvalDate": "2023-08-21T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "delegationType": "Revenue Collection",
+    "delegatedBy": "Town Clerk - Ndola City Council",
+    "delegatedTo": "Deputy Town Clerk",
+    "effectiveDate": "2023-12-16T00:00:00",
+    "expiryDate": "2024-11-13T00:00:00",
+    "reason": "Official Business - Ministry Meetings Lusaka",
+    "scope": {
+      "workflows": [
+        "Revenue Waiver Approval",
+        "Payment Plans"
+      ],
+      "amountLimit": 500000.0,
+      "restrictions": "Waivers >ZMW 200K require council resolution"
+    },
+    "status": "Approved",
+    "approvedBy": "Mayor",
+    "approvalDate": "2024-07-03T00:00:00",
+    "workflowsProcessed": 7,
+    "expiryAction": "All pending items returned to delegator",
+    "currency": "ZMW"
+  }
+]

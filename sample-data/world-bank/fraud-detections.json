@@ -1,0 +1,1574 @@
+[
+  {
+    "id": "FD-2024-001",
+    "caseNumber": "FRAUD-2024-001",
+    "detectionDate": "2024-01-14T10:20:00Z",
+    "fraudType": "Procurement Fraud",
+    "severity": "Critical",
+    "status": "Under Investigation",
+    "title": "Bid Rigging and Vendor Collusion Scheme",
+    "description": "Coordinated bid rigging involving 5 vendors submitting complementary bids to ensure predetermined winner across 8 tenders",
+    "estimatedLoss": 34500000.0,
+    "confidenceScore": 0.93,
+    "detectionMethod": "AI Pattern Recognition & Network Analysis",
+    "entityType": "Procurement Unit",
+    "entityId": "PROC-MIN-INFRA-001",
+    "entityName": "Ministry of Infrastructure Procurement",
+    "suspects": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-234",
+        "name": "Apex Construction Ltd",
+        "role": "Primary Beneficiary"
+      },
+      {
+        "type": "Vendor",
+        "id": "VND-CON-445",
+        "name": "BuildRight Contractors",
+        "role": "Complementary Bidder"
+      },
+      {
+        "type": "Vendor",
+        "id": "VND-CON-667",
+        "name": "CityWorks Ltd",
+        "role": "Complementary Bidder"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-PROC-089",
+        "name": "Internal Suspect - Under Investigation",
+        "role": "Potential Facilitator"
+      }
+    ],
+    "indicators": [
+      "Vendors submitted bids in rotational winning pattern",
+      "Non-winning bids consistently 2-5% higher than winner",
+      "Common IP addresses used for bid submissions",
+      "Shared office address among 3 vendors",
+      "Pattern across 8 tenders over 6 months",
+      "Winning vendor always lowest by narrow margin"
+    ],
+    "affectedContracts": [
+      {
+        "contractId": "CNT-2023-234",
+        "value": 4500000.0,
+        "description": "Road Maintenance Contract"
+      },
+      {
+        "contractId": "CNT-2023-267",
+        "value": 5200000.0,
+        "description": "Bridge Rehabilitation"
+      },
+      {
+        "contractId": "CNT-2023-289",
+        "value": 6800000.0,
+        "description": "Drainage System Upgrade"
+      }
+    ],
+    "investigationDetails": {
+      "startDate": "2024-01-15T08:00:00Z",
+      "leadInvestigator": "Anti-Corruption Commission",
+      "supportingAgencies": [
+        "Public Procurement Authority",
+        "Zambia Police - Economic Crimes Unit"
+      ],
+      "evidenceCollected": [
+        "Bid documents and email communications",
+        "Bank transaction records",
+        "Company registration documents",
+        "IP access logs"
+      ]
+    },
+    "actionsTaken": [
+      "All 5 vendors suspended from procurement",
+      "Contracts awarded under investigation suspended",
+      "Employee placed on administrative leave",
+      "Criminal investigation initiated",
+      "Asset freeze requested for suspect vendors"
+    ],
+    "recommendedActions": [
+      "Implement bid analysis software",
+      "Strengthen vendor independence verification",
+      "Enhanced due diligence for repeat bidders",
+      "Anonymous fraud reporting hotline"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "FD-2024-002",
+    "caseNumber": "FRAUD-2024-002",
+    "detectionDate": "2024-01-17T14:30:00Z",
+    "fraudType": "Payroll Fraud",
+    "severity": "High",
+    "status": "Investigation Complete",
+    "title": "Ghost Workers Scheme in Health Facilities",
+    "description": "Systematic creation and maintenance of 43 ghost workers across 6 rural health facilities resulting in fraudulent salary payments",
+    "estimatedLoss": 9200000.0,
+    "confidenceScore": 0.96,
+    "detectionMethod": "Biometric Attendance Analysis & AI Cross-Matching",
+    "entityType": "Ministry",
+    "entityId": "MIN-HLTH-001",
+    "entityName": "Ministry of Health - Eastern Province",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-HR-234",
+        "name": "HR Officer - Identity Protected",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-FIN-445",
+        "name": "Accounts Officer - Identity Protected",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "43 employees never recorded biometric attendance",
+      "Multiple employees sharing same bank accounts",
+      "No physical verification records",
+      "Appointment letters with forged signatures",
+      "Attendance records manually overridden",
+      "Pattern over 18-month period"
+    ],
+    "affectedFacilities": [
+      {
+        "facilityId": "HF-CHIP-005",
+        "name": "Chipangali Health Centre",
+        "ghostWorkers": 8
+      },
+      {
+        "facilityId": "HF-KACH-012",
+        "name": "Kachindamoto Rural Health Post",
+        "ghostWorkers": 12
+      },
+      {
+        "facilityId": "HF-NYAS-007",
+        "name": "Nyasaland Health Centre",
+        "ghostWorkers": 7
+      }
+    ],
+    "investigationDetails": {
+      "startDate": "2024-01-18T08:00:00Z",
+      "completionDate": "2024-01-30T17:00:00Z",
+      "leadInvestigator": "Ministry Internal Audit",
+      "supportingAgencies": [
+        "Anti-Corruption Commission",
+        "Criminal Investigations Department"
+      ],
+      "evidenceCollected": [
+        "Payroll records and bank statements",
+        "Forged appointment letters",
+        "Biometric system logs",
+        "Bank account ownership documents",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Ghost workers removed from payroll",
+      "Suspects arrested and charged",
+      "Criminal prosecution initiated",
+      "Recovery proceedings commenced",
+      "Disciplinary action for supervisors",
+      "Enhanced payroll verification implemented"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 1800000.0,
+      "assetsSeized": 3500000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Mandatory biometric verification for all payments",
+      "Quarterly physical headcount audits",
+      "Automated cross-matching of HR and payment systems",
+      "Whistleblower protection program"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "FD-2024-003",
+    "caseNumber": "FRAUD-2024-003",
+    "detectionDate": "2024-01-20T09:15:00Z",
+    "fraudType": "Revenue Theft",
+    "severity": "High",
+    "status": "Under Investigation",
+    "title": "Municipal Revenue Diversion Scheme",
+    "description": "Systematic diversion of municipal revenue through fake receipt books and unbanked collections totaling ZMW 12.4M",
+    "estimatedLoss": 12400000.0,
+    "confidenceScore": 0.89,
+    "detectionMethod": "Revenue Pattern Analysis & Receipt Reconciliation",
+    "entityType": "District Council",
+    "entityId": "DST-KABWE-001",
+    "entityName": "Kabwe Municipal Council",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-REV-156",
+        "name": "Revenue Collector - Identity Protected",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-REV-178",
+        "name": "Revenue Supervisor - Identity Protected",
+        "role": "Suspected Accomplice"
+      }
+    ],
+    "indicators": [
+      "Unauthorized receipt books in circulation",
+      "Missing serial numbers in official receipts",
+      "Revenue collections below market activity levels",
+      "Delayed or missing bank deposits",
+      "Cash shortages during surprise counts",
+      "Business permits issued without revenue records"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-01-21T08:00:00Z",
+      "leadInvestigator": "Local Government Audit",
+      "supportingAgencies": [
+        "Anti-Corruption Commission",
+        "Zambia Police Service"
+      ],
+      "evidenceCollected": [
+        "Fake receipt books",
+        "Bank deposit records",
+        "Market trader statements",
+        "CCTV footage from collection points",
+        "Mobile money transaction records"
+      ]
+    },
+    "actionsTaken": [
+      "Suspects suspended pending investigation",
+      "All revenue collectors re-vetted",
+      "Immediate switch to electronic receipting",
+      "Daily bank deposit requirement enforced",
+      "Surprise cash counts instituted"
+    ],
+    "recommendedActions": [
+      "Deploy mobile revenue collection system",
+      "GPS tracking for revenue collectors",
+      "Real-time revenue monitoring dashboard",
+      "Citizen payment verification portal",
+      "Strengthen internal controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "FD-2024-004",
+    "caseNumber": "FRAUD-2024-004",
+    "detectionDate": "2024-01-23T11:45:00Z",
+    "fraudType": "Asset Misappropriation",
+    "severity": "Medium",
+    "status": "Investigation Complete",
+    "title": "Medical Equipment Theft and Sale",
+    "description": "Theft and resale of government medical equipment through fake disposal and transfer documentation",
+    "estimatedLoss": 5600000.0,
+    "confidenceScore": 0.91,
+    "detectionMethod": "Asset Tracking Analysis & Disposal Audit",
+    "entityType": "Hospital",
+    "entityId": "HF-NDOLA-001",
+    "entityName": "Ndola Central Hospital",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-STORES-089",
+        "name": "Stores Officer - Convicted",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "External",
+        "id": "EXT-BUYER-001",
+        "name": "Private Clinic Owner",
+        "role": "Buyer of Stolen Property"
+      }
+    ],
+    "indicators": [
+      "27 high-value equipment items missing from register",
+      "Forged disposal approval documents",
+      "Equipment found in private health facilities",
+      "Asset verification discrepancies",
+      "Unauthorized access to storage areas"
+    ],
+    "stolenEquipment": [
+      {
+        "item": "Ultrasound Machine",
+        "quantity": 2,
+        "value": 1800000.0
+      },
+      {
+        "item": "Patient Monitors",
+        "quantity": 8,
+        "value": 1600000.0
+      },
+      {
+        "item": "Surgical Equipment Sets",
+        "quantity": 5,
+        "value": 1200000.0
+      },
+      {
+        "item": "Laboratory Analyzers",
+        "quantity": 3,
+        "value": 1000000.0
+      }
+    ],
+    "investigationDetails": {
+      "startDate": "2024-01-24T08:00:00Z",
+      "completionDate": "2024-02-02T16:00:00Z",
+      "leadInvestigator": "Criminal Investigations Department",
+      "supportingAgencies": [
+        "Health Professions Council",
+        "Ministry of Health Inspectorate"
+      ],
+      "evidenceCollected": [
+        "Asset register and disposal documents",
+        "Equipment serial numbers and photos",
+        "Bank transfer records for payments",
+        "Witness testimonies",
+        "Recovered equipment"
+      ]
+    },
+    "actionsTaken": [
+      "Perpetrator arrested and convicted (3 years imprisonment)",
+      "Equipment recovered and returned",
+      "Private clinic license suspended",
+      "Enhanced asset tracking system deployed",
+      "Storage security upgraded"
+    ],
+    "recoveryStatus": {
+      "equipmentRecovered": 18,
+      "valueRecovered": 4200000.0,
+      "cashRecovered": 800000.0,
+      "recoveryRate": 89.3
+    },
+    "recommendedActions": [
+      "RFID tagging for high-value equipment",
+      "Automated asset tracking system",
+      "Regular physical verification",
+      "Strengthen disposal approval process"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "FD-2024-005",
+    "caseNumber": "FRAUD-2024-005",
+    "detectionDate": "2024-01-26T15:20:00Z",
+    "fraudType": "Contract Fraud",
+    "severity": "Critical",
+    "status": "Under Investigation",
+    "title": "Inflated Invoice and Kickback Scheme",
+    "description": "Systematic price inflation in supply contracts with kickback payments to procurement officials, estimated ZMW 18.5M overcharge",
+    "estimatedLoss": 18500000.0,
+    "confidenceScore": 0.87,
+    "detectionMethod": "Price Benchmarking AI & Financial Flow Analysis",
+    "entityType": "Ministry",
+    "entityId": "MIN-EDU-001",
+    "entityName": "Ministry of Education",
+    "suspects": [
+      {
+        "type": "Vendor",
+        "id": "VND-SUP-445",
+        "name": "Educational Supplies Ltd",
+        "role": "Supplier"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-PROC-234",
+        "name": "Senior Procurement Officer - Under Investigation",
+        "role": "Suspected Recipient"
+      }
+    ],
+    "indicators": [
+      "Prices 45-80% above market benchmarks",
+      "Consistent award to same supplier",
+      "Luxury purchases by procurement official beyond means",
+      "Offshore payments from supplier to official's relatives",
+      "Suppression of competitive bidding",
+      "Quality complaints from end users"
+    ],
+    "affectedProcurements": [
+      {
+        "item": "Student Desks",
+        "quantityOrdered": 5000,
+        "pricePaid": 850.0,
+        "marketPrice": 520.0,
+        "overcharge": 1650000.0
+      },
+      {
+        "item": "Textbooks",
+        "quantityOrdered": 50000,
+        "pricePaid": 185.0,
+        "marketPrice": 125.0,
+        "overcharge": 3000000.0
+      },
+      {
+        "item": "Laboratory Equipment",
+        "quantityOrdered": 200,
+        "pricePaid": 45000.0,
+        "marketPrice": 28000.0,
+        "overcharge": 3400000.0
+      }
+    ],
+    "investigationDetails": {
+      "startDate": "2024-01-27T08:00:00Z",
+      "leadInvestigator": "Anti-Corruption Commission",
+      "supportingAgencies": [
+        "Financial Intelligence Centre",
+        "Drug Enforcement Commission (Financial Crimes)"
+      ],
+      "evidenceCollected": [
+        "Contract documents and pricing",
+        "Market price surveys",
+        "Bank statements and financial records",
+        "Asset declarations",
+        "Communications and emails"
+      ]
+    },
+    "actionsTaken": [
+      "Supplier blacklisted pending investigation",
+      "Official suspended and bank accounts frozen",
+      "New procurement for affected items initiated",
+      "Forensic audit commissioned",
+      "Travel restriction imposed on suspects"
+    ],
+    "recommendedActions": [
+      "Automated price benchmarking system",
+      "Mandatory rotation of procurement officers",
+      "Enhanced conflict of interest declarations",
+      "Third-party price verification for high-value items",
+      "Lifestyle audits for procurement staff"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "FD-2024-006",
+    "caseNumber": "FRAUD-2024-006",
+    "detectionDate": "2024-01-29T10:00:00Z",
+    "fraudType": "Grant Fraud",
+    "severity": "High",
+    "status": "Under Investigation",
+    "title": "Fictitious Beneficiary Scheme in Social Program",
+    "description": "Creation of 380 fictitious beneficiaries in social cash transfer program to divert ZMW 6.8M in grant funds",
+    "estimatedLoss": 6800000.0,
+    "confidenceScore": 0.94,
+    "detectionMethod": "Beneficiary Verification & Biometric Matching",
+    "entityType": "Program",
+    "entityId": "PRG-SCT-2024-01",
+    "entityName": "Social Cash Transfer Program - Southern Province",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-SOC-156",
+        "name": "Community Welfare Officer - Under Investigation",
+        "role": "Primary Suspect"
+      },
+      {
+        "type": "External",
+        "id": "EXT-AGENT-023",
+        "name": "Mobile Money Agent",
+        "role": "Payment Facilitator"
+      }
+    ],
+    "indicators": [
+      "380 beneficiaries with no biometric records",
+      "Payments to beneficiaries without valid IDs",
+      "Multiple beneficiaries sharing mobile numbers",
+      "Clustering of new registrations in single month",
+      "Absence of home verification records",
+      "Payment collection patterns indicate single collector"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-01-30T08:00:00Z",
+      "leadInvestigator": "Ministry of Community Development",
+      "supportingAgencies": [
+        "Anti-Corruption Commission",
+        "Mobile Network Operators"
+      ],
+      "evidenceCollected": [
+        "Beneficiary registration records",
+        "Mobile money transaction data",
+        "ID document copies (many fake)",
+        "Community leader statements",
+        "GPS coordinates of alleged households"
+      ]
+    },
+    "actionsTaken": [
+      "All 380 beneficiaries suspended pending verification",
+      "Field verification teams deployed",
+      "Suspect officer suspended",
+      "Mobile money agent account frozen",
+      "Enhanced biometric verification implemented"
+    ],
+    "recommendedActions": [
+      "Mandatory biometric enrollment for all beneficiaries",
+      "GPS-verified home visits",
+      "Community validation of beneficiary lists",
+      "Real-time payment monitoring",
+      "Anonymous reporting mechanism for communities"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "FD-2024-007",
+    "caseNumber": "FRAUD-2024-007",
+    "detectionDate": "2024-01-31T13:50:00Z",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Investigation Complete",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 8,
+    "caseNumber": "FRAUD-2024-008",
+    "detectionDate": "2024-08-08T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Active",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 9,
+    "caseNumber": "FRAUD-2024-009",
+    "detectionDate": "2023-09-08T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Completed",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "caseNumber": "FRAUD-2024-010",
+    "detectionDate": "2023-03-03T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Posted",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "caseNumber": "FRAUD-2024-011",
+    "detectionDate": "2023-03-13T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Approved",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "caseNumber": "FRAUD-2024-012",
+    "detectionDate": "2024-05-03T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Cancelled",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "caseNumber": "FRAUD-2024-013",
+    "detectionDate": "2023-12-18T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Cancelled",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "caseNumber": "FRAUD-2024-014",
+    "detectionDate": "2023-11-02T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Posted",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "caseNumber": "FRAUD-2024-015",
+    "detectionDate": "2023-11-11T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Pending",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "caseNumber": "FRAUD-2024-016",
+    "detectionDate": "2024-11-23T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Active",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "caseNumber": "FRAUD-2024-017",
+    "detectionDate": "2023-06-11T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Cancelled",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "caseNumber": "FRAUD-2024-018",
+    "detectionDate": "2024-10-03T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Active",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "caseNumber": "FRAUD-2024-019",
+    "detectionDate": "2024-11-05T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Completed",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "caseNumber": "FRAUD-2024-020",
+    "detectionDate": "2024-08-18T00:00:00",
+    "fraudType": "Fuel Theft",
+    "severity": "Medium",
+    "status": "Cancelled",
+    "title": "Government Vehicle Fuel Diversion",
+    "description": "Systematic fuel siphoning and sale from government vehicles through collusion between drivers and fuel station attendants",
+    "estimatedLoss": 3200000.0,
+    "confidenceScore": 0.88,
+    "detectionMethod": "Fuel Consumption Analysis & GPS Correlation",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "suspects": [
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-089",
+        "name": "Government Driver - Dismissed",
+        "role": "Primary Perpetrator"
+      },
+      {
+        "type": "Employee",
+        "id": "EMP-DRV-112",
+        "name": "Government Driver - Dismissed",
+        "role": "Accomplice"
+      },
+      {
+        "type": "External",
+        "id": "EXT-ATT-034",
+        "name": "Fuel Station Attendant",
+        "role": "Accomplice"
+      }
+    ],
+    "indicators": [
+      "Fuel consumption 60% above vehicle specifications",
+      "GPS shows minimal mileage vs fuel claimed",
+      "Consistent refueling at specific station",
+      "Evening fuel purchases without corresponding trips",
+      "Voucher quantities exceed tank capacity"
+    ],
+    "investigationDetails": {
+      "startDate": "2024-02-01T08:00:00Z",
+      "completionDate": "2024-02-08T16:00:00Z",
+      "leadInvestigator": "Transport Management Unit",
+      "supportingAgencies": [
+        "Internal Audit"
+      ],
+      "evidenceCollected": [
+        "GPS tracking data",
+        "Fuel vouchers and receipts",
+        "Vehicle log books",
+        "Fuel station CCTV footage",
+        "Witness statements"
+      ]
+    },
+    "actionsTaken": [
+      "Drivers dismissed from service",
+      "Fuel station attendant prosecuted",
+      "Contract with fuel station terminated",
+      "GPS fuel monitoring system enhanced",
+      "Prepaid fuel cards introduced"
+    ],
+    "recoveryStatus": {
+      "amountRecovered": 450000.0,
+      "recoveryInProgress": true
+    },
+    "recommendedActions": [
+      "Electronic fuel management system",
+      "Real-time GPS and fuel monitoring",
+      "Random fuel quality and quantity checks",
+      "Rotate drivers and vehicles regularly"
+    ],
+    "currency": "ZMW"
+  }
+]

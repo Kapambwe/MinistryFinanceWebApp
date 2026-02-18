@@ -1,0 +1,1240 @@
+[
+  {
+    "evaluationId": "PSE-2024-001",
+    "projectId": "PIM-2024-003",
+    "projectName": "Lusaka Water Supply and Sanitation Improvement",
+    "evaluationDate": "2024-05-15",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 92,
+      "weight": 30,
+      "weightedScore": 27.6,
+      "comments": "Strong economic returns with IRR of 18.3% and significant social benefits"
+    },
+    "technicalFeasibility": {
+      "score": 88,
+      "weight": 20,
+      "weightedScore": 17.6,
+      "comments": "Proven technology with local implementation capacity available"
+    },
+    "financialSustainability": {
+      "score": 85,
+      "weight": 15,
+      "weightedScore": 12.75,
+      "comments": "Revenue recovery model viable through water tariffs"
+    },
+    "socialImpact": {
+      "score": 95,
+      "weight": 15,
+      "weightedScore": 14.25,
+      "comments": "Direct benefit to 1.2M urban residents, critical health impact"
+    },
+    "environmentalCompliance": {
+      "score": 82,
+      "weight": 10,
+      "weightedScore": 8.2,
+      "comments": "Environmental Impact Assessment completed, mitigation plans adequate"
+    },
+    "ndpAlignment": {
+      "score": 90,
+      "weight": 10,
+      "weightedScore": 9.0,
+      "comments": "Strongly aligned with Eighth NDP urban infrastructure priorities"
+    },
+    "totalScore": 89.4,
+    "recommendation": "Approved for Implementation",
+    "rankingPosition": 1,
+    "conditionalApproval": false,
+    "conditions": [],
+    "nextSteps": "Proceed to procurement stage",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Eng. Patrick Lungu",
+      "Ms. Grace Nkandu",
+      "Mr. Joseph Siame"
+    ],
+    "approvalDate": "2024-05-20",
+    "approvedBy": "Permanent Secretary - National Planning"
+  },
+  {
+    "evaluationId": "PSE-2024-002",
+    "projectId": "PIM-2024-008",
+    "projectName": "Skills Development and Technical Education Expansion",
+    "evaluationDate": "2024-05-10",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 87,
+      "weight": 30,
+      "weightedScore": 26.1,
+      "comments": "Long-term economic impact significant, IRR 21.5% reflects human capital value"
+    },
+    "technicalFeasibility": {
+      "score": 90,
+      "weight": 20,
+      "weightedScore": 18.0,
+      "comments": "Expansion of existing successful programs with proven models"
+    },
+    "financialSustainability": {
+      "score": 78,
+      "weight": 15,
+      "weightedScore": 11.7,
+      "comments": "Requires ongoing budget support, some cost recovery through industry partnerships"
+    },
+    "socialImpact": {
+      "score": 94,
+      "weight": 15,
+      "weightedScore": 14.1,
+      "comments": "Critical for youth employment and industrial development"
+    },
+    "environmentalCompliance": {
+      "score": 85,
+      "weight": 10,
+      "weightedScore": 8.5,
+      "comments": "Minimal environmental impact, green skills training included"
+    },
+    "ndpAlignment": {
+      "score": 92,
+      "weight": 10,
+      "weightedScore": 9.2,
+      "comments": "Directly addresses NDP human capital development pillar"
+    },
+    "totalScore": 87.6,
+    "recommendation": "Approved for Implementation",
+    "rankingPosition": 2,
+    "conditionalApproval": false,
+    "conditions": [],
+    "nextSteps": "Finalize financing agreement with AfDB",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Mr. Brighton Sikazwe",
+      "Ms. Thandiwe Zulu"
+    ],
+    "approvalDate": "2024-05-18",
+    "approvedBy": "Permanent Secretary - National Planning"
+  },
+  {
+    "evaluationId": "PSE-2024-003",
+    "projectId": "PIM-2024-005",
+    "projectName": "Copperbelt Health Infrastructure Upgrade",
+    "evaluationDate": "2024-05-12",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 84,
+      "weight": 30,
+      "weightedScore": 25.2,
+      "comments": "Strong social returns, economic benefits through improved productivity"
+    },
+    "technicalFeasibility": {
+      "score": 86,
+      "weight": 20,
+      "weightedScore": 17.2,
+      "comments": "Standard hospital construction and equipment, local capacity available"
+    },
+    "financialSustainability": {
+      "score": 72,
+      "weight": 15,
+      "weightedScore": 10.8,
+      "comments": "Operational costs require significant budget allocation, limited cost recovery"
+    },
+    "socialImpact": {
+      "score": 96,
+      "weight": 15,
+      "weightedScore": 14.4,
+      "comments": "Critical health services for 950,000 people in mining communities"
+    },
+    "environmentalCompliance": {
+      "score": 88,
+      "weight": 10,
+      "weightedScore": 8.8,
+      "comments": "Medical waste management plans comprehensive and compliant"
+    },
+    "ndpAlignment": {
+      "score": 89,
+      "weight": 10,
+      "weightedScore": 8.9,
+      "comments": "Aligned with health systems strengthening priorities"
+    },
+    "totalScore": 85.3,
+    "recommendation": "Approved for Implementation",
+    "rankingPosition": 3,
+    "conditionalApproval": false,
+    "conditions": [],
+    "nextSteps": "Complete loan negotiations with World Bank",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Alice Mbewe",
+      "Mr. Joseph Siame",
+      "Eng. David Tembo"
+    ],
+    "approvalDate": "2024-05-19",
+    "approvedBy": "Permanent Secretary - National Planning"
+  },
+  {
+    "evaluationId": "PSE-2024-004",
+    "projectId": "PIM-2024-002",
+    "projectName": "Link Zambia 8000 Rural Connectivity Project",
+    "evaluationDate": "2024-05-08",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 82,
+      "weight": 30,
+      "weightedScore": 24.6,
+      "comments": "Economic IRR 16.8% driven by trade facilitation and market access"
+    },
+    "technicalFeasibility": {
+      "score": 79,
+      "weight": 20,
+      "weightedScore": 15.8,
+      "comments": "Complex terrain challenges, requires experienced contractor"
+    },
+    "financialSustainability": {
+      "score": 80,
+      "weight": 15,
+      "weightedScore": 12.0,
+      "comments": "PPP structure reduces government financial burden"
+    },
+    "socialImpact": {
+      "score": 93,
+      "weight": 15,
+      "weightedScore": 13.95,
+      "comments": "Connects 780,000 rural residents to markets and services"
+    },
+    "environmentalCompliance": {
+      "score": 76,
+      "weight": 10,
+      "weightedScore": 7.6,
+      "comments": "EIA required for sensitive ecological areas along route"
+    },
+    "ndpAlignment": {
+      "score": 88,
+      "weight": 10,
+      "weightedScore": 8.8,
+      "comments": "Strong alignment with rural development and connectivity goals"
+    },
+    "totalScore": 82.75,
+    "recommendation": "Conditionally Approved",
+    "rankingPosition": 4,
+    "conditionalApproval": true,
+    "conditions": [
+      "Complete Environmental Impact Assessment for protected areas",
+      "Finalize PPP concession agreement",
+      "Secure land acquisition clearances"
+    ],
+    "nextSteps": "Address conditional requirements within 90 days",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Eng. Patrick Lungu",
+      "Mr. Brighton Sikazwe",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-005",
+    "projectId": "PIM-2024-001",
+    "projectName": "Kafue Gorge Lower Hydro Expansion Phase II",
+    "evaluationDate": "2024-04-25",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 79,
+      "weight": 30,
+      "weightedScore": 23.7,
+      "comments": "Solid economic returns but Phase I lessons need incorporation"
+    },
+    "technicalFeasibility": {
+      "score": 85,
+      "weight": 20,
+      "weightedScore": 17.0,
+      "comments": "Proven technology, builds on Phase I infrastructure"
+    },
+    "financialSustainability": {
+      "score": 81,
+      "weight": 15,
+      "weightedScore": 12.15,
+      "comments": "Power purchase agreements provide revenue certainty"
+    },
+    "socialImpact": {
+      "score": 86,
+      "weight": 15,
+      "weightedScore": 12.9,
+      "comments": "Energy security benefits, some resettlement concerns"
+    },
+    "environmentalCompliance": {
+      "score": 70,
+      "weight": 10,
+      "weightedScore": 7.0,
+      "comments": "Environmental mitigation from Phase I needs strengthening"
+    },
+    "ndpAlignment": {
+      "score": 91,
+      "weight": 10,
+      "weightedScore": 9.1,
+      "comments": "Critical for national energy security objectives"
+    },
+    "totalScore": 81.85,
+    "recommendation": "Conditionally Approved",
+    "rankingPosition": 5,
+    "conditionalApproval": true,
+    "conditions": [
+      "Enhanced environmental monitoring framework",
+      "Comprehensive resettlement action plan",
+      "Independent technical review of Phase I performance"
+    ],
+    "nextSteps": "Submit revised environmental and social safeguards plan",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Eng. David Tembo",
+      "Dr. Alice Mbewe",
+      "Mr. Joseph Siame"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-006",
+    "projectId": "PIM-2024-007",
+    "projectName": "Tourism Infrastructure Development - Livingstone",
+    "evaluationDate": "2024-05-05",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 80,
+      "weight": 30,
+      "weightedScore": 24.0,
+      "comments": "Strong potential with IRR 20.4%, market demand confirmed"
+    },
+    "technicalFeasibility": {
+      "score": 83,
+      "weight": 20,
+      "weightedScore": 16.6,
+      "comments": "Standard tourism infrastructure, private sector interest confirmed"
+    },
+    "financialSustainability": {
+      "score": 77,
+      "weight": 15,
+      "weightedScore": 11.55,
+      "comments": "PPP model reduces fiscal burden, revenue sharing negotiated"
+    },
+    "socialImpact": {
+      "score": 84,
+      "weight": 15,
+      "weightedScore": 12.6,
+      "comments": "Employment creation and local business opportunities significant"
+    },
+    "environmentalCompliance": {
+      "score": 81,
+      "weight": 10,
+      "weightedScore": 8.1,
+      "comments": "Heritage site considerations addressed, tourism sustainability plan in place"
+    },
+    "ndpAlignment": {
+      "score": 85,
+      "weight": 10,
+      "weightedScore": 8.5,
+      "comments": "Supports tourism diversification strategy"
+    },
+    "totalScore": 81.35,
+    "recommendation": "Approved for Implementation",
+    "rankingPosition": 6,
+    "conditionalApproval": false,
+    "conditions": [],
+    "nextSteps": "Finalize PPP concession and commence procurement",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Ms. Thandiwe Zulu",
+      "Mr. Brighton Sikazwe",
+      "Eng. Patrick Lungu"
+    ],
+    "approvalDate": "2024-05-14",
+    "approvedBy": "Permanent Secretary - National Planning"
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  },
+  {
+    "evaluationId": "PSE-2024-007",
+    "projectId": "PIM-2024-006",
+    "projectName": "Eastern Province Irrigation Development",
+    "evaluationDate": "2024-05-02",
+    "evaluationPanel": "Public Investment Committee",
+    "panelChair": "Dr. Musonda Kapembwa",
+    "economicViability": {
+      "score": 75,
+      "weight": 30,
+      "weightedScore": 22.5,
+      "comments": "Economic returns positive but dependent on farmer adoption rates"
+    },
+    "technicalFeasibility": {
+      "score": 78,
+      "weight": 20,
+      "weightedScore": 15.6,
+      "comments": "Water resources adequate, scheme design requires refinement"
+    },
+    "financialSustainability": {
+      "score": 68,
+      "weight": 15,
+      "weightedScore": 10.2,
+      "comments": "Operation and maintenance cost recovery mechanism unclear"
+    },
+    "socialImpact": {
+      "score": 87,
+      "weight": 15,
+      "weightedScore": 13.05,
+      "comments": "Direct benefit to 125,000 smallholder farmers, food security impact"
+    },
+    "environmentalCompliance": {
+      "score": 74,
+      "weight": 10,
+      "weightedScore": 7.4,
+      "comments": "Water use permits required, downstream impact assessment needed"
+    },
+    "ndpAlignment": {
+      "score": 86,
+      "weight": 10,
+      "weightedScore": 8.6,
+      "comments": "Aligned with food security and agricultural diversification"
+    },
+    "totalScore": 77.35,
+    "recommendation": "Deferred for Revision",
+    "rankingPosition": 7,
+    "conditionalApproval": false,
+    "conditions": [
+      "Develop comprehensive O&M cost recovery strategy",
+      "Complete water resources assessment and permits",
+      "Strengthen farmer capacity building component",
+      "Refine irrigation scheme design"
+    ],
+    "nextSteps": "Resubmit with revised feasibility study addressing identified gaps",
+    "evaluators": [
+      "Dr. Musonda Kapembwa",
+      "Dr. Catherine Mwanza",
+      "Eng. David Tembo",
+      "Ms. Grace Nkandu"
+    ],
+    "approvalDate": null,
+    "approvedBy": null
+  }
+]

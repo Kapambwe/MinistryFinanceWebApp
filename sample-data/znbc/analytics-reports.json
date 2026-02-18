@@ -1,0 +1,1055 @@
+[
+  {
+    "id": "AR-2024-001",
+    "reportName": "Monthly Budget Execution Dashboard",
+    "category": "Budget Management",
+    "description": "Comprehensive monthly budget execution analysis across all ministries and budget lines",
+    "reportType": "Recurring",
+    "frequency": "Monthly",
+    "owner": "Ministry of Finance - Budget Office",
+    "createdDate": "2024-01-05T08:00:00Z",
+    "status": "Active",
+    "lastGenerated": "2024-02-01T06:00:00Z",
+    "nextScheduled": "2024-03-01T06:00:00Z",
+    "dataSource": [
+      "IFMIS",
+      "Budget Execution Database"
+    ],
+    "outputFormat": [
+      "PDF",
+      "Excel",
+      "Interactive Dashboard"
+    ],
+    "sections": [
+      {
+        "name": "Executive Summary",
+        "description": "High-level budget execution metrics and trends"
+      },
+      {
+        "name": "Ministry-Level Analysis",
+        "description": "Detailed execution by ministry and department"
+      },
+      {
+        "name": "Budget Line Performance",
+        "description": "Analysis by economic classification"
+      },
+      {
+        "name": "Variance Analysis",
+        "description": "Budget vs. actual with explanations"
+      },
+      {
+        "name": "Recommendations",
+        "description": "Actionable insights and recommendations"
+      }
+    ],
+    "distribution": [
+      "Secretary to Treasury",
+      "Permanent Secretaries",
+      "Budget Committee",
+      "Cabinet Office"
+    ],
+    "subscribers": 45,
+    "avgViewTime": 18
+  },
+  {
+    "id": "AR-2024-002",
+    "reportName": "Revenue Performance Analytics",
+    "category": "Revenue Management",
+    "description": "Detailed analysis of revenue collection performance by source, sector, and region",
+    "reportType": "Recurring",
+    "frequency": "Monthly",
+    "owner": "Zambia Revenue Authority",
+    "createdDate": "2024-01-08T09:00:00Z",
+    "status": "Active",
+    "lastGenerated": "2024-02-02T07:00:00Z",
+    "nextScheduled": "2024-03-02T07:00:00Z",
+    "dataSource": [
+      "Tax Management System",
+      "Customs System",
+      "ZRA Database"
+    ],
+    "outputFormat": [
+      "PDF",
+      "Excel",
+      "Power BI"
+    ],
+    "sections": [
+      {
+        "name": "Overall Revenue Performance",
+        "description": "Total collections vs. targets"
+      },
+      {
+        "name": "Tax Type Analysis",
+        "description": "Performance by tax category (VAT, PAYE, Corporate, etc.)"
+      },
+      {
+        "name": "Sector Analysis",
+        "description": "Revenue contribution by economic sector"
+      },
+      {
+        "name": "Compliance Trends",
+        "description": "Taxpayer compliance metrics and trends"
+      },
+      {
+        "name": "Forecasting",
+        "description": "Revenue projections for upcoming quarters"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Commissioner General ZRA",
+      "Secretary to Treasury",
+      "IMF Mission Team"
+    ],
+    "subscribers": 28,
+    "avgViewTime": 22
+  },
+  {
+    "id": "AR-2024-003",
+    "reportName": "Procurement Analytics Report",
+    "category": "Procurement",
+    "description": "Comprehensive procurement performance metrics including cycle times, savings, and compliance",
+    "reportType": "Recurring",
+    "frequency": "Quarterly",
+    "owner": "Zambia Public Procurement Authority",
+    "createdDate": "2024-01-10T10:00:00Z",
+    "status": "Active",
+    "lastGenerated": "2024-01-15T08:00:00Z",
+    "nextScheduled": "2024-04-15T08:00:00Z",
+    "dataSource": [
+      "E-Procurement Platform",
+      "Contract Management System"
+    ],
+    "outputFormat": [
+      "PDF",
+      "Interactive Dashboard"
+    ],
+    "sections": [
+      {
+        "name": "Procurement Volume and Value",
+        "description": "Total procurement activity by ministry and category"
+      },
+      {
+        "name": "Process Efficiency",
+        "description": "Cycle time analysis and bottleneck identification"
+      },
+      {
+        "name": "Competition Analysis",
+        "description": "Average bids per tender and vendor diversity"
+      },
+      {
+        "name": "Savings Achieved",
+        "description": "Procurement savings vs. market benchmarks"
+      },
+      {
+        "name": "Compliance Metrics",
+        "description": "Adherence to procurement regulations"
+      }
+    ],
+    "distribution": [
+      "Secretary to Treasury",
+      "ZPPA Director General",
+      "Procurement Officers Network",
+      "Development Partners"
+    ],
+    "subscribers": 67,
+    "avgViewTime": 25
+  },
+  {
+    "id": "AR-2024-004",
+    "reportName": "Audit Findings Dashboard",
+    "category": "Audit & Compliance",
+    "description": "Tracking and analysis of audit findings, implementation status, and trends",
+    "reportType": "Recurring",
+    "frequency": "Quarterly",
+    "owner": "Office of the Auditor General",
+    "createdDate": "2024-01-12T11:00:00Z",
+    "status": "Active",
+    "lastGenerated": "2024-01-20T09:00:00Z",
+    "nextScheduled": "2024-04-20T09:00:00Z",
+    "dataSource": [
+      "Audit Management System",
+      "Entity Response Database"
+    ],
+    "outputFormat": [
+      "PDF",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Findings Summary",
+        "description": "Total findings by entity and severity"
+      },
+      {
+        "name": "Implementation Status",
+        "description": "Progress on audit recommendation implementation"
+      },
+      {
+        "name": "Recurring Issues",
+        "description": "Analysis of repeat findings across years"
+      },
+      {
+        "name": "Financial Impact",
+        "description": "Monetary value of findings and recoveries"
+      },
+      {
+        "name": "Entity Performance",
+        "description": "Compliance scores and rankings"
+      }
+    ],
+    "distribution": [
+      "Auditor General",
+      "Public Accounts Committee",
+      "Secretary to Cabinet",
+      "Controlling Officers"
+    ],
+    "subscribers": 125,
+    "avgViewTime": 32
+  },
+  {
+    "id": "AR-2024-005",
+    "reportName": "Grant Performance Report",
+    "category": "Aid Management",
+    "description": "Analysis of grant utilization, disbursement performance, and donor compliance",
+    "reportType": "Recurring",
+    "frequency": "Quarterly",
+    "owner": "Ministry of Finance - Aid Coordination",
+    "createdDate": "2024-01-14T09:30:00Z",
+    "status": "Active",
+    "lastGenerated": "2024-01-22T10:00:00Z",
+    "nextScheduled": "2024-04-22T10:00:00Z",
+    "dataSource": [
+      "Aid Management Platform",
+      "Donor Databases",
+      "IFMIS"
+    ],
+    "outputFormat": [
+      "PDF",
+      "Excel",
+      "Interactive Report"
+    ],
+    "sections": [
+      {
+        "name": "Grant Portfolio Overview",
+        "description": "Total grant commitments and disbursements by donor"
+      },
+      {
+        "name": "Utilization Analysis",
+        "description": "Grant spending vs. commitments"
+      },
+      {
+        "name": "Disbursement Performance",
+        "description": "Timeliness of donor fund releases"
+      },
+      {
+        "name": "Compliance Status",
+        "description": "Adherence to grant conditions and reporting"
+      },
+      {
+        "name": "Project Performance",
+        "description": "Grant-funded project outcomes and impacts"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Development Partners",
+      "Aid Coordination Committee",
+      "Implementing Ministries"
+    ],
+    "subscribers": 38,
+    "avgViewTime": 28
+  },
+  {
+    "id": "AR-2024-006",
+    "reportName": "Project Portfolio Performance",
+    "category": "Project Management",
+    "description": "Comprehensive analysis of government project portfolio including completion rates and budget performance",
+    "reportType": "Recurring",
+    "frequency": "Quarterly",
+    "owner": "National Planning & Development",
+    "createdDate": "2024-01-16T10:00:00Z",
+    "status": "Active",
+    "lastGenerated": "2024-01-28T08:00:00Z",
+    "nextScheduled": "2024-04-28T08:00:00Z",
+    "dataSource": [
+      "Project Management System",
+      "Budget Database",
+      "M&E Platform"
+    ],
+    "outputFormat": [
+      "PDF",
+      "Power BI Dashboard"
+    ],
+    "sections": [
+      {
+        "name": "Portfolio Overview",
+        "description": "Total projects by sector, status, and value"
+      },
+      {
+        "name": "Completion Performance",
+        "description": "On-time and on-budget completion metrics"
+      },
+      {
+        "name": "Budget Utilization",
+        "description": "Project budget execution and variance"
+      },
+      {
+        "name": "Risk Assessment",
+        "description": "At-risk projects and mitigation strategies"
+      },
+      {
+        "name": "Impact Analysis",
+        "description": "Socioeconomic outcomes and benefits realized"
+      }
+    ],
+    "distribution": [
+      "President's Office",
+      "Cabinet",
+      "Line Ministries",
+      "Development Partners"
+    ],
+    "subscribers": 52,
+    "avgViewTime": 35
+  },
+  {
+    "id": "AR-2024-007",
+    "reportName": "Debt Management Report",
+    "category": "Debt & Fiscal Risk",
+    "description": "Comprehensive debt portfolio analysis including sustainability metrics and risk indicators",
+    "reportType": "Recurring",
+    "frequency": "Quarterly",
+    "owner": "Ministry of Finance - Debt Management Office",
+    "createdDate": "2024-01-18T11:00:00Z",
+    "status": "Active",
+    "lastGenerated": "2024-01-25T09:00:00Z",
+    "nextScheduled": "2024-04-25T09:00:00Z",
+    "dataSource": [
+      "Debt Management System",
+      "Budget Database",
+      "Central Bank Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Debt Stock Analysis",
+        "description": "Total debt by type, currency, and creditor"
+      },
+      {
+        "name": "Debt Service Obligations",
+        "description": "Upcoming payments and cash flow requirements"
+      },
+      {
+        "name": "Sustainability Indicators",
+        "description": "Debt-to-GDP, debt service ratios, and trends"
+      },
+      {
+        "name": "Risk Assessment",
+        "description": "Exchange rate, interest rate, and refinancing risks"
+      },
+      {
+        "name": "Borrowing Plans",
+        "description": "Planned borrowing and debt strategy"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Bank of Zambia",
+      "IMF Mission",
+      "Credit Rating Agencies"
+    ],
+    "subscribers": 22,
+    "avgViewTime": 40
+  },
+  {
+    "id": "AR-2024-008",
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2024-01-20T13:00:00Z",
+    "status": "Active",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 9,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2023-08-16T00:00:00",
+    "status": "Approved",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 10,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2023-12-04T00:00:00",
+    "status": "Approved",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 11,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2024-03-24T00:00:00",
+    "status": "Completed",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 12,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2023-06-09T00:00:00",
+    "status": "Pending",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 13,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2024-03-17T00:00:00",
+    "status": "Active",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 14,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2023-01-20T00:00:00",
+    "status": "Released",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 15,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2023-08-26T00:00:00",
+    "status": "Released",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 16,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2023-11-26T00:00:00",
+    "status": "In Progress",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 17,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2023-01-24T00:00:00",
+    "status": "Pending",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 18,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2023-03-25T00:00:00",
+    "status": "Active",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 19,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2024-07-08T00:00:00",
+    "status": "Active",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  },
+  {
+    "id": 20,
+    "reportName": "Fiscal Risk Dashboard",
+    "category": "Risk Management",
+    "description": "Identification and monitoring of key fiscal risks including contingent liabilities and macroeconomic vulnerabilities",
+    "reportType": "Ad Hoc",
+    "frequency": "As Needed",
+    "owner": "Ministry of Finance - Macro-Fiscal Unit",
+    "createdDate": "2024-07-03T00:00:00",
+    "status": "Cancelled",
+    "lastGenerated": "2024-01-30T10:00:00Z",
+    "nextScheduled": null,
+    "dataSource": [
+      "Multiple Government Databases",
+      "Bank of Zambia",
+      "External Data"
+    ],
+    "outputFormat": [
+      "PDF",
+      "PowerPoint",
+      "Excel"
+    ],
+    "sections": [
+      {
+        "name": "Risk Matrix",
+        "description": "Categorization of risks by likelihood and impact"
+      },
+      {
+        "name": "Contingent Liabilities",
+        "description": "SOE guarantees, PPPs, and other contingent claims"
+      },
+      {
+        "name": "Macroeconomic Risks",
+        "description": "Exchange rate, commodity price, and growth risks"
+      },
+      {
+        "name": "Mitigation Strategies",
+        "description": "Risk management approaches and buffers"
+      },
+      {
+        "name": "Scenario Analysis",
+        "description": "Fiscal impact under different risk scenarios"
+      }
+    ],
+    "distribution": [
+      "Minister of Finance",
+      "Secretary to Treasury",
+      "Cabinet Economic Committee",
+      "IMF Fiscal Affairs Department"
+    ],
+    "subscribers": 18,
+    "avgViewTime": 45
+  }
+]

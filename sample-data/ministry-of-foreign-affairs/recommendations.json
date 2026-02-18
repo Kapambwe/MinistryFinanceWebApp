@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "REC-2024-001",
+    "recommendationType": "Process Improvement",
+    "category": "Procurement",
+    "title": "Implement E-Procurement Platform",
+    "description": "Deploy electronic procurement system to reduce processing times and improve transparency across all ministries",
+    "priority": "High",
+    "generatedDate": "2024-01-15T09:00:00Z",
+    "targetEntity": "All Ministries",
+    "confidenceScore": 0.94,
+    "impactAssessment": {
+      "estimatedSavings": 45000000.0,
+      "timeReduction": 42.0,
+      "efficiencyGain": 65.0,
+      "riskReduction": 35.0
+    },
+    "implementation": {
+      "estimatedCost": 12500000.0,
+      "timeline": "6 months",
+      "complexity": "Medium",
+      "requiredResources": [
+        "ICT infrastructure upgrade",
+        "Software licensing",
+        "Staff training",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Reduced procurement cycle time from 45 to 26 days",
+      "Improved vendor competition and pricing",
+      "Enhanced audit trail and transparency",
+      "Real-time procurement monitoring",
+      "Reduced paper-based documentation"
+    ],
+    "risks": [
+      "User adoption challenges",
+      "Internet connectivity in rural areas",
+      "Initial learning curve"
+    ],
+    "basedOn": [
+      "Procurement efficiency analysis",
+      "International best practices",
+      "Stakeholder consultations"
+    ],
+    "status": "Approved",
+    "approvalDate": "2024-01-28T00:00:00Z",
+    "implementationStartDate": "2024-02-15T00:00:00Z",
+    "currency": "ZMW"
+  },
+  {
+    "id": "REC-2024-002",
+    "recommendationType": "Budget Optimization",
+    "category": "Resource Allocation",
+    "title": "Revise Health Budget Allocation Formula",
+    "description": "Adjust district health budget allocation to incorporate disease burden and population demographics alongside per capita metrics",
+    "priority": "High",
+    "generatedDate": "2024-01-18T10:30:00Z",
+    "targetEntity": "Ministry of Health",
+    "confidenceScore": 0.91,
+    "impactAssessment": {
+      "estimatedSavings": 0.0,
+      "equityImprovement": 48.0,
+      "healthOutcomeImprovement": 22.0,
+      "beneficiaryIncrease": 850000
+    },
+    "implementation": {
+      "estimatedCost": 2500000.0,
+      "timeline": "3 months",
+      "complexity": "Medium",
+      "requiredResources": [
+        "Epidemiological data analysis",
+        "Budget modeling software",
+        "Stakeholder consultations",
+        "Policy revision support"
+      ]
+    },
+    "benefits": [
+      "More equitable health service delivery",
+      "Improved health outcomes in underserved areas",
+      "Better alignment with disease burden",
+      "Enhanced resource efficiency",
+      "Reduced health disparities"
+    ],
+    "risks": [
+      "Resistance from currently favored districts",
+      "Data quality challenges",
+      "Political sensitivities"
+    ],
+    "basedOn": [
+      "District health expenditure analysis",
+      "WHO allocation guidelines",
+      "Equity assessment findings"
+    ],
+    "status": "Under Review",
+    "approvalDate": null,
+    "implementationStartDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": "REC-2024-003",
+    "recommendationType": "Risk Mitigation",
+    "category": "Fraud Prevention",
+    "title": "Strengthen Vendor Verification Process",
+    "description": "Implement enhanced due diligence procedures including beneficial ownership verification and cross-vendor relationship mapping",
+    "priority": "Critical",
+    "generatedDate": "2024-01-20T14:15:00Z",
+    "targetEntity": "Public Procurement Authority",
+    "confidenceScore": 0.96,
+    "impactAssessment": {
+      "riskReduction": 72.0,
+      "fraudPrevention": 85.0,
+      "complianceImprovement": 38.0,
+      "estimatedSavings": 28000000.0
+    },
+    "implementation": {
+      "estimatedCost": 3800000.0,
+      "timeline": "4 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Vendor database enhancement",
+        "Integration with PACRA and ZRA systems",
+        "Staff training on due diligence",
+        "AI-powered relationship mapping tool"
+      ]
+    },
+    "benefits": [
+      "Detection of shell companies and fronts",
+      "Identification of collusion patterns",
+      "Prevention of conflict of interest",
+      "Enhanced vendor quality",
+      "Improved public trust"
+    ],
+    "risks": [
+      "Increased vendor registration timeline",
+      "System integration challenges",
+      "Privacy concerns"
+    ],
+    "basedOn": [
+      "Vendor pattern anomaly detection",
+      "Fraud case analysis",
+      "International procurement standards"
+    ],
+    "status": "Approved",
+    "approvalDate": "2024-01-26T00:00:00Z",
+    "implementationStartDate": "2024-02-05T00:00:00Z",
+    "currency": "ZMW"
+  },
+  {
+    "id": "REC-2024-004",
+    "recommendationType": "Efficiency Improvement",
+    "category": "Asset Management",
+    "title": "Implement Centralized Vehicle Booking System",
+    "description": "Deploy government-wide vehicle booking and tracking system to optimize fleet utilization and reduce operational costs",
+    "priority": "Medium",
+    "generatedDate": "2024-01-22T11:20:00Z",
+    "targetEntity": "All Government Ministries",
+    "confidenceScore": 0.89,
+    "impactAssessment": {
+      "estimatedSavings": 12300000.0,
+      "utilizationImprovement": 38.0,
+      "maintenanceCostReduction": 22.0,
+      "fuelSavings": 15.0
+    },
+    "implementation": {
+      "estimatedCost": 4200000.0,
+      "timeline": "5 months",
+      "complexity": "Medium",
+      "requiredResources": [
+        "Fleet management software",
+        "GPS tracking devices",
+        "Mobile application development",
+        "Driver and staff training"
+      ]
+    },
+    "benefits": [
+      "Optimized vehicle utilization rates",
+      "Reduced fuel and maintenance costs",
+      "Better accountability and tracking",
+      "Data-driven fleet sizing decisions",
+      "Improved service delivery"
+    ],
+    "risks": [
+      "User resistance to change",
+      "Initial scheduling conflicts",
+      "Technical support requirements"
+    ],
+    "basedOn": [
+      "Fleet utilization analysis",
+      "Cost-benefit analysis",
+      "Best practices from other governments"
+    ],
+    "status": "Pending Approval",
+    "approvalDate": null,
+    "implementationStartDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": "REC-2024-005",
+    "recommendationType": "Revenue Enhancement",
+    "category": "Tax Administration",
+    "title": "Deploy AI-Powered Mining Royalty Monitoring",
+    "description": "Implement real-time production monitoring and AI anomaly detection for mining sector royalty compliance",
+    "priority": "High",
+    "generatedDate": "2024-01-24T15:45:00Z",
+    "targetEntity": "Zambia Revenue Authority",
+    "confidenceScore": 0.87,
+    "impactAssessment": {
+      "estimatedRevenue": 28400000.0,
+      "complianceImprovement": 13.5,
+      "detectionRate": 92.0,
+      "auditEfficiency": 45.0
+    },
+    "implementation": {
+      "estimatedCost": 8500000.0,
+      "timeline": "8 months",
+      "complexity": "High",
+      "requiredResources": [
+        "IoT sensors and monitoring equipment",
+        "AI/ML platform and algorithms",
+        "Data integration infrastructure",
+        "Technical staff hiring and training"
+      ]
+    },
+    "benefits": [
+      "Increased mining royalty collection",
+      "Real-time production visibility",
+      "Automated anomaly flagging",
+      "Reduced revenue leakage",
+      "Enhanced compliance culture"
+    ],
+    "risks": [
+      "Mining company resistance",
+      "Technical implementation challenges",
+      "High upfront investment",
+      "Skilled personnel requirements"
+    ],
+    "basedOn": [
+      "Mining sector revenue analysis",
+      "International tax technology trends",
+      "Compliance gap assessment"
+    ],
+    "status": "Approved",
+    "approvalDate": "2024-01-30T00:00:00Z",
+    "implementationStartDate": "2024-03-01T00:00:00Z",
+    "currency": "ZMW"
+  },
+  {
+    "id": "REC-2024-006",
+    "recommendationType": "Capacity Building",
+    "category": "Human Resources",
+    "title": "Establish Rural District Finance Training Program",
+    "description": "Create targeted capacity building program for financial management staff in rural district councils",
+    "priority": "Medium",
+    "generatedDate": "2024-01-26T09:30:00Z",
+    "targetEntity": "Ministry of Local Government",
+    "confidenceScore": 0.93,
+    "impactAssessment": {
+      "capacityImprovement": 55.0,
+      "complianceImprovement": 28.0,
+      "errorReduction": 42.0,
+      "personnelTrained": 350
+    },
+    "implementation": {
+      "estimatedCost": 5600000.0,
+      "timeline": "12 months",
+      "complexity": "Medium",
+      "requiredResources": [
+        "Training curriculum development",
+        "Certified trainers",
+        "Training facilities and materials",
+        "E-learning platform",
+        "Ongoing mentorship program"
+      ]
+    },
+    "benefits": [
+      "Improved financial management capacity",
+      "Reduced compliance failures",
+      "Better quality financial reporting",
+      "Enhanced audit outcomes",
+      "Career development for staff"
+    ],
+    "risks": [
+      "Staff turnover after training",
+      "Funding sustainability",
+      "Logistical challenges in remote areas"
+    ],
+    "basedOn": [
+      "District compliance analysis",
+      "Capacity needs assessment",
+      "Skills gap evaluation"
+    ],
+    "status": "Under Review",
+    "approvalDate": null,
+    "implementationStartDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": "REC-2024-007",
+    "recommendationType": "Policy Reform",
+    "category": "Budget Planning",
+    "title": "Implement Multi-Year Budget Framework",
+    "description": "Transition from annual to multi-year (3-year) budget planning to improve fiscal sustainability and project planning",
+    "priority": "High",
+    "generatedDate": "2024-01-28T13:00:00Z",
+    "targetEntity": "Ministry of Finance",
+    "confidenceScore": 0.9,
+    "impactAssessment": {
+      "planningImprovement": 68.0,
+      "fiscalStability": 45.0,
+      "projectSuccessRate": 32.0,
+      "investorConfidence": 25.0
+    },
+    "implementation": {
+      "estimatedCost": 6800000.0,
+      "timeline": "18 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Legislative amendments",
+        "Budget system redesign",
+        "Forecasting models development",
+        "Stakeholder consultation",
+        "Staff training across all ministries"
+      ]
+    },
+    "benefits": [
+      "Better medium-term fiscal planning",
+      "Improved project completion rates",
+      "Enhanced predictability for ministries",
+      "Stronger investor confidence",
+      "Alignment with development plans"
+    ],
+    "risks": [
+      "Economic volatility affecting forecasts",
+      "Legislative approval challenges",
+      "Significant change management needs",
+      "Political commitment requirements"
+    ],
+    "basedOn": [
+      "International best practices",
+      "IMF fiscal framework guidelines",
+      "Regional peer country experiences"
+    ],
+    "status": "Pending Approval",
+    "approvalDate": null,
+    "implementationStartDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": "REC-2024-008",
+    "recommendationType": "Technology Adoption",
+    "category": "Financial Management",
+    "title": "Deploy Blockchain for Grant Tracking",
+    "description": "Implement blockchain-based system for end-to-end grant fund tracking and transparency in donor-funded projects",
+    "priority": "Medium",
+    "generatedDate": "2024-01-30T16:20:00Z",
+    "targetEntity": "National Planning & Development",
+    "confidenceScore": 0.82,
+    "impactAssessment": {
+      "transparencyImprovement": 85.0,
+      "auditEfficiency": 58.0,
+      "donorConfidence": 42.0,
+      "fraudReduction": 67.0
+    },
+    "implementation": {
+      "estimatedCost": 9200000.0,
+      "timeline": "10 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Blockchain platform development",
+        "Integration with existing systems",
+        "Smart contract development",
+        "Security infrastructure",
+        "Training and change management"
+      ]
+    },
+    "benefits": [
+      "Immutable grant transaction records",
+      "Real-time fund flow visibility",
+      "Automated compliance verification",
+      "Reduced reconciliation efforts",
+      "Enhanced donor trust"
+    ],
+    "risks": [
+      "Technology complexity",
+      "High implementation cost",
+      "Limited local expertise",
+      "Integration challenges"
+    ],
+    "basedOn": [
+      "Grant management challenges",
+      "Emerging technology assessment",
+      "Donor feedback and requirements"
+    ],
+    "status": "Under Review",
+    "approvalDate": null,
+    "implementationStartDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": "REC-2024-009",
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2024-02-01T10:45:00Z",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "Approved",
+    "approvalDate": "2024-02-05T00:00:00Z",
+    "implementationStartDate": "2024-03-15T00:00:00Z",
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2023-07-10T00:00:00",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "Approved",
+    "approvalDate": "2024-07-14T00:00:00",
+    "implementationStartDate": "2024-01-07T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2024-09-17T00:00:00",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "Pending",
+    "approvalDate": "2023-05-15T00:00:00",
+    "implementationStartDate": "2023-05-08T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2023-06-03T00:00:00",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "Active",
+    "approvalDate": "2023-11-15T00:00:00",
+    "implementationStartDate": "2024-12-07T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2023-04-14T00:00:00",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "In Progress",
+    "approvalDate": "2024-09-28T00:00:00",
+    "implementationStartDate": "2024-08-21T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2024-09-28T00:00:00",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "In Progress",
+    "approvalDate": "2024-04-21T00:00:00",
+    "implementationStartDate": "2024-02-24T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2024-08-26T00:00:00",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "Completed",
+    "approvalDate": "2024-08-14T00:00:00",
+    "implementationStartDate": "2023-10-23T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2023-11-23T00:00:00",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "Released",
+    "approvalDate": "2024-12-12T00:00:00",
+    "implementationStartDate": "2023-05-02T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2024-11-24T00:00:00",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "Released",
+    "approvalDate": "2023-01-11T00:00:00",
+    "implementationStartDate": "2024-05-15T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2024-10-24T00:00:00",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "Pending",
+    "approvalDate": "2024-01-19T00:00:00",
+    "implementationStartDate": "2023-01-23T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2024-03-09T00:00:00",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "Approved",
+    "approvalDate": "2023-05-13T00:00:00",
+    "implementationStartDate": "2023-04-03T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "recommendationType": "Compliance Enhancement",
+    "category": "Audit",
+    "title": "Establish Continuous Audit Monitoring System",
+    "description": "Implement automated continuous audit monitoring to replace periodic manual audits for real-time compliance assurance",
+    "priority": "High",
+    "generatedDate": "2024-02-17T00:00:00",
+    "targetEntity": "Office of the Auditor General",
+    "confidenceScore": 0.95,
+    "impactAssessment": {
+      "detectionSpeed": 92.0,
+      "auditCoverage": 78.0,
+      "preventiveControl": 65.0,
+      "costEfficiency": 38.0
+    },
+    "implementation": {
+      "estimatedCost": 11500000.0,
+      "timeline": "9 months",
+      "complexity": "High",
+      "requiredResources": [
+        "Audit analytics software",
+        "Data integration infrastructure",
+        "AI/ML audit algorithms",
+        "Auditor training on new tools",
+        "Change management support"
+      ]
+    },
+    "benefits": [
+      "Real-time identification of anomalies",
+      "Increased audit coverage from 25% to 95%",
+      "Faster issue detection and resolution",
+      "Shift from reactive to preventive auditing",
+      "Better resource allocation"
+    ],
+    "risks": [
+      "High initial investment",
+      "Auditor role transformation concerns",
+      "Data quality dependencies",
+      "System integration complexity"
+    ],
+    "basedOn": [
+      "Audit coverage gap analysis",
+      "Modern audit practices globally",
+      "Risk-based audit methodology"
+    ],
+    "status": "Active",
+    "approvalDate": "2024-02-01T00:00:00",
+    "implementationStartDate": "2023-12-04T00:00:00",
+    "currency": "ZMW"
+  }
+]

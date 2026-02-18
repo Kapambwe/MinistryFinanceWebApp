@@ -1,0 +1,736 @@
+[
+  {
+    "invoiceId": "INV-MOF-2024-0156",
+    "invoiceNumber": "2024/MOF/0156",
+    "invoiceDate": "2024-06-15T00:00:00Z",
+    "dueDate": "2024-07-15T00:00:00Z",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Treasury Department",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "1001234567",
+    "description": "Treasury management services and financial advisory - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Financial planning and budgeting support",
+        "quantity": 1,
+        "unitPrice": 125000.0,
+        "amount": 125000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Cash flow management services",
+        "quantity": 3,
+        "unitPrice": 75000.0,
+        "amount": 225000.0
+      }
+    ],
+    "subtotal": 350000.0,
+    "vatRate": 16.0,
+    "vatAmount": 56000.0,
+    "totalAmount": 406000.0,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentDate": "2024-07-10T00:00:00Z",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-AG-0789"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0167",
+    "invoiceNumber": "2024/MOF/0167",
+    "invoiceDate": "2024-06-20T00:00:00Z",
+    "dueDate": "2024-07-20T00:00:00Z",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Public Debt Management Office",
+    "billedTo": "Road Development Agency",
+    "billedToTaxId": "1001567890",
+    "description": "Debt advisory and loan management services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Loan negotiation and structuring services",
+        "quantity": 1,
+        "unitPrice": 500000.0,
+        "amount": 500000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Debt sustainability analysis",
+        "quantity": 1,
+        "unitPrice": 200000.0,
+        "amount": 200000.0
+      }
+    ],
+    "subtotal": 700000.0,
+    "vatRate": 16.0,
+    "vatAmount": 112000.0,
+    "totalAmount": 812000.0,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentDate": null,
+    "paymentMethod": null,
+    "paymentReference": null
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0178",
+    "invoiceNumber": "2024/MOF/0178",
+    "invoiceDate": "2024-06-25T00:00:00Z",
+    "dueDate": "2024-08-25T00:00:00Z",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Procurement and Supply Chain",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "1001345678",
+    "description": "Procurement management and compliance services - June 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Procurement process oversight",
+        "quantity": 5,
+        "unitPrice": 80000.0,
+        "amount": 400000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Supplier evaluation and verification",
+        "quantity": 8,
+        "unitPrice": 35000.0,
+        "amount": 280000.0
+      },
+      {
+        "itemNumber": 3,
+        "description": "Contract management support",
+        "quantity": 2,
+        "unitPrice": 125000.0,
+        "amount": 250000.0
+      }
+    ],
+    "subtotal": 930000.0,
+    "vatRate": 16.0,
+    "vatAmount": 148800.0,
+    "totalAmount": 1078800.0,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentDate": null,
+    "paymentMethod": null,
+    "paymentReference": null
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0142",
+    "invoiceNumber": "2024/MOF/0142",
+    "invoiceDate": "2024-06-05T00:00:00Z",
+    "dueDate": "2024-07-05T00:00:00Z",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Economic Management Department",
+    "billedTo": "Zambia Revenue Authority",
+    "billedToTaxId": "1001456789",
+    "description": "Economic policy analysis and revenue forecasting",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Quarterly economic review and analysis",
+        "quantity": 1,
+        "unitPrice": 275000.0,
+        "amount": 275000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Revenue projection modeling",
+        "quantity": 1,
+        "unitPrice": 185000.0,
+        "amount": 185000.0
+      }
+    ],
+    "subtotal": 460000.0,
+    "vatRate": 16.0,
+    "vatAmount": 73600.0,
+    "totalAmount": 533600.0,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentDate": "2024-07-02T00:00:00Z",
+    "paymentMethod": "Electronic Funds Transfer",
+    "paymentReference": "EFT-2024-ZRA-0456"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0189",
+    "invoiceNumber": "2024/MOF/0189",
+    "invoiceDate": "2024-06-28T00:00:00Z",
+    "dueDate": "2024-07-28T00:00:00Z",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Accountant General's Office",
+    "billedTo": "Ministry of Education",
+    "billedToTaxId": "1001678901",
+    "description": "Accounting and financial reporting services - June 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Financial statement preparation and review",
+        "quantity": 1,
+        "unitPrice": 350000.0,
+        "amount": 350000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Internal controls assessment",
+        "quantity": 1,
+        "unitPrice": 150000.0,
+        "amount": 150000.0
+      }
+    ],
+    "subtotal": 500000.0,
+    "vatRate": 16.0,
+    "vatAmount": 80000.0,
+    "totalAmount": 580000.0,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentDate": null,
+    "paymentMethod": null,
+    "paymentReference": null
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0195",
+    "invoiceNumber": "2024/MOF/0195",
+    "invoiceDate": "2024-07-02T00:00:00Z",
+    "dueDate": "2024-08-02T00:00:00Z",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Budget Office",
+    "billedTo": "Ministry of Transport and Logistics",
+    "billedToTaxId": "1001789012",
+    "description": "Budget planning and monitoring services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Budget preparation and submission support",
+        "quantity": 1,
+        "unitPrice": 225000.0,
+        "amount": 225000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Monthly budget performance monitoring",
+        "quantity": 3,
+        "unitPrice": 95000.0,
+        "amount": 285000.0
+      },
+      {
+        "itemNumber": 3,
+        "description": "Budget variance analysis and reporting",
+        "quantity": 3,
+        "unitPrice": 65000.0,
+        "amount": 195000.0
+      }
+    ],
+    "subtotal": 705000.0,
+    "vatRate": 16.0,
+    "vatAmount": 112800.0,
+    "totalAmount": 817800.0,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentDate": null,
+    "paymentMethod": null,
+    "paymentReference": null
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0201",
+    "invoiceNumber": "2024/MOF/0201",
+    "invoiceDate": "2024-07-08T00:00:00Z",
+    "dueDate": "2024-08-08T00:00:00Z",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Investment and Debt Management",
+    "billedTo": "National Pension Scheme Authority",
+    "billedToTaxId": "1001890123",
+    "description": "Investment portfolio management and advisory services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Portfolio performance analysis",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Investment strategy advisory",
+        "quantity": 2,
+        "unitPrice": 225000.0,
+        "amount": 450000.0
+      }
+    ],
+    "subtotal": 625000.0,
+    "vatRate": 16.0,
+    "vatAmount": 100000.0,
+    "totalAmount": 725000.0,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentDate": null,
+    "paymentMethod": null,
+    "paymentReference": null
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2024-05-30T00:00:00Z",
+    "dueDate": "2024-06-30T00:00:00Z",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 96000.0,
+    "totalAmount": 696000.0,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentDate": "2024-06-25T00:00:00Z",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2023-02-16T00:00:00",
+    "dueDate": "2023-03-30T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 10079042.08,
+    "totalAmount": 47575563.84,
+    "currency": "ZMW",
+    "status": "Posted",
+    "paymentDate": "2024-09-21T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2023-03-21T00:00:00",
+    "dueDate": "2023-08-13T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 13665607.75,
+    "totalAmount": 15528300.53,
+    "currency": "ZMW",
+    "status": "Cancelled",
+    "paymentDate": "2024-11-02T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2024-03-23T00:00:00",
+    "dueDate": "2023-01-11T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 30198507.66,
+    "totalAmount": 13345252.38,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentDate": "2024-09-20T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2023-03-06T00:00:00",
+    "dueDate": "2024-01-11T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 33949619.76,
+    "totalAmount": 23244859.54,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentDate": "2023-04-05T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2024-04-14T00:00:00",
+    "dueDate": "2023-11-14T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 44810061.35,
+    "totalAmount": 33967090.7,
+    "currency": "ZMW",
+    "status": "Cancelled",
+    "paymentDate": "2024-12-12T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2024-01-18T00:00:00",
+    "dueDate": "2023-10-02T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 34993796.04,
+    "totalAmount": 46222291.22,
+    "currency": "ZMW",
+    "status": "Released",
+    "paymentDate": "2023-03-15T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2023-06-14T00:00:00",
+    "dueDate": "2024-01-05T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 42360351.46,
+    "totalAmount": 1817427.06,
+    "currency": "ZMW",
+    "status": "Active",
+    "paymentDate": "2023-05-06T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2023-04-07T00:00:00",
+    "dueDate": "2023-02-16T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 10907601.26,
+    "totalAmount": 104002.51,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentDate": "2024-12-11T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2023-10-21T00:00:00",
+    "dueDate": "2023-01-01T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 41429951.56,
+    "totalAmount": 27817719.15,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentDate": "2024-01-31T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2023-05-09T00:00:00",
+    "dueDate": "2023-04-05T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 49461212.16,
+    "totalAmount": 5782427.7,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentDate": "2023-02-07T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2023-07-24T00:00:00",
+    "dueDate": "2023-03-25T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 22838129.06,
+    "totalAmount": 30301142.37,
+    "currency": "ZMW",
+    "status": "In Progress",
+    "paymentDate": "2023-03-15T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  },
+  {
+    "invoiceId": "INV-MOF-2024-0134",
+    "invoiceNumber": "2024/MOF/0134",
+    "invoiceDate": "2023-07-08T00:00:00",
+    "dueDate": "2023-02-20T00:00:00",
+    "issuingEntity": "Ministry of Finance",
+    "issuingDepartment": "Financial Intelligence Centre",
+    "billedTo": "Bank of Zambia",
+    "billedToTaxId": "1001901234",
+    "description": "Financial intelligence and anti-money laundering services",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Transaction monitoring and analysis",
+        "quantity": 1,
+        "unitPrice": 425000.0,
+        "amount": 425000.0
+      },
+      {
+        "itemNumber": 2,
+        "description": "Compliance training and support",
+        "quantity": 1,
+        "unitPrice": 175000.0,
+        "amount": 175000.0
+      }
+    ],
+    "subtotal": 600000.0,
+    "vatRate": 16.0,
+    "vatAmount": 49026636.74,
+    "totalAmount": 49384946.07,
+    "currency": "ZMW",
+    "status": "Completed",
+    "paymentDate": "2023-08-14T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "TRF-2024-BOZ-0567"
+  }
+]

@@ -1,0 +1,1379 @@
+[
+  {
+    "id": "BR-2024-001",
+    "recommendationType": "Budget Reallocation",
+    "category": "Resource Optimization",
+    "title": "Shift Education Budget to High-Enrollment Districts",
+    "description": "AI analysis recommends reallocating ZMW 185M from under-enrolled to over-enrolled districts to match actual demand",
+    "generatedDate": "2024-01-15T09:00:00Z",
+    "targetMinistry": "Ministry of Education",
+    "confidenceScore": 0.91,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "totalReallocation": 185000000.0,
+      "affectedBudgetLines": 8,
+      "beneficiaryDistricts": 15,
+      "sourceDistricts": 12
+    },
+    "currentSituation": {
+      "overEnrollmentDistricts": 15,
+      "avgOvercrowding": 48.5,
+      "underEnrollmentDistricts": 12,
+      "avgUnderutilization": 32.3
+    },
+    "proposedAllocation": [
+      {
+        "district": "Lusaka",
+        "currentBudget": 280000000.0,
+        "proposedBudget": 325000000.0,
+        "change": 45000000.0,
+        "justification": "Enrollment 35% above capacity"
+      },
+      {
+        "district": "Kitwe",
+        "currentBudget": 165000000.0,
+        "proposedBudget": 195000000.0,
+        "change": 30000000.0,
+        "justification": "Urban migration driving enrollment growth"
+      },
+      {
+        "district": "Mongu",
+        "currentBudget": 95000000.0,
+        "proposedBudget": 72000000.0,
+        "change": -23000000.0,
+        "justification": "Enrollment declining due to out-migration"
+      }
+    ],
+    "expectedOutcomes": [
+      "Reduce classroom overcrowding by 28%",
+      "Improve teacher-student ratio in 15 districts",
+      "Better alignment of resources with actual demand",
+      "Enhanced learning outcomes"
+    ],
+    "implementationSteps": [
+      "Obtain Cabinet approval for reallocation",
+      "Issue budget reallocation warrants",
+      "Adjust district budget ceilings",
+      "Communicate changes to affected districts"
+    ],
+    "risks": [
+      "Political resistance from losing districts",
+      "Mid-year reallocation complexity",
+      "Enrollment projections may change"
+    ],
+    "timeline": "2 months",
+    "status": "Pending Approval",
+    "currency": "ZMW"
+  },
+  {
+    "id": "BR-2024-002",
+    "recommendationType": "Budget Increase",
+    "category": "Service Expansion",
+    "title": "Increase Health Budget for Malaria Prevention",
+    "description": "Invest additional ZMW 95M in preventive malaria programs to reduce curative care costs and improve health outcomes",
+    "generatedDate": "2024-01-18T10:30:00Z",
+    "targetMinistry": "Ministry of Health",
+    "confidenceScore": 0.88,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "additionalInvestment": 95000000.0,
+      "projectedSavings": 235000000.0,
+      "netBenefit": 140000000.0,
+      "paybackPeriod": "18 months"
+    },
+    "currentSituation": {
+      "annualMalariaCases": 3500000,
+      "curativeCareSpend": 420000000.0,
+      "preventionSpend": 85000000.0,
+      "mortalityRate": 12.5
+    },
+    "proposedInvestment": [
+      {
+        "program": "Indoor Residual Spraying",
+        "investment": 45000000.0,
+        "coverage": "500,000 households",
+        "expectedReduction": 35.0
+      },
+      {
+        "program": "Insecticide-Treated Nets Distribution",
+        "investment": 30000000.0,
+        "coverage": "800,000 nets",
+        "expectedReduction": 22.0
+      },
+      {
+        "program": "Community Health Worker Training",
+        "investment": 20000000.0,
+        "coverage": "2,000 CHWs",
+        "expectedReduction": 8.0
+      }
+    ],
+    "expectedOutcomes": [
+      "Reduce malaria cases by 42% over 24 months",
+      "Save ZMW 235M in curative care costs",
+      "Reduce malaria mortality by 48%",
+      "Improve productivity in affected communities"
+    ],
+    "implementationSteps": [
+      "Secure supplementary budget approval",
+      "Procure malaria prevention supplies",
+      "Train community health workers",
+      "Launch mass distribution campaigns"
+    ],
+    "dataSupport": {
+      "historicalAnalysis": "10 years malaria data",
+      "costBenefitRatio": 2.47,
+      "similarProgramSuccess": "Ghana reduced cases 55% with similar investment"
+    },
+    "timeline": "6 months",
+    "status": "Under Review",
+    "currency": "ZMW"
+  },
+  {
+    "id": "BR-2024-003",
+    "recommendationType": "Budget Reduction",
+    "category": "Efficiency Improvement",
+    "title": "Reduce Vehicle Maintenance Budget Through Fleet Optimization",
+    "description": "Reduce vehicle fleet by 245 units and save ZMW 68M annually while maintaining service delivery through better utilization",
+    "generatedDate": "2024-01-20T14:15:00Z",
+    "targetMinistry": "All Ministries",
+    "confidenceScore": 0.93,
+    "priority": "Medium",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "annualSavings": 68000000.0,
+      "maintenanceSavings": 42000000.0,
+      "fuelSavings": 18000000.0,
+      "insuranceSavings": 8000000.0
+    },
+    "currentSituation": {
+      "totalVehicles": 1850,
+      "avgUtilization": 62.0,
+      "underutilizedVehicles": 703,
+      "annualCost": 185000000.0
+    },
+    "proposedChanges": [
+      {
+        "action": "Dispose underutilized vehicles",
+        "vehicleCount": 245,
+        "estimatedSaleValue": 35000000.0,
+        "annualSavingPerVehicle": 100000.0
+      },
+      {
+        "action": "Implement vehicle booking system",
+        "investmentRequired": 4200000.0,
+        "utilizationIncrease": 38.0,
+        "payback": "3 months"
+      },
+      {
+        "action": "Establish centralized vehicle pools",
+        "locations": 10,
+        "sharedVehicles": 150,
+        "serviceImprovement": "Same or better"
+      }
+    ],
+    "expectedOutcomes": [
+      "Reduce fleet from 1,850 to 1,605 vehicles",
+      "Increase utilization from 62% to 85%",
+      "Save ZMW 68M annually",
+      "Maintain or improve service delivery",
+      "Generate ZMW 35M from asset disposal"
+    ],
+    "implementationSteps": [
+      "Conduct vehicle valuation and auction",
+      "Deploy fleet management system",
+      "Establish vehicle booking procedures",
+      "Create centralized pools in key locations"
+    ],
+    "risks": [
+      "Initial service disruption during transition",
+      "Staff resistance to shared vehicles",
+      "System adoption challenges"
+    ],
+    "timeline": "5 months",
+    "status": "Approved",
+    "currency": "ZMW"
+  },
+  {
+    "id": "BR-2024-004",
+    "recommendationType": "Budget Reallocation",
+    "category": "Infrastructure Priority",
+    "title": "Prioritize Rural Road Maintenance Over New Construction",
+    "description": "Shift ZMW 250M from new construction to maintenance, extending asset life and improving rural connectivity cost-effectively",
+    "generatedDate": "2024-01-22T11:00:00Z",
+    "targetMinistry": "Ministry of Infrastructure",
+    "confidenceScore": 0.86,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 250000000.0,
+      "fromBudgetLine": "New Road Construction",
+      "toBudgetLine": "Road Maintenance and Rehabilitation",
+      "costAvoidance": 890000000.0
+    },
+    "currentSituation": {
+      "ruralRoadNetwork": 45000,
+      "poorCondition": 18500,
+      "deteriorationRate": 12.5,
+      "maintenanceBacklog": 1200000000.0
+    },
+    "analysis": {
+      "maintenanceVsRebuild": {
+        "maintenanceCostPerKm": 85000.0,
+        "rebuildCostPerKm": 1500000.0,
+        "costRatio": 17.6
+      },
+      "economicImpact": {
+        "affectedPopulation": 2500000,
+        "agriculturalTransportCosts": -22.0,
+        "marketAccessImprovement": 35.0
+      }
+    },
+    "proposedAllocation": [
+      {
+        "activity": "Pothole Repairs and Grading",
+        "allocation": 120000000.0,
+        "roadsCovered": 1400,
+        "benefit": "Immediate passability improvement"
+      },
+      {
+        "activity": "Drainage Improvement",
+        "allocation": 80000000.0,
+        "roadsCovered": 950,
+        "benefit": "Extended road life by 5-7 years"
+      },
+      {
+        "activity": "Surface Treatment",
+        "allocation": 50000000.0,
+        "roadsCovered": 590,
+        "benefit": "Prevent further deterioration"
+      }
+    ],
+    "expectedOutcomes": [
+      "Maintain 2,940 km of rural roads",
+      "Prevent deterioration requiring ZMW 890M reconstruction",
+      "Improve market access for 2.5M rural residents",
+      "Support agricultural productivity",
+      "Create 3,500 short-term jobs"
+    ],
+    "implementationSteps": [
+      "Conduct rapid road condition assessment",
+      "Prioritize roads by economic impact",
+      "Mobilize labor-intensive maintenance teams",
+      "Defer non-critical new construction"
+    ],
+    "timeline": "Immediate",
+    "status": "Pending Approval",
+    "currency": "ZMW"
+  },
+  {
+    "id": "BR-2024-005",
+    "recommendationType": "Revenue Enhancement",
+    "category": "Tax Administration",
+    "title": "Invest in Tax Technology for Enhanced Revenue Collection",
+    "description": "Allocate ZMW 55M for tax technology upgrade projected to generate additional ZMW 420M annual revenue",
+    "generatedDate": "2024-01-24T13:30:00Z",
+    "targetMinistry": "Zambia Revenue Authority",
+    "confidenceScore": 0.89,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "investmentRequired": 55000000.0,
+      "yearOneRevenue": 420000000.0,
+      "annualRecurringRevenue": 380000000.0,
+      "roi": 763.0
+    },
+    "currentSituation": {
+      "taxGap": 850000000.0,
+      "complianceRate": 68.5,
+      "auditCoverage": 8.5,
+      "technologyAge": "12 years"
+    },
+    "proposedInvestment": [
+      {
+        "component": "AI-Powered Risk Assessment System",
+        "cost": 18000000.0,
+        "benefit": "Identify high-risk non-compliant taxpayers",
+        "revenueImpact": 180000000.0
+      },
+      {
+        "component": "Data Integration Platform",
+        "cost": 15000000.0,
+        "benefit": "Cross-match third-party data sources",
+        "revenueImpact": 135000000.0
+      },
+      {
+        "component": "Mobile Tax Platform",
+        "cost": 12000000.0,
+        "benefit": "Expand SME tax compliance",
+        "revenueImpact": 75000000.0
+      },
+      {
+        "component": "E-Filing Enhancement",
+        "cost": 10000000.0,
+        "benefit": "Reduce errors and processing time",
+        "revenueImpact": 30000000.0
+      }
+    ],
+    "expectedOutcomes": [
+      "Increase tax compliance from 68.5% to 82%",
+      "Generate ZMW 420M additional revenue in year 1",
+      "Expand audit coverage from 8.5% to 25%",
+      "Reduce processing costs by 35%",
+      "Improve taxpayer service quality"
+    ],
+    "implementationSteps": [
+      "Secure budget approval and release",
+      "Conduct competitive procurement",
+      "Phased system deployment over 9 months",
+      "Train 850 ZRA staff on new systems"
+    ],
+    "timeline": "12 months",
+    "status": "Approved",
+    "currency": "ZMW"
+  },
+  {
+    "id": "BR-2024-006",
+    "recommendationType": "Budget Optimization",
+    "category": "Subsidy Reform",
+    "title": "Target Fuel Subsidy to Reduce Fiscal Burden",
+    "description": "Transition from universal to targeted fuel subsidy, saving ZMW 680M annually while protecting vulnerable populations",
+    "generatedDate": "2024-01-26T15:45:00Z",
+    "targetMinistry": "Ministry of Finance",
+    "confidenceScore": 0.81,
+    "priority": "Critical",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "currentSubsidyCost": 1450000000.0,
+      "proposedSubsidyCost": 770000000.0,
+      "annualSavings": 680000000.0,
+      "socialProtectionIncrease": 150000000.0,
+      "netSavings": 530000000.0
+    },
+    "currentSituation": {
+      "beneficiaries": "All fuel consumers",
+      "leakage": 45.0,
+      "benefitToWealthy": 62.0,
+      "benefitToVulnerable": 18.0,
+      "fiscalBurden": 2.8
+    },
+    "proposedApproach": [
+      {
+        "mechanism": "Targeted Transport Subsidy",
+        "budget": 380000000.0,
+        "beneficiaries": "Public transport operators",
+        "coverage": "Urban and rural routes"
+      },
+      {
+        "mechanism": "Agricultural Fuel Vouchers",
+        "budget": 240000000.0,
+        "beneficiaries": "Smallholder farmers",
+        "coverage": "500,000 farmers"
+      },
+      {
+        "mechanism": "Social Cash Transfer Top-Up",
+        "budget": 150000000.0,
+        "beneficiaries": "Existing SCT beneficiaries",
+        "coverage": "700,000 households"
+      }
+    ],
+    "expectedOutcomes": [
+      "Reduce fiscal burden by ZMW 530M annually",
+      "Improve targeting efficiency from 18% to 75%",
+      "Protect 1.2M vulnerable beneficiaries",
+      "Reduce subsidy leakage from 45% to 8%",
+      "Free resources for productive investment"
+    ],
+    "implementationSteps": [
+      "Design targeted delivery mechanisms",
+      "Conduct public awareness campaign",
+      "Establish beneficiary registration system",
+      "Phase subsidy removal over 12 months",
+      "Monitor and mitigate social impacts"
+    ],
+    "risks": [
+      "Public opposition to subsidy removal",
+      "Inflation impact on vulnerable households",
+      "Political feasibility challenges",
+      "Implementation capacity constraints"
+    ],
+    "timeline": "18 months",
+    "status": "Under Review",
+    "currency": "ZMW"
+  },
+  {
+    "id": "BR-2024-007",
+    "recommendationType": "Budget Increase",
+    "category": "Capital Investment",
+    "title": "Accelerate Renewable Energy Investment",
+    "description": "Increase energy budget by ZMW 450M for solar installations to reduce diesel generator costs and improve energy access",
+    "generatedDate": "2024-01-28T09:15:00Z",
+    "targetMinistry": "Ministry of Energy",
+    "confidenceScore": 0.9,
+    "priority": "Medium",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "capitalInvestment": 450000000.0,
+      "annualDieselSavings": 285000000.0,
+      "maintenanceSavings": 45000000.0,
+      "totalAnnualSavings": 330000000.0,
+      "paybackPeriod": "16 months"
+    },
+    "currentSituation": {
+      "dieselGenerators": 285,
+      "annualDieselCost": 425000000.0,
+      "facilitiesWithoutPower": 340,
+      "carbonEmissions": 85000
+    },
+    "proposedInvestment": [
+      {
+        "location": "Rural Health Facilities",
+        "installations": 120,
+        "capacity": "5 kW per facility",
+        "cost": 180000000.0,
+        "benefit": "24/7 power for cold chain and lighting"
+      },
+      {
+        "location": "Rural Schools",
+        "installations": 150,
+        "capacity": "3 kW per school",
+        "cost": 165000000.0,
+        "benefit": "Enable digital learning and evening classes"
+      },
+      {
+        "location": "Government Offices",
+        "installations": 80,
+        "capacity": "10 kW per office",
+        "cost": 105000000.0,
+        "benefit": "Reduce grid dependency and costs"
+      }
+    ],
+    "expectedOutcomes": [
+      "Eliminate diesel generator use in 350 facilities",
+      "Save ZMW 330M annually in energy costs",
+      "Provide reliable power to 340 unelectrified facilities",
+      "Reduce carbon emissions by 85,000 tons annually",
+      "Create 450 installation and maintenance jobs"
+    ],
+    "implementationSteps": [
+      "Conduct site assessments and energy audits",
+      "Procure solar equipment through competitive tender",
+      "Train technicians for installation and maintenance",
+      "Phase installation over 8 months"
+    ],
+    "timeline": "10 months",
+    "status": "Pending Approval",
+    "currency": "ZMW"
+  },
+  {
+    "id": "BR-2024-008",
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2024-01-30T11:30:00Z",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Under Review",
+    "currency": "ZMW"
+  },
+  {
+    "id": 9,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2023-03-07T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Completed",
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2023-04-06T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Cancelled",
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2023-11-05T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Active",
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2024-10-09T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Released",
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2024-01-15T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Released",
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2024-10-14T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Active",
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2024-01-30T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Approved",
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2024-05-27T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Posted",
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2023-06-05T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Released",
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2024-09-14T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Posted",
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2024-07-25T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Completed",
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "recommendationType": "Budget Reallocation",
+    "category": "Social Protection",
+    "title": "Expand Social Cash Transfer Coverage Using Efficiency Gains",
+    "description": "Reallocate ZMW 125M from administrative costs to expand SCT beneficiary coverage by 95,000 households",
+    "generatedDate": "2023-05-23T00:00:00",
+    "targetMinistry": "Ministry of Community Development",
+    "confidenceScore": 0.92,
+    "priority": "High",
+    "fiscalYear": 2024,
+    "budgetImpact": {
+      "reallocationAmount": 125000000.0,
+      "fromBudgetLine": "Program Administration",
+      "toBudgetLine": "Direct Beneficiary Transfers",
+      "additionalBeneficiaries": 95000
+    },
+    "currentSituation": {
+      "totalBudget": 850000000.0,
+      "adminCosts": 212500000.0,
+      "adminPercentage": 25.0,
+      "currentBeneficiaries": 700000,
+      "avgTransferPerHousehold": 1315.0
+    },
+    "efficiencyMeasures": [
+      {
+        "measure": "Automated Payment System",
+        "saving": 45000000.0,
+        "description": "Replace manual payments with mobile money"
+      },
+      {
+        "measure": "Digital Beneficiary Management",
+        "saving": 32000000.0,
+        "description": "Eliminate paper-based records and manual data entry"
+      },
+      {
+        "measure": "Optimize Field Operations",
+        "saving": 28000000.0,
+        "description": "GPS-optimized routes and consolidated visits"
+      },
+      {
+        "measure": "Reduce Office Overheads",
+        "saving": 20000000.0,
+        "description": "Consolidate offices and shared services"
+      }
+    ],
+    "proposedAllocation": {
+      "adminBudget": 87500000.0,
+      "adminPercentage": 10.3,
+      "transferBudget": 762500000.0,
+      "totalBeneficiaries": 795000,
+      "avgTransfer": 1310.0
+    },
+    "expectedOutcomes": [
+      "Expand coverage from 700,000 to 795,000 households",
+      "Reduce admin costs from 25% to 10.3%",
+      "Maintain average transfer amount",
+      "Improve payment timeliness and reliability",
+      "Enhance program monitoring and evaluation"
+    ],
+    "implementationSteps": [
+      "Deploy automated payment platform",
+      "Migrate beneficiary data to digital system",
+      "Conduct targeting for new beneficiaries",
+      "Optimize field operations structure"
+    ],
+    "timeline": "6 months",
+    "status": "Posted",
+    "currency": "ZMW"
+  }
+]
