@@ -1,0 +1,777 @@
+[
+  {
+    "id": "RA-ZPPA-2024-001",
+    "entityType": "Agency",
+    "entityId": "ZPPA-001",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-10-24T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 32.8,
+    "confidenceScore": 0.94,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 1",
+      "Finding 2 for assessment 1",
+      "Finding 3 for assessment 1"
+    ],
+    "indicators": {
+      "riskScore": 32.8,
+      "complianceScore": 51.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-02-02T09:30:00Z",
+    "amountAtRisk": 18996663.65,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-002",
+    "entityType": "Agency",
+    "entityId": "ZPPA-002",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-05-21T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 77.8,
+    "confidenceScore": 0.91,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 2",
+      "Finding 2 for assessment 2",
+      "Finding 3 for assessment 2"
+    ],
+    "indicators": {
+      "riskScore": 77.8,
+      "complianceScore": 77.8
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-08-21T09:30:00Z",
+    "amountAtRisk": 11138760.93,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-003",
+    "entityType": "Agency",
+    "entityId": "ZPPA-003",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-05-16T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 68.1,
+    "confidenceScore": 0.93,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 3",
+      "Finding 2 for assessment 3",
+      "Finding 3 for assessment 3"
+    ],
+    "indicators": {
+      "riskScore": 68.1,
+      "complianceScore": 68.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-02-23T09:30:00Z",
+    "amountAtRisk": 1668304.14,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-004",
+    "entityType": "Agency",
+    "entityId": "ZPPA-004",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-08-15T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 53.0,
+    "confidenceScore": 0.8,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 4",
+      "Finding 2 for assessment 4",
+      "Finding 3 for assessment 4"
+    ],
+    "indicators": {
+      "riskScore": 53.0,
+      "complianceScore": 64.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-06-24T09:30:00Z",
+    "amountAtRisk": 19766455.7,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-005",
+    "entityType": "Agency",
+    "entityId": "ZPPA-005",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-07-05T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 45.9,
+    "confidenceScore": 0.84,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 5",
+      "Finding 2 for assessment 5",
+      "Finding 3 for assessment 5"
+    ],
+    "indicators": {
+      "riskScore": 45.9,
+      "complianceScore": 64.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-02-09T09:30:00Z",
+    "amountAtRisk": 9267122.23,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-006",
+    "entityType": "Agency",
+    "entityId": "ZPPA-006",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-01-10T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 30.6,
+    "confidenceScore": 0.94,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 6",
+      "Finding 2 for assessment 6",
+      "Finding 3 for assessment 6"
+    ],
+    "indicators": {
+      "riskScore": 30.6,
+      "complianceScore": 61.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-06-19T09:30:00Z",
+    "amountAtRisk": 14562004.36,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-007",
+    "entityType": "Agency",
+    "entityId": "ZPPA-007",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-03-16T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 34.2,
+    "confidenceScore": 0.84,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 7",
+      "Finding 2 for assessment 7",
+      "Finding 3 for assessment 7"
+    ],
+    "indicators": {
+      "riskScore": 34.2,
+      "complianceScore": 72.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-07-17T09:30:00Z",
+    "amountAtRisk": 9415997.52,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-008",
+    "entityType": "Agency",
+    "entityId": "ZPPA-008",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-10-12T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 38.1,
+    "confidenceScore": 0.71,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 8",
+      "Finding 2 for assessment 8",
+      "Finding 3 for assessment 8"
+    ],
+    "indicators": {
+      "riskScore": 38.1,
+      "complianceScore": 76.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-11-16T09:30:00Z",
+    "amountAtRisk": 6072093.44,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-009",
+    "entityType": "Agency",
+    "entityId": "ZPPA-009",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-02-14T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 20.6,
+    "confidenceScore": 0.95,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 9",
+      "Finding 2 for assessment 9",
+      "Finding 3 for assessment 9"
+    ],
+    "indicators": {
+      "riskScore": 20.6,
+      "complianceScore": 66.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-06-02T09:30:00Z",
+    "amountAtRisk": 8311341.61,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-010",
+    "entityType": "Agency",
+    "entityId": "ZPPA-010",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-04-12T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 62.8,
+    "confidenceScore": 0.72,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 10",
+      "Finding 2 for assessment 10",
+      "Finding 3 for assessment 10"
+    ],
+    "indicators": {
+      "riskScore": 62.8,
+      "complianceScore": 70.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-05-27T09:30:00Z",
+    "amountAtRisk": 19787268.66,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-011",
+    "entityType": "Agency",
+    "entityId": "ZPPA-011",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-02-05T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 71.0,
+    "confidenceScore": 0.81,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 11",
+      "Finding 2 for assessment 11",
+      "Finding 3 for assessment 11"
+    ],
+    "indicators": {
+      "riskScore": 71.0,
+      "complianceScore": 75.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-03-07T09:30:00Z",
+    "amountAtRisk": 12248027.55,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-012",
+    "entityType": "Agency",
+    "entityId": "ZPPA-012",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-01-02T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 50.1,
+    "confidenceScore": 0.74,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 12",
+      "Finding 2 for assessment 12",
+      "Finding 3 for assessment 12"
+    ],
+    "indicators": {
+      "riskScore": 50.1,
+      "complianceScore": 86.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-08-05T09:30:00Z",
+    "amountAtRisk": 12322080.19,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-013",
+    "entityType": "Agency",
+    "entityId": "ZPPA-013",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-06-20T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 58.7,
+    "confidenceScore": 0.75,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 13",
+      "Finding 2 for assessment 13",
+      "Finding 3 for assessment 13"
+    ],
+    "indicators": {
+      "riskScore": 58.7,
+      "complianceScore": 83.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-10-11T09:30:00Z",
+    "amountAtRisk": 10392642.23,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-014",
+    "entityType": "Agency",
+    "entityId": "ZPPA-014",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-08-23T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 58.2,
+    "confidenceScore": 0.83,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 14",
+      "Finding 2 for assessment 14",
+      "Finding 3 for assessment 14"
+    ],
+    "indicators": {
+      "riskScore": 58.2,
+      "complianceScore": 66.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-02-14T09:30:00Z",
+    "amountAtRisk": 11882191.77,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-015",
+    "entityType": "Agency",
+    "entityId": "ZPPA-015",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-12-28T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "High",
+    "riskScore": 79.8,
+    "confidenceScore": 0.87,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 15",
+      "Finding 2 for assessment 15",
+      "Finding 3 for assessment 15"
+    ],
+    "indicators": {
+      "riskScore": 79.8,
+      "complianceScore": 93.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-10-08T09:30:00Z",
+    "amountAtRisk": 14567302.19,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-016",
+    "entityType": "Agency",
+    "entityId": "ZPPA-016",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-03-17T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 63.8,
+    "confidenceScore": 0.74,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 16",
+      "Finding 2 for assessment 16",
+      "Finding 3 for assessment 16"
+    ],
+    "indicators": {
+      "riskScore": 63.8,
+      "complianceScore": 60.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-12-04T09:30:00Z",
+    "amountAtRisk": 4220294.39,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-017",
+    "entityType": "Agency",
+    "entityId": "ZPPA-017",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-07-05T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 53.1,
+    "confidenceScore": 0.89,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 17",
+      "Finding 2 for assessment 17",
+      "Finding 3 for assessment 17"
+    ],
+    "indicators": {
+      "riskScore": 53.1,
+      "complianceScore": 72.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-08-28T09:30:00Z",
+    "amountAtRisk": 17043351.4,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-018",
+    "entityType": "Agency",
+    "entityId": "ZPPA-018",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-12-05T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 74.6,
+    "confidenceScore": 0.86,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 18",
+      "Finding 2 for assessment 18",
+      "Finding 3 for assessment 18"
+    ],
+    "indicators": {
+      "riskScore": 74.6,
+      "complianceScore": 71.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-06-06T09:30:00Z",
+    "amountAtRisk": 9463438.87,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-019",
+    "entityType": "Agency",
+    "entityId": "ZPPA-019",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-09-12T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 60.0,
+    "confidenceScore": 0.87,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 19",
+      "Finding 2 for assessment 19",
+      "Finding 3 for assessment 19"
+    ],
+    "indicators": {
+      "riskScore": 60.0,
+      "complianceScore": 93.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-09-10T09:30:00Z",
+    "amountAtRisk": 4884907.24,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-020",
+    "entityType": "Agency",
+    "entityId": "ZPPA-020",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-05-25T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "High",
+    "riskScore": 93.0,
+    "confidenceScore": 0.9,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 20",
+      "Finding 2 for assessment 20",
+      "Finding 3 for assessment 20"
+    ],
+    "indicators": {
+      "riskScore": 93.0,
+      "complianceScore": 81.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-08-12T09:30:00Z",
+    "amountAtRisk": 11429508.01,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-021",
+    "entityType": "Agency",
+    "entityId": "ZPPA-021",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-12-09T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "High",
+    "riskScore": 90.1,
+    "confidenceScore": 0.73,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 21",
+      "Finding 2 for assessment 21",
+      "Finding 3 for assessment 21"
+    ],
+    "indicators": {
+      "riskScore": 90.1,
+      "complianceScore": 74.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-06-25T09:30:00Z",
+    "amountAtRisk": 16190008.76,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-022",
+    "entityType": "Agency",
+    "entityId": "ZPPA-022",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-05-23T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 41.8,
+    "confidenceScore": 0.8,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 22",
+      "Finding 2 for assessment 22",
+      "Finding 3 for assessment 22"
+    ],
+    "indicators": {
+      "riskScore": 41.8,
+      "complianceScore": 79.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-08-07T09:30:00Z",
+    "amountAtRisk": 4440326.14,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-023",
+    "entityType": "Agency",
+    "entityId": "ZPPA-023",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-09-23T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 60.4,
+    "confidenceScore": 0.74,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 23",
+      "Finding 2 for assessment 23",
+      "Finding 3 for assessment 23"
+    ],
+    "indicators": {
+      "riskScore": 60.4,
+      "complianceScore": 83.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-04-02T09:30:00Z",
+    "amountAtRisk": 13561762.32,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-024",
+    "entityType": "Agency",
+    "entityId": "ZPPA-024",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-11-08T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 59.8,
+    "confidenceScore": 0.73,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 24",
+      "Finding 2 for assessment 24",
+      "Finding 3 for assessment 24"
+    ],
+    "indicators": {
+      "riskScore": 59.8,
+      "complianceScore": 82.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-11-25T09:30:00Z",
+    "amountAtRisk": 3180607.17,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZPPA-2024-025",
+    "entityType": "Agency",
+    "entityId": "ZPPA-025",
+    "entityName": "Zambia Public Procurement Authority",
+    "assessmentDate": "2024-03-14T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 92.3,
+    "confidenceScore": 0.83,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 25",
+      "Finding 2 for assessment 25",
+      "Finding 3 for assessment 25"
+    ],
+    "indicators": {
+      "riskScore": 92.3,
+      "complianceScore": 84.0
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Public Procurement Authority",
+      "Recommendation 2 for Zambia Public Procurement Authority",
+      "Recommendation 3 for Zambia Public Procurement Authority"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-06-10T09:30:00Z",
+    "amountAtRisk": 13095009.4,
+    "currency": "ZMW"
+  }
+]

@@ -1,0 +1,877 @@
+[
+  {
+    "id": 1,
+    "journalNumber": "JE-NRFA-2024-001",
+    "journalDate": "2024-01-09T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 1 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "ICT",
+    "totalDebit": 4846859.84,
+    "totalCredit": 4846859.84,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-06T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 4846859.84,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 4846859.84,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "journalNumber": "JE-NRFA-2024-002",
+    "journalDate": "2024-02-18T00:00:00",
+    "fiscalYear": "2024",
+    "period": "February",
+    "description": "Journal entry 2 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Risk Management",
+    "totalDebit": 7773596.06,
+    "totalCredit": 7773596.06,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-02-12T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 7773596.06,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 7773596.06,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "journalNumber": "JE-NRFA-2024-003",
+    "journalDate": "2024-03-03T00:00:00",
+    "fiscalYear": "2024",
+    "period": "March",
+    "description": "Journal entry 3 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Finance",
+    "totalDebit": 15960836.76,
+    "totalCredit": 15960836.76,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-03-17T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 15960836.76,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 15960836.76,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "journalNumber": "JE-NRFA-2024-004",
+    "journalDate": "2024-04-21T00:00:00",
+    "fiscalYear": "2024",
+    "period": "April",
+    "description": "Journal entry 4 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Research",
+    "totalDebit": 12323225.81,
+    "totalCredit": 12323225.81,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-04-15T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 12323225.81,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 12323225.81,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "journalNumber": "JE-NRFA-2024-005",
+    "journalDate": "2024-05-01T00:00:00",
+    "fiscalYear": "2024",
+    "period": "May",
+    "description": "Journal entry 5 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Monitoring & Evaluation",
+    "totalDebit": 2372087.91,
+    "totalCredit": 2372087.91,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-05-22T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 2372087.91,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 2372087.91,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "journalNumber": "JE-NRFA-2024-006",
+    "journalDate": "2024-06-18T00:00:00",
+    "fiscalYear": "2024",
+    "period": "June",
+    "description": "Journal entry 6 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Internal Audit",
+    "totalDebit": 9335806.64,
+    "totalCredit": 9335806.64,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-06-03T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 9335806.64,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 9335806.64,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "journalNumber": "JE-NRFA-2024-007",
+    "journalDate": "2024-07-27T00:00:00",
+    "fiscalYear": "2024",
+    "period": "July",
+    "description": "Journal entry 7 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Risk Management",
+    "totalDebit": 7121213.82,
+    "totalCredit": 7121213.82,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-07-20T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 7121213.82,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 7121213.82,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "journalNumber": "JE-NRFA-2024-008",
+    "journalDate": "2024-08-22T00:00:00",
+    "fiscalYear": "2024",
+    "period": "August",
+    "description": "Journal entry 8 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Research",
+    "totalDebit": 8950410.26,
+    "totalCredit": 8950410.26,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-08-23T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 8950410.26,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 8950410.26,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "journalNumber": "JE-NRFA-2024-009",
+    "journalDate": "2024-09-24T00:00:00",
+    "fiscalYear": "2024",
+    "period": "September",
+    "description": "Journal entry 9 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Administration",
+    "totalDebit": 716760.01,
+    "totalCredit": 716760.01,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-09-05T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 716760.01,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 716760.01,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "journalNumber": "JE-NRFA-2024-010",
+    "journalDate": "2024-10-11T00:00:00",
+    "fiscalYear": "2024",
+    "period": "October",
+    "description": "Journal entry 10 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "ICT",
+    "totalDebit": 16575634.79,
+    "totalCredit": 16575634.79,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-10-28T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 16575634.79,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 16575634.79,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "journalNumber": "JE-NRFA-2024-011",
+    "journalDate": "2024-11-16T00:00:00",
+    "fiscalYear": "2024",
+    "period": "November",
+    "description": "Journal entry 11 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Internal Audit",
+    "totalDebit": 10170110.83,
+    "totalCredit": 10170110.83,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-11-17T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 10170110.83,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 10170110.83,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "journalNumber": "JE-NRFA-2024-012",
+    "journalDate": "2024-12-18T00:00:00",
+    "fiscalYear": "2024",
+    "period": "December",
+    "description": "Journal entry 12 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Procurement",
+    "totalDebit": 15291869.77,
+    "totalCredit": 15291869.77,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-12-15T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 15291869.77,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 15291869.77,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "journalNumber": "JE-NRFA-2024-013",
+    "journalDate": "2024-01-18T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 13 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Legal",
+    "totalDebit": 15981019.22,
+    "totalCredit": 15981019.22,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-07T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 15981019.22,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 15981019.22,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "journalNumber": "JE-NRFA-2024-014",
+    "journalDate": "2024-02-16T00:00:00",
+    "fiscalYear": "2024",
+    "period": "February",
+    "description": "Journal entry 14 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Operations",
+    "totalDebit": 3022898.9,
+    "totalCredit": 3022898.9,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-02-26T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 3022898.9,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 3022898.9,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "journalNumber": "JE-NRFA-2024-015",
+    "journalDate": "2024-03-04T00:00:00",
+    "fiscalYear": "2024",
+    "period": "March",
+    "description": "Journal entry 15 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Finance",
+    "totalDebit": 16951777.86,
+    "totalCredit": 16951777.86,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-03-04T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 16951777.86,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 16951777.86,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "journalNumber": "JE-NRFA-2024-016",
+    "journalDate": "2024-04-05T00:00:00",
+    "fiscalYear": "2024",
+    "period": "April",
+    "description": "Journal entry 16 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Procurement",
+    "totalDebit": 15965454.12,
+    "totalCredit": 15965454.12,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-04-17T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 15965454.12,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 15965454.12,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "journalNumber": "JE-NRFA-2024-017",
+    "journalDate": "2024-05-26T00:00:00",
+    "fiscalYear": "2024",
+    "period": "May",
+    "description": "Journal entry 17 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Administration",
+    "totalDebit": 11598373.13,
+    "totalCredit": 11598373.13,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-05-25T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 11598373.13,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 11598373.13,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "journalNumber": "JE-NRFA-2024-018",
+    "journalDate": "2024-06-14T00:00:00",
+    "fiscalYear": "2024",
+    "period": "June",
+    "description": "Journal entry 18 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Compliance",
+    "totalDebit": 19966006.67,
+    "totalCredit": 19966006.67,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-06-03T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 19966006.67,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 19966006.67,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "journalNumber": "JE-NRFA-2024-019",
+    "journalDate": "2024-07-23T00:00:00",
+    "fiscalYear": "2024",
+    "period": "July",
+    "description": "Journal entry 19 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Procurement",
+    "totalDebit": 8671003.2,
+    "totalCredit": 8671003.2,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-07-12T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 8671003.2,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 8671003.2,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "journalNumber": "JE-NRFA-2024-020",
+    "journalDate": "2024-08-03T00:00:00",
+    "fiscalYear": "2024",
+    "period": "August",
+    "description": "Journal entry 20 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Planning",
+    "totalDebit": 13718633.44,
+    "totalCredit": 13718633.44,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-08-20T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 13718633.44,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 13718633.44,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "journalNumber": "JE-NRFA-2024-021",
+    "journalDate": "2024-09-20T00:00:00",
+    "fiscalYear": "2024",
+    "period": "September",
+    "description": "Journal entry 21 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Finance",
+    "totalDebit": 2740054.54,
+    "totalCredit": 2740054.54,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-09-02T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 2740054.54,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 2740054.54,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "journalNumber": "JE-NRFA-2024-022",
+    "journalDate": "2024-10-09T00:00:00",
+    "fiscalYear": "2024",
+    "period": "October",
+    "description": "Journal entry 22 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Internal Audit",
+    "totalDebit": 12830216.25,
+    "totalCredit": 12830216.25,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-10-20T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 12830216.25,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 12830216.25,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "journalNumber": "JE-NRFA-2024-023",
+    "journalDate": "2024-11-10T00:00:00",
+    "fiscalYear": "2024",
+    "period": "November",
+    "description": "Journal entry 23 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Research",
+    "totalDebit": 13974844.52,
+    "totalCredit": 13974844.52,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-11-28T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 13974844.52,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 13974844.52,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "journalNumber": "JE-NRFA-2024-024",
+    "journalDate": "2024-12-24T00:00:00",
+    "fiscalYear": "2024",
+    "period": "December",
+    "description": "Journal entry 24 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Finance",
+    "totalDebit": 4025731.34,
+    "totalCredit": 4025731.34,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-12-23T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 4025731.34,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 4025731.34,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "journalNumber": "JE-NRFA-2024-025",
+    "journalDate": "2024-01-03T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 25 for National Road Fund Agency",
+    "ministry": "National Road Fund Agency",
+    "department": "Research",
+    "totalDebit": 19124600.29,
+    "totalCredit": 19124600.29,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-01T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 19124600.29,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 19124600.29,
+        "description": "Credit entry"
+      }
+    ]
+  }
+]

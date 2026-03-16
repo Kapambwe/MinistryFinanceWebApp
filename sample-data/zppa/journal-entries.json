@@ -1,0 +1,877 @@
+[
+  {
+    "id": 1,
+    "journalNumber": "JE-ZPPA-2024-001",
+    "journalDate": "2024-01-14T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 1 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Finance",
+    "totalDebit": 2601432.07,
+    "totalCredit": 2601432.07,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-27T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 2601432.07,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 2601432.07,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "journalNumber": "JE-ZPPA-2024-002",
+    "journalDate": "2024-02-04T00:00:00",
+    "fiscalYear": "2024",
+    "period": "February",
+    "description": "Journal entry 2 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Public Relations",
+    "totalDebit": 13606764.56,
+    "totalCredit": 13606764.56,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-02-15T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 13606764.56,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 13606764.56,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "journalNumber": "JE-ZPPA-2024-003",
+    "journalDate": "2024-03-17T00:00:00",
+    "fiscalYear": "2024",
+    "period": "March",
+    "description": "Journal entry 3 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Human Resources",
+    "totalDebit": 13339905.55,
+    "totalCredit": 13339905.55,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-03-01T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 13339905.55,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 13339905.55,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "journalNumber": "JE-ZPPA-2024-004",
+    "journalDate": "2024-04-02T00:00:00",
+    "fiscalYear": "2024",
+    "period": "April",
+    "description": "Journal entry 4 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Operations",
+    "totalDebit": 10842104.78,
+    "totalCredit": 10842104.78,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-04-27T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 10842104.78,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 10842104.78,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "journalNumber": "JE-ZPPA-2024-005",
+    "journalDate": "2024-05-17T00:00:00",
+    "fiscalYear": "2024",
+    "period": "May",
+    "description": "Journal entry 5 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Public Relations",
+    "totalDebit": 11909853.87,
+    "totalCredit": 11909853.87,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-05-23T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 11909853.87,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 11909853.87,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "journalNumber": "JE-ZPPA-2024-006",
+    "journalDate": "2024-06-24T00:00:00",
+    "fiscalYear": "2024",
+    "period": "June",
+    "description": "Journal entry 6 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Research",
+    "totalDebit": 11781810.52,
+    "totalCredit": 11781810.52,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-06-04T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 11781810.52,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 11781810.52,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "journalNumber": "JE-ZPPA-2024-007",
+    "journalDate": "2024-07-20T00:00:00",
+    "fiscalYear": "2024",
+    "period": "July",
+    "description": "Journal entry 7 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Compliance",
+    "totalDebit": 8054408.79,
+    "totalCredit": 8054408.79,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-07-17T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 8054408.79,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 8054408.79,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "journalNumber": "JE-ZPPA-2024-008",
+    "journalDate": "2024-08-14T00:00:00",
+    "fiscalYear": "2024",
+    "period": "August",
+    "description": "Journal entry 8 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Compliance",
+    "totalDebit": 17687116.06,
+    "totalCredit": 17687116.06,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-08-25T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 17687116.06,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 17687116.06,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "journalNumber": "JE-ZPPA-2024-009",
+    "journalDate": "2024-09-13T00:00:00",
+    "fiscalYear": "2024",
+    "period": "September",
+    "description": "Journal entry 9 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Internal Audit",
+    "totalDebit": 5340656.39,
+    "totalCredit": 5340656.39,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-09-15T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 5340656.39,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 5340656.39,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "journalNumber": "JE-ZPPA-2024-010",
+    "journalDate": "2024-10-05T00:00:00",
+    "fiscalYear": "2024",
+    "period": "October",
+    "description": "Journal entry 10 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Planning",
+    "totalDebit": 16193538.2,
+    "totalCredit": 16193538.2,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-10-23T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 16193538.2,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 16193538.2,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "journalNumber": "JE-ZPPA-2024-011",
+    "journalDate": "2024-11-17T00:00:00",
+    "fiscalYear": "2024",
+    "period": "November",
+    "description": "Journal entry 11 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "ICT",
+    "totalDebit": 17785518.68,
+    "totalCredit": 17785518.68,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-11-18T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 17785518.68,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 17785518.68,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "journalNumber": "JE-ZPPA-2024-012",
+    "journalDate": "2024-12-23T00:00:00",
+    "fiscalYear": "2024",
+    "period": "December",
+    "description": "Journal entry 12 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Corporate Affairs",
+    "totalDebit": 17283797.15,
+    "totalCredit": 17283797.15,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-12-21T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 17283797.15,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 17283797.15,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "journalNumber": "JE-ZPPA-2024-013",
+    "journalDate": "2024-01-07T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 13 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Compliance",
+    "totalDebit": 4738179.86,
+    "totalCredit": 4738179.86,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-10T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 4738179.86,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 4738179.86,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "journalNumber": "JE-ZPPA-2024-014",
+    "journalDate": "2024-02-22T00:00:00",
+    "fiscalYear": "2024",
+    "period": "February",
+    "description": "Journal entry 14 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Human Resources",
+    "totalDebit": 13888920.3,
+    "totalCredit": 13888920.3,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-02-21T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 13888920.3,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 13888920.3,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "journalNumber": "JE-ZPPA-2024-015",
+    "journalDate": "2024-03-06T00:00:00",
+    "fiscalYear": "2024",
+    "period": "March",
+    "description": "Journal entry 15 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Operations",
+    "totalDebit": 19516000.12,
+    "totalCredit": 19516000.12,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-03-23T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 19516000.12,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 19516000.12,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "journalNumber": "JE-ZPPA-2024-016",
+    "journalDate": "2024-04-23T00:00:00",
+    "fiscalYear": "2024",
+    "period": "April",
+    "description": "Journal entry 16 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Procurement",
+    "totalDebit": 12919109.98,
+    "totalCredit": 12919109.98,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-04-18T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 12919109.98,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 12919109.98,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "journalNumber": "JE-ZPPA-2024-017",
+    "journalDate": "2024-05-19T00:00:00",
+    "fiscalYear": "2024",
+    "period": "May",
+    "description": "Journal entry 17 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Risk Management",
+    "totalDebit": 9867213.49,
+    "totalCredit": 9867213.49,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-05-14T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 9867213.49,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 9867213.49,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "journalNumber": "JE-ZPPA-2024-018",
+    "journalDate": "2024-06-27T00:00:00",
+    "fiscalYear": "2024",
+    "period": "June",
+    "description": "Journal entry 18 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Operations",
+    "totalDebit": 13647747.97,
+    "totalCredit": 13647747.97,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-06-28T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 13647747.97,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 13647747.97,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "journalNumber": "JE-ZPPA-2024-019",
+    "journalDate": "2024-07-01T00:00:00",
+    "fiscalYear": "2024",
+    "period": "July",
+    "description": "Journal entry 19 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Operations",
+    "totalDebit": 8736534.2,
+    "totalCredit": 8736534.2,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-07-01T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 8736534.2,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 8736534.2,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "journalNumber": "JE-ZPPA-2024-020",
+    "journalDate": "2024-08-02T00:00:00",
+    "fiscalYear": "2024",
+    "period": "August",
+    "description": "Journal entry 20 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Risk Management",
+    "totalDebit": 7926971.11,
+    "totalCredit": 7926971.11,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-08-07T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 7926971.11,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 7926971.11,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "journalNumber": "JE-ZPPA-2024-021",
+    "journalDate": "2024-09-26T00:00:00",
+    "fiscalYear": "2024",
+    "period": "September",
+    "description": "Journal entry 21 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Human Resources",
+    "totalDebit": 5706076.25,
+    "totalCredit": 5706076.25,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-09-22T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 5706076.25,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 5706076.25,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "journalNumber": "JE-ZPPA-2024-022",
+    "journalDate": "2024-10-27T00:00:00",
+    "fiscalYear": "2024",
+    "period": "October",
+    "description": "Journal entry 22 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Finance",
+    "totalDebit": 5385939.65,
+    "totalCredit": 5385939.65,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-10-26T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 5385939.65,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 5385939.65,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "journalNumber": "JE-ZPPA-2024-023",
+    "journalDate": "2024-11-25T00:00:00",
+    "fiscalYear": "2024",
+    "period": "November",
+    "description": "Journal entry 23 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Operations",
+    "totalDebit": 6255241.04,
+    "totalCredit": 6255241.04,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-11-12T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 6255241.04,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 6255241.04,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "journalNumber": "JE-ZPPA-2024-024",
+    "journalDate": "2024-12-04T00:00:00",
+    "fiscalYear": "2024",
+    "period": "December",
+    "description": "Journal entry 24 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Compliance",
+    "totalDebit": 16373511.24,
+    "totalCredit": 16373511.24,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-12-24T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 16373511.24,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 16373511.24,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "journalNumber": "JE-ZPPA-2024-025",
+    "journalDate": "2024-01-08T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 25 for Zambia Public Procurement Authority",
+    "ministry": "Zambia Public Procurement Authority",
+    "department": "Corporate Affairs",
+    "totalDebit": 11456757.18,
+    "totalCredit": 11456757.18,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-18T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 11456757.18,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 11456757.18,
+        "description": "Credit entry"
+      }
+    ]
+  }
+]

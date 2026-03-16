@@ -1,0 +1,927 @@
+[
+  {
+    "id": "KPI-ZAMSTATS-2024-001",
+    "kpiName": "Budget Execution Rate",
+    "category": "HR",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 82.2,
+    "threshold": {
+      "red": 62.2,
+      "amber": 72.2,
+      "green": 82.2
+    },
+    "currentValue": 98.1,
+    "previousValue": 99.9,
+    "ytdValue": 98.1,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-03-19T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 85.0
+      },
+      {
+        "period": "Month 2",
+        "value": 65.5
+      },
+      {
+        "period": "Month 3",
+        "value": 77.4
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-002",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Financial",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 98.9,
+    "threshold": {
+      "red": 78.9,
+      "amber": 88.9,
+      "green": 98.9
+    },
+    "currentValue": 86.5,
+    "previousValue": 88.3,
+    "ytdValue": 86.5,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-06-10T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 68.9
+      },
+      {
+        "period": "Month 2",
+        "value": 70.1
+      },
+      {
+        "period": "Month 3",
+        "value": 62.0
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-003",
+    "kpiName": "Procurement Compliance",
+    "category": "Financial",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 82.2,
+    "threshold": {
+      "red": 62.2,
+      "amber": 72.2,
+      "green": 82.2
+    },
+    "currentValue": 78.4,
+    "previousValue": 71.0,
+    "ytdValue": 78.4,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-10-19T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 82.4
+      },
+      {
+        "period": "Month 2",
+        "value": 77.6
+      },
+      {
+        "period": "Month 3",
+        "value": 60.2
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-004",
+    "kpiName": "Staff Utilization",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Daily",
+    "target": 81.2,
+    "threshold": {
+      "red": 61.2,
+      "amber": 71.2,
+      "green": 81.2
+    },
+    "currentValue": 74.7,
+    "previousValue": 74.6,
+    "ytdValue": 74.7,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-11-13T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 67.0
+      },
+      {
+        "period": "Month 2",
+        "value": 69.2
+      },
+      {
+        "period": "Month 3",
+        "value": 63.8
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-005",
+    "kpiName": "Service Delivery Rate",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 80.1,
+    "threshold": {
+      "red": 60.099999999999994,
+      "amber": 70.1,
+      "green": 80.1
+    },
+    "currentValue": 74.6,
+    "previousValue": 78.0,
+    "ytdValue": 74.6,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-07-08T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 72.6
+      },
+      {
+        "period": "Month 2",
+        "value": 86.9
+      },
+      {
+        "period": "Month 3",
+        "value": 68.1
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-006",
+    "kpiName": "Audit Completion Rate",
+    "category": "Operational",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Daily",
+    "target": 95.1,
+    "threshold": {
+      "red": 75.1,
+      "amber": 85.1,
+      "green": 95.1
+    },
+    "currentValue": 96.2,
+    "previousValue": 100.0,
+    "ytdValue": 96.2,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-11-02T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 87.3
+      },
+      {
+        "period": "Month 2",
+        "value": 90.3
+      },
+      {
+        "period": "Month 3",
+        "value": 93.0
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-007",
+    "kpiName": "Customer Satisfaction",
+    "category": "Operational",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Weekly",
+    "target": 91.8,
+    "threshold": {
+      "red": 71.8,
+      "amber": 81.8,
+      "green": 91.8
+    },
+    "currentValue": 73.9,
+    "previousValue": 72.3,
+    "ytdValue": 73.9,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-03-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 74.5
+      },
+      {
+        "period": "Month 2",
+        "value": 94.8
+      },
+      {
+        "period": "Month 3",
+        "value": 71.7
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-008",
+    "kpiName": "System Uptime",
+    "category": "IT",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Monthly",
+    "target": 92.5,
+    "threshold": {
+      "red": 72.5,
+      "amber": 82.5,
+      "green": 92.5
+    },
+    "currentValue": 62.0,
+    "previousValue": 64.1,
+    "ytdValue": 62.0,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-12-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 84.2
+      },
+      {
+        "period": "Month 2",
+        "value": 71.0
+      },
+      {
+        "period": "Month 3",
+        "value": 78.1
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-009",
+    "kpiName": "Response Time",
+    "category": "Financial",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 94.5,
+    "threshold": {
+      "red": 74.5,
+      "amber": 84.5,
+      "green": 94.5
+    },
+    "currentValue": 99.1,
+    "previousValue": 91.3,
+    "ytdValue": 99.1,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-11-23T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 80.9
+      },
+      {
+        "period": "Month 2",
+        "value": 90.8
+      },
+      {
+        "period": "Month 3",
+        "value": 90.8
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-010",
+    "kpiName": "Error Rate",
+    "category": "IT",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 82.8,
+    "threshold": {
+      "red": 62.8,
+      "amber": 72.8,
+      "green": 82.8
+    },
+    "currentValue": 78.1,
+    "previousValue": 70.8,
+    "ytdValue": 78.1,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-03-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 90.2
+      },
+      {
+        "period": "Month 2",
+        "value": 62.1
+      },
+      {
+        "period": "Month 3",
+        "value": 99.1
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-011",
+    "kpiName": "Training Completion",
+    "category": "IT",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 92.5,
+    "threshold": {
+      "red": 72.5,
+      "amber": 82.5,
+      "green": 92.5
+    },
+    "currentValue": 88.6,
+    "previousValue": 91.8,
+    "ytdValue": 88.6,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-08-05T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 79.4
+      },
+      {
+        "period": "Month 2",
+        "value": 67.5
+      },
+      {
+        "period": "Month 3",
+        "value": 90.6
+      }
+    ],
+    "actionPlan": "Improve Training Completion through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-012",
+    "kpiName": "Regulatory Compliance",
+    "category": "Operational",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Daily",
+    "target": 88.4,
+    "threshold": {
+      "red": 68.4,
+      "amber": 78.4,
+      "green": 88.4
+    },
+    "currentValue": 75.6,
+    "previousValue": 76.6,
+    "ytdValue": 75.6,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-04-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 74.6
+      },
+      {
+        "period": "Month 2",
+        "value": 83.7
+      },
+      {
+        "period": "Month 3",
+        "value": 99.8
+      }
+    ],
+    "actionPlan": "Improve Regulatory Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-013",
+    "kpiName": "Cost per Transaction",
+    "category": "Financial",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 88.3,
+    "threshold": {
+      "red": 68.3,
+      "amber": 78.3,
+      "green": 88.3
+    },
+    "currentValue": 81.5,
+    "previousValue": 76.6,
+    "ytdValue": 81.5,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-02-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 62.5
+      },
+      {
+        "period": "Month 2",
+        "value": 85.5
+      },
+      {
+        "period": "Month 3",
+        "value": 75.2
+      }
+    ],
+    "actionPlan": "Improve Cost per Transaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-014",
+    "kpiName": "Payment Processing Time",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Weekly",
+    "target": 87.8,
+    "threshold": {
+      "red": 67.8,
+      "amber": 77.8,
+      "green": 87.8
+    },
+    "currentValue": 60.6,
+    "previousValue": 55.4,
+    "ytdValue": 60.6,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-09-10T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 100.0
+      },
+      {
+        "period": "Month 2",
+        "value": 76.7
+      },
+      {
+        "period": "Month 3",
+        "value": 83.7
+      }
+    ],
+    "actionPlan": "Improve Payment Processing Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-015",
+    "kpiName": "Report Timeliness",
+    "category": "Financial",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 92.8,
+    "threshold": {
+      "red": 72.8,
+      "amber": 82.8,
+      "green": 92.8
+    },
+    "currentValue": 80.1,
+    "previousValue": 75.9,
+    "ytdValue": 80.1,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-12-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 90.5
+      },
+      {
+        "period": "Month 2",
+        "value": 71.3
+      },
+      {
+        "period": "Month 3",
+        "value": 94.0
+      }
+    ],
+    "actionPlan": "Improve Report Timeliness through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-016",
+    "kpiName": "Budget Execution Rate",
+    "category": "Operational",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 80.4,
+    "threshold": {
+      "red": 60.400000000000006,
+      "amber": 70.4,
+      "green": 80.4
+    },
+    "currentValue": 97.6,
+    "previousValue": 88.8,
+    "ytdValue": 97.6,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-09-24T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 75.4
+      },
+      {
+        "period": "Month 2",
+        "value": 96.1
+      },
+      {
+        "period": "Month 3",
+        "value": 62.5
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-017",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Financial",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 91.6,
+    "threshold": {
+      "red": 71.6,
+      "amber": 81.6,
+      "green": 91.6
+    },
+    "currentValue": 77.4,
+    "previousValue": 78.1,
+    "ytdValue": 77.4,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-08-14T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 94.9
+      },
+      {
+        "period": "Month 2",
+        "value": 60.7
+      },
+      {
+        "period": "Month 3",
+        "value": 76.2
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-018",
+    "kpiName": "Procurement Compliance",
+    "category": "Financial",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 93.8,
+    "threshold": {
+      "red": 73.8,
+      "amber": 83.8,
+      "green": 93.8
+    },
+    "currentValue": 69.5,
+    "previousValue": 64.1,
+    "ytdValue": 69.5,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-09-23T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 91.5
+      },
+      {
+        "period": "Month 2",
+        "value": 94.3
+      },
+      {
+        "period": "Month 3",
+        "value": 95.5
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-019",
+    "kpiName": "Staff Utilization",
+    "category": "HR",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 85.1,
+    "threshold": {
+      "red": 65.1,
+      "amber": 75.1,
+      "green": 85.1
+    },
+    "currentValue": 97.0,
+    "previousValue": 94.2,
+    "ytdValue": 97.0,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-03-07T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 87.4
+      },
+      {
+        "period": "Month 2",
+        "value": 80.4
+      },
+      {
+        "period": "Month 3",
+        "value": 72.8
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-020",
+    "kpiName": "Service Delivery Rate",
+    "category": "HR",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Daily",
+    "target": 90.7,
+    "threshold": {
+      "red": 70.7,
+      "amber": 80.7,
+      "green": 90.7
+    },
+    "currentValue": 77.6,
+    "previousValue": 80.7,
+    "ytdValue": 77.6,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-07-04T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 61.8
+      },
+      {
+        "period": "Month 2",
+        "value": 87.7
+      },
+      {
+        "period": "Month 3",
+        "value": 62.4
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-021",
+    "kpiName": "Audit Completion Rate",
+    "category": "Operational",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 93.5,
+    "threshold": {
+      "red": 73.5,
+      "amber": 83.5,
+      "green": 93.5
+    },
+    "currentValue": 88.6,
+    "previousValue": 80.3,
+    "ytdValue": 88.6,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-02-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 70.1
+      },
+      {
+        "period": "Month 2",
+        "value": 95.1
+      },
+      {
+        "period": "Month 3",
+        "value": 94.3
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-022",
+    "kpiName": "Customer Satisfaction",
+    "category": "HR",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 96.7,
+    "threshold": {
+      "red": 76.7,
+      "amber": 86.7,
+      "green": 96.7
+    },
+    "currentValue": 74.1,
+    "previousValue": 72.6,
+    "ytdValue": 74.1,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-05-12T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 69.9
+      },
+      {
+        "period": "Month 2",
+        "value": 92.1
+      },
+      {
+        "period": "Month 3",
+        "value": 91.4
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-023",
+    "kpiName": "System Uptime",
+    "category": "IT",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 86.0,
+    "threshold": {
+      "red": 66.0,
+      "amber": 76.0,
+      "green": 86.0
+    },
+    "currentValue": 71.4,
+    "previousValue": 68.3,
+    "ytdValue": 71.4,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-11-06T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 94.6
+      },
+      {
+        "period": "Month 2",
+        "value": 62.6
+      },
+      {
+        "period": "Month 3",
+        "value": 89.5
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-024",
+    "kpiName": "Response Time",
+    "category": "IT",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 85.3,
+    "threshold": {
+      "red": 65.3,
+      "amber": 75.3,
+      "green": 85.3
+    },
+    "currentValue": 74.0,
+    "previousValue": 70.1,
+    "ytdValue": 74.0,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-12-10T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 83.3
+      },
+      {
+        "period": "Month 2",
+        "value": 70.9
+      },
+      {
+        "period": "Month 3",
+        "value": 86.4
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMSTATS-2024-025",
+    "kpiName": "Error Rate",
+    "category": "Operational",
+    "description": "KPI for Zambia Statistics Agency",
+    "owner": "Zambia Statistics Agency",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 82.3,
+    "threshold": {
+      "red": 62.3,
+      "amber": 72.3,
+      "green": 82.3
+    },
+    "currentValue": 64.7,
+    "previousValue": 63.9,
+    "ytdValue": 64.7,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-08-14T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 75.1
+      },
+      {
+        "period": "Month 2",
+        "value": 71.1
+      },
+      {
+        "period": "Month 3",
+        "value": 65.1
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  }
+]

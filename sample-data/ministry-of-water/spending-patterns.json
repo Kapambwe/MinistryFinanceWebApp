@@ -1,0 +1,1419 @@
+[
+  {
+    "id": "SP-2024-001",
+    "patternType": "Seasonal Expenditure",
+    "category": "Agriculture",
+    "title": "Agricultural Input Procurement Seasonal Surge",
+    "description": "Consistent 4x spending increase in Q4 driven by farming season preparation across agricultural ministries",
+    "detectedDate": "2024-01-15T10:00:00Z",
+    "timeframe": {
+      "start": "2021-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 3
+    },
+    "confidenceScore": 0.96,
+    "pattern": {
+      "type": "Cyclical",
+      "frequency": "Annual",
+      "peakPeriod": "October-December",
+      "magnitude": 4.2
+    },
+    "metrics": {
+      "avgAnnualSpend": 245000000.0,
+      "q1Spend": 32000000.0,
+      "q2Spend": 28000000.0,
+      "q3Spend": 45000000.0,
+      "q4Spend": 140000000.0,
+      "q4Percentage": 57.1
+    },
+    "affectedEntities": [
+      "Ministry of Agriculture",
+      "Ministry of Fisheries and Livestock",
+      "Provincial Agriculture Offices"
+    ],
+    "drivers": [
+      "Planting season starts in November",
+      "Farmer input support program timing",
+      "Rainy season preparation",
+      "Bulk procurement for efficiency"
+    ],
+    "insights": [
+      "Pattern highly predictable with 96% confidence",
+      "Early Q4 procurement enables timely farmer distribution",
+      "Bulk buying generates 15-20% cost savings",
+      "Cash flow impact concentrated in 3-month window"
+    ],
+    "recommendations": [
+      "Plan cash reserves for Q4 surge",
+      "Consider framework contracts for smoother cash flow",
+      "Pre-position warehousing capacity",
+      "Align donor disbursements with Q4 timing"
+    ],
+    "financialPlanning": {
+      "budgetAllocation": "Front-load Q4 budget release",
+      "cashFlowImpact": "Reserve ZMW 140M for Q4",
+      "procurementStrategy": "Framework agreements by September"
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "SP-2024-002",
+    "patternType": "Geographic Variance",
+    "category": "Health Expenditure",
+    "title": "Urban-Rural Health Spending Disparity",
+    "description": "Urban areas receive 3.2x per capita health spending compared to rural areas despite 65% of population being rural",
+    "detectedDate": "2024-01-18T11:30:00Z",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 1
+    },
+    "confidenceScore": 0.91,
+    "pattern": {
+      "type": "Geographic Inequality",
+      "frequency": "Persistent",
+      "magnitude": 3.2
+    },
+    "metrics": {
+      "urbanPerCapita": 425.8,
+      "ruralPerCapita": 132.5,
+      "nationalAverage": 285.5,
+      "inequityRatio": 3.2,
+      "urbanPopulation": 35.0,
+      "ruralPopulation": 65.0
+    },
+    "affectedAreas": {
+      "highSpending": [
+        "Lusaka - ZMW 612/capita",
+        "Copperbelt - ZMW 485/capita",
+        "Southern - ZMW 378/capita"
+      ],
+      "lowSpending": [
+        "Luapula - ZMW 128/capita",
+        "Northern - ZMW 135/capita",
+        "Western - ZMW 142/capita"
+      ]
+    },
+    "drivers": [
+      "Concentration of tertiary hospitals in urban centers",
+      "Higher salary costs for urban-based specialists",
+      "Better infrastructure in urban facilities",
+      "Historical allocation patterns"
+    ],
+    "insights": [
+      "Inequity persists despite equity policy",
+      "Rural disease burden actually higher",
+      "Transportation costs amplify access barriers",
+      "Primary care underfunded relative to tertiary"
+    ],
+    "recommendations": [
+      "Implement equity-based allocation formula",
+      "Establish minimum per capita spending floor",
+      "Increase rural health facility budgets by 40%",
+      "Deploy mobile health services to remote areas"
+    ],
+    "financialPlanning": {
+      "budgetReallocation": 285000000.0,
+      "timeframe": "2-year transition",
+      "equityTarget": "Reduce disparity to 1.5x by 2026"
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "SP-2024-003",
+    "patternType": "Procurement Clustering",
+    "category": "Vendor Concentration",
+    "title": "Single Vendor Dominance in IT Procurement",
+    "description": "One vendor captures 68% of government IT contracts across multiple ministries, indicating limited competition",
+    "detectedDate": "2024-01-20T14:45:00Z",
+    "timeframe": {
+      "start": "2022-07-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 1.5
+    },
+    "confidenceScore": 0.89,
+    "pattern": {
+      "type": "Market Concentration",
+      "frequency": "Persistent",
+      "magnitude": 68.0
+    },
+    "metrics": {
+      "totalITProcurement": 285000000.0,
+      "topVendorShare": 193800000.0,
+      "topVendorPercentage": 68.0,
+      "top3VendorsPercentage": 87.5,
+      "avgContractValue": 4250000.0
+    },
+    "affectedMinistries": [
+      {
+        "ministry": "Ministry of Education",
+        "contracts": 12,
+        "value": 85000000.0
+      },
+      {
+        "ministry": "Ministry of Health",
+        "contracts": 8,
+        "value": 62000000.0
+      },
+      {
+        "ministry": "Ministry of Finance",
+        "contracts": 6,
+        "value": 46800000.0
+      }
+    ],
+    "drivers": [
+      "Incumbent advantage in technical evaluations",
+      "High switching costs for existing systems",
+      "Limited local IT supplier capacity",
+      "Proprietary technology lock-in"
+    ],
+    "insights": [
+      "Concentration reduces price competition",
+      "Government negotiating power weakened",
+      "Innovation opportunities limited",
+      "Prices 15-25% above competitive benchmarks"
+    ],
+    "recommendations": [
+      "Mandate open standards in IT procurements",
+      "Develop local IT supplier capacity",
+      "Split large contracts to enable more bidders",
+      "Introduce rotation policy for repeat contracts"
+    ],
+    "financialPlanning": {
+      "potentialSavings": 42750000.0,
+      "competitionTarget": "Top vendor <40% market share",
+      "timeframe": "3 years"
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "SP-2024-004",
+    "patternType": "Budget Execution",
+    "category": "Year-End Rush",
+    "title": "Q4 Budget Execution Surge Pattern",
+    "description": "Ministries spend 42% of annual budgets in final quarter, indicating planning and execution challenges",
+    "detectedDate": "2024-01-22T09:15:00Z",
+    "timeframe": {
+      "start": "2021-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 3
+    },
+    "confidenceScore": 0.94,
+    "pattern": {
+      "type": "Backend Loading",
+      "frequency": "Annual",
+      "magnitude": 42.0
+    },
+    "metrics": {
+      "q1Execution": 15.5,
+      "q2Execution": 21.3,
+      "q3Execution": 21.2,
+      "q4Execution": 42.0,
+      "targetProfile": 25.0,
+      "variance": 17.0
+    },
+    "affectedMinistries": [
+      {
+        "ministry": "Ministry of Infrastructure",
+        "q4Percentage": 51.2,
+        "reasons": [
+          "Procurement delays",
+          "Weather constraints"
+        ]
+      },
+      {
+        "ministry": "Ministry of Education",
+        "q4Percentage": 38.5,
+        "reasons": [
+          "School calendar alignment",
+          "Contractor delays"
+        ]
+      },
+      {
+        "ministry": "Ministry of Health",
+        "q4Percentage": 44.8,
+        "reasons": [
+          "Supply chain issues",
+          "Authorization delays"
+        ]
+      }
+    ],
+    "drivers": [
+      "Slow budget release in early quarters",
+      "Lengthy procurement processes",
+      "Risk-averse spending behavior",
+      "Use-it-or-lose-it budget culture"
+    ],
+    "insights": [
+      "Backend loading reduces value for money",
+      "Quality compromised in rush to spend",
+      "Audit findings concentrated in Q4 expenditures",
+      "Poor project outcomes from rushed execution"
+    ],
+    "recommendations": [
+      "Front-load budget releases (40% by Q2)",
+      "Streamline procurement approval processes",
+      "Implement monthly budget execution targets",
+      "Reward quality execution over full spending"
+    ],
+    "financialPlanning": {
+      "targetProfile": "25% per quarter",
+      "implementationTimeframe": "18 months",
+      "expectedImprovement": "Reduce Q4 to 30%"
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "SP-2024-005",
+    "patternType": "Revenue Collection",
+    "category": "Compliance Variation",
+    "title": "Monthly Tax Payment Clustering Pattern",
+    "description": "85% of corporate tax payments concentrated in final 5 days of each month, creating cash flow volatility",
+    "detectedDate": "2024-01-24T13:20:00Z",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 1
+    },
+    "confidenceScore": 0.97,
+    "pattern": {
+      "type": "Temporal Clustering",
+      "frequency": "Monthly",
+      "magnitude": 85.0
+    },
+    "metrics": {
+      "avgMonthlyRevenue": 425000000.0,
+      "days1to25Revenue": 63750000.0,
+      "days26to31Revenue": 361250000.0,
+      "endMonthPercentage": 85.0,
+      "peakDayRevenue": 95000000.0
+    },
+    "revenueStreams": [
+      {
+        "type": "Corporate Tax",
+        "clusteringRate": 92.0,
+        "avgMonthly": 185000000.0
+      },
+      {
+        "type": "VAT",
+        "clusteringRate": 78.0,
+        "avgMonthly": 240000000.0
+      },
+      {
+        "type": "PAYE",
+        "clusteringRate": 88.0,
+        "avgMonthly": 320000000.0
+      }
+    ],
+    "drivers": [
+      "Tax payment deadlines on month-end",
+      "Corporate cash management practices",
+      "Accounting period alignment",
+      "Payment processing delays"
+    ],
+    "insights": [
+      "Creates treasury cash flow volatility",
+      "Complicates government payment planning",
+      "Penalties for late payment insufficiently deterrent",
+      "Early payment incentives underutilized"
+    ],
+    "recommendations": [
+      "Introduce early payment discount (2%)",
+      "Stagger filing deadlines by taxpayer segments",
+      "Strengthen late payment penalties",
+      "Improve cash flow forecasting models"
+    ],
+    "financialPlanning": {
+      "targetDistribution": "50% by day 25",
+      "incentiveCost": 8500000.0,
+      "cashFlowStabilityGain": "Significant"
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "SP-2024-006",
+    "patternType": "Subsidy Leakage",
+    "category": "Benefit Incidence",
+    "title": "Fuel Subsidy Capture by High-Income Groups",
+    "description": "Top 20% income earners capture 67% of fuel subsidy benefits despite representing only 20% of population",
+    "detectedDate": "2024-01-26T10:50:00Z",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 1
+    },
+    "confidenceScore": 0.88,
+    "pattern": {
+      "type": "Regressive Distribution",
+      "frequency": "Persistent",
+      "magnitude": 67.0
+    },
+    "metrics": {
+      "totalSubsidyCost": 1450000000.0,
+      "top20PercentCapture": 971500000.0,
+      "bottom40PercentCapture": 174000000.0,
+      "progressivityIndex": -0.58,
+      "leakageRate": 67.0
+    },
+    "incomeDistribution": [
+      {
+        "quintile": "Top 20%",
+        "subsidyShare": 67.0,
+        "perCapitaBenefit": 12850.0
+      },
+      {
+        "quintile": "4th Quintile",
+        "subsidyShare": 21.0,
+        "perCapitaBenefit": 3220.0
+      },
+      {
+        "quintile": "Middle 20%",
+        "subsidyShare": 8.0,
+        "perCapitaBenefit": 1240.0
+      },
+      {
+        "quintile": "2nd Quintile",
+        "subsidyShare": 3.0,
+        "perCapitaBenefit": 465.0
+      },
+      {
+        "quintile": "Bottom 20%",
+        "subsidyShare": 1.0,
+        "perCapitaBenefit": 155.0
+      }
+    ],
+    "drivers": [
+      "Vehicle ownership concentrated in wealthy households",
+      "High-income earners consume more fuel",
+      "Universal subsidy design without targeting",
+      "No means-testing mechanism"
+    ],
+    "insights": [
+      "Subsidy is highly regressive and inefficient",
+      "Fiscal resources benefiting wealthiest most",
+      "Opportunity cost: foregone pro-poor spending",
+      "Environmental cost of subsidizing consumption"
+    ],
+    "recommendations": [
+      "Phase out universal fuel subsidy",
+      "Introduce targeted transport vouchers",
+      "Compensate vulnerable groups through cash transfers",
+      "Redirect savings to productive investments"
+    ],
+    "financialPlanning": {
+      "targetedSubsidy": 380000000.0,
+      "cashCompensation": 150000000.0,
+      "netSavings": 920000000.0,
+      "implementationPeriod": "24 months"
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "SP-2024-007",
+    "patternType": "Payroll Analysis",
+    "category": "Staffing Patterns",
+    "title": "Administrative Staff Concentration in Urban Areas",
+    "description": "72% of government administrative staff located in urban areas serving 35% of population, indicating misallocation",
+    "detectedDate": "2024-01-28T14:30:00Z",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 1
+    },
+    "confidenceScore": 0.93,
+    "pattern": {
+      "type": "Geographic Misallocation",
+      "frequency": "Persistent",
+      "magnitude": 72.0
+    },
+    "metrics": {
+      "totalStaff": 45000,
+      "urbanStaff": 32400,
+      "ruralStaff": 12600,
+      "urbanPercentage": 72.0,
+      "urbanPopulation": 35.0,
+      "serviceGap": 37.0
+    },
+    "sectorBreakdown": [
+      {
+        "sector": "Health",
+        "urbanConcentration": 68.5,
+        "ruralNeed": 72.0,
+        "gap": 42.5
+      },
+      {
+        "sector": "Education",
+        "urbanConcentration": 58.2,
+        "ruralNeed": 68.0,
+        "gap": 28.8
+      },
+      {
+        "sector": "Agriculture Extension",
+        "urbanConcentration": 45.5,
+        "ruralNeed": 95.0,
+        "gap": 52.1
+      }
+    ],
+    "drivers": [
+      "Staff preference for urban postings",
+      "Historical recruitment patterns",
+      "Lack of rural hardship incentives",
+      "Infrastructure challenges in rural areas"
+    ],
+    "insights": [
+      "Service delivery gap in rural areas",
+      "Inefficient use of personnel resources",
+      "Urban facilities overstaffed, rural understaffed",
+      "Contributes to urban-rural inequality"
+    ],
+    "recommendations": [
+      "Introduce rural hardship allowance (25%)",
+      "Mandatory rural posting for new hires (2 years)",
+      "Improve rural infrastructure and housing",
+      "Targeted recruitment from rural areas"
+    ],
+    "financialPlanning": {
+      "hardshipAllowanceCost": 95000000.0,
+      "infrastructureInvestment": 125000000.0,
+      "serviceImprovementTarget": "50% gap closure in 3 years"
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "SP-2024-008",
+    "patternType": "Project Performance",
+    "category": "Completion Rates",
+    "title": "Infrastructure Project Delay Pattern by Contractor Size",
+    "description": "Small contractors show 28% better on-time completion rate than large contractors in sub-ZMW 10M projects",
+    "detectedDate": "2024-01-30T11:00:00Z",
+    "timeframe": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 2
+    },
+    "confidenceScore": 0.86,
+    "pattern": {
+      "type": "Performance by Category",
+      "frequency": "Consistent",
+      "magnitude": 28.0
+    },
+    "metrics": {
+      "totalProjects": 156,
+      "smallContractorSuccess": 82.0,
+      "largeContractorSuccess": 54.0,
+      "performanceGap": 28.0,
+      "avgDelayDays": 45
+    },
+    "contractorPerformance": [
+      {
+        "contractorType": "Small (Local)",
+        "projectCount": 67,
+        "onTimeRate": 82.0,
+        "avgDelay": 12,
+        "costOverrun": 5.2
+      },
+      {
+        "contractorType": "Medium (Regional)",
+        "projectCount": 54,
+        "onTimeRate": 68.0,
+        "avgDelay": 28,
+        "costOverrun": 8.5
+      },
+      {
+        "contractorType": "Large (National/International)",
+        "projectCount": 35,
+        "onTimeRate": 54.0,
+        "avgDelay": 67,
+        "costOverrun": 12.3
+      }
+    ],
+    "drivers": [
+      "Small contractors more focused and committed",
+      "Large contractors spread across multiple projects",
+      "Local contractors better community relationships",
+      "Large contractors face complex approval processes"
+    ],
+    "insights": [
+      "Size doesn't guarantee better performance",
+      "Local capacity stronger than perceived",
+      "Project size should match contractor capacity",
+      "Splitting large projects may improve outcomes"
+    ],
+    "recommendations": [
+      "Increase small contractor participation",
+      "Split large projects into manageable packages",
+      "Strengthen small contractor technical support",
+      "Revise evaluation criteria to favor performance history"
+    ],
+    "financialPlanning": {
+      "smallContractorTarget": "60% of projects",
+      "capacityBuildingInvestment": 15000000.0,
+      "expectedImprovementRate": 35.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "SP-2024-009",
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2024-02-01T09:45:00Z",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2024-04-01T00:00:00",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2023-01-30T00:00:00",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2024-05-10T00:00:00",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2024-10-28T00:00:00",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2023-03-15T00:00:00",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2024-07-02T00:00:00",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2023-01-02T00:00:00",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2024-11-09T00:00:00",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2023-11-23T00:00:00",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2024-06-24T00:00:00",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "patternType": "Audit Findings",
+    "category": "Compliance Patterns",
+    "title": "Recurring Audit Findings in Same Entities",
+    "description": "42 entities received identical audit findings for 3+ consecutive years, indicating systemic non-compliance",
+    "detectedDate": "2024-03-05T00:00:00",
+    "timeframe": {
+      "start": "2020-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z",
+      "years": 4
+    },
+    "confidenceScore": 0.95,
+    "pattern": {
+      "type": "Persistent Non-Compliance",
+      "frequency": "Annual",
+      "magnitude": 36.2
+    },
+    "metrics": {
+      "entitiesAudited": 116,
+      "recurringIssues": 42,
+      "recurrenceRate": 36.2,
+      "avgRepeatYears": 3.4,
+      "totalFinancialImpact": 245000000.0
+    },
+    "commonFindings": [
+      {
+        "finding": "Missing supporting documentation",
+        "occurrences": 35,
+        "financialImpact": 85000000.0
+      },
+      {
+        "finding": "Incomplete bank reconciliations",
+        "occurrences": 28,
+        "financialImpact": 52000000.0
+      },
+      {
+        "finding": "Unauthorized budget reallocations",
+        "occurrences": 24,
+        "financialImpact": 68000000.0
+      },
+      {
+        "finding": "Asset register not updated",
+        "occurrences": 22,
+        "financialImpact": 40000000.0
+      }
+    ],
+    "drivers": [
+      "Lack of consequences for non-compliance",
+      "Insufficient follow-up on recommendations",
+      "Capacity constraints in affected entities",
+      "Weak internal control environments"
+    ],
+    "insights": [
+      "Audit recommendations not being implemented",
+      "Need for stronger enforcement mechanisms",
+      "Capacity building alone insufficient",
+      "Escalation process not working"
+    ],
+    "recommendations": [
+      "Withhold budget releases for repeat offenders",
+      "Deploy support teams to chronic non-compliers",
+      "Strengthen accountability for management",
+      "Quarterly follow-up on audit recommendations"
+    ],
+    "financialPlanning": {
+      "supportTeamCost": 28000000.0,
+      "expectedCompliance": "Reduce recurrence to 15% in 2 years",
+      "financialRecovery": 120000000.0
+    },
+    "currency": "ZMW"
+  }
+]

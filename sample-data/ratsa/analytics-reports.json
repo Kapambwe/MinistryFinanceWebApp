@@ -1,0 +1,702 @@
+[
+  {
+    "id": "RPT-RATSA-2024-001",
+    "reportTitle": "Analytics Report 001 - Road Transport and Safety Agency",
+    "reportType": "Operational",
+    "period": "Q2 2024",
+    "generatedDate": "2024-10-17T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 1 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1803,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-002",
+    "reportTitle": "Analytics Report 002 - Road Transport and Safety Agency",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-01-10T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 2 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9452,
+    "confidenceScore": 0.84,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-003",
+    "reportTitle": "Analytics Report 003 - Road Transport and Safety Agency",
+    "reportType": "Compliance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-10-17T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 3 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1672,
+    "confidenceScore": 0.97,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-004",
+    "reportTitle": "Analytics Report 004 - Road Transport and Safety Agency",
+    "reportType": "Performance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-05-24T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 4 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2032,
+    "confidenceScore": 0.82,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-005",
+    "reportTitle": "Analytics Report 005 - Road Transport and Safety Agency",
+    "reportType": "Financial",
+    "period": "Q4 2024",
+    "generatedDate": "2024-12-06T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 5 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 875,
+    "confidenceScore": 0.91,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-006",
+    "reportTitle": "Analytics Report 006 - Road Transport and Safety Agency",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-11-01T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 6 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3308,
+    "confidenceScore": 0.88,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-007",
+    "reportTitle": "Analytics Report 007 - Road Transport and Safety Agency",
+    "reportType": "Performance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-09-19T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 7 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7068,
+    "confidenceScore": 0.94,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-008",
+    "reportTitle": "Analytics Report 008 - Road Transport and Safety Agency",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-04-19T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 8 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4744,
+    "confidenceScore": 0.91,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-009",
+    "reportTitle": "Analytics Report 009 - Road Transport and Safety Agency",
+    "reportType": "Operational",
+    "period": "Q3 2024",
+    "generatedDate": "2024-11-06T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 9 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2230,
+    "confidenceScore": 0.9,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-010",
+    "reportTitle": "Analytics Report 010 - Road Transport and Safety Agency",
+    "reportType": "Compliance",
+    "period": "Q2 2024",
+    "generatedDate": "2024-05-14T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 10 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3084,
+    "confidenceScore": 0.86,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-011",
+    "reportTitle": "Analytics Report 011 - Road Transport and Safety Agency",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-05-16T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 11 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7499,
+    "confidenceScore": 0.93,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-012",
+    "reportTitle": "Analytics Report 012 - Road Transport and Safety Agency",
+    "reportType": "Risk",
+    "period": "Q2 2024",
+    "generatedDate": "2024-06-26T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 12 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8881,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-013",
+    "reportTitle": "Analytics Report 013 - Road Transport and Safety Agency",
+    "reportType": "Financial",
+    "period": "Q1 2024",
+    "generatedDate": "2024-11-25T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 13 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1900,
+    "confidenceScore": 0.86,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-014",
+    "reportTitle": "Analytics Report 014 - Road Transport and Safety Agency",
+    "reportType": "Compliance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-11-14T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 14 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9085,
+    "confidenceScore": 0.87,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-015",
+    "reportTitle": "Analytics Report 015 - Road Transport and Safety Agency",
+    "reportType": "Risk",
+    "period": "Q4 2024",
+    "generatedDate": "2024-02-01T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 15 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7888,
+    "confidenceScore": 0.84,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-016",
+    "reportTitle": "Analytics Report 016 - Road Transport and Safety Agency",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-08-18T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 16 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9657,
+    "confidenceScore": 0.87,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-017",
+    "reportTitle": "Analytics Report 017 - Road Transport and Safety Agency",
+    "reportType": "Performance",
+    "period": "Q2 2024",
+    "generatedDate": "2024-05-25T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 17 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4694,
+    "confidenceScore": 0.92,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-018",
+    "reportTitle": "Analytics Report 018 - Road Transport and Safety Agency",
+    "reportType": "Compliance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-12-09T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 18 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1709,
+    "confidenceScore": 0.97,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-019",
+    "reportTitle": "Analytics Report 019 - Road Transport and Safety Agency",
+    "reportType": "Risk",
+    "period": "Q2 2024",
+    "generatedDate": "2024-04-24T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 19 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3613,
+    "confidenceScore": 0.88,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-020",
+    "reportTitle": "Analytics Report 020 - Road Transport and Safety Agency",
+    "reportType": "Financial",
+    "period": "Q2 2024",
+    "generatedDate": "2024-09-25T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 20 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5112,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-021",
+    "reportTitle": "Analytics Report 021 - Road Transport and Safety Agency",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-10-26T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 21 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7685,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-022",
+    "reportTitle": "Analytics Report 022 - Road Transport and Safety Agency",
+    "reportType": "Financial",
+    "period": "Q2 2024",
+    "generatedDate": "2024-10-19T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 22 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3045,
+    "confidenceScore": 0.95,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-023",
+    "reportTitle": "Analytics Report 023 - Road Transport and Safety Agency",
+    "reportType": "Compliance",
+    "period": "Q2 2024",
+    "generatedDate": "2024-11-13T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 23 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1385,
+    "confidenceScore": 0.99,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-024",
+    "reportTitle": "Analytics Report 024 - Road Transport and Safety Agency",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-09-12T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 24 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2808,
+    "confidenceScore": 0.88,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-RATSA-2024-025",
+    "reportTitle": "Analytics Report 025 - Road Transport and Safety Agency",
+    "reportType": "Performance",
+    "period": "Q2 2024",
+    "generatedDate": "2024-08-24T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 25 for Road Transport and Safety Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4322,
+    "confidenceScore": 0.95,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  }
+]

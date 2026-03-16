@@ -1,0 +1,927 @@
+[
+  {
+    "id": "KPI-RDA-2024-001",
+    "kpiName": "Budget Execution Rate",
+    "category": "Service Delivery",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 85.2,
+    "threshold": {
+      "red": 65.2,
+      "amber": 75.2,
+      "green": 85.2
+    },
+    "currentValue": 80.5,
+    "previousValue": 80.7,
+    "ytdValue": 80.5,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-05-09T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 71.1
+      },
+      {
+        "period": "Month 2",
+        "value": 91.2
+      },
+      {
+        "period": "Month 3",
+        "value": 77.8
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-002",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Service Delivery",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Monthly",
+    "target": 80.8,
+    "threshold": {
+      "red": 60.8,
+      "amber": 70.8,
+      "green": 80.8
+    },
+    "currentValue": 93.1,
+    "previousValue": 90.4,
+    "ytdValue": 93.1,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-06-07T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 84.5
+      },
+      {
+        "period": "Month 2",
+        "value": 89.7
+      },
+      {
+        "period": "Month 3",
+        "value": 61.4
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-003",
+    "kpiName": "Procurement Compliance",
+    "category": "IT",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Weekly",
+    "target": 92.2,
+    "threshold": {
+      "red": 72.2,
+      "amber": 82.2,
+      "green": 92.2
+    },
+    "currentValue": 85.9,
+    "previousValue": 82.1,
+    "ytdValue": 85.9,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-11-08T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 88.6
+      },
+      {
+        "period": "Month 2",
+        "value": 90.7
+      },
+      {
+        "period": "Month 3",
+        "value": 92.6
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-004",
+    "kpiName": "Staff Utilization",
+    "category": "Service Delivery",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 85.6,
+    "threshold": {
+      "red": 65.6,
+      "amber": 75.6,
+      "green": 85.6
+    },
+    "currentValue": 93.8,
+    "previousValue": 98.4,
+    "ytdValue": 93.8,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-05-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 87.1
+      },
+      {
+        "period": "Month 2",
+        "value": 75.6
+      },
+      {
+        "period": "Month 3",
+        "value": 83.6
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-005",
+    "kpiName": "Service Delivery Rate",
+    "category": "Operational",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 95.4,
+    "threshold": {
+      "red": 75.4,
+      "amber": 85.4,
+      "green": 95.4
+    },
+    "currentValue": 92.6,
+    "previousValue": 95.0,
+    "ytdValue": 92.6,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-12-12T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 96.0
+      },
+      {
+        "period": "Month 2",
+        "value": 83.6
+      },
+      {
+        "period": "Month 3",
+        "value": 96.1
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-006",
+    "kpiName": "Audit Completion Rate",
+    "category": "Service Delivery",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 93.0,
+    "threshold": {
+      "red": 73.0,
+      "amber": 83.0,
+      "green": 93.0
+    },
+    "currentValue": 68.2,
+    "previousValue": 66.7,
+    "ytdValue": 68.2,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-04-19T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 72.0
+      },
+      {
+        "period": "Month 2",
+        "value": 76.9
+      },
+      {
+        "period": "Month 3",
+        "value": 67.3
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-007",
+    "kpiName": "Customer Satisfaction",
+    "category": "Service Delivery",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 98.0,
+    "threshold": {
+      "red": 78.0,
+      "amber": 88.0,
+      "green": 98.0
+    },
+    "currentValue": 87.4,
+    "previousValue": 81.2,
+    "ytdValue": 87.4,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-01-02T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 66.3
+      },
+      {
+        "period": "Month 2",
+        "value": 61.0
+      },
+      {
+        "period": "Month 3",
+        "value": 66.6
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-008",
+    "kpiName": "System Uptime",
+    "category": "Financial",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 88.5,
+    "threshold": {
+      "red": 68.5,
+      "amber": 78.5,
+      "green": 88.5
+    },
+    "currentValue": 63.9,
+    "previousValue": 60.8,
+    "ytdValue": 63.9,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-09-20T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 86.5
+      },
+      {
+        "period": "Month 2",
+        "value": 93.9
+      },
+      {
+        "period": "Month 3",
+        "value": 66.9
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-009",
+    "kpiName": "Response Time",
+    "category": "Financial",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 83.6,
+    "threshold": {
+      "red": 63.599999999999994,
+      "amber": 73.6,
+      "green": 83.6
+    },
+    "currentValue": 63.3,
+    "previousValue": 64.6,
+    "ytdValue": 63.3,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-10-06T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 74.7
+      },
+      {
+        "period": "Month 2",
+        "value": 86.2
+      },
+      {
+        "period": "Month 3",
+        "value": 60.1
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-010",
+    "kpiName": "Error Rate",
+    "category": "IT",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 90.5,
+    "threshold": {
+      "red": 70.5,
+      "amber": 80.5,
+      "green": 90.5
+    },
+    "currentValue": 93.2,
+    "previousValue": 94.8,
+    "ytdValue": 93.2,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-12-07T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 91.6
+      },
+      {
+        "period": "Month 2",
+        "value": 99.2
+      },
+      {
+        "period": "Month 3",
+        "value": 62.7
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-011",
+    "kpiName": "Training Completion",
+    "category": "Service Delivery",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Daily",
+    "target": 84.3,
+    "threshold": {
+      "red": 64.3,
+      "amber": 74.3,
+      "green": 84.3
+    },
+    "currentValue": 82.1,
+    "previousValue": 77.5,
+    "ytdValue": 82.1,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-04-23T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 95.9
+      },
+      {
+        "period": "Month 2",
+        "value": 90.6
+      },
+      {
+        "period": "Month 3",
+        "value": 72.4
+      }
+    ],
+    "actionPlan": "Improve Training Completion through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-012",
+    "kpiName": "Regulatory Compliance",
+    "category": "Financial",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 97.3,
+    "threshold": {
+      "red": 77.3,
+      "amber": 87.3,
+      "green": 97.3
+    },
+    "currentValue": 91.6,
+    "previousValue": 84.2,
+    "ytdValue": 91.6,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-01-11T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 61.0
+      },
+      {
+        "period": "Month 2",
+        "value": 84.3
+      },
+      {
+        "period": "Month 3",
+        "value": 94.1
+      }
+    ],
+    "actionPlan": "Improve Regulatory Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-013",
+    "kpiName": "Cost per Transaction",
+    "category": "HR",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 80.2,
+    "threshold": {
+      "red": 60.2,
+      "amber": 70.2,
+      "green": 80.2
+    },
+    "currentValue": 65.9,
+    "previousValue": 65.0,
+    "ytdValue": 65.9,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-02-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 79.8
+      },
+      {
+        "period": "Month 2",
+        "value": 71.4
+      },
+      {
+        "period": "Month 3",
+        "value": 93.8
+      }
+    ],
+    "actionPlan": "Improve Cost per Transaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-014",
+    "kpiName": "Payment Processing Time",
+    "category": "Financial",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Daily",
+    "target": 98.8,
+    "threshold": {
+      "red": 78.8,
+      "amber": 88.8,
+      "green": 98.8
+    },
+    "currentValue": 76.2,
+    "previousValue": 75.8,
+    "ytdValue": 76.2,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-09-26T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 74.1
+      },
+      {
+        "period": "Month 2",
+        "value": 70.3
+      },
+      {
+        "period": "Month 3",
+        "value": 64.5
+      }
+    ],
+    "actionPlan": "Improve Payment Processing Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-015",
+    "kpiName": "Report Timeliness",
+    "category": "IT",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 98.2,
+    "threshold": {
+      "red": 78.2,
+      "amber": 88.2,
+      "green": 98.2
+    },
+    "currentValue": 68.8,
+    "previousValue": 66.2,
+    "ytdValue": 68.8,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-11-26T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 80.5
+      },
+      {
+        "period": "Month 2",
+        "value": 78.6
+      },
+      {
+        "period": "Month 3",
+        "value": 70.2
+      }
+    ],
+    "actionPlan": "Improve Report Timeliness through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-016",
+    "kpiName": "Budget Execution Rate",
+    "category": "Financial",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 80.2,
+    "threshold": {
+      "red": 60.2,
+      "amber": 70.2,
+      "green": 80.2
+    },
+    "currentValue": 75.1,
+    "previousValue": 72.5,
+    "ytdValue": 75.1,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-05-13T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 65.3
+      },
+      {
+        "period": "Month 2",
+        "value": 97.2
+      },
+      {
+        "period": "Month 3",
+        "value": 70.1
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-017",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Operational",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 96.6,
+    "threshold": {
+      "red": 76.6,
+      "amber": 86.6,
+      "green": 96.6
+    },
+    "currentValue": 82.0,
+    "previousValue": 82.4,
+    "ytdValue": 82.0,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-04-23T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 98.0
+      },
+      {
+        "period": "Month 2",
+        "value": 63.0
+      },
+      {
+        "period": "Month 3",
+        "value": 86.5
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-018",
+    "kpiName": "Procurement Compliance",
+    "category": "IT",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 94.4,
+    "threshold": {
+      "red": 74.4,
+      "amber": 84.4,
+      "green": 94.4
+    },
+    "currentValue": 80.0,
+    "previousValue": 72.1,
+    "ytdValue": 80.0,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-05-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 89.8
+      },
+      {
+        "period": "Month 2",
+        "value": 70.0
+      },
+      {
+        "period": "Month 3",
+        "value": 65.8
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-019",
+    "kpiName": "Staff Utilization",
+    "category": "HR",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Monthly",
+    "target": 94.3,
+    "threshold": {
+      "red": 74.3,
+      "amber": 84.3,
+      "green": 94.3
+    },
+    "currentValue": 84.7,
+    "previousValue": 79.3,
+    "ytdValue": 84.7,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-09-06T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 64.7
+      },
+      {
+        "period": "Month 2",
+        "value": 80.7
+      },
+      {
+        "period": "Month 3",
+        "value": 77.7
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-020",
+    "kpiName": "Service Delivery Rate",
+    "category": "IT",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 97.5,
+    "threshold": {
+      "red": 77.5,
+      "amber": 87.5,
+      "green": 97.5
+    },
+    "currentValue": 94.8,
+    "previousValue": 98.2,
+    "ytdValue": 94.8,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-01-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 89.3
+      },
+      {
+        "period": "Month 2",
+        "value": 74.9
+      },
+      {
+        "period": "Month 3",
+        "value": 73.6
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-021",
+    "kpiName": "Audit Completion Rate",
+    "category": "Service Delivery",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 93.8,
+    "threshold": {
+      "red": 73.8,
+      "amber": 83.8,
+      "green": 93.8
+    },
+    "currentValue": 62.5,
+    "previousValue": 58.8,
+    "ytdValue": 62.5,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-09-16T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 70.6
+      },
+      {
+        "period": "Month 2",
+        "value": 69.9
+      },
+      {
+        "period": "Month 3",
+        "value": 71.7
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-022",
+    "kpiName": "Customer Satisfaction",
+    "category": "Service Delivery",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Weekly",
+    "target": 92.7,
+    "threshold": {
+      "red": 72.7,
+      "amber": 82.7,
+      "green": 92.7
+    },
+    "currentValue": 83.6,
+    "previousValue": 79.1,
+    "ytdValue": 83.6,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-01-10T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 64.7
+      },
+      {
+        "period": "Month 2",
+        "value": 65.3
+      },
+      {
+        "period": "Month 3",
+        "value": 90.8
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-023",
+    "kpiName": "System Uptime",
+    "category": "Operational",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 81.4,
+    "threshold": {
+      "red": 61.400000000000006,
+      "amber": 71.4,
+      "green": 81.4
+    },
+    "currentValue": 92.0,
+    "previousValue": 92.0,
+    "ytdValue": 92.0,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-10-10T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 76.3
+      },
+      {
+        "period": "Month 2",
+        "value": 76.4
+      },
+      {
+        "period": "Month 3",
+        "value": 98.2
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-024",
+    "kpiName": "Response Time",
+    "category": "HR",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Monthly",
+    "target": 98.1,
+    "threshold": {
+      "red": 78.1,
+      "amber": 88.1,
+      "green": 98.1
+    },
+    "currentValue": 62.1,
+    "previousValue": 56.6,
+    "ytdValue": 62.1,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-07-03T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 97.9
+      },
+      {
+        "period": "Month 2",
+        "value": 63.7
+      },
+      {
+        "period": "Month 3",
+        "value": 69.3
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RDA-2024-025",
+    "kpiName": "Error Rate",
+    "category": "HR",
+    "description": "KPI for Road Development Agency",
+    "owner": "Road Development Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Daily",
+    "target": 91.7,
+    "threshold": {
+      "red": 71.7,
+      "amber": 81.7,
+      "green": 91.7
+    },
+    "currentValue": 78.3,
+    "previousValue": 73.1,
+    "ytdValue": 78.3,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-05-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 93.3
+      },
+      {
+        "period": "Month 2",
+        "value": 90.3
+      },
+      {
+        "period": "Month 3",
+        "value": 87.3
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  }
+]

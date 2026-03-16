@@ -1,0 +1,702 @@
+[
+  {
+    "userId": "USR-FIC-001",
+    "username": "charity.phiri",
+    "fullName": "Charity Phiri",
+    "position": "Director General",
+    "department": "Operations",
+    "email": "charity.phiri@fic.gov.zm",
+    "phoneNumber": "+260-211-407142",
+    "userRole": "Director General",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-12-03",
+    "lastLoginDate": "2024-12-15T16:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-002",
+    "username": "charity.tembo",
+    "fullName": "Charity Tembo",
+    "position": "Deputy Director General",
+    "department": "Human Resources",
+    "email": "charity.tembo@fic.gov.zm",
+    "phoneNumber": "+260-211-540319",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-03-21",
+    "lastLoginDate": "2024-09-25T11:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Procurement",
+      "Finance"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-FIC-003",
+    "username": "john.sakala",
+    "fullName": "John Sakala",
+    "position": "Director",
+    "department": "Internal Audit",
+    "email": "john.sakala@fic.gov.zm",
+    "phoneNumber": "+260-211-692738",
+    "userRole": "Director",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Export Data",
+      "Approve Payments",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-01-16",
+    "lastLoginDate": "2024-09-08T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Reporting",
+      "HR Management"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-FIC-004",
+    "username": "john.mbewe",
+    "fullName": "John Mbewe",
+    "position": "Deputy Director",
+    "department": "Procurement",
+    "email": "john.mbewe@fic.gov.zm",
+    "phoneNumber": "+260-211-279358",
+    "userRole": "Deputy Director",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Export Data",
+      "Manage Users",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-03-26",
+    "lastLoginDate": "2024-06-23T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-FIC-005",
+    "username": "robert.malama",
+    "fullName": "Robert Malama",
+    "position": "Manager",
+    "department": "Procurement",
+    "email": "robert.malama@fic.gov.zm",
+    "phoneNumber": "+260-211-206560",
+    "userRole": "Manager",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Approve Payments",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-02-26",
+    "lastLoginDate": "2024-05-20T09:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-006",
+    "username": "emmanuel.musonda",
+    "fullName": "Emmanuel Musonda",
+    "position": "Senior Officer",
+    "department": "Procurement",
+    "email": "emmanuel.musonda@fic.gov.zm",
+    "phoneNumber": "+260-211-587243",
+    "userRole": "Senior Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Export Data",
+      "View Reports",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-07-01",
+    "lastLoginDate": "2024-11-28T14:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-007",
+    "username": "francis.daka",
+    "fullName": "Francis Daka",
+    "position": "Officer",
+    "department": "Risk Management",
+    "email": "francis.daka@fic.gov.zm",
+    "phoneNumber": "+260-211-535283",
+    "userRole": "Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Approve Payments",
+      "View Analytics",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-07-09",
+    "lastLoginDate": "2024-02-23T13:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-008",
+    "username": "susan.nakambwe",
+    "fullName": "Susan Nakambwe",
+    "position": "Analyst",
+    "department": "Internal Audit",
+    "email": "susan.nakambwe@fic.gov.zm",
+    "phoneNumber": "+260-211-258070",
+    "userRole": "Analyst",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Manage Users",
+      "View Reports",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-02-16",
+    "lastLoginDate": "2024-03-21T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Procurement",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-FIC-009",
+    "username": "jacqueline.simukonda",
+    "fullName": "Jacqueline Simukonda",
+    "position": "Auditor",
+    "department": "Public Relations",
+    "email": "jacqueline.simukonda@fic.gov.zm",
+    "phoneNumber": "+260-211-791124",
+    "userRole": "Auditor",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "Manage Users",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-11-25",
+    "lastLoginDate": "2024-03-27T18:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-010",
+    "username": "benjamin.nakambwe",
+    "fullName": "Benjamin Nakambwe",
+    "position": "Administrator",
+    "department": "ICT",
+    "email": "benjamin.nakambwe@fic.gov.zm",
+    "phoneNumber": "+260-211-137257",
+    "userRole": "Administrator",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Export Data",
+      "Manage Users",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-02-04",
+    "lastLoginDate": "2024-04-20T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Compliance",
+      "HR Management"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-FIC-011",
+    "username": "alice.nsofu",
+    "fullName": "Alice Nsofu",
+    "position": "Finance Officer",
+    "department": "Human Resources",
+    "email": "alice.nsofu@fic.gov.zm",
+    "phoneNumber": "+260-211-305857",
+    "userRole": "Finance Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Reports",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-07-18",
+    "lastLoginDate": "2024-11-08T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-012",
+    "username": "james.ngoma",
+    "fullName": "James Ngoma",
+    "position": "HR Officer",
+    "department": "Compliance",
+    "email": "james.ngoma@fic.gov.zm",
+    "phoneNumber": "+260-211-681765",
+    "userRole": "HR Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "System Admin",
+      "Approve Payments",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-05-17",
+    "lastLoginDate": "2024-07-19T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-FIC-013",
+    "username": "daniel.musonda",
+    "fullName": "Daniel Musonda",
+    "position": "IT Officer",
+    "department": "Research",
+    "email": "daniel.musonda@fic.gov.zm",
+    "phoneNumber": "+260-211-981758",
+    "userRole": "IT Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "System Admin",
+      "View Reports",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-11-13",
+    "lastLoginDate": "2024-01-19T17:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-FIC-014",
+    "username": "benjamin.ngoma",
+    "fullName": "Benjamin Ngoma",
+    "position": "Legal Officer",
+    "department": "Finance",
+    "email": "benjamin.ngoma@fic.gov.zm",
+    "phoneNumber": "+260-211-207573",
+    "userRole": "Legal Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Manage Users",
+      "View Reports",
+      "Export Data"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2023-06-26",
+    "lastLoginDate": "2024-06-17T16:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Finance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-FIC-015",
+    "username": "beatrice.chipimo",
+    "fullName": "Beatrice Chipimo",
+    "position": "Procurement Officer",
+    "department": "Administration",
+    "email": "beatrice.chipimo@fic.gov.zm",
+    "phoneNumber": "+260-211-927456",
+    "userRole": "Procurement Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "Export Data",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-01-09",
+    "lastLoginDate": "2024-04-01T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Budget Management",
+      "Reporting"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-016",
+    "username": "andrew.mutale",
+    "fullName": "Andrew Mutale",
+    "position": "Director General",
+    "department": "Research",
+    "email": "andrew.mutale@fic.gov.zm",
+    "phoneNumber": "+260-211-691086",
+    "userRole": "Director General",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Reports",
+      "Approve Payments",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-10-03",
+    "lastLoginDate": "2024-11-26T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-017",
+    "username": "elizabeth.lungu",
+    "fullName": "Elizabeth Lungu",
+    "position": "Deputy Director General",
+    "department": "Procurement",
+    "email": "elizabeth.lungu@fic.gov.zm",
+    "phoneNumber": "+260-211-240065",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "Export Data",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-01-23",
+    "lastLoginDate": "2024-03-21T11:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "HR Management",
+      "Reporting"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-FIC-018",
+    "username": "jacqueline.nkonde",
+    "fullName": "Jacqueline Nkonde",
+    "position": "Director",
+    "department": "Human Resources",
+    "email": "jacqueline.nkonde@fic.gov.zm",
+    "phoneNumber": "+260-211-279106",
+    "userRole": "Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-12-02",
+    "lastLoginDate": "2024-01-01T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Finance",
+      "Compliance"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-019",
+    "username": "david.mvula",
+    "fullName": "David Mvula",
+    "position": "Deputy Director",
+    "department": "Legal",
+    "email": "david.mvula@fic.gov.zm",
+    "phoneNumber": "+260-211-449082",
+    "userRole": "Deputy Director",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Export Data",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-06-08",
+    "lastLoginDate": "2024-03-20T12:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Finance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-020",
+    "username": "john.daka",
+    "fullName": "John Daka",
+    "position": "Manager",
+    "department": "Monitoring & Evaluation",
+    "email": "john.daka@fic.gov.zm",
+    "phoneNumber": "+260-211-872291",
+    "userRole": "Manager",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Analytics",
+      "Export Data",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-09-25",
+    "lastLoginDate": "2024-10-28T14:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Procurement",
+      "HR Management"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-FIC-021",
+    "username": "mwanza.daka",
+    "fullName": "Mwanza Daka",
+    "position": "Senior Officer",
+    "department": "Finance",
+    "email": "mwanza.daka@fic.gov.zm",
+    "phoneNumber": "+260-211-678632",
+    "userRole": "Senior Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-04-08",
+    "lastLoginDate": "2024-07-02T09:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-FIC-022",
+    "username": "dorothy.simukonda",
+    "fullName": "Dorothy Simukonda",
+    "position": "Officer",
+    "department": "Human Resources",
+    "email": "dorothy.simukonda@fic.gov.zm",
+    "phoneNumber": "+260-211-541866",
+    "userRole": "Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Analytics",
+      "Approve Payments",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-05-11",
+    "lastLoginDate": "2024-10-22T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Finance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-023",
+    "username": "elizabeth.simukonda",
+    "fullName": "Elizabeth Simukonda",
+    "position": "Analyst",
+    "department": "Corporate Affairs",
+    "email": "elizabeth.simukonda@fic.gov.zm",
+    "phoneNumber": "+260-211-291160",
+    "userRole": "Analyst",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "System Admin",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-07-06",
+    "lastLoginDate": "2024-10-06T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Compliance"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-024",
+    "username": "james.simukonda",
+    "fullName": "James Simukonda",
+    "position": "Auditor",
+    "department": "Public Relations",
+    "email": "james.simukonda@fic.gov.zm",
+    "phoneNumber": "+260-211-186732",
+    "userRole": "Auditor",
+    "accessLevel": "Senior",
+    "permissions": [
+      "System Admin",
+      "Manage Users",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-06-20",
+    "lastLoginDate": "2024-01-13T09:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-025",
+    "username": "benjamin.simukonda",
+    "fullName": "Benjamin Simukonda",
+    "position": "Administrator",
+    "department": "Risk Management",
+    "email": "benjamin.simukonda@fic.gov.zm",
+    "phoneNumber": "+260-211-200553",
+    "userRole": "Administrator",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "View Reports",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-03-06",
+    "lastLoginDate": "2024-10-05T11:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Compliance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Haile Selassie Avenue, Lusaka",
+    "biometricRegistered": true
+  }
+]

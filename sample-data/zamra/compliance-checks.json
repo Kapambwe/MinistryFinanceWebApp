@@ -1,0 +1,437 @@
+[
+  {
+    "id": "CC-ZAMRA-2024-001",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-09-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.8,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-03-22T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMRA-2024-002",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-02-13T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 84.1,
+    "status": "Compliant",
+    "findings": 7,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-10-07T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMRA-2024-003",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-08-15T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.1,
+    "status": "Partially Compliant",
+    "findings": 3,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-11-22T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMRA-2024-004",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-07-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 60.5,
+    "status": "Compliant",
+    "findings": 3,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-10-15T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMRA-2024-005",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-05-03T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.0,
+    "status": "Non-Compliant",
+    "findings": 7,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-04-03T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMRA-2024-006",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-06-18T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 71.9,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-02-05T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMRA-2024-007",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-01-02T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 68.8,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-05-09T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMRA-2024-008",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-03-20T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 63.3,
+    "status": "Partially Compliant",
+    "findings": 8,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-01-13T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMRA-2024-009",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-04-19T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 82.9,
+    "status": "Non-Compliant",
+    "findings": 7,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-08-23T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMRA-2024-010",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-09-20T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 90.3,
+    "status": "Partially Compliant",
+    "findings": 5,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-09-26T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMRA-2024-011",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-05-24T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 64.4,
+    "status": "Compliant",
+    "findings": 7,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-05-22T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMRA-2024-012",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-12-02T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 84.5,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-02-11T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMRA-2024-013",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-03-03T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 81.9,
+    "status": "Non-Compliant",
+    "findings": 7,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-09-04T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMRA-2024-014",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-11-14T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 72.8,
+    "status": "Partially Compliant",
+    "findings": 8,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-01-13T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMRA-2024-015",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-04-25T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 96.1,
+    "status": "Non-Compliant",
+    "findings": 5,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-01-11T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMRA-2024-016",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-12-01T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 57.6,
+    "status": "Non-Compliant",
+    "findings": 6,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-05-20T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMRA-2024-017",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-03-05T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 57.4,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-01-03T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMRA-2024-018",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-02-18T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 83.6,
+    "status": "Partially Compliant",
+    "findings": 2,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-04-25T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMRA-2024-019",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-09-05T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 90.1,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-11-28T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMRA-2024-020",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-06-16T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 78.0,
+    "status": "Non-Compliant",
+    "findings": 7,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-02-27T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMRA-2024-021",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-07-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 71.2,
+    "status": "Compliant",
+    "findings": 6,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-12-23T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMRA-2024-022",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-07-05T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.2,
+    "status": "Compliant",
+    "findings": 6,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-11-19T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMRA-2024-023",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-09-20T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 88.0,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-11-27T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMRA-2024-024",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-08-12T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 91.0,
+    "status": "Non-Compliant",
+    "findings": 6,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-01-07T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMRA-2024-025",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Medicines Regulatory Authority",
+    "checkDate": "2024-03-15T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 72.2,
+    "status": "Non-Compliant",
+    "findings": 6,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-01-07T00:00:00Z",
+    "remarks": "Minor issues found"
+  }
+]

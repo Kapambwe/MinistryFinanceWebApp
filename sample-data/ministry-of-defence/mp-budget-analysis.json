@@ -1,0 +1,1154 @@
+[
+  {
+    "analysisId": "MPBA-2024-001",
+    "parliamentarian": "Hon. Garry Nkombo",
+    "constituency": "Mazabuka Central",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-20",
+    "budgetYear": "2024",
+    "focusArea": "Agriculture and Rural Development",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "FISP allocation reduced by 15% compared to 2023",
+      "Insufficient allocation for irrigation infrastructure",
+      "CDF allocation maintained at K105.7M per constituency",
+      "Rural electrification budget increased by 8%"
+    ],
+    "questionsRaised": [
+      {
+        "question": "Why was FISP reduced when farmer numbers increased?",
+        "targetMinistry": "Ministry of Agriculture",
+        "responseReceived": true,
+        "responseDate": "2024-06-05",
+        "responseSummary": "Transition to e-voucher system reduces overhead costs"
+      },
+      {
+        "question": "What is the status of irrigation projects in Southern Province?",
+        "targetMinistry": "Ministry of Agriculture",
+        "responseReceived": true,
+        "responseDate": "2024-06-05",
+        "responseSummary": "3 projects ongoing, completion expected Q4 2024"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "Budget Reallocation",
+        "description": "Increase irrigation infrastructure allocation by K500M",
+        "amount": 500000000.0,
+        "supportingMPs": 12,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Mazabuka District Hospital upgrade",
+        "Rural feeder roads rehabilitation",
+        "Borehole drilling in 5 wards"
+      ],
+      "estimatedBeneficiaries": 85000
+    },
+    "committeeMembership": [
+      "Agriculture Committee",
+      "Budget and Finance Committee"
+    ],
+    "votingIntention": "Support with Reservations",
+    "publicConsultation": true,
+    "constituencyFeedback": "Mixed - farmers concerned about FISP reduction",
+    "status": "Active"
+  },
+  {
+    "analysisId": "MPBA-2024-002",
+    "parliamentarian": "Hon. Mutinta Mazoka",
+    "constituency": "Pemba",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-18",
+    "budgetYear": "2024",
+    "focusArea": "Health and Social Protection",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Health sector allocation at 9.2% of budget - below Abuja target of 15%",
+      "Social Cash Transfer budget increased by 12%",
+      "Rural health post construction allocation inadequate",
+      "Essential medicines procurement budget unchanged"
+    ],
+    "questionsRaised": [
+      {
+        "question": "How will MoH address staffing gaps in rural areas with current budget?",
+        "targetMinistry": "Ministry of Health",
+        "responseReceived": true,
+        "responseDate": "2024-06-02",
+        "responseSummary": "Recruitment of 2,500 health workers planned using existing allocations"
+      },
+      {
+        "question": "What measures to reduce maternal mortality in Southern Province?",
+        "targetMinistry": "Ministry of Health",
+        "responseReceived": false,
+        "responseDate": null,
+        "responseSummary": null
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "Budget Increase",
+        "description": "Increase health sector allocation to 12% of budget",
+        "amount": 8500000000.0,
+        "supportingMPs": 25,
+        "status": "Rejected in Committee"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Pemba Rural Health Centre construction",
+        "Ambulance procurement",
+        "Community water supply systems"
+      ],
+      "estimatedBeneficiaries": 62000
+    },
+    "committeeMembership": [
+      "Health Committee",
+      "Social Protection Committee"
+    ],
+    "votingIntention": "Support",
+    "publicConsultation": true,
+    "constituencyFeedback": "Strong support for social cash transfer increase",
+    "status": "Active"
+  },
+  {
+    "analysisId": "MPBA-2024-003",
+    "parliamentarian": "Hon. Brian Mundubile",
+    "constituency": "Mporokoso",
+    "party": "Patriotic Front (PF)",
+    "analysisDate": "2024-05-22",
+    "budgetYear": "2024",
+    "focusArea": "Infrastructure and Youth Employment",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Road infrastructure allocation increased by 18%",
+      "Youth employment programs underfunded",
+      "Northern Province receives lower per capita infrastructure allocation",
+      "Skills development allocation inadequate"
+    ],
+    "questionsRaised": [
+      {
+        "question": "Why regional disparity in infrastructure allocation favoring Lusaka and Copperbelt?",
+        "targetMinistry": "Ministry of Finance",
+        "responseReceived": true,
+        "responseDate": "2024-06-08",
+        "responseSummary": "Allocations based on population density and economic activity"
+      },
+      {
+        "question": "What specific youth employment programs funded in Northern Province?",
+        "targetMinistry": "Ministry of Youth and Sports",
+        "responseReceived": true,
+        "responseDate": "2024-06-10",
+        "responseSummary": "K125M for youth empowerment across all provinces"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Create Northern Province Infrastructure Catch-up Fund",
+        "amount": 2500000000.0,
+        "supportingMPs": 18,
+        "status": "Under Debate"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Mporokoso-Kaputa road rehabilitation",
+        "Youth skills training center",
+        "Market infrastructure"
+      ],
+      "estimatedBeneficiaries": 45000
+    },
+    "committeeMembership": [
+      "Infrastructure Committee",
+      "Youth Development Committee"
+    ],
+    "votingIntention": "Oppose",
+    "publicConsultation": true,
+    "constituencyFeedback": "Constituent dissatisfaction with infrastructure neglect",
+    "status": "Active"
+  },
+  {
+    "analysisId": "MPBA-2024-004",
+    "parliamentarian": "Hon. Dora Siliya",
+    "constituency": "Petauke Central",
+    "party": "Patriotic Front (PF)",
+    "analysisDate": "2024-05-19",
+    "budgetYear": "2024",
+    "focusArea": "Education and Gender",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Education allocation at 18% of budget - maintained from 2023",
+      "HELSB allocation insufficient for increasing student numbers",
+      "Girls' education bursary scheme underfunded",
+      "Teacher recruitment allocation below requirements"
+    ],
+    "questionsRaised": [
+      {
+        "question": "How many teachers will be recruited with current allocation?",
+        "targetMinistry": "Ministry of Education",
+        "responseReceived": true,
+        "responseDate": "2024-06-01",
+        "responseSummary": "5,000 teachers to be recruited in 2024"
+      },
+      {
+        "question": "What measures for gender parity in STEM education?",
+        "targetMinistry": "Ministry of Education",
+        "responseReceived": true,
+        "responseDate": "2024-06-01",
+        "responseSummary": "Girls' STEM scholarship program allocated K50M"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "Budget Increase",
+        "description": "Double girls' education bursary allocation",
+        "amount": 250000000.0,
+        "supportingMPs": 32,
+        "status": "Approved in Committee"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Construction of 3 secondary schools",
+        "Renovation of existing primary schools",
+        "ICT lab establishment"
+      ],
+      "estimatedBeneficiaries": 72000
+    },
+    "committeeMembership": [
+      "Education Committee",
+      "Gender Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Strong support for education investment",
+    "status": "Active"
+  },
+  {
+    "analysisId": "MPBA-2024-005",
+    "parliamentarian": "Hon. Christopher Yaluma",
+    "constituency": "Kabwata",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-21",
+    "budgetYear": "2024",
+    "focusArea": "Urban Development and Housing",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Housing sector allocation critically low at 0.8% of budget",
+      "Urban water and sanitation allocation increased by 15%",
+      "Slum upgrading programs underfunded",
+      "Local government transfers below operational requirements"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What is government's plan to address Lusaka's housing deficit of 300,000 units?",
+        "targetMinistry": "Ministry of Housing",
+        "responseReceived": true,
+        "responseDate": "2024-06-07",
+        "responseSummary": "PPP arrangements for affordable housing development"
+      },
+      {
+        "question": "How will Lusaka City Council operate with reduced transfers?",
+        "targetMinistry": "Ministry of Local Government",
+        "responseReceived": false,
+        "responseDate": null,
+        "responseSummary": null
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "Budget Reallocation",
+        "description": "Increase housing sector allocation to 2% of budget",
+        "amount": 3500000000.0,
+        "supportingMPs": 22,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Community center construction",
+        "Drainage system improvement",
+        "Street lighting installation"
+      ],
+      "estimatedBeneficiaries": 95000
+    },
+    "committeeMembership": [
+      "Local Government Committee",
+      "Housing Committee"
+    ],
+    "votingIntention": "Support with Reservations",
+    "publicConsultation": true,
+    "constituencyFeedback": "Urban constituents demand better housing policy",
+    "status": "Active"
+  },
+  {
+    "analysisId": "MPBA-2024-006",
+    "parliamentarian": "Hon. Sunday Chanda",
+    "constituency": "Kanchibiya",
+    "party": "Patriotic Front (PF)",
+    "analysisDate": "2024-05-23",
+    "budgetYear": "2024",
+    "focusArea": "Debt Management and Economic Growth",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Debt servicing consumes 38% of revenue - unsustainable",
+      "Domestic borrowing target of K25B may crowd out private sector",
+      "Limited fiscal space for development spending",
+      "Revenue mobilization measures insufficient"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What progress on external debt restructuring negotiations?",
+        "targetMinistry": "Ministry of Finance",
+        "responseReceived": true,
+        "responseDate": "2024-06-12",
+        "responseSummary": "Negotiations ongoing with major creditors, agreement expected Q3"
+      },
+      {
+        "question": "How will government manage debt sustainability with current deficit?",
+        "targetMinistry": "Ministry of Finance",
+        "responseReceived": true,
+        "responseDate": "2024-06-12",
+        "responseSummary": "Fiscal consolidation plan targets 5% deficit by 2026"
+      }
+    ],
+    "amendmentsProposed": [],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Rural electrification extension",
+        "Kanchibiya District Hospital equipment",
+        "Agricultural extension services"
+      ],
+      "estimatedBeneficiaries": 38000
+    },
+    "committeeMembership": [
+      "Budget and Finance Committee",
+      "Economic Affairs Committee"
+    ],
+    "votingIntention": "Oppose",
+    "publicConsultation": true,
+    "constituencyFeedback": "Concerns about debt burden on future generations",
+    "status": "Active"
+  },
+  {
+    "analysisId": "MPBA-2024-007",
+    "parliamentarian": "Hon. Makebi Zulu",
+    "constituency": "Malambo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-17",
+    "budgetYear": "2024",
+    "focusArea": "Energy and Climate Change",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Renewable energy allocation increased by 22%",
+      "Climate change fund adequately resourced",
+      "Rural electrification progressing but slow",
+      "Energy sector reforms allocation commendable"
+    ],
+    "questionsRaised": [
+      {
+        "question": "Timeline for achieving universal electricity access?",
+        "targetMinistry": "Ministry of Energy",
+        "responseReceived": true,
+        "responseDate": "2024-06-04",
+        "responseSummary": "Target 51% national coverage by 2030"
+      },
+      {
+        "question": "What renewable energy projects planned for Copperbelt?",
+        "targetMinistry": "Ministry of Energy",
+        "responseReceived": true,
+        "responseDate": "2024-06-04",
+        "responseSummary": "2 solar projects and mini-hydro schemes planned"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "Budget Increase",
+        "description": "Accelerate rural electrification program",
+        "amount": 1250000000.0,
+        "supportingMPs": 28,
+        "status": "Approved in Principle"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Solar mini-grids for 4 villages",
+        "Community resource center",
+        "Feeder roads maintenance"
+      ],
+      "estimatedBeneficiaries": 52000
+    },
+    "committeeMembership": [
+      "Energy Committee",
+      "Environment Committee"
+    ],
+    "votingIntention": "Strong Support",
+    "publicConsultation": true,
+    "constituencyFeedback": "Enthusiastic support for renewable energy initiatives",
+    "status": "Active"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Active"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Approved"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Pending"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Active"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Released"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Released"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Pending"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "In Progress"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Posted"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Approved"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Posted"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Cancelled"
+  },
+  {
+    "analysisId": "MPBA-2024-008",
+    "parliamentarian": "Hon. Nakatindi Wina",
+    "constituency": "Nalolo",
+    "party": "United Party for National Development (UPND)",
+    "analysisDate": "2024-05-24",
+    "budgetYear": "2024",
+    "focusArea": "Disaster Management and Water Resources",
+    "budgetDocument": "2024 National Budget - Green Book",
+    "keyObservations": [
+      "Disaster management allocation insufficient for flood-prone areas",
+      "Water resources management allocation increased",
+      "Barotse flood plain management underfunded",
+      "Climate adaptation programs gaining traction"
+    ],
+    "questionsRaised": [
+      {
+        "question": "What specific allocation for Barotse flood plain early warning systems?",
+        "targetMinistry": "Ministry of Water Development",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K85M allocated for flood monitoring and early warning"
+      },
+      {
+        "question": "Support for flood-affected communities in Western Province?",
+        "targetMinistry": "Ministry of Disaster Management",
+        "responseReceived": true,
+        "responseDate": "2024-06-09",
+        "responseSummary": "K125M contingency fund for disaster response"
+      }
+    ],
+    "amendmentsProposed": [
+      {
+        "proposalType": "New Allocation",
+        "description": "Establish Western Province Flood Management Fund",
+        "amount": 500000000.0,
+        "supportingMPs": 15,
+        "status": "Under Committee Review"
+      }
+    ],
+    "constituencyImpact": {
+      "cdfAllocation": 105769230.77,
+      "priorityProjects": [
+        "Elevated grain storage facilities",
+        "Disaster preparedness training",
+        "Alternative livelihood programs"
+      ],
+      "estimatedBeneficiaries": 68000
+    },
+    "committeeMembership": [
+      "Disaster Management Committee",
+      "Water Resources Committee"
+    ],
+    "votingIntention": "Support with Amendments",
+    "publicConsultation": true,
+    "constituencyFeedback": "Community seeks greater flood resilience investment",
+    "status": "Released"
+  }
+]

@@ -1,0 +1,862 @@
+[
+  {
+    "id": 1,
+    "journalNumber": "JE-2024-001",
+    "journalDate": "2024-01-15T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Finance",
+    "department": "Human Resources",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-16T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "journalNumber": "JE-2024-002",
+    "journalDate": "2023-01-14T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Agriculture",
+    "department": "Planning",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Cancelled",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2023-02-09T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "journalNumber": "JE-2024-003",
+    "journalDate": "2024-01-17T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Tourism",
+    "department": "ICT",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "In Progress",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-04-11T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "journalNumber": "JE-2024-004",
+    "journalDate": "2024-06-18T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Gender",
+    "department": "Administration",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2023-11-07T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "journalNumber": "JE-2024-005",
+    "journalDate": "2023-06-18T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Education",
+    "department": "Finance Division",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Active",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-11-18T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "journalNumber": "JE-2024-006",
+    "journalDate": "2024-11-09T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Transport and Communications",
+    "department": "Administration",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Released",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2023-09-21T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "journalNumber": "JE-2024-007",
+    "journalDate": "2023-02-16T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Commerce and Industry",
+    "department": "ICT",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "In Progress",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2023-05-05T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "journalNumber": "JE-2024-008",
+    "journalDate": "2023-01-20T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Lands",
+    "department": "Finance Division",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Approved",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2023-09-25T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "journalNumber": "JE-2024-009",
+    "journalDate": "2023-08-10T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Health",
+    "department": "Pharmacy",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Cancelled",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2023-07-21T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "journalNumber": "JE-2024-010",
+    "journalDate": "2024-08-06T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Health",
+    "department": "Planning",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Active",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-03-22T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "journalNumber": "JE-2024-011",
+    "journalDate": "2024-01-12T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Tourism",
+    "department": "Procurement",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Pending",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-21T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "journalNumber": "JE-2024-012",
+    "journalDate": "2024-01-28T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Home Affairs",
+    "department": "ICT",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Cancelled",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2023-06-17T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "journalNumber": "JE-2024-013",
+    "journalDate": "2023-10-09T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Youth and Sports",
+    "department": "Finance Division",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Approved",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2023-03-13T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "journalNumber": "JE-2024-014",
+    "journalDate": "2023-04-30T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Water Development",
+    "department": "Administration",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Completed",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-11T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "journalNumber": "JE-2024-015",
+    "journalDate": "2023-08-14T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Home Affairs",
+    "department": "Procurement",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Approved",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-10-11T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "journalNumber": "JE-2024-016",
+    "journalDate": "2023-10-10T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Tourism",
+    "department": "Procurement",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "In Progress",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2023-07-08T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "journalNumber": "JE-2024-017",
+    "journalDate": "2024-02-12T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Local Government",
+    "department": "Administration",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "In Progress",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-08-25T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "journalNumber": "JE-2024-018",
+    "journalDate": "2023-07-05T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Finance",
+    "department": "Treasury Division",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Active",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-06-19T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "journalNumber": "JE-2024-019",
+    "journalDate": "2024-06-23T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Transport and Communications",
+    "department": "Planning",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-05-25T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "journalNumber": "JE-2024-020",
+    "journalDate": "2023-05-20T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Monthly salary accrual for January 2024",
+    "ministry": "Ministry of Water Development",
+    "department": "ICT",
+    "totalDebit": 15000000.0,
+    "totalCredit": 15000000.0,
+    "status": "Pending",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-02-06T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Basic Salary",
+        "debit": 12000000.0,
+        "credit": 0.0,
+        "description": "Basic salary for January"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "510102",
+        "accountName": "Allowances",
+        "debit": 3000000.0,
+        "credit": 0.0,
+        "description": "Housing and transport allowances"
+      },
+      {
+        "lineNumber": 3,
+        "accountCode": "210201",
+        "accountName": "Salaries Payable",
+        "debit": 0.0,
+        "credit": 15000000.0,
+        "description": "Accrued salaries payable"
+      }
+    ]
+  }
+]

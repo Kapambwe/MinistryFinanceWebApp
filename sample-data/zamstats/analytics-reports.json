@@ -1,0 +1,702 @@
+[
+  {
+    "id": "RPT-ZAMSTATS-2024-001",
+    "reportTitle": "Analytics Report 001 - Zambia Statistics Agency",
+    "reportType": "Risk",
+    "period": "Q3 2024",
+    "generatedDate": "2024-07-12T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 1 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2478,
+    "confidenceScore": 0.89,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-002",
+    "reportTitle": "Analytics Report 002 - Zambia Statistics Agency",
+    "reportType": "Risk",
+    "period": "Q4 2024",
+    "generatedDate": "2024-10-12T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 2 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5420,
+    "confidenceScore": 0.83,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-003",
+    "reportTitle": "Analytics Report 003 - Zambia Statistics Agency",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-06-09T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 3 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5210,
+    "confidenceScore": 0.98,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-004",
+    "reportTitle": "Analytics Report 004 - Zambia Statistics Agency",
+    "reportType": "Risk",
+    "period": "Q3 2024",
+    "generatedDate": "2024-11-28T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 4 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2702,
+    "confidenceScore": 0.93,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-005",
+    "reportTitle": "Analytics Report 005 - Zambia Statistics Agency",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-11-15T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 5 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1430,
+    "confidenceScore": 0.92,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-006",
+    "reportTitle": "Analytics Report 006 - Zambia Statistics Agency",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-04-06T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 6 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4117,
+    "confidenceScore": 0.89,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-007",
+    "reportTitle": "Analytics Report 007 - Zambia Statistics Agency",
+    "reportType": "Financial",
+    "period": "Q4 2024",
+    "generatedDate": "2024-11-09T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 7 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 6892,
+    "confidenceScore": 0.92,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-008",
+    "reportTitle": "Analytics Report 008 - Zambia Statistics Agency",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-08-12T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 8 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 659,
+    "confidenceScore": 0.94,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-009",
+    "reportTitle": "Analytics Report 009 - Zambia Statistics Agency",
+    "reportType": "Performance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-08-14T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 9 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5905,
+    "confidenceScore": 0.83,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-010",
+    "reportTitle": "Analytics Report 010 - Zambia Statistics Agency",
+    "reportType": "Financial",
+    "period": "Q4 2024",
+    "generatedDate": "2024-04-27T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 10 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5275,
+    "confidenceScore": 0.96,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-011",
+    "reportTitle": "Analytics Report 011 - Zambia Statistics Agency",
+    "reportType": "Performance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-09-03T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 11 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2214,
+    "confidenceScore": 0.91,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-012",
+    "reportTitle": "Analytics Report 012 - Zambia Statistics Agency",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-08-18T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 12 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8647,
+    "confidenceScore": 0.99,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-013",
+    "reportTitle": "Analytics Report 013 - Zambia Statistics Agency",
+    "reportType": "Compliance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-09-08T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 13 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4342,
+    "confidenceScore": 0.93,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-014",
+    "reportTitle": "Analytics Report 014 - Zambia Statistics Agency",
+    "reportType": "Operational",
+    "period": "Q1 2024",
+    "generatedDate": "2024-05-28T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 14 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 468,
+    "confidenceScore": 0.97,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-015",
+    "reportTitle": "Analytics Report 015 - Zambia Statistics Agency",
+    "reportType": "Compliance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-06-12T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 15 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4819,
+    "confidenceScore": 0.9,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-016",
+    "reportTitle": "Analytics Report 016 - Zambia Statistics Agency",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-04-23T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 16 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4848,
+    "confidenceScore": 0.84,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-017",
+    "reportTitle": "Analytics Report 017 - Zambia Statistics Agency",
+    "reportType": "Performance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-10-16T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 17 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1233,
+    "confidenceScore": 0.99,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-018",
+    "reportTitle": "Analytics Report 018 - Zambia Statistics Agency",
+    "reportType": "Compliance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-08-12T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 18 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9274,
+    "confidenceScore": 0.84,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-019",
+    "reportTitle": "Analytics Report 019 - Zambia Statistics Agency",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-08-22T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 19 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5197,
+    "confidenceScore": 0.9,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-020",
+    "reportTitle": "Analytics Report 020 - Zambia Statistics Agency",
+    "reportType": "Financial",
+    "period": "Q1 2024",
+    "generatedDate": "2024-09-10T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 20 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5213,
+    "confidenceScore": 0.82,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-021",
+    "reportTitle": "Analytics Report 021 - Zambia Statistics Agency",
+    "reportType": "Operational",
+    "period": "Q4 2024",
+    "generatedDate": "2024-08-16T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 21 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9702,
+    "confidenceScore": 0.9,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-022",
+    "reportTitle": "Analytics Report 022 - Zambia Statistics Agency",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-03-09T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 22 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 684,
+    "confidenceScore": 0.97,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-023",
+    "reportTitle": "Analytics Report 023 - Zambia Statistics Agency",
+    "reportType": "Performance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-02-15T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 23 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4053,
+    "confidenceScore": 0.87,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-024",
+    "reportTitle": "Analytics Report 024 - Zambia Statistics Agency",
+    "reportType": "Compliance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-12-07T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 24 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1326,
+    "confidenceScore": 0.87,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMSTATS-2024-025",
+    "reportTitle": "Analytics Report 025 - Zambia Statistics Agency",
+    "reportType": "Risk",
+    "period": "Q3 2024",
+    "generatedDate": "2024-10-18T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 25 for Zambia Statistics Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5121,
+    "confidenceScore": 0.95,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  }
+]

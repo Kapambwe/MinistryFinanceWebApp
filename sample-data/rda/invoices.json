@@ -1,0 +1,702 @@
+[
+  {
+    "invoiceId": "INV-RDA-2024-0001",
+    "invoiceNumber": "2024/RDA/0001",
+    "invoiceDate": "2024-12-03T00:00:00Z",
+    "dueDate": "2024-07-07T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Compliance",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "3968516126",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9286308.97,
+        "amount": 9286308.97
+      }
+    ],
+    "subtotal": 9286308.97,
+    "vatRate": 16.0,
+    "vatAmount": 1485809.44,
+    "totalAmount": 10772118.41,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RDA-0001"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0002",
+    "invoiceNumber": "2024/RDA/0002",
+    "invoiceDate": "2024-11-13T00:00:00Z",
+    "dueDate": "2024-11-18T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "9308255252",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6387473.25,
+        "amount": 6387473.25
+      }
+    ],
+    "subtotal": 6387473.25,
+    "vatRate": 16.0,
+    "vatAmount": 1021995.72,
+    "totalAmount": 7409468.97,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RDA-0002"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0003",
+    "invoiceNumber": "2024/RDA/0003",
+    "invoiceDate": "2024-02-20T00:00:00Z",
+    "dueDate": "2024-11-10T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "2438724962",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2724099.4,
+        "amount": 2724099.4
+      }
+    ],
+    "subtotal": 2724099.4,
+    "vatRate": 16.0,
+    "vatAmount": 435855.9,
+    "totalAmount": 3159955.3,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RDA-0003"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0004",
+    "invoiceNumber": "2024/RDA/0004",
+    "invoiceDate": "2024-08-02T00:00:00Z",
+    "dueDate": "2024-12-27T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "3431400343",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6045627.28,
+        "amount": 6045627.28
+      }
+    ],
+    "subtotal": 6045627.28,
+    "vatRate": 16.0,
+    "vatAmount": 967300.36,
+    "totalAmount": 7012927.64,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RDA-0004"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0005",
+    "invoiceNumber": "2024/RDA/0005",
+    "invoiceDate": "2024-01-28T00:00:00Z",
+    "dueDate": "2024-05-24T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Public Relations",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "8230925172",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7949836.13,
+        "amount": 7949836.13
+      }
+    ],
+    "subtotal": 7949836.13,
+    "vatRate": 16.0,
+    "vatAmount": 1271973.78,
+    "totalAmount": 9221809.91,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RDA-0005"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0006",
+    "invoiceNumber": "2024/RDA/0006",
+    "invoiceDate": "2024-07-12T00:00:00Z",
+    "dueDate": "2024-01-16T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Finance",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "4033931148",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8979768.64,
+        "amount": 8979768.64
+      }
+    ],
+    "subtotal": 8979768.64,
+    "vatRate": 16.0,
+    "vatAmount": 1436762.98,
+    "totalAmount": 10416531.62,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RDA-0006"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0007",
+    "invoiceNumber": "2024/RDA/0007",
+    "invoiceDate": "2024-06-12T00:00:00Z",
+    "dueDate": "2024-04-09T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Public Relations",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "1345162785",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2763788.18,
+        "amount": 2763788.18
+      }
+    ],
+    "subtotal": 2763788.18,
+    "vatRate": 16.0,
+    "vatAmount": 442206.11,
+    "totalAmount": 3205994.29,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RDA-0007"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0008",
+    "invoiceNumber": "2024/RDA/0008",
+    "invoiceDate": "2024-09-01T00:00:00Z",
+    "dueDate": "2024-12-18T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "ICT",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "9863057933",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8803589.72,
+        "amount": 8803589.72
+      }
+    ],
+    "subtotal": 8803589.72,
+    "vatRate": 16.0,
+    "vatAmount": 1408574.36,
+    "totalAmount": 10212164.08,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RDA-0008"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0009",
+    "invoiceNumber": "2024/RDA/0009",
+    "invoiceDate": "2024-07-24T00:00:00Z",
+    "dueDate": "2024-09-21T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Finance",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "6077332143",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 880298.47,
+        "amount": 880298.47
+      }
+    ],
+    "subtotal": 880298.47,
+    "vatRate": 16.0,
+    "vatAmount": 140847.76,
+    "totalAmount": 1021146.23,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RDA-0009"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0010",
+    "invoiceNumber": "2024/RDA/0010",
+    "invoiceDate": "2024-09-18T00:00:00Z",
+    "dueDate": "2024-05-10T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "8327520734",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7452246.44,
+        "amount": 7452246.44
+      }
+    ],
+    "subtotal": 7452246.44,
+    "vatRate": 16.0,
+    "vatAmount": 1192359.43,
+    "totalAmount": 8644605.87,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RDA-0010"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0011",
+    "invoiceNumber": "2024/RDA/0011",
+    "invoiceDate": "2024-07-01T00:00:00Z",
+    "dueDate": "2024-04-04T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "6138615720",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1929817.24,
+        "amount": 1929817.24
+      }
+    ],
+    "subtotal": 1929817.24,
+    "vatRate": 16.0,
+    "vatAmount": 308770.76,
+    "totalAmount": 2238588.0,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RDA-0011"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0012",
+    "invoiceNumber": "2024/RDA/0012",
+    "invoiceDate": "2024-03-10T00:00:00Z",
+    "dueDate": "2024-07-21T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Legal",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "6458529461",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4348354.53,
+        "amount": 4348354.53
+      }
+    ],
+    "subtotal": 4348354.53,
+    "vatRate": 16.0,
+    "vatAmount": 695736.72,
+    "totalAmount": 5044091.25,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RDA-0012"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0013",
+    "invoiceNumber": "2024/RDA/0013",
+    "invoiceDate": "2024-12-01T00:00:00Z",
+    "dueDate": "2024-03-14T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "1370983310",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6346740.6,
+        "amount": 6346740.6
+      }
+    ],
+    "subtotal": 6346740.6,
+    "vatRate": 16.0,
+    "vatAmount": 1015478.5,
+    "totalAmount": 7362219.1,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RDA-0013"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0014",
+    "invoiceNumber": "2024/RDA/0014",
+    "invoiceDate": "2024-09-14T00:00:00Z",
+    "dueDate": "2024-06-13T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Finance",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "6758271863",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7097184.46,
+        "amount": 7097184.46
+      }
+    ],
+    "subtotal": 7097184.46,
+    "vatRate": 16.0,
+    "vatAmount": 1135549.51,
+    "totalAmount": 8232733.97,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RDA-0014"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0015",
+    "invoiceNumber": "2024/RDA/0015",
+    "invoiceDate": "2024-07-07T00:00:00Z",
+    "dueDate": "2024-02-07T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "8043381789",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6909082.06,
+        "amount": 6909082.06
+      }
+    ],
+    "subtotal": 6909082.06,
+    "vatRate": 16.0,
+    "vatAmount": 1105453.13,
+    "totalAmount": 8014535.19,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RDA-0015"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0016",
+    "invoiceNumber": "2024/RDA/0016",
+    "invoiceDate": "2024-05-24T00:00:00Z",
+    "dueDate": "2024-12-22T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "5467161974",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6832731.2,
+        "amount": 6832731.2
+      }
+    ],
+    "subtotal": 6832731.2,
+    "vatRate": 16.0,
+    "vatAmount": 1093236.99,
+    "totalAmount": 7925968.19,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RDA-0016"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0017",
+    "invoiceNumber": "2024/RDA/0017",
+    "invoiceDate": "2024-08-27T00:00:00Z",
+    "dueDate": "2024-11-14T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Corporate Affairs",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "3590335764",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1776785.65,
+        "amount": 1776785.65
+      }
+    ],
+    "subtotal": 1776785.65,
+    "vatRate": 16.0,
+    "vatAmount": 284285.7,
+    "totalAmount": 2061071.35,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RDA-0017"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0018",
+    "invoiceNumber": "2024/RDA/0018",
+    "invoiceDate": "2024-12-19T00:00:00Z",
+    "dueDate": "2024-03-21T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Administration",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "8061640727",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8743464.16,
+        "amount": 8743464.16
+      }
+    ],
+    "subtotal": 8743464.16,
+    "vatRate": 16.0,
+    "vatAmount": 1398954.27,
+    "totalAmount": 10142418.43,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RDA-0018"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0019",
+    "invoiceNumber": "2024/RDA/0019",
+    "invoiceDate": "2024-12-11T00:00:00Z",
+    "dueDate": "2024-10-20T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Research",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "3457275472",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3624268.63,
+        "amount": 3624268.63
+      }
+    ],
+    "subtotal": 3624268.63,
+    "vatRate": 16.0,
+    "vatAmount": 579882.98,
+    "totalAmount": 4204151.61,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RDA-0019"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0020",
+    "invoiceNumber": "2024/RDA/0020",
+    "invoiceDate": "2024-06-12T00:00:00Z",
+    "dueDate": "2024-03-04T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Finance",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "6320998565",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8841469.74,
+        "amount": 8841469.74
+      }
+    ],
+    "subtotal": 8841469.74,
+    "vatRate": 16.0,
+    "vatAmount": 1414635.16,
+    "totalAmount": 10256104.9,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RDA-0020"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0021",
+    "invoiceNumber": "2024/RDA/0021",
+    "invoiceDate": "2024-09-06T00:00:00Z",
+    "dueDate": "2024-07-27T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "1163000660",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 353368.58,
+        "amount": 353368.58
+      }
+    ],
+    "subtotal": 353368.58,
+    "vatRate": 16.0,
+    "vatAmount": 56538.97,
+    "totalAmount": 409907.55,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RDA-0021"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0022",
+    "invoiceNumber": "2024/RDA/0022",
+    "invoiceDate": "2024-02-12T00:00:00Z",
+    "dueDate": "2024-03-19T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Public Relations",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "2818552286",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1932618.01,
+        "amount": 1932618.01
+      }
+    ],
+    "subtotal": 1932618.01,
+    "vatRate": 16.0,
+    "vatAmount": 309218.88,
+    "totalAmount": 2241836.89,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RDA-0022"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0023",
+    "invoiceNumber": "2024/RDA/0023",
+    "invoiceDate": "2024-04-05T00:00:00Z",
+    "dueDate": "2024-09-10T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "6816664466",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3051038.07,
+        "amount": 3051038.07
+      }
+    ],
+    "subtotal": 3051038.07,
+    "vatRate": 16.0,
+    "vatAmount": 488166.09,
+    "totalAmount": 3539204.16,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RDA-0023"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0024",
+    "invoiceNumber": "2024/RDA/0024",
+    "invoiceDate": "2024-03-14T00:00:00Z",
+    "dueDate": "2024-04-27T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "4584473912",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8605121.69,
+        "amount": 8605121.69
+      }
+    ],
+    "subtotal": 8605121.69,
+    "vatRate": 16.0,
+    "vatAmount": 1376819.47,
+    "totalAmount": 9981941.16,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RDA-0024"
+  },
+  {
+    "invoiceId": "INV-RDA-2024-0025",
+    "invoiceNumber": "2024/RDA/0025",
+    "invoiceDate": "2024-12-08T00:00:00Z",
+    "dueDate": "2024-05-18T00:00:00Z",
+    "issuingEntity": "Road Development Agency",
+    "issuingDepartment": "Planning",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "9847820460",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5102526.18,
+        "amount": 5102526.18
+      }
+    ],
+    "subtotal": 5102526.18,
+    "vatRate": 16.0,
+    "vatAmount": 816404.19,
+    "totalAmount": 5918930.37,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RDA-0025"
+  }
+]

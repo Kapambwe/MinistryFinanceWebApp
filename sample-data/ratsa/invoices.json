@@ -1,0 +1,702 @@
+[
+  {
+    "invoiceId": "INV-RATSA-2024-0001",
+    "invoiceNumber": "2024/RATSA/0001",
+    "invoiceDate": "2024-03-12T00:00:00Z",
+    "dueDate": "2024-11-12T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "5672070729",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8517232.73,
+        "amount": 8517232.73
+      }
+    ],
+    "subtotal": 8517232.73,
+    "vatRate": 16.0,
+    "vatAmount": 1362757.24,
+    "totalAmount": 9879989.97,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0001"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0002",
+    "invoiceNumber": "2024/RATSA/0002",
+    "invoiceDate": "2024-05-17T00:00:00Z",
+    "dueDate": "2024-08-04T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Operations",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "7631343078",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8669199.31,
+        "amount": 8669199.31
+      }
+    ],
+    "subtotal": 8669199.31,
+    "vatRate": 16.0,
+    "vatAmount": 1387071.89,
+    "totalAmount": 10056271.2,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RATSA-0002"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0003",
+    "invoiceNumber": "2024/RATSA/0003",
+    "invoiceDate": "2024-10-04T00:00:00Z",
+    "dueDate": "2024-04-27T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "8195517983",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9317541.82,
+        "amount": 9317541.82
+      }
+    ],
+    "subtotal": 9317541.82,
+    "vatRate": 16.0,
+    "vatAmount": 1490806.69,
+    "totalAmount": 10808348.51,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0003"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0004",
+    "invoiceNumber": "2024/RATSA/0004",
+    "invoiceDate": "2024-10-27T00:00:00Z",
+    "dueDate": "2024-03-27T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Finance",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "1357828367",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2083299.96,
+        "amount": 2083299.96
+      }
+    ],
+    "subtotal": 2083299.96,
+    "vatRate": 16.0,
+    "vatAmount": 333327.99,
+    "totalAmount": 2416627.95,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0004"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0005",
+    "invoiceNumber": "2024/RATSA/0005",
+    "invoiceDate": "2024-03-07T00:00:00Z",
+    "dueDate": "2024-07-02T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "6094248216",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6583533.94,
+        "amount": 6583533.94
+      }
+    ],
+    "subtotal": 6583533.94,
+    "vatRate": 16.0,
+    "vatAmount": 1053365.43,
+    "totalAmount": 7636899.37,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0005"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0006",
+    "invoiceNumber": "2024/RATSA/0006",
+    "invoiceDate": "2024-06-18T00:00:00Z",
+    "dueDate": "2024-09-12T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Compliance",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "5687785157",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7048741.71,
+        "amount": 7048741.71
+      }
+    ],
+    "subtotal": 7048741.71,
+    "vatRate": 16.0,
+    "vatAmount": 1127798.67,
+    "totalAmount": 8176540.38,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0006"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0007",
+    "invoiceNumber": "2024/RATSA/0007",
+    "invoiceDate": "2024-01-23T00:00:00Z",
+    "dueDate": "2024-06-06T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "8450828394",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7407010.7,
+        "amount": 7407010.7
+      }
+    ],
+    "subtotal": 7407010.7,
+    "vatRate": 16.0,
+    "vatAmount": 1185121.71,
+    "totalAmount": 8592132.41,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RATSA-0007"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0008",
+    "invoiceNumber": "2024/RATSA/0008",
+    "invoiceDate": "2024-10-22T00:00:00Z",
+    "dueDate": "2024-02-24T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Planning",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "5436698587",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6994882.36,
+        "amount": 6994882.36
+      }
+    ],
+    "subtotal": 6994882.36,
+    "vatRate": 16.0,
+    "vatAmount": 1119181.18,
+    "totalAmount": 8114063.54,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RATSA-0008"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0009",
+    "invoiceNumber": "2024/RATSA/0009",
+    "invoiceDate": "2024-01-27T00:00:00Z",
+    "dueDate": "2024-07-14T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "ICT",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "6774876787",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3616612.39,
+        "amount": 3616612.39
+      }
+    ],
+    "subtotal": 3616612.39,
+    "vatRate": 16.0,
+    "vatAmount": 578657.98,
+    "totalAmount": 4195270.37,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0009"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0010",
+    "invoiceNumber": "2024/RATSA/0010",
+    "invoiceDate": "2024-07-21T00:00:00Z",
+    "dueDate": "2024-09-14T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "7221152910",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7254244.92,
+        "amount": 7254244.92
+      }
+    ],
+    "subtotal": 7254244.92,
+    "vatRate": 16.0,
+    "vatAmount": 1160679.19,
+    "totalAmount": 8414924.11,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0010"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0011",
+    "invoiceNumber": "2024/RATSA/0011",
+    "invoiceDate": "2024-06-08T00:00:00Z",
+    "dueDate": "2024-04-26T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Finance",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "3504591596",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4789255.11,
+        "amount": 4789255.11
+      }
+    ],
+    "subtotal": 4789255.11,
+    "vatRate": 16.0,
+    "vatAmount": 766280.82,
+    "totalAmount": 5555535.93,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0011"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0012",
+    "invoiceNumber": "2024/RATSA/0012",
+    "invoiceDate": "2024-09-11T00:00:00Z",
+    "dueDate": "2024-09-18T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Procurement",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "7417452601",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6726822.44,
+        "amount": 6726822.44
+      }
+    ],
+    "subtotal": 6726822.44,
+    "vatRate": 16.0,
+    "vatAmount": 1076291.59,
+    "totalAmount": 7803114.03,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0012"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0013",
+    "invoiceNumber": "2024/RATSA/0013",
+    "invoiceDate": "2024-07-07T00:00:00Z",
+    "dueDate": "2024-01-16T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Research",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "9690943617",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6915098.34,
+        "amount": 6915098.34
+      }
+    ],
+    "subtotal": 6915098.34,
+    "vatRate": 16.0,
+    "vatAmount": 1106415.73,
+    "totalAmount": 8021514.07,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RATSA-0013"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0014",
+    "invoiceNumber": "2024/RATSA/0014",
+    "invoiceDate": "2024-03-08T00:00:00Z",
+    "dueDate": "2024-08-14T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "7353440275",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8197765.34,
+        "amount": 8197765.34
+      }
+    ],
+    "subtotal": 8197765.34,
+    "vatRate": 16.0,
+    "vatAmount": 1311642.45,
+    "totalAmount": 9509407.79,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RATSA-0014"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0015",
+    "invoiceNumber": "2024/RATSA/0015",
+    "invoiceDate": "2024-09-23T00:00:00Z",
+    "dueDate": "2024-04-28T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Operations",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "4999482145",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 942804.65,
+        "amount": 942804.65
+      }
+    ],
+    "subtotal": 942804.65,
+    "vatRate": 16.0,
+    "vatAmount": 150848.74,
+    "totalAmount": 1093653.39,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0015"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0016",
+    "invoiceNumber": "2024/RATSA/0016",
+    "invoiceDate": "2024-01-27T00:00:00Z",
+    "dueDate": "2024-08-26T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Administration",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "3031524180",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4401824.75,
+        "amount": 4401824.75
+      }
+    ],
+    "subtotal": 4401824.75,
+    "vatRate": 16.0,
+    "vatAmount": 704291.96,
+    "totalAmount": 5106116.71,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RATSA-0016"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0017",
+    "invoiceNumber": "2024/RATSA/0017",
+    "invoiceDate": "2024-11-17T00:00:00Z",
+    "dueDate": "2024-10-24T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Compliance",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "1598235408",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6096813.4,
+        "amount": 6096813.4
+      }
+    ],
+    "subtotal": 6096813.4,
+    "vatRate": 16.0,
+    "vatAmount": 975490.14,
+    "totalAmount": 7072303.54,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0017"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0018",
+    "invoiceNumber": "2024/RATSA/0018",
+    "invoiceDate": "2024-10-24T00:00:00Z",
+    "dueDate": "2024-03-20T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Research",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "3738583591",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3574803.36,
+        "amount": 3574803.36
+      }
+    ],
+    "subtotal": 3574803.36,
+    "vatRate": 16.0,
+    "vatAmount": 571968.54,
+    "totalAmount": 4146771.9,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RATSA-0018"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0019",
+    "invoiceNumber": "2024/RATSA/0019",
+    "invoiceDate": "2024-08-02T00:00:00Z",
+    "dueDate": "2024-12-11T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "1920302701",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9985780.32,
+        "amount": 9985780.32
+      }
+    ],
+    "subtotal": 9985780.32,
+    "vatRate": 16.0,
+    "vatAmount": 1597724.85,
+    "totalAmount": 11583505.17,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0019"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0020",
+    "invoiceNumber": "2024/RATSA/0020",
+    "invoiceDate": "2024-12-09T00:00:00Z",
+    "dueDate": "2024-06-22T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Compliance",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "8101017181",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3031877.6,
+        "amount": 3031877.6
+      }
+    ],
+    "subtotal": 3031877.6,
+    "vatRate": 16.0,
+    "vatAmount": 485100.42,
+    "totalAmount": 3516978.02,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RATSA-0020"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0021",
+    "invoiceNumber": "2024/RATSA/0021",
+    "invoiceDate": "2024-06-03T00:00:00Z",
+    "dueDate": "2024-08-15T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Planning",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "5491285109",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2242618.33,
+        "amount": 2242618.33
+      }
+    ],
+    "subtotal": 2242618.33,
+    "vatRate": 16.0,
+    "vatAmount": 358818.93,
+    "totalAmount": 2601437.26,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0021"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0022",
+    "invoiceNumber": "2024/RATSA/0022",
+    "invoiceDate": "2024-04-25T00:00:00Z",
+    "dueDate": "2024-03-14T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "5748301063",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4231540.21,
+        "amount": 4231540.21
+      }
+    ],
+    "subtotal": 4231540.21,
+    "vatRate": 16.0,
+    "vatAmount": 677046.43,
+    "totalAmount": 4908586.64,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-RATSA-0022"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0023",
+    "invoiceNumber": "2024/RATSA/0023",
+    "invoiceDate": "2024-08-01T00:00:00Z",
+    "dueDate": "2024-05-15T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Corporate Affairs",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "2683194117",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8250207.23,
+        "amount": 8250207.23
+      }
+    ],
+    "subtotal": 8250207.23,
+    "vatRate": 16.0,
+    "vatAmount": 1320033.16,
+    "totalAmount": 9570240.39,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RATSA-0023"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0024",
+    "invoiceNumber": "2024/RATSA/0024",
+    "invoiceDate": "2024-08-26T00:00:00Z",
+    "dueDate": "2024-05-21T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "ICT",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "6905508061",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 416000.64,
+        "amount": 416000.64
+      }
+    ],
+    "subtotal": 416000.64,
+    "vatRate": 16.0,
+    "vatAmount": 66560.1,
+    "totalAmount": 482560.74,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-RATSA-0024"
+  },
+  {
+    "invoiceId": "INV-RATSA-2024-0025",
+    "invoiceNumber": "2024/RATSA/0025",
+    "invoiceDate": "2024-04-03T00:00:00Z",
+    "dueDate": "2024-12-14T00:00:00Z",
+    "issuingEntity": "Road Transport and Safety Agency",
+    "issuingDepartment": "Operations",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "9287690769",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7181505.65,
+        "amount": 7181505.65
+      }
+    ],
+    "subtotal": 7181505.65,
+    "vatRate": 16.0,
+    "vatAmount": 1149040.9,
+    "totalAmount": 8330546.55,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-RATSA-0025"
+  }
+]

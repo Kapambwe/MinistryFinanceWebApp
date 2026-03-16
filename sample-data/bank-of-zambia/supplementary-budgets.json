@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "supplementaryNumber": "SB-2024-001",
+    "fiscalYear": "2024",
+    "titleOfSupplementary": "Mid-Year Supplementary Appropriation - Emergency Response",
+    "totalAmount": 500000000.0,
+    "submissionDate": "2024-06-15T00:00:00",
+    "approvalDate": "2024-07-20T00:00:00",
+    "status": "Approved",
+    "reason": "Emergency flood disaster response and rehabilitation",
+    "ministries": [
+      {
+        "ministryCode": "MOH",
+        "ministryName": "Ministry of Health",
+        "allocation": 150000000.0,
+        "purpose": "Emergency medical services and cholera prevention"
+      },
+      {
+        "ministryCode": "MLGH",
+        "ministryName": "Ministry of Local Government and Housing",
+        "allocation": 250000000.0,
+        "purpose": "Infrastructure rehabilitation and temporary shelters"
+      },
+      {
+        "ministryCode": "MOA",
+        "ministryName": "Ministry of Agriculture",
+        "allocation": 100000000.0,
+        "purpose": "Farmer input support and food security programs"
+      }
+    ],
+    "fundingSource": "Contingency Fund",
+    "parliamentarySessionDate": "2024-07-10T00:00:00",
+    "parliamentApprovalReference": "Bill No. 15 of 2024"
+  },
+  {
+    "id": 2,
+    "supplementaryNumber": "SB-2024-002",
+    "fiscalYear": "2024",
+    "titleOfSupplementary": "Supplementary Appropriation - Civil Service Salary Adjustment",
+    "totalAmount": 800000000.0,
+    "submissionDate": "2024-08-01T00:00:00",
+    "approvalDate": null,
+    "status": "Pending Parliamentary Approval",
+    "reason": "Cost of living adjustment for civil servants",
+    "ministries": [
+      {
+        "ministryCode": "ALL",
+        "ministryName": "All Ministries",
+        "allocation": 800000000.0,
+        "purpose": "15% salary increment for all civil servants"
+      }
+    ],
+    "fundingSource": "Additional Revenue Collection",
+    "parliamentarySessionDate": "2024-09-05T00:00:00",
+    "parliamentApprovalReference": null
+  },
+  {
+    "id": 3,
+    "supplementaryNumber": "SB-2023-003",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 350000000.0,
+    "submissionDate": "2023-10-15T00:00:00",
+    "approvalDate": "2023-11-20T00:00:00",
+    "status": "Approved",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2023-11-10T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 4,
+    "supplementaryNumber": "SB-2023-004",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 23399471.23,
+    "submissionDate": "2023-03-01T00:00:00",
+    "approvalDate": "2023-01-28T00:00:00",
+    "status": "Approved",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2023-01-17T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 5,
+    "supplementaryNumber": "SB-2023-005",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 46777850.92,
+    "submissionDate": "2023-12-23T00:00:00",
+    "approvalDate": "2024-05-04T00:00:00",
+    "status": "Released",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2023-09-17T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 6,
+    "supplementaryNumber": "SB-2023-006",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 43993929.38,
+    "submissionDate": "2024-11-10T00:00:00",
+    "approvalDate": "2023-11-10T00:00:00",
+    "status": "Cancelled",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2024-03-12T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 7,
+    "supplementaryNumber": "SB-2023-007",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 17563769.02,
+    "submissionDate": "2023-07-29T00:00:00",
+    "approvalDate": "2024-07-31T00:00:00",
+    "status": "Approved",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2024-05-05T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 8,
+    "supplementaryNumber": "SB-2023-008",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 17218294.48,
+    "submissionDate": "2023-08-09T00:00:00",
+    "approvalDate": "2024-03-19T00:00:00",
+    "status": "In Progress",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2024-12-02T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 9,
+    "supplementaryNumber": "SB-2023-009",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 34143032.21,
+    "submissionDate": "2024-12-13T00:00:00",
+    "approvalDate": "2024-05-12T00:00:00",
+    "status": "Approved",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2024-12-20T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 10,
+    "supplementaryNumber": "SB-2023-010",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 1264992.67,
+    "submissionDate": "2023-12-18T00:00:00",
+    "approvalDate": "2023-03-31T00:00:00",
+    "status": "Cancelled",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2024-01-02T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 11,
+    "supplementaryNumber": "SB-2023-011",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 32796684.03,
+    "submissionDate": "2024-09-19T00:00:00",
+    "approvalDate": "2023-07-29T00:00:00",
+    "status": "Active",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2024-09-27T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 12,
+    "supplementaryNumber": "SB-2023-012",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 48061549.27,
+    "submissionDate": "2024-02-27T00:00:00",
+    "approvalDate": "2023-10-26T00:00:00",
+    "status": "In Progress",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2024-07-07T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 13,
+    "supplementaryNumber": "SB-2023-013",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 3188417.36,
+    "submissionDate": "2024-02-09T00:00:00",
+    "approvalDate": "2024-01-24T00:00:00",
+    "status": "Cancelled",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2024-08-25T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 14,
+    "supplementaryNumber": "SB-2023-014",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 17650705.73,
+    "submissionDate": "2023-09-14T00:00:00",
+    "approvalDate": "2024-08-03T00:00:00",
+    "status": "Posted",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2023-08-18T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 15,
+    "supplementaryNumber": "SB-2023-015",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 41233771.23,
+    "submissionDate": "2023-03-27T00:00:00",
+    "approvalDate": "2023-07-26T00:00:00",
+    "status": "Released",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2023-10-26T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 16,
+    "supplementaryNumber": "SB-2023-016",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 41550731.57,
+    "submissionDate": "2024-06-14T00:00:00",
+    "approvalDate": "2023-09-02T00:00:00",
+    "status": "Posted",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2024-03-14T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 17,
+    "supplementaryNumber": "SB-2023-017",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 42400305.68,
+    "submissionDate": "2023-11-23T00:00:00",
+    "approvalDate": "2023-09-25T00:00:00",
+    "status": "Posted",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2023-02-22T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 18,
+    "supplementaryNumber": "SB-2023-018",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 11531805.44,
+    "submissionDate": "2023-02-07T00:00:00",
+    "approvalDate": "2023-05-10T00:00:00",
+    "status": "Posted",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2023-05-03T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 19,
+    "supplementaryNumber": "SB-2023-019",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 3084829.59,
+    "submissionDate": "2023-04-14T00:00:00",
+    "approvalDate": "2023-12-23T00:00:00",
+    "status": "Cancelled",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2023-09-25T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  },
+  {
+    "id": 20,
+    "supplementaryNumber": "SB-2023-020",
+    "fiscalYear": "2023",
+    "titleOfSupplementary": "Year-End Supplementary - Infrastructure Completion",
+    "totalAmount": 13136985.22,
+    "submissionDate": "2023-07-17T00:00:00",
+    "approvalDate": "2024-09-28T00:00:00",
+    "status": "Posted",
+    "reason": "Completion of critical infrastructure projects before year-end",
+    "ministries": [
+      {
+        "ministryCode": "MOF",
+        "ministryName": "Ministry of Finance",
+        "allocation": 200000000.0,
+        "purpose": "Road infrastructure completion - Lusaka-Ndola dual carriageway"
+      },
+      {
+        "ministryCode": "MOE",
+        "ministryName": "Ministry of Energy",
+        "allocation": 150000000.0,
+        "purpose": "Rural electrification program acceleration"
+      }
+    ],
+    "fundingSource": "External Borrowing",
+    "parliamentarySessionDate": "2023-01-06T00:00:00",
+    "parliamentApprovalReference": "Bill No. 28 of 2023"
+  }
+]

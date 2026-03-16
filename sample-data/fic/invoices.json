@@ -1,0 +1,702 @@
+[
+  {
+    "invoiceId": "INV-FIC-2024-0001",
+    "invoiceNumber": "2024/FIC/0001",
+    "invoiceDate": "2024-03-17T00:00:00Z",
+    "dueDate": "2024-06-21T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "2077539834",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1286079.61,
+        "amount": 1286079.61
+      }
+    ],
+    "subtotal": 1286079.61,
+    "vatRate": 16.0,
+    "vatAmount": 205772.74,
+    "totalAmount": 1491852.35,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-FIC-0001"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0002",
+    "invoiceNumber": "2024/FIC/0002",
+    "invoiceDate": "2024-01-08T00:00:00Z",
+    "dueDate": "2024-03-22T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Research",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "3424161790",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3402274.3,
+        "amount": 3402274.3
+      }
+    ],
+    "subtotal": 3402274.3,
+    "vatRate": 16.0,
+    "vatAmount": 544363.89,
+    "totalAmount": 3946638.19,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-FIC-0002"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0003",
+    "invoiceNumber": "2024/FIC/0003",
+    "invoiceDate": "2024-06-06T00:00:00Z",
+    "dueDate": "2024-09-28T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "2455402454",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 449701.46,
+        "amount": 449701.46
+      }
+    ],
+    "subtotal": 449701.46,
+    "vatRate": 16.0,
+    "vatAmount": 71952.23,
+    "totalAmount": 521653.69,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-FIC-0003"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0004",
+    "invoiceNumber": "2024/FIC/0004",
+    "invoiceDate": "2024-01-24T00:00:00Z",
+    "dueDate": "2024-11-18T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "2243432379",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2271206.54,
+        "amount": 2271206.54
+      }
+    ],
+    "subtotal": 2271206.54,
+    "vatRate": 16.0,
+    "vatAmount": 363393.05,
+    "totalAmount": 2634599.59,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-FIC-0004"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0005",
+    "invoiceNumber": "2024/FIC/0005",
+    "invoiceDate": "2024-07-19T00:00:00Z",
+    "dueDate": "2024-03-23T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Corporate Affairs",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "3777515461",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4800087.85,
+        "amount": 4800087.85
+      }
+    ],
+    "subtotal": 4800087.85,
+    "vatRate": 16.0,
+    "vatAmount": 768014.06,
+    "totalAmount": 5568101.91,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-FIC-0005"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0006",
+    "invoiceNumber": "2024/FIC/0006",
+    "invoiceDate": "2024-02-19T00:00:00Z",
+    "dueDate": "2024-08-02T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Compliance",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "9496603298",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8461524.76,
+        "amount": 8461524.76
+      }
+    ],
+    "subtotal": 8461524.76,
+    "vatRate": 16.0,
+    "vatAmount": 1353843.96,
+    "totalAmount": 9815368.72,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-FIC-0006"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0007",
+    "invoiceNumber": "2024/FIC/0007",
+    "invoiceDate": "2024-05-01T00:00:00Z",
+    "dueDate": "2024-07-19T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Procurement",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "7158931342",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9368446.88,
+        "amount": 9368446.88
+      }
+    ],
+    "subtotal": 9368446.88,
+    "vatRate": 16.0,
+    "vatAmount": 1498951.5,
+    "totalAmount": 10867398.38,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-FIC-0007"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0008",
+    "invoiceNumber": "2024/FIC/0008",
+    "invoiceDate": "2024-02-25T00:00:00Z",
+    "dueDate": "2024-12-21T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "7069440360",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3121366.97,
+        "amount": 3121366.97
+      }
+    ],
+    "subtotal": 3121366.97,
+    "vatRate": 16.0,
+    "vatAmount": 499418.72,
+    "totalAmount": 3620785.69,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-FIC-0008"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0009",
+    "invoiceNumber": "2024/FIC/0009",
+    "invoiceDate": "2024-08-20T00:00:00Z",
+    "dueDate": "2024-03-19T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Planning",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "8459765292",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6034691.15,
+        "amount": 6034691.15
+      }
+    ],
+    "subtotal": 6034691.15,
+    "vatRate": 16.0,
+    "vatAmount": 965550.58,
+    "totalAmount": 7000241.73,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-FIC-0009"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0010",
+    "invoiceNumber": "2024/FIC/0010",
+    "invoiceDate": "2024-03-09T00:00:00Z",
+    "dueDate": "2024-04-16T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Public Relations",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "3644839079",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4811089.84,
+        "amount": 4811089.84
+      }
+    ],
+    "subtotal": 4811089.84,
+    "vatRate": 16.0,
+    "vatAmount": 769774.37,
+    "totalAmount": 5580864.21,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-FIC-0010"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0011",
+    "invoiceNumber": "2024/FIC/0011",
+    "invoiceDate": "2024-06-22T00:00:00Z",
+    "dueDate": "2024-02-09T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Procurement",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "2323670957",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4114446.98,
+        "amount": 4114446.98
+      }
+    ],
+    "subtotal": 4114446.98,
+    "vatRate": 16.0,
+    "vatAmount": 658311.52,
+    "totalAmount": 4772758.5,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-FIC-0011"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0012",
+    "invoiceNumber": "2024/FIC/0012",
+    "invoiceDate": "2024-04-05T00:00:00Z",
+    "dueDate": "2024-10-25T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Operations",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "9958655744",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5231797.35,
+        "amount": 5231797.35
+      }
+    ],
+    "subtotal": 5231797.35,
+    "vatRate": 16.0,
+    "vatAmount": 837087.58,
+    "totalAmount": 6068884.93,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-FIC-0012"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0013",
+    "invoiceNumber": "2024/FIC/0013",
+    "invoiceDate": "2024-11-03T00:00:00Z",
+    "dueDate": "2024-10-04T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Administration",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "2151163533",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8122462.7,
+        "amount": 8122462.7
+      }
+    ],
+    "subtotal": 8122462.7,
+    "vatRate": 16.0,
+    "vatAmount": 1299594.03,
+    "totalAmount": 9422056.73,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-FIC-0013"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0014",
+    "invoiceNumber": "2024/FIC/0014",
+    "invoiceDate": "2024-05-24T00:00:00Z",
+    "dueDate": "2024-11-07T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Administration",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "3293996954",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2479118.58,
+        "amount": 2479118.58
+      }
+    ],
+    "subtotal": 2479118.58,
+    "vatRate": 16.0,
+    "vatAmount": 396658.97,
+    "totalAmount": 2875777.55,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-FIC-0014"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0015",
+    "invoiceNumber": "2024/FIC/0015",
+    "invoiceDate": "2024-05-07T00:00:00Z",
+    "dueDate": "2024-05-03T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "3411786319",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5302763.26,
+        "amount": 5302763.26
+      }
+    ],
+    "subtotal": 5302763.26,
+    "vatRate": 16.0,
+    "vatAmount": 848442.12,
+    "totalAmount": 6151205.38,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-FIC-0015"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0016",
+    "invoiceNumber": "2024/FIC/0016",
+    "invoiceDate": "2024-05-15T00:00:00Z",
+    "dueDate": "2024-07-06T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Finance",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "6175318411",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1175663.96,
+        "amount": 1175663.96
+      }
+    ],
+    "subtotal": 1175663.96,
+    "vatRate": 16.0,
+    "vatAmount": 188106.23,
+    "totalAmount": 1363770.19,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-FIC-0016"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0017",
+    "invoiceNumber": "2024/FIC/0017",
+    "invoiceDate": "2024-04-24T00:00:00Z",
+    "dueDate": "2024-06-10T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Procurement",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "9308052332",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8869678.04,
+        "amount": 8869678.04
+      }
+    ],
+    "subtotal": 8869678.04,
+    "vatRate": 16.0,
+    "vatAmount": 1419148.49,
+    "totalAmount": 10288826.53,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-FIC-0017"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0018",
+    "invoiceNumber": "2024/FIC/0018",
+    "invoiceDate": "2024-02-25T00:00:00Z",
+    "dueDate": "2024-07-17T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Operations",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "3544568278",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 735689.43,
+        "amount": 735689.43
+      }
+    ],
+    "subtotal": 735689.43,
+    "vatRate": 16.0,
+    "vatAmount": 117710.31,
+    "totalAmount": 853399.74,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-FIC-0018"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0019",
+    "invoiceNumber": "2024/FIC/0019",
+    "invoiceDate": "2024-12-01T00:00:00Z",
+    "dueDate": "2024-01-18T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Research",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "1834702352",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4786845.15,
+        "amount": 4786845.15
+      }
+    ],
+    "subtotal": 4786845.15,
+    "vatRate": 16.0,
+    "vatAmount": 765895.22,
+    "totalAmount": 5552740.37,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-FIC-0019"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0020",
+    "invoiceNumber": "2024/FIC/0020",
+    "invoiceDate": "2024-08-17T00:00:00Z",
+    "dueDate": "2024-12-04T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Planning",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "9168914188",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6712167.94,
+        "amount": 6712167.94
+      }
+    ],
+    "subtotal": 6712167.94,
+    "vatRate": 16.0,
+    "vatAmount": 1073946.87,
+    "totalAmount": 7786114.81,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-FIC-0020"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0021",
+    "invoiceNumber": "2024/FIC/0021",
+    "invoiceDate": "2024-11-26T00:00:00Z",
+    "dueDate": "2024-05-03T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Operations",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "3881894879",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9682987.45,
+        "amount": 9682987.45
+      }
+    ],
+    "subtotal": 9682987.45,
+    "vatRate": 16.0,
+    "vatAmount": 1549277.99,
+    "totalAmount": 11232265.44,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-FIC-0021"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0022",
+    "invoiceNumber": "2024/FIC/0022",
+    "invoiceDate": "2024-03-18T00:00:00Z",
+    "dueDate": "2024-09-26T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "5576725712",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8083647.73,
+        "amount": 8083647.73
+      }
+    ],
+    "subtotal": 8083647.73,
+    "vatRate": 16.0,
+    "vatAmount": 1293383.64,
+    "totalAmount": 9377031.37,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-FIC-0022"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0023",
+    "invoiceNumber": "2024/FIC/0023",
+    "invoiceDate": "2024-09-15T00:00:00Z",
+    "dueDate": "2024-04-25T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Public Relations",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "4584144878",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3837579.17,
+        "amount": 3837579.17
+      }
+    ],
+    "subtotal": 3837579.17,
+    "vatRate": 16.0,
+    "vatAmount": 614012.67,
+    "totalAmount": 4451591.84,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-FIC-0023"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0024",
+    "invoiceNumber": "2024/FIC/0024",
+    "invoiceDate": "2024-02-17T00:00:00Z",
+    "dueDate": "2024-02-07T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Administration",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "4277550060",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2031952.85,
+        "amount": 2031952.85
+      }
+    ],
+    "subtotal": 2031952.85,
+    "vatRate": 16.0,
+    "vatAmount": 325112.46,
+    "totalAmount": 2357065.31,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-FIC-0024"
+  },
+  {
+    "invoiceId": "INV-FIC-2024-0025",
+    "invoiceNumber": "2024/FIC/0025",
+    "invoiceDate": "2024-05-11T00:00:00Z",
+    "dueDate": "2024-01-21T00:00:00Z",
+    "issuingEntity": "Finance Intelligence Centre",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "6282195056",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9956733.35,
+        "amount": 9956733.35
+      }
+    ],
+    "subtotal": 9956733.35,
+    "vatRate": 16.0,
+    "vatAmount": 1593077.34,
+    "totalAmount": 11549810.69,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-FIC-0025"
+  }
+]

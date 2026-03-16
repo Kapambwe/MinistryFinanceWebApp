@@ -1,0 +1,702 @@
+[
+  {
+    "userId": "USR-RDA-001",
+    "username": "dorothy.zulu",
+    "fullName": "Dorothy Zulu",
+    "position": "Director General",
+    "department": "Monitoring & Evaluation",
+    "email": "dorothy.zulu@rda.org.zm",
+    "phoneNumber": "+260-211-124849",
+    "userRole": "Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Manage Users",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-03-19",
+    "lastLoginDate": "2024-09-17T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RDA-002",
+    "username": "patricia.malama",
+    "fullName": "Patricia Malama",
+    "position": "Deputy Director General",
+    "department": "Public Relations",
+    "email": "patricia.malama@rda.org.zm",
+    "phoneNumber": "+260-211-142512",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "System Admin",
+      "Approve Payments",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-04-03",
+    "lastLoginDate": "2024-01-20T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-003",
+    "username": "charity.kaputa",
+    "fullName": "Charity Kaputa",
+    "position": "Director",
+    "department": "Administration",
+    "email": "charity.kaputa@rda.org.zm",
+    "phoneNumber": "+260-211-218050",
+    "userRole": "Director",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Manage Users",
+      "View Analytics",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-02-03",
+    "lastLoginDate": "2024-03-20T11:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Budget Management",
+      "HR Management"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RDA-004",
+    "username": "robert.mbewe",
+    "fullName": "Robert Mbewe",
+    "position": "Deputy Director",
+    "department": "Internal Audit",
+    "email": "robert.mbewe@rda.org.zm",
+    "phoneNumber": "+260-211-591444",
+    "userRole": "Deputy Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "System Admin",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-11-11",
+    "lastLoginDate": "2024-11-04T13:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "HR Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RDA-005",
+    "username": "florence.nkonde",
+    "fullName": "Florence Nkonde",
+    "position": "Manager",
+    "department": "Human Resources",
+    "email": "florence.nkonde@rda.org.zm",
+    "phoneNumber": "+260-211-229850",
+    "userRole": "Manager",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Manage Users",
+      "System Admin",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-04-13",
+    "lastLoginDate": "2024-11-04T12:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Procurement"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-006",
+    "username": "christine.tembo",
+    "fullName": "Christine Tembo",
+    "position": "Senior Officer",
+    "department": "Compliance",
+    "email": "christine.tembo@rda.org.zm",
+    "phoneNumber": "+260-211-674240",
+    "userRole": "Senior Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Analytics",
+      "View Reports",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-08-06",
+    "lastLoginDate": "2024-07-10T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RDA-007",
+    "username": "florence.malama",
+    "fullName": "Florence Malama",
+    "position": "Officer",
+    "department": "Internal Audit",
+    "email": "florence.malama@rda.org.zm",
+    "phoneNumber": "+260-211-225732",
+    "userRole": "Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "System Admin",
+      "Approve Payments",
+      "Manage Users"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-03-20",
+    "lastLoginDate": "2024-11-01T17:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-008",
+    "username": "christine.mvula",
+    "fullName": "Christine Mvula",
+    "position": "Analyst",
+    "department": "Procurement",
+    "email": "christine.mvula@rda.org.zm",
+    "phoneNumber": "+260-211-774754",
+    "userRole": "Analyst",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Manage Users",
+      "Approve Payments",
+      "Export Data"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-03-28",
+    "lastLoginDate": "2024-11-20T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Finance",
+      "HR Management"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-009",
+    "username": "robert.mutale",
+    "fullName": "Robert Mutale",
+    "position": "Auditor",
+    "department": "Monitoring & Evaluation",
+    "email": "robert.mutale@rda.org.zm",
+    "phoneNumber": "+260-211-322338",
+    "userRole": "Auditor",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Export Data",
+      "Manage Users",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-08-04",
+    "lastLoginDate": "2024-02-22T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-010",
+    "username": "esther.mvula",
+    "fullName": "Esther Mvula",
+    "position": "Administrator",
+    "department": "Risk Management",
+    "email": "esther.mvula@rda.org.zm",
+    "phoneNumber": "+260-211-201142",
+    "userRole": "Administrator",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Analytics",
+      "Approve Payments",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-01-05",
+    "lastLoginDate": "2024-11-28T17:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-011",
+    "username": "john.mutale",
+    "fullName": "John Mutale",
+    "position": "Finance Officer",
+    "department": "Legal",
+    "email": "john.mutale@rda.org.zm",
+    "phoneNumber": "+260-211-234581",
+    "userRole": "Finance Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "Manage Users",
+      "System Admin"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-04-27",
+    "lastLoginDate": "2024-07-21T13:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "HR Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RDA-012",
+    "username": "jacqueline.mbewe",
+    "fullName": "Jacqueline Mbewe",
+    "position": "HR Officer",
+    "department": "Operations",
+    "email": "jacqueline.mbewe@rda.org.zm",
+    "phoneNumber": "+260-211-809719",
+    "userRole": "HR Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Export Data",
+      "View Reports",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-09-16",
+    "lastLoginDate": "2024-08-08T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Finance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-013",
+    "username": "grace.malama",
+    "fullName": "Grace Malama",
+    "position": "IT Officer",
+    "department": "Procurement",
+    "email": "grace.malama@rda.org.zm",
+    "phoneNumber": "+260-211-104896",
+    "userRole": "IT Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Manage Users",
+      "System Admin",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-10-24",
+    "lastLoginDate": "2024-01-21T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-014",
+    "username": "samuel.nkonde",
+    "fullName": "Samuel Nkonde",
+    "position": "Legal Officer",
+    "department": "ICT",
+    "email": "samuel.nkonde@rda.org.zm",
+    "phoneNumber": "+260-211-934918",
+    "userRole": "Legal Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Export Data",
+      "Manage Users",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-10-14",
+    "lastLoginDate": "2024-03-27T11:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Finance",
+      "HR Management"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RDA-015",
+    "username": "miriam.nsofu",
+    "fullName": "Miriam Nsofu",
+    "position": "Procurement Officer",
+    "department": "Finance",
+    "email": "miriam.nsofu@rda.org.zm",
+    "phoneNumber": "+260-211-815507",
+    "userRole": "Procurement Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Reports",
+      "Approve Payments",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-06-04",
+    "lastLoginDate": "2024-05-10T12:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-016",
+    "username": "andrew.bwalya",
+    "fullName": "Andrew Bwalya",
+    "position": "Director General",
+    "department": "Compliance",
+    "email": "andrew.bwalya@rda.org.zm",
+    "phoneNumber": "+260-211-116244",
+    "userRole": "Director General",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Export Data",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-09-04",
+    "lastLoginDate": "2024-01-04T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Budget Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-017",
+    "username": "grace.ngoma",
+    "fullName": "Grace Ngoma",
+    "position": "Deputy Director General",
+    "department": "Public Relations",
+    "email": "grace.ngoma@rda.org.zm",
+    "phoneNumber": "+260-211-877213",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Reports",
+      "Manage Users",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-10-03",
+    "lastLoginDate": "2024-04-04T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "HR Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-018",
+    "username": "robert.malama",
+    "fullName": "Robert Malama",
+    "position": "Director",
+    "department": "Human Resources",
+    "email": "robert.malama@rda.org.zm",
+    "phoneNumber": "+260-211-971659",
+    "userRole": "Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-06-22",
+    "lastLoginDate": "2024-05-24T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Reporting",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-019",
+    "username": "samuel.lungu",
+    "fullName": "Samuel Lungu",
+    "position": "Deputy Director",
+    "department": "Finance",
+    "email": "samuel.lungu@rda.org.zm",
+    "phoneNumber": "+260-211-999492",
+    "userRole": "Deputy Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Reports",
+      "Approve Payments",
+      "Manage Users"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-11-18",
+    "lastLoginDate": "2024-07-24T16:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RDA-020",
+    "username": "alice.banda",
+    "fullName": "Alice Banda",
+    "position": "Manager",
+    "department": "Compliance",
+    "email": "alice.banda@rda.org.zm",
+    "phoneNumber": "+260-211-245825",
+    "userRole": "Manager",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "Export Data",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-10-12",
+    "lastLoginDate": "2024-05-10T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Procurement",
+      "Compliance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-021",
+    "username": "catherine.zulu",
+    "fullName": "Catherine Zulu",
+    "position": "Senior Officer",
+    "department": "Monitoring & Evaluation",
+    "email": "catherine.zulu@rda.org.zm",
+    "phoneNumber": "+260-211-749855",
+    "userRole": "Senior Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-08-12",
+    "lastLoginDate": "2024-10-25T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RDA-022",
+    "username": "christine.daka",
+    "fullName": "Christine Daka",
+    "position": "Officer",
+    "department": "Operations",
+    "email": "christine.daka@rda.org.zm",
+    "phoneNumber": "+260-211-890245",
+    "userRole": "Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "System Admin",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-02-06",
+    "lastLoginDate": "2024-01-07T17:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Reporting",
+      "HR Management"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RDA-023",
+    "username": "christine.banda",
+    "fullName": "Christine Banda",
+    "position": "Analyst",
+    "department": "Internal Audit",
+    "email": "christine.banda@rda.org.zm",
+    "phoneNumber": "+260-211-795666",
+    "userRole": "Analyst",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Analytics",
+      "System Admin",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-01-04",
+    "lastLoginDate": "2024-04-11T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RDA-024",
+    "username": "patricia.bwalya",
+    "fullName": "Patricia Bwalya",
+    "position": "Auditor",
+    "department": "Compliance",
+    "email": "patricia.bwalya@rda.org.zm",
+    "phoneNumber": "+260-211-751964",
+    "userRole": "Auditor",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "View Analytics",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-07-11",
+    "lastLoginDate": "2024-02-24T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RDA-025",
+    "username": "miriam.ngoma",
+    "fullName": "Miriam Ngoma",
+    "position": "Administrator",
+    "department": "Human Resources",
+    "email": "miriam.ngoma@rda.org.zm",
+    "phoneNumber": "+260-211-886705",
+    "userRole": "Administrator",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Export Data",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-04-03",
+    "lastLoginDate": "2024-05-04T13:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Procurement",
+      "HR Management"
+    ],
+    "reportingTo": "USR-RDA-001",
+    "agencyOffice": "RDA House, Dedan Kimathi Road, Lusaka",
+    "biometricRegistered": true
+  }
+]

@@ -1,0 +1,927 @@
+[
+  {
+    "id": "KPI-FIC-2024-001",
+    "kpiName": "Budget Execution Rate",
+    "category": "Financial",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 93.0,
+    "threshold": {
+      "red": 73.0,
+      "amber": 83.0,
+      "green": 93.0
+    },
+    "currentValue": 83.3,
+    "previousValue": 82.9,
+    "ytdValue": 83.3,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-04-06T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 89.8
+      },
+      {
+        "period": "Month 2",
+        "value": 66.4
+      },
+      {
+        "period": "Month 3",
+        "value": 75.5
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-002",
+    "kpiName": "Revenue Collection Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 80.5,
+    "threshold": {
+      "red": 60.5,
+      "amber": 70.5,
+      "green": 80.5
+    },
+    "currentValue": 73.2,
+    "previousValue": 76.2,
+    "ytdValue": 73.2,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-07-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 65.9
+      },
+      {
+        "period": "Month 2",
+        "value": 80.2
+      },
+      {
+        "period": "Month 3",
+        "value": 84.3
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-003",
+    "kpiName": "Procurement Compliance",
+    "category": "IT",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 87.1,
+    "threshold": {
+      "red": 67.1,
+      "amber": 77.1,
+      "green": 87.1
+    },
+    "currentValue": 91.9,
+    "previousValue": 90.9,
+    "ytdValue": 91.9,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-10-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 71.6
+      },
+      {
+        "period": "Month 2",
+        "value": 62.9
+      },
+      {
+        "period": "Month 3",
+        "value": 83.1
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-004",
+    "kpiName": "Staff Utilization",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 86.7,
+    "threshold": {
+      "red": 66.7,
+      "amber": 76.7,
+      "green": 86.7
+    },
+    "currentValue": 98.8,
+    "previousValue": 97.0,
+    "ytdValue": 98.8,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-03-26T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 95.2
+      },
+      {
+        "period": "Month 2",
+        "value": 97.6
+      },
+      {
+        "period": "Month 3",
+        "value": 60.6
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-005",
+    "kpiName": "Service Delivery Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 96.1,
+    "threshold": {
+      "red": 76.1,
+      "amber": 86.1,
+      "green": 96.1
+    },
+    "currentValue": 73.6,
+    "previousValue": 72.0,
+    "ytdValue": 73.6,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-11-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 62.8
+      },
+      {
+        "period": "Month 2",
+        "value": 84.1
+      },
+      {
+        "period": "Month 3",
+        "value": 77.3
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-006",
+    "kpiName": "Audit Completion Rate",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 86.9,
+    "threshold": {
+      "red": 66.9,
+      "amber": 76.9,
+      "green": 86.9
+    },
+    "currentValue": 85.7,
+    "previousValue": 86.8,
+    "ytdValue": 85.7,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-12-24T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 60.7
+      },
+      {
+        "period": "Month 2",
+        "value": 78.0
+      },
+      {
+        "period": "Month 3",
+        "value": 71.7
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-007",
+    "kpiName": "Customer Satisfaction",
+    "category": "HR",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 96.5,
+    "threshold": {
+      "red": 76.5,
+      "amber": 86.5,
+      "green": 96.5
+    },
+    "currentValue": 66.3,
+    "previousValue": 59.7,
+    "ytdValue": 66.3,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-03-15T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 64.0
+      },
+      {
+        "period": "Month 2",
+        "value": 81.4
+      },
+      {
+        "period": "Month 3",
+        "value": 85.6
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-008",
+    "kpiName": "System Uptime",
+    "category": "HR",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 88.5,
+    "threshold": {
+      "red": 68.5,
+      "amber": 78.5,
+      "green": 88.5
+    },
+    "currentValue": 80.8,
+    "previousValue": 80.8,
+    "ytdValue": 80.8,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-08-11T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 95.4
+      },
+      {
+        "period": "Month 2",
+        "value": 86.5
+      },
+      {
+        "period": "Month 3",
+        "value": 65.1
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-009",
+    "kpiName": "Response Time",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Percentage",
+    "frequency": "Daily",
+    "target": 84.8,
+    "threshold": {
+      "red": 64.8,
+      "amber": 74.8,
+      "green": 84.8
+    },
+    "currentValue": 91.7,
+    "previousValue": 96.0,
+    "ytdValue": 91.7,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-10-01T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 85.3
+      },
+      {
+        "period": "Month 2",
+        "value": 93.0
+      },
+      {
+        "period": "Month 3",
+        "value": 96.8
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-010",
+    "kpiName": "Error Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 84.8,
+    "threshold": {
+      "red": 64.8,
+      "amber": 74.8,
+      "green": 84.8
+    },
+    "currentValue": 99.8,
+    "previousValue": 92.1,
+    "ytdValue": 99.8,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-05-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 95.8
+      },
+      {
+        "period": "Month 2",
+        "value": 70.8
+      },
+      {
+        "period": "Month 3",
+        "value": 87.3
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-011",
+    "kpiName": "Training Completion",
+    "category": "IT",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 84.5,
+    "threshold": {
+      "red": 64.5,
+      "amber": 74.5,
+      "green": 84.5
+    },
+    "currentValue": 64.0,
+    "previousValue": 58.8,
+    "ytdValue": 64.0,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-01-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 67.8
+      },
+      {
+        "period": "Month 2",
+        "value": 75.9
+      },
+      {
+        "period": "Month 3",
+        "value": 96.4
+      }
+    ],
+    "actionPlan": "Improve Training Completion through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-012",
+    "kpiName": "Regulatory Compliance",
+    "category": "Financial",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 91.6,
+    "threshold": {
+      "red": 71.6,
+      "amber": 81.6,
+      "green": 91.6
+    },
+    "currentValue": 98.8,
+    "previousValue": 102.7,
+    "ytdValue": 98.8,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-02-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 91.1
+      },
+      {
+        "period": "Month 2",
+        "value": 75.7
+      },
+      {
+        "period": "Month 3",
+        "value": 86.5
+      }
+    ],
+    "actionPlan": "Improve Regulatory Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-013",
+    "kpiName": "Cost per Transaction",
+    "category": "Financial",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 85.2,
+    "threshold": {
+      "red": 65.2,
+      "amber": 75.2,
+      "green": 85.2
+    },
+    "currentValue": 62.7,
+    "previousValue": 59.7,
+    "ytdValue": 62.7,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-06-14T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 74.7
+      },
+      {
+        "period": "Month 2",
+        "value": 99.5
+      },
+      {
+        "period": "Month 3",
+        "value": 88.3
+      }
+    ],
+    "actionPlan": "Improve Cost per Transaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-014",
+    "kpiName": "Payment Processing Time",
+    "category": "Operational",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 90.3,
+    "threshold": {
+      "red": 70.3,
+      "amber": 80.3,
+      "green": 90.3
+    },
+    "currentValue": 64.3,
+    "previousValue": 58.6,
+    "ytdValue": 64.3,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-02-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 94.6
+      },
+      {
+        "period": "Month 2",
+        "value": 68.8
+      },
+      {
+        "period": "Month 3",
+        "value": 63.6
+      }
+    ],
+    "actionPlan": "Improve Payment Processing Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-015",
+    "kpiName": "Report Timeliness",
+    "category": "Financial",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Percentage",
+    "frequency": "Daily",
+    "target": 83.0,
+    "threshold": {
+      "red": 63.0,
+      "amber": 73.0,
+      "green": 83.0
+    },
+    "currentValue": 82.7,
+    "previousValue": 78.1,
+    "ytdValue": 82.7,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-07-13T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 88.5
+      },
+      {
+        "period": "Month 2",
+        "value": 70.7
+      },
+      {
+        "period": "Month 3",
+        "value": 98.0
+      }
+    ],
+    "actionPlan": "Improve Report Timeliness through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-016",
+    "kpiName": "Budget Execution Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 90.4,
+    "threshold": {
+      "red": 70.4,
+      "amber": 80.4,
+      "green": 90.4
+    },
+    "currentValue": 61.0,
+    "previousValue": 55.8,
+    "ytdValue": 61.0,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-03-07T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 65.2
+      },
+      {
+        "period": "Month 2",
+        "value": 99.7
+      },
+      {
+        "period": "Month 3",
+        "value": 75.3
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-017",
+    "kpiName": "Revenue Collection Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 94.1,
+    "threshold": {
+      "red": 74.1,
+      "amber": 84.1,
+      "green": 94.1
+    },
+    "currentValue": 99.4,
+    "previousValue": 95.1,
+    "ytdValue": 99.4,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-01-14T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 78.2
+      },
+      {
+        "period": "Month 2",
+        "value": 85.8
+      },
+      {
+        "period": "Month 3",
+        "value": 79.7
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-018",
+    "kpiName": "Procurement Compliance",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 88.6,
+    "threshold": {
+      "red": 68.6,
+      "amber": 78.6,
+      "green": 88.6
+    },
+    "currentValue": 81.3,
+    "previousValue": 76.3,
+    "ytdValue": 81.3,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-02-02T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 62.4
+      },
+      {
+        "period": "Month 2",
+        "value": 66.4
+      },
+      {
+        "period": "Month 3",
+        "value": 84.3
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-019",
+    "kpiName": "Staff Utilization",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 89.6,
+    "threshold": {
+      "red": 69.6,
+      "amber": 79.6,
+      "green": 89.6
+    },
+    "currentValue": 70.3,
+    "previousValue": 70.2,
+    "ytdValue": 70.3,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-01-24T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 73.8
+      },
+      {
+        "period": "Month 2",
+        "value": 75.6
+      },
+      {
+        "period": "Month 3",
+        "value": 78.6
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-020",
+    "kpiName": "Service Delivery Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 96.5,
+    "threshold": {
+      "red": 76.5,
+      "amber": 86.5,
+      "green": 96.5
+    },
+    "currentValue": 77.1,
+    "previousValue": 78.1,
+    "ytdValue": 77.1,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-10-01T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 95.5
+      },
+      {
+        "period": "Month 2",
+        "value": 92.2
+      },
+      {
+        "period": "Month 3",
+        "value": 69.0
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-021",
+    "kpiName": "Audit Completion Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 91.9,
+    "threshold": {
+      "red": 71.9,
+      "amber": 81.9,
+      "green": 91.9
+    },
+    "currentValue": 94.8,
+    "previousValue": 98.6,
+    "ytdValue": 94.8,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-01-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 83.3
+      },
+      {
+        "period": "Month 2",
+        "value": 84.7
+      },
+      {
+        "period": "Month 3",
+        "value": 84.8
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-022",
+    "kpiName": "Customer Satisfaction",
+    "category": "IT",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 95.9,
+    "threshold": {
+      "red": 75.9,
+      "amber": 85.9,
+      "green": 95.9
+    },
+    "currentValue": 68.7,
+    "previousValue": 65.1,
+    "ytdValue": 68.7,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-01-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 60.2
+      },
+      {
+        "period": "Month 2",
+        "value": 72.6
+      },
+      {
+        "period": "Month 3",
+        "value": 68.6
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-023",
+    "kpiName": "System Uptime",
+    "category": "HR",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 65.0,
+      "amber": 75.0,
+      "green": 85.0
+    },
+    "currentValue": 68.5,
+    "previousValue": 69.7,
+    "ytdValue": 68.5,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-01-01T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 66.2
+      },
+      {
+        "period": "Month 2",
+        "value": 98.1
+      },
+      {
+        "period": "Month 3",
+        "value": 78.7
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-024",
+    "kpiName": "Response Time",
+    "category": "Operational",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 86.4,
+    "threshold": {
+      "red": 66.4,
+      "amber": 76.4,
+      "green": 86.4
+    },
+    "currentValue": 77.9,
+    "previousValue": 79.3,
+    "ytdValue": 77.9,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-07-07T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 81.2
+      },
+      {
+        "period": "Month 2",
+        "value": 73.7
+      },
+      {
+        "period": "Month 3",
+        "value": 64.2
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-FIC-2024-025",
+    "kpiName": "Error Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Finance Intelligence Centre",
+    "owner": "Finance Intelligence Centre",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 96.2,
+    "threshold": {
+      "red": 76.2,
+      "amber": 86.2,
+      "green": 96.2
+    },
+    "currentValue": 65.6,
+    "previousValue": 67.3,
+    "ytdValue": 65.6,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-09-06T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 63.6
+      },
+      {
+        "period": "Month 2",
+        "value": 92.1
+      },
+      {
+        "period": "Month 3",
+        "value": 67.0
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  }
+]

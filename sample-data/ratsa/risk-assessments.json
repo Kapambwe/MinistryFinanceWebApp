@@ -1,0 +1,777 @@
+[
+  {
+    "id": "RA-RATSA-2024-001",
+    "entityType": "Agency",
+    "entityId": "RATSA-001",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-10-25T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 29.3,
+    "confidenceScore": 0.98,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 1",
+      "Finding 2 for assessment 1",
+      "Finding 3 for assessment 1"
+    ],
+    "indicators": {
+      "riskScore": 29.3,
+      "complianceScore": 56.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-05-20T09:30:00Z",
+    "amountAtRisk": 17116424.55,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-002",
+    "entityType": "Agency",
+    "entityId": "RATSA-002",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-09-24T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 77.3,
+    "confidenceScore": 0.81,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 2",
+      "Finding 2 for assessment 2",
+      "Finding 3 for assessment 2"
+    ],
+    "indicators": {
+      "riskScore": 77.3,
+      "complianceScore": 76.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-07-03T09:30:00Z",
+    "amountAtRisk": 3325221.96,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-003",
+    "entityType": "Agency",
+    "entityId": "RATSA-003",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-04-05T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 29.4,
+    "confidenceScore": 0.89,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 3",
+      "Finding 2 for assessment 3",
+      "Finding 3 for assessment 3"
+    ],
+    "indicators": {
+      "riskScore": 29.4,
+      "complianceScore": 78.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-04-26T09:30:00Z",
+    "amountAtRisk": 14614218.45,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-004",
+    "entityType": "Agency",
+    "entityId": "RATSA-004",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-02-23T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 56.9,
+    "confidenceScore": 0.94,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 4",
+      "Finding 2 for assessment 4",
+      "Finding 3 for assessment 4"
+    ],
+    "indicators": {
+      "riskScore": 56.9,
+      "complianceScore": 85.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-01-17T09:30:00Z",
+    "amountAtRisk": 9938156.93,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-005",
+    "entityType": "Agency",
+    "entityId": "RATSA-005",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-09-23T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 41.9,
+    "confidenceScore": 0.85,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 5",
+      "Finding 2 for assessment 5",
+      "Finding 3 for assessment 5"
+    ],
+    "indicators": {
+      "riskScore": 41.9,
+      "complianceScore": 84.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-03-05T09:30:00Z",
+    "amountAtRisk": 18133385.1,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-006",
+    "entityType": "Agency",
+    "entityId": "RATSA-006",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-12-07T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "High",
+    "riskScore": 90.2,
+    "confidenceScore": 0.78,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 6",
+      "Finding 2 for assessment 6",
+      "Finding 3 for assessment 6"
+    ],
+    "indicators": {
+      "riskScore": 90.2,
+      "complianceScore": 73.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-04-28T09:30:00Z",
+    "amountAtRisk": 19156741.05,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-007",
+    "entityType": "Agency",
+    "entityId": "RATSA-007",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-02-14T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 60.6,
+    "confidenceScore": 0.82,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 7",
+      "Finding 2 for assessment 7",
+      "Finding 3 for assessment 7"
+    ],
+    "indicators": {
+      "riskScore": 60.6,
+      "complianceScore": 87.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-08-02T09:30:00Z",
+    "amountAtRisk": 15374123.78,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-008",
+    "entityType": "Agency",
+    "entityId": "RATSA-008",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-04-07T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 71.4,
+    "confidenceScore": 0.74,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 8",
+      "Finding 2 for assessment 8",
+      "Finding 3 for assessment 8"
+    ],
+    "indicators": {
+      "riskScore": 71.4,
+      "complianceScore": 50.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-06-27T09:30:00Z",
+    "amountAtRisk": 8966578.71,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-009",
+    "entityType": "Agency",
+    "entityId": "RATSA-009",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-10-20T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 86.5,
+    "confidenceScore": 0.71,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 9",
+      "Finding 2 for assessment 9",
+      "Finding 3 for assessment 9"
+    ],
+    "indicators": {
+      "riskScore": 86.5,
+      "complianceScore": 94.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-08-22T09:30:00Z",
+    "amountAtRisk": 2922842.6,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-010",
+    "entityType": "Agency",
+    "entityId": "RATSA-010",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-02-25T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 48.8,
+    "confidenceScore": 0.77,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 10",
+      "Finding 2 for assessment 10",
+      "Finding 3 for assessment 10"
+    ],
+    "indicators": {
+      "riskScore": 48.8,
+      "complianceScore": 65.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-01-28T09:30:00Z",
+    "amountAtRisk": 1485023.91,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-011",
+    "entityType": "Agency",
+    "entityId": "RATSA-011",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-10-02T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 44.3,
+    "confidenceScore": 0.93,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 11",
+      "Finding 2 for assessment 11",
+      "Finding 3 for assessment 11"
+    ],
+    "indicators": {
+      "riskScore": 44.3,
+      "complianceScore": 68.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-03-13T09:30:00Z",
+    "amountAtRisk": 4700361.73,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-012",
+    "entityType": "Agency",
+    "entityId": "RATSA-012",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-02-21T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 51.0,
+    "confidenceScore": 0.8,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 12",
+      "Finding 2 for assessment 12",
+      "Finding 3 for assessment 12"
+    ],
+    "indicators": {
+      "riskScore": 51.0,
+      "complianceScore": 62.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-12-27T09:30:00Z",
+    "amountAtRisk": 12022850.25,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-013",
+    "entityType": "Agency",
+    "entityId": "RATSA-013",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-08-16T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 50.3,
+    "confidenceScore": 0.91,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 13",
+      "Finding 2 for assessment 13",
+      "Finding 3 for assessment 13"
+    ],
+    "indicators": {
+      "riskScore": 50.3,
+      "complianceScore": 62.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-09-14T09:30:00Z",
+    "amountAtRisk": 15377827.5,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-014",
+    "entityType": "Agency",
+    "entityId": "RATSA-014",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-04-12T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 90.4,
+    "confidenceScore": 0.77,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 14",
+      "Finding 2 for assessment 14",
+      "Finding 3 for assessment 14"
+    ],
+    "indicators": {
+      "riskScore": 90.4,
+      "complianceScore": 72.8
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-12-04T09:30:00Z",
+    "amountAtRisk": 11466550.61,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-015",
+    "entityType": "Agency",
+    "entityId": "RATSA-015",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-12-20T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 65.3,
+    "confidenceScore": 0.93,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 15",
+      "Finding 2 for assessment 15",
+      "Finding 3 for assessment 15"
+    ],
+    "indicators": {
+      "riskScore": 65.3,
+      "complianceScore": 59.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-11-13T09:30:00Z",
+    "amountAtRisk": 12333218.82,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-016",
+    "entityType": "Agency",
+    "entityId": "RATSA-016",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-02-07T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 70.0,
+    "confidenceScore": 0.74,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 16",
+      "Finding 2 for assessment 16",
+      "Finding 3 for assessment 16"
+    ],
+    "indicators": {
+      "riskScore": 70.0,
+      "complianceScore": 61.0
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-02-11T09:30:00Z",
+    "amountAtRisk": 11360789.97,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-017",
+    "entityType": "Agency",
+    "entityId": "RATSA-017",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-05-01T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 83.8,
+    "confidenceScore": 0.88,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 17",
+      "Finding 2 for assessment 17",
+      "Finding 3 for assessment 17"
+    ],
+    "indicators": {
+      "riskScore": 83.8,
+      "complianceScore": 77.8
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-02-05T09:30:00Z",
+    "amountAtRisk": 4228167.12,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-018",
+    "entityType": "Agency",
+    "entityId": "RATSA-018",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-02-24T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 21.5,
+    "confidenceScore": 0.97,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 18",
+      "Finding 2 for assessment 18",
+      "Finding 3 for assessment 18"
+    ],
+    "indicators": {
+      "riskScore": 21.5,
+      "complianceScore": 62.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-07-02T09:30:00Z",
+    "amountAtRisk": 18798243.56,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-019",
+    "entityType": "Agency",
+    "entityId": "RATSA-019",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-05-13T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 84.2,
+    "confidenceScore": 0.84,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 19",
+      "Finding 2 for assessment 19",
+      "Finding 3 for assessment 19"
+    ],
+    "indicators": {
+      "riskScore": 84.2,
+      "complianceScore": 70.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-10-01T09:30:00Z",
+    "amountAtRisk": 12323788.96,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-020",
+    "entityType": "Agency",
+    "entityId": "RATSA-020",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-08-27T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 70.3,
+    "confidenceScore": 0.74,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 20",
+      "Finding 2 for assessment 20",
+      "Finding 3 for assessment 20"
+    ],
+    "indicators": {
+      "riskScore": 70.3,
+      "complianceScore": 71.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-09-11T09:30:00Z",
+    "amountAtRisk": 14929047.08,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-021",
+    "entityType": "Agency",
+    "entityId": "RATSA-021",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-05-22T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "High",
+    "riskScore": 91.1,
+    "confidenceScore": 0.98,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 21",
+      "Finding 2 for assessment 21",
+      "Finding 3 for assessment 21"
+    ],
+    "indicators": {
+      "riskScore": 91.1,
+      "complianceScore": 94.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-04-28T09:30:00Z",
+    "amountAtRisk": 16397816.45,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-022",
+    "entityType": "Agency",
+    "entityId": "RATSA-022",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-06-08T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "High",
+    "riskScore": 87.2,
+    "confidenceScore": 0.78,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 22",
+      "Finding 2 for assessment 22",
+      "Finding 3 for assessment 22"
+    ],
+    "indicators": {
+      "riskScore": 87.2,
+      "complianceScore": 84.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-03-05T09:30:00Z",
+    "amountAtRisk": 14621177.19,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-023",
+    "entityType": "Agency",
+    "entityId": "RATSA-023",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-06-15T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 52.2,
+    "confidenceScore": 0.77,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 23",
+      "Finding 2 for assessment 23",
+      "Finding 3 for assessment 23"
+    ],
+    "indicators": {
+      "riskScore": 52.2,
+      "complianceScore": 74.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-02-16T09:30:00Z",
+    "amountAtRisk": 9822349.8,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-024",
+    "entityType": "Agency",
+    "entityId": "RATSA-024",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-01-26T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 84.3,
+    "confidenceScore": 0.81,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 24",
+      "Finding 2 for assessment 24",
+      "Finding 3 for assessment 24"
+    ],
+    "indicators": {
+      "riskScore": 84.3,
+      "complianceScore": 84.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-03-27T09:30:00Z",
+    "amountAtRisk": 9360168.01,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RATSA-2024-025",
+    "entityType": "Agency",
+    "entityId": "RATSA-025",
+    "entityName": "Road Transport and Safety Agency",
+    "assessmentDate": "2024-08-09T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 59.3,
+    "confidenceScore": 0.98,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 25",
+      "Finding 2 for assessment 25",
+      "Finding 3 for assessment 25"
+    ],
+    "indicators": {
+      "riskScore": 59.3,
+      "complianceScore": 56.0
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Transport and Safety Agency",
+      "Recommendation 2 for Road Transport and Safety Agency",
+      "Recommendation 3 for Road Transport and Safety Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-06-13T09:30:00Z",
+    "amountAtRisk": 1430912.3,
+    "currency": "ZMW"
+  }
+]

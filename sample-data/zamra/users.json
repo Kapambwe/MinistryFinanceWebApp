@@ -1,0 +1,702 @@
+[
+  {
+    "userId": "USR-ZAMRA-001",
+    "username": "jacqueline.kaputa",
+    "fullName": "Jacqueline Kaputa",
+    "position": "Director General",
+    "department": "Monitoring & Evaluation",
+    "email": "jacqueline.kaputa@zamra.gov.zm",
+    "phoneNumber": "+260-211-566800",
+    "userRole": "Director General",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Analytics",
+      "Export Data",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-02-28",
+    "lastLoginDate": "2024-12-28T13:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Compliance"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMRA-002",
+    "username": "mwanza.nakambwe",
+    "fullName": "Mwanza Nakambwe",
+    "position": "Deputy Director General",
+    "department": "Legal",
+    "email": "mwanza.nakambwe@zamra.gov.zm",
+    "phoneNumber": "+260-211-309244",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Analytics",
+      "Export Data",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-04-09",
+    "lastLoginDate": "2024-05-09T16:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMRA-003",
+    "username": "mwanza.ngoma",
+    "fullName": "Mwanza Ngoma",
+    "position": "Director",
+    "department": "Research",
+    "email": "mwanza.ngoma@zamra.gov.zm",
+    "phoneNumber": "+260-211-208038",
+    "userRole": "Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Reports",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-04-08",
+    "lastLoginDate": "2024-02-15T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Budget Management",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-004",
+    "username": "charity.banda",
+    "fullName": "Charity Banda",
+    "position": "Deputy Director",
+    "department": "Planning",
+    "email": "charity.banda@zamra.gov.zm",
+    "phoneNumber": "+260-211-992619",
+    "userRole": "Deputy Director",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-11-18",
+    "lastLoginDate": "2024-03-05T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Reporting",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMRA-005",
+    "username": "peter.malama",
+    "fullName": "Peter Malama",
+    "position": "Manager",
+    "department": "Operations",
+    "email": "peter.malama@zamra.gov.zm",
+    "phoneNumber": "+260-211-787640",
+    "userRole": "Manager",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Reports",
+      "Manage Users",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-02-17",
+    "lastLoginDate": "2024-02-23T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Compliance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMRA-006",
+    "username": "esther.musonda",
+    "fullName": "Esther Musonda",
+    "position": "Senior Officer",
+    "department": "Risk Management",
+    "email": "esther.musonda@zamra.gov.zm",
+    "phoneNumber": "+260-211-620175",
+    "userRole": "Senior Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-09-11",
+    "lastLoginDate": "2024-11-26T12:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Reporting",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-007",
+    "username": "alice.sakala",
+    "fullName": "Alice Sakala",
+    "position": "Officer",
+    "department": "Finance",
+    "email": "alice.sakala@zamra.gov.zm",
+    "phoneNumber": "+260-211-240961",
+    "userRole": "Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "System Admin"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2023-10-15",
+    "lastLoginDate": "2024-10-07T16:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Finance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMRA-008",
+    "username": "james.ngoma",
+    "fullName": "James Ngoma",
+    "position": "Analyst",
+    "department": "Planning",
+    "email": "james.ngoma@zamra.gov.zm",
+    "phoneNumber": "+260-211-450440",
+    "userRole": "Analyst",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Export Data",
+      "View Reports",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-04-20",
+    "lastLoginDate": "2024-02-25T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Procurement",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-009",
+    "username": "beatrice.mvula",
+    "fullName": "Beatrice Mvula",
+    "position": "Auditor",
+    "department": "Monitoring & Evaluation",
+    "email": "beatrice.mvula@zamra.gov.zm",
+    "phoneNumber": "+260-211-631850",
+    "userRole": "Auditor",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "System Admin",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-10-20",
+    "lastLoginDate": "2024-03-01T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Compliance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-010",
+    "username": "florence.phiri",
+    "fullName": "Florence Phiri",
+    "position": "Administrator",
+    "department": "Public Relations",
+    "email": "florence.phiri@zamra.gov.zm",
+    "phoneNumber": "+260-211-571973",
+    "userRole": "Administrator",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "System Admin",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-07-19",
+    "lastLoginDate": "2024-07-26T14:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Budget Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-011",
+    "username": "john.musonda",
+    "fullName": "John Musonda",
+    "position": "Finance Officer",
+    "department": "ICT",
+    "email": "john.musonda@zamra.gov.zm",
+    "phoneNumber": "+260-211-365512",
+    "userRole": "Finance Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-03-25",
+    "lastLoginDate": "2024-02-17T13:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "HR Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-012",
+    "username": "christine.tembo",
+    "fullName": "Christine Tembo",
+    "position": "HR Officer",
+    "department": "Planning",
+    "email": "christine.tembo@zamra.gov.zm",
+    "phoneNumber": "+260-211-813574",
+    "userRole": "HR Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "System Admin",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-11-02",
+    "lastLoginDate": "2024-02-09T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Compliance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-013",
+    "username": "dorothy.simwanza",
+    "fullName": "Dorothy Simwanza",
+    "position": "IT Officer",
+    "department": "Legal",
+    "email": "dorothy.simwanza@zamra.gov.zm",
+    "phoneNumber": "+260-211-355371",
+    "userRole": "IT Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "System Admin",
+      "Manage Users",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-02-11",
+    "lastLoginDate": "2024-10-22T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-014",
+    "username": "peter.simukonda",
+    "fullName": "Peter Simukonda",
+    "position": "Legal Officer",
+    "department": "Compliance",
+    "email": "peter.simukonda@zamra.gov.zm",
+    "phoneNumber": "+260-211-557321",
+    "userRole": "Legal Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "Manage Users",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-12-04",
+    "lastLoginDate": "2024-06-19T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-015",
+    "username": "christine.chilufya",
+    "fullName": "Christine Chilufya",
+    "position": "Procurement Officer",
+    "department": "Administration",
+    "email": "christine.chilufya@zamra.gov.zm",
+    "phoneNumber": "+260-211-518245",
+    "userRole": "Procurement Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "System Admin",
+      "View Reports",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-01-22",
+    "lastLoginDate": "2024-07-22T16:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Finance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMRA-016",
+    "username": "mwanza.tembo",
+    "fullName": "Mwanza Tembo",
+    "position": "Director General",
+    "department": "Human Resources",
+    "email": "mwanza.tembo@zamra.gov.zm",
+    "phoneNumber": "+260-211-736525",
+    "userRole": "Director General",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "System Admin",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-03-21",
+    "lastLoginDate": "2024-04-05T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Budget Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMRA-017",
+    "username": "charity.zulu",
+    "fullName": "Charity Zulu",
+    "position": "Deputy Director General",
+    "department": "Compliance",
+    "email": "charity.zulu@zamra.gov.zm",
+    "phoneNumber": "+260-211-517056",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Analytics",
+      "Export Data",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-03-10",
+    "lastLoginDate": "2024-04-04T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-018",
+    "username": "mary.nsofu",
+    "fullName": "Mary Nsofu",
+    "position": "Director",
+    "department": "Risk Management",
+    "email": "mary.nsofu@zamra.gov.zm",
+    "phoneNumber": "+260-211-258311",
+    "userRole": "Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Export Data",
+      "View Reports",
+      "View Analytics"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-03-18",
+    "lastLoginDate": "2024-06-13T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Procurement",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMRA-019",
+    "username": "esther.banda",
+    "fullName": "Esther Banda",
+    "position": "Deputy Director",
+    "department": "Human Resources",
+    "email": "esther.banda@zamra.gov.zm",
+    "phoneNumber": "+260-211-867209",
+    "userRole": "Deputy Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "Approve Payments",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-07-12",
+    "lastLoginDate": "2024-03-09T12:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-020",
+    "username": "catherine.nkonde",
+    "fullName": "Catherine Nkonde",
+    "position": "Manager",
+    "department": "Human Resources",
+    "email": "catherine.nkonde@zamra.gov.zm",
+    "phoneNumber": "+260-211-769575",
+    "userRole": "Manager",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "Approve Payments",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-08-16",
+    "lastLoginDate": "2024-02-01T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "HR Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMRA-021",
+    "username": "emmanuel.mbewe",
+    "fullName": "Emmanuel Mbewe",
+    "position": "Senior Officer",
+    "department": "Monitoring & Evaluation",
+    "email": "emmanuel.mbewe@zamra.gov.zm",
+    "phoneNumber": "+260-211-307618",
+    "userRole": "Senior Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "System Admin",
+      "Export Data",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-12-05",
+    "lastLoginDate": "2024-05-09T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Budget Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMRA-022",
+    "username": "susan.mbewe",
+    "fullName": "Susan Mbewe",
+    "position": "Officer",
+    "department": "Public Relations",
+    "email": "susan.mbewe@zamra.gov.zm",
+    "phoneNumber": "+260-211-376980",
+    "userRole": "Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-01-03",
+    "lastLoginDate": "2024-01-19T11:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "HR Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-023",
+    "username": "joseph.simwanza",
+    "fullName": "Joseph Simwanza",
+    "position": "Analyst",
+    "department": "Compliance",
+    "email": "joseph.simwanza@zamra.gov.zm",
+    "phoneNumber": "+260-211-794273",
+    "userRole": "Analyst",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Export Data",
+      "View Reports",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-02-25",
+    "lastLoginDate": "2024-09-16T12:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-024",
+    "username": "benjamin.mwanza",
+    "fullName": "Benjamin Mwanza",
+    "position": "Auditor",
+    "department": "Finance",
+    "email": "benjamin.mwanza@zamra.gov.zm",
+    "phoneNumber": "+260-211-565678",
+    "userRole": "Auditor",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Manage Users",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-04-10",
+    "lastLoginDate": "2024-10-28T18:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Budget Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMRA-025",
+    "username": "florence.kaputa",
+    "fullName": "Florence Kaputa",
+    "position": "Administrator",
+    "department": "Monitoring & Evaluation",
+    "email": "florence.kaputa@zamra.gov.zm",
+    "phoneNumber": "+260-211-855527",
+    "userRole": "Administrator",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Analytics",
+      "Export Data",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-12-03",
+    "lastLoginDate": "2024-06-27T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Finance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ZAMRA-001",
+    "agencyOffice": "ZAMRA House, Woodlands Road, Lusaka",
+    "biometricRegistered": true
+  }
+]

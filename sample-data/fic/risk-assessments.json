@@ -1,0 +1,777 @@
+[
+  {
+    "id": "RA-FIC-2024-001",
+    "entityType": "Agency",
+    "entityId": "FIC-001",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-07-28T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 76.9,
+    "confidenceScore": 0.79,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 1",
+      "Finding 2 for assessment 1",
+      "Finding 3 for assessment 1"
+    ],
+    "indicators": {
+      "riskScore": 76.9,
+      "complianceScore": 88.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-05-13T09:30:00Z",
+    "amountAtRisk": 15813542.39,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-002",
+    "entityType": "Agency",
+    "entityId": "FIC-002",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-04-09T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 48.8,
+    "confidenceScore": 0.82,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 2",
+      "Finding 2 for assessment 2",
+      "Finding 3 for assessment 2"
+    ],
+    "indicators": {
+      "riskScore": 48.8,
+      "complianceScore": 58.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-09-06T09:30:00Z",
+    "amountAtRisk": 16350986.08,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-003",
+    "entityType": "Agency",
+    "entityId": "FIC-003",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-12-19T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 43.3,
+    "confidenceScore": 0.86,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 3",
+      "Finding 2 for assessment 3",
+      "Finding 3 for assessment 3"
+    ],
+    "indicators": {
+      "riskScore": 43.3,
+      "complianceScore": 82.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-12-26T09:30:00Z",
+    "amountAtRisk": 17171396.04,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-004",
+    "entityType": "Agency",
+    "entityId": "FIC-004",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-11-04T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 74.4,
+    "confidenceScore": 0.91,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 4",
+      "Finding 2 for assessment 4",
+      "Finding 3 for assessment 4"
+    ],
+    "indicators": {
+      "riskScore": 74.4,
+      "complianceScore": 75.0
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-02-10T09:30:00Z",
+    "amountAtRisk": 12968783.62,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-005",
+    "entityType": "Agency",
+    "entityId": "FIC-005",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-04-10T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 34.5,
+    "confidenceScore": 0.77,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 5",
+      "Finding 2 for assessment 5",
+      "Finding 3 for assessment 5"
+    ],
+    "indicators": {
+      "riskScore": 34.5,
+      "complianceScore": 56.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-07-04T09:30:00Z",
+    "amountAtRisk": 18202573.5,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-006",
+    "entityType": "Agency",
+    "entityId": "FIC-006",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-08-20T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "High",
+    "riskScore": 86.0,
+    "confidenceScore": 0.94,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 6",
+      "Finding 2 for assessment 6",
+      "Finding 3 for assessment 6"
+    ],
+    "indicators": {
+      "riskScore": 86.0,
+      "complianceScore": 79.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-04-01T09:30:00Z",
+    "amountAtRisk": 12212880.34,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-007",
+    "entityType": "Agency",
+    "entityId": "FIC-007",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-05-07T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 71.6,
+    "confidenceScore": 0.89,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 7",
+      "Finding 2 for assessment 7",
+      "Finding 3 for assessment 7"
+    ],
+    "indicators": {
+      "riskScore": 71.6,
+      "complianceScore": 85.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-12-11T09:30:00Z",
+    "amountAtRisk": 6941998.24,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-008",
+    "entityType": "Agency",
+    "entityId": "FIC-008",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-10-20T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 53.0,
+    "confidenceScore": 0.96,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 8",
+      "Finding 2 for assessment 8",
+      "Finding 3 for assessment 8"
+    ],
+    "indicators": {
+      "riskScore": 53.0,
+      "complianceScore": 58.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-07-26T09:30:00Z",
+    "amountAtRisk": 17112932.09,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-009",
+    "entityType": "Agency",
+    "entityId": "FIC-009",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-08-05T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 76.7,
+    "confidenceScore": 0.72,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 9",
+      "Finding 2 for assessment 9",
+      "Finding 3 for assessment 9"
+    ],
+    "indicators": {
+      "riskScore": 76.7,
+      "complianceScore": 59.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-06-15T09:30:00Z",
+    "amountAtRisk": 17338608.33,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-010",
+    "entityType": "Agency",
+    "entityId": "FIC-010",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-08-23T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "High",
+    "riskScore": 93.1,
+    "confidenceScore": 0.88,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 10",
+      "Finding 2 for assessment 10",
+      "Finding 3 for assessment 10"
+    ],
+    "indicators": {
+      "riskScore": 93.1,
+      "complianceScore": 54.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-05-04T09:30:00Z",
+    "amountAtRisk": 5104794.38,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-011",
+    "entityType": "Agency",
+    "entityId": "FIC-011",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-08-13T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 56.4,
+    "confidenceScore": 0.87,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 11",
+      "Finding 2 for assessment 11",
+      "Finding 3 for assessment 11"
+    ],
+    "indicators": {
+      "riskScore": 56.4,
+      "complianceScore": 79.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-04-24T09:30:00Z",
+    "amountAtRisk": 3008088.05,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-012",
+    "entityType": "Agency",
+    "entityId": "FIC-012",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-05-28T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 91.4,
+    "confidenceScore": 0.83,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 12",
+      "Finding 2 for assessment 12",
+      "Finding 3 for assessment 12"
+    ],
+    "indicators": {
+      "riskScore": 91.4,
+      "complianceScore": 53.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-08-11T09:30:00Z",
+    "amountAtRisk": 6904499.54,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-013",
+    "entityType": "Agency",
+    "entityId": "FIC-013",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-02-26T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 53.9,
+    "confidenceScore": 0.71,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 13",
+      "Finding 2 for assessment 13",
+      "Finding 3 for assessment 13"
+    ],
+    "indicators": {
+      "riskScore": 53.9,
+      "complianceScore": 63.8
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-11-01T09:30:00Z",
+    "amountAtRisk": 18490340.17,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-014",
+    "entityType": "Agency",
+    "entityId": "FIC-014",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-10-23T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 60.4,
+    "confidenceScore": 0.95,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 14",
+      "Finding 2 for assessment 14",
+      "Finding 3 for assessment 14"
+    ],
+    "indicators": {
+      "riskScore": 60.4,
+      "complianceScore": 75.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-09-05T09:30:00Z",
+    "amountAtRisk": 7852820.42,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-015",
+    "entityType": "Agency",
+    "entityId": "FIC-015",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-07-19T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 64.1,
+    "confidenceScore": 0.97,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 15",
+      "Finding 2 for assessment 15",
+      "Finding 3 for assessment 15"
+    ],
+    "indicators": {
+      "riskScore": 64.1,
+      "complianceScore": 80.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-08-09T09:30:00Z",
+    "amountAtRisk": 15447381.71,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-016",
+    "entityType": "Agency",
+    "entityId": "FIC-016",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-09-20T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 59.1,
+    "confidenceScore": 0.87,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 16",
+      "Finding 2 for assessment 16",
+      "Finding 3 for assessment 16"
+    ],
+    "indicators": {
+      "riskScore": 59.1,
+      "complianceScore": 73.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-09-14T09:30:00Z",
+    "amountAtRisk": 5022930.35,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-017",
+    "entityType": "Agency",
+    "entityId": "FIC-017",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-05-04T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 88.5,
+    "confidenceScore": 0.79,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 17",
+      "Finding 2 for assessment 17",
+      "Finding 3 for assessment 17"
+    ],
+    "indicators": {
+      "riskScore": 88.5,
+      "complianceScore": 83.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-05-20T09:30:00Z",
+    "amountAtRisk": 1532306.34,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-018",
+    "entityType": "Agency",
+    "entityId": "FIC-018",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-05-09T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 41.1,
+    "confidenceScore": 0.78,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 18",
+      "Finding 2 for assessment 18",
+      "Finding 3 for assessment 18"
+    ],
+    "indicators": {
+      "riskScore": 41.1,
+      "complianceScore": 52.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-06-10T09:30:00Z",
+    "amountAtRisk": 5817540.3,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-019",
+    "entityType": "Agency",
+    "entityId": "FIC-019",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-08-18T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 74.5,
+    "confidenceScore": 0.72,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 19",
+      "Finding 2 for assessment 19",
+      "Finding 3 for assessment 19"
+    ],
+    "indicators": {
+      "riskScore": 74.5,
+      "complianceScore": 65.0
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-11-06T09:30:00Z",
+    "amountAtRisk": 11217341.53,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-020",
+    "entityType": "Agency",
+    "entityId": "FIC-020",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-01-15T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 40.8,
+    "confidenceScore": 0.97,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 20",
+      "Finding 2 for assessment 20",
+      "Finding 3 for assessment 20"
+    ],
+    "indicators": {
+      "riskScore": 40.8,
+      "complianceScore": 61.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-05-13T09:30:00Z",
+    "amountAtRisk": 16058014.81,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-021",
+    "entityType": "Agency",
+    "entityId": "FIC-021",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-09-06T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 37.9,
+    "confidenceScore": 0.76,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 21",
+      "Finding 2 for assessment 21",
+      "Finding 3 for assessment 21"
+    ],
+    "indicators": {
+      "riskScore": 37.9,
+      "complianceScore": 73.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-10-23T09:30:00Z",
+    "amountAtRisk": 2745416.91,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-022",
+    "entityType": "Agency",
+    "entityId": "FIC-022",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-09-21T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "High",
+    "riskScore": 87.8,
+    "confidenceScore": 0.85,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 22",
+      "Finding 2 for assessment 22",
+      "Finding 3 for assessment 22"
+    ],
+    "indicators": {
+      "riskScore": 87.8,
+      "complianceScore": 70.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-08-12T09:30:00Z",
+    "amountAtRisk": 1073357.96,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-023",
+    "entityType": "Agency",
+    "entityId": "FIC-023",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-11-22T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 34.4,
+    "confidenceScore": 0.93,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 23",
+      "Finding 2 for assessment 23",
+      "Finding 3 for assessment 23"
+    ],
+    "indicators": {
+      "riskScore": 34.4,
+      "complianceScore": 78.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-07-15T09:30:00Z",
+    "amountAtRisk": 16831713.96,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-024",
+    "entityType": "Agency",
+    "entityId": "FIC-024",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-08-23T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "High",
+    "riskScore": 89.8,
+    "confidenceScore": 0.92,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 24",
+      "Finding 2 for assessment 24",
+      "Finding 3 for assessment 24"
+    ],
+    "indicators": {
+      "riskScore": 89.8,
+      "complianceScore": 86.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-08-25T09:30:00Z",
+    "amountAtRisk": 9906557.67,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-FIC-2024-025",
+    "entityType": "Agency",
+    "entityId": "FIC-025",
+    "entityName": "Finance Intelligence Centre",
+    "assessmentDate": "2024-03-14T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 58.9,
+    "confidenceScore": 0.9,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 25",
+      "Finding 2 for assessment 25",
+      "Finding 3 for assessment 25"
+    ],
+    "indicators": {
+      "riskScore": 58.9,
+      "complianceScore": 84.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Finance Intelligence Centre",
+      "Recommendation 2 for Finance Intelligence Centre",
+      "Recommendation 3 for Finance Intelligence Centre"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-07-03T09:30:00Z",
+    "amountAtRisk": 8373209.59,
+    "currency": "ZMW"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "userId": "USR-ZAMMSA-001",
+    "username": "john.zulu",
+    "fullName": "John Zulu",
+    "position": "Director General",
+    "department": "Corporate Affairs",
+    "email": "john.zulu@zammsa.gov.zm",
+    "phoneNumber": "+260-211-343106",
+    "userRole": "Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "Approve Payments",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-09-09",
+    "lastLoginDate": "2024-05-11T12:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Procurement",
+      "HR Management"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-002",
+    "username": "beatrice.mwale",
+    "fullName": "Beatrice Mwale",
+    "position": "Deputy Director General",
+    "department": "Finance",
+    "email": "beatrice.mwale@zammsa.gov.zm",
+    "phoneNumber": "+260-211-305768",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "System Admin",
+      "Manage Users",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-01-03",
+    "lastLoginDate": "2024-01-11T13:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Reporting",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-003",
+    "username": "jacqueline.mutale",
+    "fullName": "Jacqueline Mutale",
+    "position": "Director",
+    "department": "Research",
+    "email": "jacqueline.mutale@zammsa.gov.zm",
+    "phoneNumber": "+260-211-369935",
+    "userRole": "Director",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-07-19",
+    "lastLoginDate": "2024-07-27T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMMSA-004",
+    "username": "john.kaputa",
+    "fullName": "John Kaputa",
+    "position": "Deputy Director",
+    "department": "Research",
+    "email": "john.kaputa@zammsa.gov.zm",
+    "phoneNumber": "+260-211-708945",
+    "userRole": "Deputy Director",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Manage Users",
+      "System Admin",
+      "Export Data"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2021-06-16",
+    "lastLoginDate": "2024-03-05T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-005",
+    "username": "michael.mvula",
+    "fullName": "Michael Mvula",
+    "position": "Manager",
+    "department": "Planning",
+    "email": "michael.mvula@zammsa.gov.zm",
+    "phoneNumber": "+260-211-134951",
+    "userRole": "Manager",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Export Data",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-08-11",
+    "lastLoginDate": "2024-09-04T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMMSA-006",
+    "username": "paul.ngoma",
+    "fullName": "Paul Ngoma",
+    "position": "Senior Officer",
+    "department": "Procurement",
+    "email": "paul.ngoma@zammsa.gov.zm",
+    "phoneNumber": "+260-211-288327",
+    "userRole": "Senior Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "View Analytics",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-09-27",
+    "lastLoginDate": "2024-01-23T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "HR Management",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMMSA-007",
+    "username": "beatrice.nsofu",
+    "fullName": "Beatrice Nsofu",
+    "position": "Officer",
+    "department": "Public Relations",
+    "email": "beatrice.nsofu@zammsa.gov.zm",
+    "phoneNumber": "+260-211-154027",
+    "userRole": "Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "System Admin",
+      "Export Data",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-09-24",
+    "lastLoginDate": "2024-04-26T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Budget Management",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMMSA-008",
+    "username": "jacqueline.ngoma",
+    "fullName": "Jacqueline Ngoma",
+    "position": "Analyst",
+    "department": "Administration",
+    "email": "jacqueline.ngoma@zammsa.gov.zm",
+    "phoneNumber": "+260-211-340553",
+    "userRole": "Analyst",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "Export Data",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-07-02",
+    "lastLoginDate": "2024-02-15T12:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Finance",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-009",
+    "username": "christine.nkonde",
+    "fullName": "Christine Nkonde",
+    "position": "Auditor",
+    "department": "Compliance",
+    "email": "christine.nkonde@zammsa.gov.zm",
+    "phoneNumber": "+260-211-965401",
+    "userRole": "Auditor",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Approve Payments",
+      "Manage Users",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-09-07",
+    "lastLoginDate": "2024-11-20T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Finance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMMSA-010",
+    "username": "michael.sakala",
+    "fullName": "Michael Sakala",
+    "position": "Administrator",
+    "department": "Planning",
+    "email": "michael.sakala@zammsa.gov.zm",
+    "phoneNumber": "+260-211-829128",
+    "userRole": "Administrator",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Approve Payments",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2021-01-05",
+    "lastLoginDate": "2024-12-23T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Procurement",
+      "Finance"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMMSA-011",
+    "username": "mwanza.daka",
+    "fullName": "Mwanza Daka",
+    "position": "Finance Officer",
+    "department": "Planning",
+    "email": "mwanza.daka@zammsa.gov.zm",
+    "phoneNumber": "+260-211-593658",
+    "userRole": "Finance Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "System Admin",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-04-24",
+    "lastLoginDate": "2024-08-02T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Finance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-012",
+    "username": "florence.musonda",
+    "fullName": "Florence Musonda",
+    "position": "HR Officer",
+    "department": "Procurement",
+    "email": "florence.musonda@zammsa.gov.zm",
+    "phoneNumber": "+260-211-558209",
+    "userRole": "HR Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Export Data",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-02-18",
+    "lastLoginDate": "2024-09-04T12:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Finance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-013",
+    "username": "alice.phiri",
+    "fullName": "Alice Phiri",
+    "position": "IT Officer",
+    "department": "Human Resources",
+    "email": "alice.phiri@zammsa.gov.zm",
+    "phoneNumber": "+260-211-201461",
+    "userRole": "IT Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-02-12",
+    "lastLoginDate": "2024-02-16T13:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Finance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-014",
+    "username": "elizabeth.ngoma",
+    "fullName": "Elizabeth Ngoma",
+    "position": "Legal Officer",
+    "department": "ICT",
+    "email": "elizabeth.ngoma@zammsa.gov.zm",
+    "phoneNumber": "+260-211-108197",
+    "userRole": "Legal Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "Approve Payments",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-06-11",
+    "lastLoginDate": "2024-06-19T16:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-015",
+    "username": "joseph.bwalya",
+    "fullName": "Joseph Bwalya",
+    "position": "Procurement Officer",
+    "department": "Public Relations",
+    "email": "joseph.bwalya@zammsa.gov.zm",
+    "phoneNumber": "+260-211-832074",
+    "userRole": "Procurement Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Analytics",
+      "View Reports",
+      "System Admin"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-03-01",
+    "lastLoginDate": "2024-10-06T09:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Finance",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMMSA-016",
+    "username": "paul.phiri",
+    "fullName": "Paul Phiri",
+    "position": "Director General",
+    "department": "Administration",
+    "email": "paul.phiri@zammsa.gov.zm",
+    "phoneNumber": "+260-211-942192",
+    "userRole": "Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-12-08",
+    "lastLoginDate": "2024-11-26T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-017",
+    "username": "mary.ngoma",
+    "fullName": "Mary Ngoma",
+    "position": "Deputy Director General",
+    "department": "Corporate Affairs",
+    "email": "mary.ngoma@zammsa.gov.zm",
+    "phoneNumber": "+260-211-419594",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-07-23",
+    "lastLoginDate": "2024-06-13T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Compliance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-018",
+    "username": "beatrice.nakambwe",
+    "fullName": "Beatrice Nakambwe",
+    "position": "Director",
+    "department": "Procurement",
+    "email": "beatrice.nakambwe@zammsa.gov.zm",
+    "phoneNumber": "+260-211-989855",
+    "userRole": "Director",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Approve Payments",
+      "System Admin",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-10-13",
+    "lastLoginDate": "2024-03-06T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-019",
+    "username": "john.mutale",
+    "fullName": "John Mutale",
+    "position": "Deputy Director",
+    "department": "Corporate Affairs",
+    "email": "john.mutale@zammsa.gov.zm",
+    "phoneNumber": "+260-211-872263",
+    "userRole": "Deputy Director",
+    "accessLevel": "Executive",
+    "permissions": [
+      "System Admin",
+      "Export Data",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-10-07",
+    "lastLoginDate": "2024-10-28T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Budget Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-020",
+    "username": "jacqueline.kaputa",
+    "fullName": "Jacqueline Kaputa",
+    "position": "Manager",
+    "department": "Procurement",
+    "email": "jacqueline.kaputa@zammsa.gov.zm",
+    "phoneNumber": "+260-211-758109",
+    "userRole": "Manager",
+    "accessLevel": "Executive",
+    "permissions": [
+      "System Admin",
+      "View Reports",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-12-28",
+    "lastLoginDate": "2024-06-19T18:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-021",
+    "username": "samuel.zulu",
+    "fullName": "Samuel Zulu",
+    "position": "Senior Officer",
+    "department": "Finance",
+    "email": "samuel.zulu@zammsa.gov.zm",
+    "phoneNumber": "+260-211-849328",
+    "userRole": "Senior Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "System Admin",
+      "Approve Payments",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-03-21",
+    "lastLoginDate": "2024-05-21T16:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Compliance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-022",
+    "username": "daniel.simukonda",
+    "fullName": "Daniel Simukonda",
+    "position": "Officer",
+    "department": "Risk Management",
+    "email": "daniel.simukonda@zammsa.gov.zm",
+    "phoneNumber": "+260-211-658312",
+    "userRole": "Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-11-11",
+    "lastLoginDate": "2024-08-22T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMMSA-023",
+    "username": "daniel.nkonde",
+    "fullName": "Daniel Nkonde",
+    "position": "Analyst",
+    "department": "Risk Management",
+    "email": "daniel.nkonde@zammsa.gov.zm",
+    "phoneNumber": "+260-211-519688",
+    "userRole": "Analyst",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "Approve Payments",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-09-01",
+    "lastLoginDate": "2024-02-06T18:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Reporting",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-024",
+    "username": "christine.sakala",
+    "fullName": "Christine Sakala",
+    "position": "Auditor",
+    "department": "ICT",
+    "email": "christine.sakala@zammsa.gov.zm",
+    "phoneNumber": "+260-211-567735",
+    "userRole": "Auditor",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Manage Users",
+      "Approve Payments",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-03-24",
+    "lastLoginDate": "2024-09-06T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "HR Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMMSA-025",
+    "username": "alice.tembo",
+    "fullName": "Alice Tembo",
+    "position": "Administrator",
+    "department": "Research",
+    "email": "alice.tembo@zammsa.gov.zm",
+    "phoneNumber": "+260-211-265952",
+    "userRole": "Administrator",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Analytics",
+      "System Admin",
+      "View Reports"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2021-08-06",
+    "lastLoginDate": "2024-10-15T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Finance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Independence Avenue, Lusaka",
+    "biometricRegistered": false
+  }
+]

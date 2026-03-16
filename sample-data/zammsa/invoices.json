@@ -1,0 +1,702 @@
+[
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0001",
+    "invoiceNumber": "2024/ZAMMSA/0001",
+    "invoiceDate": "2024-08-04T00:00:00Z",
+    "dueDate": "2024-02-25T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Operations",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "3986298101",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5938496.87,
+        "amount": 5938496.87
+      }
+    ],
+    "subtotal": 5938496.87,
+    "vatRate": 16.0,
+    "vatAmount": 950159.5,
+    "totalAmount": 6888656.37,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZAMMSA-0001"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0002",
+    "invoiceNumber": "2024/ZAMMSA/0002",
+    "invoiceDate": "2024-08-01T00:00:00Z",
+    "dueDate": "2024-07-07T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Legal",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "8896341768",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5348597.35,
+        "amount": 5348597.35
+      }
+    ],
+    "subtotal": 5348597.35,
+    "vatRate": 16.0,
+    "vatAmount": 855775.58,
+    "totalAmount": 6204372.93,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZAMMSA-0002"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0003",
+    "invoiceNumber": "2024/ZAMMSA/0003",
+    "invoiceDate": "2024-08-24T00:00:00Z",
+    "dueDate": "2024-04-06T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Research",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "1470102834",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7114588.81,
+        "amount": 7114588.81
+      }
+    ],
+    "subtotal": 7114588.81,
+    "vatRate": 16.0,
+    "vatAmount": 1138334.21,
+    "totalAmount": 8252923.02,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZAMMSA-0003"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0004",
+    "invoiceNumber": "2024/ZAMMSA/0004",
+    "invoiceDate": "2024-12-20T00:00:00Z",
+    "dueDate": "2024-04-13T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "ICT",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "2682792794",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9563269.37,
+        "amount": 9563269.37
+      }
+    ],
+    "subtotal": 9563269.37,
+    "vatRate": 16.0,
+    "vatAmount": 1530123.1,
+    "totalAmount": 11093392.47,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZAMMSA-0004"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0005",
+    "invoiceNumber": "2024/ZAMMSA/0005",
+    "invoiceDate": "2024-12-01T00:00:00Z",
+    "dueDate": "2024-08-10T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "2755194185",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5431992.25,
+        "amount": 5431992.25
+      }
+    ],
+    "subtotal": 5431992.25,
+    "vatRate": 16.0,
+    "vatAmount": 869118.76,
+    "totalAmount": 6301111.01,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZAMMSA-0005"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0006",
+    "invoiceNumber": "2024/ZAMMSA/0006",
+    "invoiceDate": "2024-03-09T00:00:00Z",
+    "dueDate": "2024-06-20T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "4116111244",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2534735.4,
+        "amount": 2534735.4
+      }
+    ],
+    "subtotal": 2534735.4,
+    "vatRate": 16.0,
+    "vatAmount": 405557.66,
+    "totalAmount": 2940293.06,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZAMMSA-0006"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0007",
+    "invoiceNumber": "2024/ZAMMSA/0007",
+    "invoiceDate": "2024-02-09T00:00:00Z",
+    "dueDate": "2024-03-03T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Public Relations",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "3236002489",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6637561.41,
+        "amount": 6637561.41
+      }
+    ],
+    "subtotal": 6637561.41,
+    "vatRate": 16.0,
+    "vatAmount": 1062009.83,
+    "totalAmount": 7699571.24,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZAMMSA-0007"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0008",
+    "invoiceNumber": "2024/ZAMMSA/0008",
+    "invoiceDate": "2024-11-26T00:00:00Z",
+    "dueDate": "2024-02-09T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "5009562777",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7385642.03,
+        "amount": 7385642.03
+      }
+    ],
+    "subtotal": 7385642.03,
+    "vatRate": 16.0,
+    "vatAmount": 1181702.72,
+    "totalAmount": 8567344.75,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZAMMSA-0008"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0009",
+    "invoiceNumber": "2024/ZAMMSA/0009",
+    "invoiceDate": "2024-12-13T00:00:00Z",
+    "dueDate": "2024-11-20T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "5199929230",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5319374.32,
+        "amount": 5319374.32
+      }
+    ],
+    "subtotal": 5319374.32,
+    "vatRate": 16.0,
+    "vatAmount": 851099.89,
+    "totalAmount": 6170474.21,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZAMMSA-0009"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0010",
+    "invoiceNumber": "2024/ZAMMSA/0010",
+    "invoiceDate": "2024-12-25T00:00:00Z",
+    "dueDate": "2024-02-12T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Compliance",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "4271724627",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2013506.58,
+        "amount": 2013506.58
+      }
+    ],
+    "subtotal": 2013506.58,
+    "vatRate": 16.0,
+    "vatAmount": 322161.05,
+    "totalAmount": 2335667.63,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZAMMSA-0010"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0011",
+    "invoiceNumber": "2024/ZAMMSA/0011",
+    "invoiceDate": "2024-09-08T00:00:00Z",
+    "dueDate": "2024-06-27T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Research",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "2900619668",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2905399.11,
+        "amount": 2905399.11
+      }
+    ],
+    "subtotal": 2905399.11,
+    "vatRate": 16.0,
+    "vatAmount": 464863.86,
+    "totalAmount": 3370262.97,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZAMMSA-0011"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0012",
+    "invoiceNumber": "2024/ZAMMSA/0012",
+    "invoiceDate": "2024-12-21T00:00:00Z",
+    "dueDate": "2024-02-09T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Compliance",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "6996134719",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4875624.18,
+        "amount": 4875624.18
+      }
+    ],
+    "subtotal": 4875624.18,
+    "vatRate": 16.0,
+    "vatAmount": 780099.87,
+    "totalAmount": 5655724.05,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZAMMSA-0012"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0013",
+    "invoiceNumber": "2024/ZAMMSA/0013",
+    "invoiceDate": "2024-02-16T00:00:00Z",
+    "dueDate": "2024-11-02T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "2342097203",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9979658.01,
+        "amount": 9979658.01
+      }
+    ],
+    "subtotal": 9979658.01,
+    "vatRate": 16.0,
+    "vatAmount": 1596745.28,
+    "totalAmount": 11576403.29,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZAMMSA-0013"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0014",
+    "invoiceNumber": "2024/ZAMMSA/0014",
+    "invoiceDate": "2024-08-21T00:00:00Z",
+    "dueDate": "2024-08-19T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Corporate Affairs",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "4210490837",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 788341.05,
+        "amount": 788341.05
+      }
+    ],
+    "subtotal": 788341.05,
+    "vatRate": 16.0,
+    "vatAmount": 126134.57,
+    "totalAmount": 914475.62,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZAMMSA-0014"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0015",
+    "invoiceNumber": "2024/ZAMMSA/0015",
+    "invoiceDate": "2024-03-10T00:00:00Z",
+    "dueDate": "2024-06-28T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Compliance",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "9647207780",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 456627.19,
+        "amount": 456627.19
+      }
+    ],
+    "subtotal": 456627.19,
+    "vatRate": 16.0,
+    "vatAmount": 73060.35,
+    "totalAmount": 529687.54,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZAMMSA-0015"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0016",
+    "invoiceNumber": "2024/ZAMMSA/0016",
+    "invoiceDate": "2024-02-16T00:00:00Z",
+    "dueDate": "2024-03-27T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Finance",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "4894955179",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7552159.7,
+        "amount": 7552159.7
+      }
+    ],
+    "subtotal": 7552159.7,
+    "vatRate": 16.0,
+    "vatAmount": 1208345.55,
+    "totalAmount": 8760505.25,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZAMMSA-0016"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0017",
+    "invoiceNumber": "2024/ZAMMSA/0017",
+    "invoiceDate": "2024-10-09T00:00:00Z",
+    "dueDate": "2024-04-03T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "1503083037",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6465700.35,
+        "amount": 6465700.35
+      }
+    ],
+    "subtotal": 6465700.35,
+    "vatRate": 16.0,
+    "vatAmount": 1034512.06,
+    "totalAmount": 7500212.41,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZAMMSA-0017"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0018",
+    "invoiceNumber": "2024/ZAMMSA/0018",
+    "invoiceDate": "2024-07-24T00:00:00Z",
+    "dueDate": "2024-03-12T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "5683555499",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9845403.26,
+        "amount": 9845403.26
+      }
+    ],
+    "subtotal": 9845403.26,
+    "vatRate": 16.0,
+    "vatAmount": 1575264.52,
+    "totalAmount": 11420667.78,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZAMMSA-0018"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0019",
+    "invoiceNumber": "2024/ZAMMSA/0019",
+    "invoiceDate": "2024-07-09T00:00:00Z",
+    "dueDate": "2024-11-13T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "3779798671",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5598217.51,
+        "amount": 5598217.51
+      }
+    ],
+    "subtotal": 5598217.51,
+    "vatRate": 16.0,
+    "vatAmount": 895714.8,
+    "totalAmount": 6493932.31,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZAMMSA-0019"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0020",
+    "invoiceNumber": "2024/ZAMMSA/0020",
+    "invoiceDate": "2024-01-25T00:00:00Z",
+    "dueDate": "2024-12-14T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "7518970293",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5791180.48,
+        "amount": 5791180.48
+      }
+    ],
+    "subtotal": 5791180.48,
+    "vatRate": 16.0,
+    "vatAmount": 926588.88,
+    "totalAmount": 6717769.36,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZAMMSA-0020"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0021",
+    "invoiceNumber": "2024/ZAMMSA/0021",
+    "invoiceDate": "2024-08-27T00:00:00Z",
+    "dueDate": "2024-05-20T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "4285224760",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6631295.95,
+        "amount": 6631295.95
+      }
+    ],
+    "subtotal": 6631295.95,
+    "vatRate": 16.0,
+    "vatAmount": 1061007.35,
+    "totalAmount": 7692303.3,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZAMMSA-0021"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0022",
+    "invoiceNumber": "2024/ZAMMSA/0022",
+    "invoiceDate": "2024-05-07T00:00:00Z",
+    "dueDate": "2024-02-08T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "9985808321",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3572329.75,
+        "amount": 3572329.75
+      }
+    ],
+    "subtotal": 3572329.75,
+    "vatRate": 16.0,
+    "vatAmount": 571572.76,
+    "totalAmount": 4143902.51,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZAMMSA-0022"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0023",
+    "invoiceNumber": "2024/ZAMMSA/0023",
+    "invoiceDate": "2024-12-26T00:00:00Z",
+    "dueDate": "2024-05-11T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "ICT",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "4982598491",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 614878.45,
+        "amount": 614878.45
+      }
+    ],
+    "subtotal": 614878.45,
+    "vatRate": 16.0,
+    "vatAmount": 98380.55,
+    "totalAmount": 713259.0,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZAMMSA-0023"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0024",
+    "invoiceNumber": "2024/ZAMMSA/0024",
+    "invoiceDate": "2024-12-03T00:00:00Z",
+    "dueDate": "2024-01-08T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Finance",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "3616940396",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4791591.88,
+        "amount": 4791591.88
+      }
+    ],
+    "subtotal": 4791591.88,
+    "vatRate": 16.0,
+    "vatAmount": 766654.7,
+    "totalAmount": 5558246.58,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZAMMSA-0024"
+  },
+  {
+    "invoiceId": "INV-ZAMMSA-2024-0025",
+    "invoiceNumber": "2024/ZAMMSA/0025",
+    "invoiceDate": "2024-01-06T00:00:00Z",
+    "dueDate": "2024-10-15T00:00:00Z",
+    "issuingEntity": "Zambia Medicines and Medical Supplies Agency",
+    "issuingDepartment": "Planning",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "7136246512",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3415478.62,
+        "amount": 3415478.62
+      }
+    ],
+    "subtotal": 3415478.62,
+    "vatRate": 16.0,
+    "vatAmount": 546476.58,
+    "totalAmount": 3961955.2,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZAMMSA-0025"
+  }
+]

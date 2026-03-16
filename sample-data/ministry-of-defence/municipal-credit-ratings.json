@@ -1,0 +1,495 @@
+[
+  {
+    "id": 1,
+    "municipalityName": "Lusaka City Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2023-12-01T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Strong revenue base from property rates and business licenses",
+      "Consistent debt service coverage ratio above 2.0",
+      "Diversified revenue streams",
+      "Good governance and financial management practices",
+      "Strong support from central government"
+    ],
+    "riskFactors": [
+      "Rapid urbanization increasing service delivery pressure",
+      "Collection efficiency challenges in some areas",
+      "Infrastructure maintenance backlog",
+      "Dependence on central government transfers"
+    ],
+    "debtToRevenueRatio": 1.8,
+    "liquidityRatio": 1.5,
+    "debtServiceCoverageRatio": 2.2
+  },
+  {
+    "id": 2,
+    "municipalityName": "Kitwe City Council",
+    "currentRating": "BBB+",
+    "previousRating": "BBB",
+    "ratingDate": "2023-10-15T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Positive",
+    "strengthFactors": [
+      "Strategic location in Copperbelt mining region",
+      "Improving water revenue collection",
+      "Successful implementation of infrastructure projects",
+      "Growing commercial activities"
+    ],
+    "riskFactors": [
+      "Exposure to mining sector volatility",
+      "Aging water infrastructure",
+      "Need for significant capital investment",
+      "Revenue concentration in few sectors"
+    ],
+    "debtToRevenueRatio": 2.1,
+    "liquidityRatio": 1.3,
+    "debtServiceCoverageRatio": 1.8
+  },
+  {
+    "id": 3,
+    "municipalityName": "Ndola City Council",
+    "currentRating": "BBB",
+    "previousRating": "BBB",
+    "ratingDate": "2023-11-20T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Well-established market infrastructure",
+      "Consistent revenue from market operations",
+      "Timely debt servicing record",
+      "Good project implementation capacity"
+    ],
+    "riskFactors": [
+      "Limited revenue growth potential",
+      "Competition from informal markets",
+      "Moderate debt levels",
+      "Infrastructure upgrade needs"
+    ],
+    "debtToRevenueRatio": 2.3,
+    "liquidityRatio": 1.2,
+    "debtServiceCoverageRatio": 1.6
+  },
+  {
+    "id": 4,
+    "municipalityName": "Livingstone City Council",
+    "currentRating": "A",
+    "previousRating": "A-",
+    "ratingDate": "2024-06-30T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Positive",
+    "strengthFactors": [
+      "Strong tourism sector revenues",
+      "Tourism levy providing stable income",
+      "International tourism attraction (Victoria Falls)",
+      "Good infrastructure planning",
+      "Strong institutional capacity"
+    ],
+    "riskFactors": [
+      "Exposure to tourism sector volatility",
+      "Seasonal revenue fluctuations",
+      "High infrastructure maintenance costs",
+      "Need for continuous tourism facility upgrades"
+    ],
+    "debtToRevenueRatio": 1.6,
+    "liquidityRatio": 1.7,
+    "debtServiceCoverageRatio": 2.5
+  },
+  {
+    "id": 5,
+    "municipalityName": "Kabwe Municipal Council",
+    "currentRating": "BBB",
+    "previousRating": "BBB-",
+    "ratingDate": "2024-03-15T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Improving waste management revenue",
+      "Support from environmental programs",
+      "Central location advantage",
+      "Diversification efforts underway"
+    ],
+    "riskFactors": [
+      "Environmental remediation challenges",
+      "Limited industrial base",
+      "Revenue collection challenges",
+      "Need for significant environmental investment"
+    ],
+    "debtToRevenueRatio": 2.4,
+    "liquidityRatio": 1.1,
+    "debtServiceCoverageRatio": 1.5
+  },
+  {
+    "id": 6,
+    "municipalityName": "Chingola Municipal Council",
+    "currentRating": "BBB+",
+    "previousRating": "BBB",
+    "ratingDate": "2024-09-10T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Growing mining sector activities",
+      "Improved property rate collection",
+      "Energy efficiency initiatives",
+      "Good fiscal discipline"
+    ],
+    "riskFactors": [
+      "Mining sector dependency",
+      "Limited economic diversification",
+      "Infrastructure upgrade needs",
+      "Commodity price exposure"
+    ],
+    "debtToRevenueRatio": 2.0,
+    "liquidityRatio": 1.3,
+    "debtServiceCoverageRatio": 1.7
+  },
+  {
+    "id": 7,
+    "municipalityName": "Solwezi Municipal Council",
+    "currentRating": "BBB",
+    "previousRating": "BBB-",
+    "ratingDate": "2024-05-20T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Positive",
+    "strengthFactors": [
+      "Strategic mining town location",
+      "Growing commercial activities",
+      "Mining company contributions",
+      "Infrastructure development momentum"
+    ],
+    "riskFactors": [
+      "Heavy reliance on mining sector",
+      "Limited revenue diversification",
+      "Rapid urban growth challenges",
+      "Infrastructure capacity constraints"
+    ],
+    "debtToRevenueRatio": 2.2,
+    "liquidityRatio": 1.2,
+    "debtServiceCoverageRatio": 1.6
+  },
+  {
+    "id": 8,
+    "municipalityName": "Chipata Municipal Council",
+    "currentRating": "BBB",
+    "previousRating": "BBB",
+    "ratingDate": "2023-09-30T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Border trade advantages",
+      "Cross-border market revenues",
+      "Agricultural sector linkages",
+      "Good project implementation"
+    ],
+    "riskFactors": [
+      "Border trade volatility",
+      "Limited industrial development",
+      "Infrastructure gaps",
+      "Seasonal revenue patterns"
+    ],
+    "debtToRevenueRatio": 2.3,
+    "liquidityRatio": 1.2,
+    "debtServiceCoverageRatio": 1.6
+  },
+  {
+    "id": 9,
+    "municipalityName": "Kasama Municipal Council",
+    "currentRating": "BBB+",
+    "previousRating": "BBB",
+    "ratingDate": "2024-10-05T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Growing water service revenues",
+      "Regional service hub status",
+      "Agricultural trade center",
+      "Improving governance structures"
+    ],
+    "riskFactors": [
+      "Limited revenue base",
+      "Water infrastructure investment needs",
+      "Remote location challenges",
+      "Limited economic diversity"
+    ],
+    "debtToRevenueRatio": 2.1,
+    "liquidityRatio": 1.3,
+    "debtServiceCoverageRatio": 1.7
+  },
+  {
+    "id": 10,
+    "municipalityName": "Mongu Municipal Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2024-08-15T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Government disaster grants secured",
+      "Strategic flood management project",
+      "Provincial capital status",
+      "Strong government support",
+      "Growing eco-tourism potential"
+    ],
+    "riskFactors": [
+      "Annual flood exposure",
+      "Limited revenue base",
+      "Infrastructure vulnerability",
+      "Seasonal accessibility challenges"
+    ],
+    "debtToRevenueRatio": 1.9,
+    "liquidityRatio": 1.4,
+    "debtServiceCoverageRatio": 1.9
+  },
+  {
+    "id": 11,
+    "municipalityName": "Mongu Municipal Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2024-12-20T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Government disaster grants secured",
+      "Strategic flood management project",
+      "Provincial capital status",
+      "Strong government support",
+      "Growing eco-tourism potential"
+    ],
+    "riskFactors": [
+      "Annual flood exposure",
+      "Limited revenue base",
+      "Infrastructure vulnerability",
+      "Seasonal accessibility challenges"
+    ],
+    "debtToRevenueRatio": 1.9,
+    "liquidityRatio": 1.4,
+    "debtServiceCoverageRatio": 1.9
+  },
+  {
+    "id": 12,
+    "municipalityName": "Mongu Municipal Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2024-09-10T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Government disaster grants secured",
+      "Strategic flood management project",
+      "Provincial capital status",
+      "Strong government support",
+      "Growing eco-tourism potential"
+    ],
+    "riskFactors": [
+      "Annual flood exposure",
+      "Limited revenue base",
+      "Infrastructure vulnerability",
+      "Seasonal accessibility challenges"
+    ],
+    "debtToRevenueRatio": 1.9,
+    "liquidityRatio": 1.4,
+    "debtServiceCoverageRatio": 1.9
+  },
+  {
+    "id": 13,
+    "municipalityName": "Mongu Municipal Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2024-01-19T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Government disaster grants secured",
+      "Strategic flood management project",
+      "Provincial capital status",
+      "Strong government support",
+      "Growing eco-tourism potential"
+    ],
+    "riskFactors": [
+      "Annual flood exposure",
+      "Limited revenue base",
+      "Infrastructure vulnerability",
+      "Seasonal accessibility challenges"
+    ],
+    "debtToRevenueRatio": 1.9,
+    "liquidityRatio": 1.4,
+    "debtServiceCoverageRatio": 1.9
+  },
+  {
+    "id": 14,
+    "municipalityName": "Mongu Municipal Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2023-02-15T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Government disaster grants secured",
+      "Strategic flood management project",
+      "Provincial capital status",
+      "Strong government support",
+      "Growing eco-tourism potential"
+    ],
+    "riskFactors": [
+      "Annual flood exposure",
+      "Limited revenue base",
+      "Infrastructure vulnerability",
+      "Seasonal accessibility challenges"
+    ],
+    "debtToRevenueRatio": 1.9,
+    "liquidityRatio": 1.4,
+    "debtServiceCoverageRatio": 1.9
+  },
+  {
+    "id": 15,
+    "municipalityName": "Mongu Municipal Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2023-03-13T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Government disaster grants secured",
+      "Strategic flood management project",
+      "Provincial capital status",
+      "Strong government support",
+      "Growing eco-tourism potential"
+    ],
+    "riskFactors": [
+      "Annual flood exposure",
+      "Limited revenue base",
+      "Infrastructure vulnerability",
+      "Seasonal accessibility challenges"
+    ],
+    "debtToRevenueRatio": 1.9,
+    "liquidityRatio": 1.4,
+    "debtServiceCoverageRatio": 1.9
+  },
+  {
+    "id": 16,
+    "municipalityName": "Mongu Municipal Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2024-02-13T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Government disaster grants secured",
+      "Strategic flood management project",
+      "Provincial capital status",
+      "Strong government support",
+      "Growing eco-tourism potential"
+    ],
+    "riskFactors": [
+      "Annual flood exposure",
+      "Limited revenue base",
+      "Infrastructure vulnerability",
+      "Seasonal accessibility challenges"
+    ],
+    "debtToRevenueRatio": 1.9,
+    "liquidityRatio": 1.4,
+    "debtServiceCoverageRatio": 1.9
+  },
+  {
+    "id": 17,
+    "municipalityName": "Mongu Municipal Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2024-01-09T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Government disaster grants secured",
+      "Strategic flood management project",
+      "Provincial capital status",
+      "Strong government support",
+      "Growing eco-tourism potential"
+    ],
+    "riskFactors": [
+      "Annual flood exposure",
+      "Limited revenue base",
+      "Infrastructure vulnerability",
+      "Seasonal accessibility challenges"
+    ],
+    "debtToRevenueRatio": 1.9,
+    "liquidityRatio": 1.4,
+    "debtServiceCoverageRatio": 1.9
+  },
+  {
+    "id": 18,
+    "municipalityName": "Mongu Municipal Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2023-11-28T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Government disaster grants secured",
+      "Strategic flood management project",
+      "Provincial capital status",
+      "Strong government support",
+      "Growing eco-tourism potential"
+    ],
+    "riskFactors": [
+      "Annual flood exposure",
+      "Limited revenue base",
+      "Infrastructure vulnerability",
+      "Seasonal accessibility challenges"
+    ],
+    "debtToRevenueRatio": 1.9,
+    "liquidityRatio": 1.4,
+    "debtServiceCoverageRatio": 1.9
+  },
+  {
+    "id": 19,
+    "municipalityName": "Mongu Municipal Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2024-05-29T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Government disaster grants secured",
+      "Strategic flood management project",
+      "Provincial capital status",
+      "Strong government support",
+      "Growing eco-tourism potential"
+    ],
+    "riskFactors": [
+      "Annual flood exposure",
+      "Limited revenue base",
+      "Infrastructure vulnerability",
+      "Seasonal accessibility challenges"
+    ],
+    "debtToRevenueRatio": 1.9,
+    "liquidityRatio": 1.4,
+    "debtServiceCoverageRatio": 1.9
+  },
+  {
+    "id": 20,
+    "municipalityName": "Mongu Municipal Council",
+    "currentRating": "A-",
+    "previousRating": "BBB+",
+    "ratingDate": "2024-06-21T00:00:00",
+    "ratingAgency": "Zambia Credit Rating Agency",
+    "outlook": "Stable",
+    "strengthFactors": [
+      "Government disaster grants secured",
+      "Strategic flood management project",
+      "Provincial capital status",
+      "Strong government support",
+      "Growing eco-tourism potential"
+    ],
+    "riskFactors": [
+      "Annual flood exposure",
+      "Limited revenue base",
+      "Infrastructure vulnerability",
+      "Seasonal accessibility challenges"
+    ],
+    "debtToRevenueRatio": 1.9,
+    "liquidityRatio": 1.4,
+    "debtServiceCoverageRatio": 1.9
+  }
+]

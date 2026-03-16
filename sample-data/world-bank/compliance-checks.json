@@ -1,0 +1,750 @@
+[
+  {
+    "id": "CC-2024-001",
+    "entityType": "Ministry",
+    "entityId": "MIN-HLTH-001",
+    "entityName": "Ministry of Health",
+    "checkDate": "2024-01-15T08:00:00Z",
+    "checkType": "Budget Compliance",
+    "status": "Passed",
+    "complianceScore": 92.5,
+    "confidenceScore": 0.96,
+    "regulatoryFramework": "Public Finance Act 2018",
+    "checksPerformed": [
+      "Budget allocation verification",
+      "Expenditure authorization review",
+      "Procurement compliance check",
+      "Reporting requirements validation"
+    ],
+    "findings": {
+      "passed": 18,
+      "failed": 0,
+      "warnings": 2
+    },
+    "issues": [
+      {
+        "severity": "Warning",
+        "description": "Late submission of Q4 variance report",
+        "remediation": "Submit within 5 business days"
+      },
+      {
+        "severity": "Warning",
+        "description": "Incomplete vendor documentation for 2 contracts",
+        "remediation": "Obtain missing certificates"
+      }
+    ],
+    "recommendations": [
+      "Implement automated reporting reminders",
+      "Strengthen vendor documentation verification"
+    ],
+    "nextCheckDate": "2024-04-15T08:00:00Z",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "John Mwape, Compliance Officer"
+  },
+  {
+    "id": "CC-2024-002",
+    "entityType": "Project",
+    "entityId": "PRJ-ROAD-2024-08",
+    "entityName": "Great East Road Rehabilitation",
+    "checkDate": "2024-01-17T10:30:00Z",
+    "checkType": "Procurement Compliance",
+    "status": "Conditional Pass",
+    "complianceScore": 78.3,
+    "confidenceScore": 0.89,
+    "regulatoryFramework": "Public Procurement Act 2020",
+    "checksPerformed": [
+      "Competitive bidding verification",
+      "Vendor qualification review",
+      "Contract award process audit",
+      "Tender documentation assessment"
+    ],
+    "findings": {
+      "passed": 12,
+      "failed": 2,
+      "warnings": 3
+    },
+    "issues": [
+      {
+        "severity": "Critical",
+        "description": "Insufficient bidder evaluation documentation",
+        "remediation": "Provide detailed scoring matrices within 10 days"
+      },
+      {
+        "severity": "Critical",
+        "description": "Missing technical evaluation committee minutes",
+        "remediation": "Submit complete meeting records"
+      },
+      {
+        "severity": "Warning",
+        "description": "Bid opening delay of 3 days",
+        "remediation": "Justify delay in writing"
+      }
+    ],
+    "recommendations": [
+      "Strengthen evaluation documentation practices",
+      "Ensure all committee meetings are properly minuted",
+      "Adhere strictly to tender timelines"
+    ],
+    "nextCheckDate": "2024-02-17T10:30:00Z",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Patricia Banda, Procurement Auditor"
+  },
+  {
+    "id": "CC-2024-003",
+    "entityType": "Vendor",
+    "entityId": "VND-IT-223",
+    "entityName": "Zamtech Solutions Ltd",
+    "checkDate": "2024-01-19T14:15:00Z",
+    "checkType": "Vendor Compliance",
+    "status": "Passed",
+    "complianceScore": 96.8,
+    "confidenceScore": 0.98,
+    "regulatoryFramework": "Vendor Registration Requirements",
+    "checksPerformed": [
+      "Business registration verification",
+      "Tax compliance status check",
+      "NAPSA compliance verification",
+      "Financial standing assessment",
+      "Technical capability review"
+    ],
+    "findings": {
+      "passed": 15,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Maintain current compliance standards",
+      "Continue timely renewal of certifications"
+    ],
+    "nextCheckDate": "2024-07-19T14:15:00Z",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Moses Phiri, Vendor Management"
+  },
+  {
+    "id": "CC-2024-004",
+    "entityType": "District",
+    "entityId": "DST-LIVINGSTONE-001",
+    "entityName": "Livingstone District Council",
+    "checkDate": "2024-01-22T09:45:00Z",
+    "checkType": "Financial Reporting Compliance",
+    "status": "Failed",
+    "complianceScore": 58.7,
+    "confidenceScore": 0.91,
+    "regulatoryFramework": "Local Government Act 2019",
+    "checksPerformed": [
+      "Monthly financial statement review",
+      "Bank reconciliation verification",
+      "Revenue collection compliance",
+      "Expenditure documentation check"
+    ],
+    "findings": {
+      "passed": 8,
+      "failed": 5,
+      "warnings": 4
+    },
+    "issues": [
+      {
+        "severity": "Critical",
+        "description": "Missing bank reconciliations for Oct-Dec 2023",
+        "remediation": "Complete and submit within 15 days"
+      },
+      {
+        "severity": "Critical",
+        "description": "Unrecorded revenue transactions totaling ZMW 850,000",
+        "remediation": "Record all transactions and provide explanation"
+      },
+      {
+        "severity": "Critical",
+        "description": "Unsupported expenditures of ZMW 425,000",
+        "remediation": "Provide supporting documentation"
+      },
+      {
+        "severity": "Warning",
+        "description": "Late submission of monthly reports",
+        "remediation": "Adhere to reporting deadlines"
+      }
+    ],
+    "recommendations": [
+      "Implement monthly reconciliation process",
+      "Strengthen revenue recording procedures",
+      "Enhance expenditure documentation controls",
+      "Assign dedicated compliance officer"
+    ],
+    "nextCheckDate": "2024-02-22T09:45:00Z",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Grace Mulenga, District Auditor"
+  },
+  {
+    "id": "CC-2024-005",
+    "entityType": "Ministry",
+    "entityId": "MIN-AGR-001",
+    "entityName": "Ministry of Agriculture",
+    "checkDate": "2024-01-24T11:00:00Z",
+    "checkType": "Grant Compliance",
+    "status": "Passed",
+    "complianceScore": 88.4,
+    "confidenceScore": 0.94,
+    "regulatoryFramework": "Grant Management Guidelines",
+    "checksPerformed": [
+      "Grant utilization verification",
+      "Donor reporting compliance",
+      "Financial management assessment",
+      "Project milestone review"
+    ],
+    "findings": {
+      "passed": 14,
+      "failed": 0,
+      "warnings": 3
+    },
+    "issues": [
+      {
+        "severity": "Warning",
+        "description": "Delayed quarterly report to World Bank",
+        "remediation": "Submit within 7 days"
+      },
+      {
+        "severity": "Warning",
+        "description": "Budget reallocation not pre-approved",
+        "remediation": "Seek retroactive approval"
+      },
+      {
+        "severity": "Warning",
+        "description": "Incomplete beneficiary database",
+        "remediation": "Update database monthly"
+      }
+    ],
+    "recommendations": [
+      "Establish reporting calendar with reminders",
+      "Formalize budget reallocation approval process",
+      "Implement beneficiary tracking system"
+    ],
+    "nextCheckDate": "2024-04-24T11:00:00Z",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Christopher Sakala, Grant Compliance Manager"
+  },
+  {
+    "id": "CC-2024-006",
+    "entityType": "Project",
+    "entityId": "PRJ-EDU-2024-12",
+    "entityName": "Digital Classroom Initiative",
+    "checkDate": "2024-01-26T13:30:00Z",
+    "checkType": "Technical Compliance",
+    "status": "Passed",
+    "complianceScore": 94.2,
+    "confidenceScore": 0.97,
+    "regulatoryFramework": "ICT Standards and Guidelines",
+    "checksPerformed": [
+      "Technical specifications verification",
+      "Quality assurance review",
+      "Installation standards check",
+      "Training requirements assessment"
+    ],
+    "findings": {
+      "passed": 16,
+      "failed": 0,
+      "warnings": 1
+    },
+    "issues": [
+      {
+        "severity": "Warning",
+        "description": "Training completion rate at 82% (target 90%)",
+        "remediation": "Complete remaining training sessions"
+      }
+    ],
+    "recommendations": [
+      "Accelerate training schedule",
+      "Maintain high technical standards",
+      "Document lessons learned for future phases"
+    ],
+    "nextCheckDate": "2024-04-26T13:30:00Z",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Sarah Zulu, Technical Standards Officer"
+  },
+  {
+    "id": "CC-2024-007",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Local Government",
+    "checkDate": "2024-01-29T10:00:00Z",
+    "checkType": "Asset Management Compliance",
+    "status": "Conditional Pass",
+    "complianceScore": 74.6,
+    "confidenceScore": 0.88,
+    "regulatoryFramework": "Asset Management Framework",
+    "checksPerformed": [
+      "Asset register verification",
+      "Physical asset verification",
+      "Depreciation calculation review",
+      "Disposal process compliance"
+    ],
+    "findings": {
+      "passed": 10,
+      "failed": 2,
+      "warnings": 4
+    },
+    "issues": [
+      {
+        "severity": "Critical",
+        "description": "Asset register not updated for 6 months",
+        "remediation": "Complete full asset register update"
+      },
+      {
+        "severity": "Critical",
+        "description": "Physical verification incomplete (68% coverage)",
+        "remediation": "Complete verification of all assets"
+      },
+      {
+        "severity": "Warning",
+        "description": "Missing disposal authorization for 12 items",
+        "remediation": "Obtain proper disposal approvals"
+      }
+    ],
+    "recommendations": [
+      "Implement quarterly asset register updates",
+      "Conduct annual physical verification",
+      "Strengthen disposal approval process",
+      "Assign dedicated asset management officer"
+    ],
+    "nextCheckDate": "2024-02-29T10:00:00Z",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Daniel Tembo, Asset Management Specialist"
+  },
+  {
+    "id": "CC-2024-008",
+    "entityType": "Program",
+    "entityId": "PRG-SOC-2024-04",
+    "entityName": "Social Cash Transfer Program",
+    "checkDate": "2024-01-31T15:45:00Z",
+    "checkType": "Beneficiary Compliance",
+    "status": "Passed",
+    "complianceScore": 91.7,
+    "confidenceScore": 0.95,
+    "regulatoryFramework": "Social Protection Guidelines",
+    "checksPerformed": [
+      "Beneficiary eligibility verification",
+      "Payment accuracy check",
+      "Targeting criteria compliance",
+      "Grievance mechanism review"
+    ],
+    "findings": {
+      "passed": 17,
+      "failed": 0,
+      "warnings": 2
+    },
+    "issues": [
+      {
+        "severity": "Warning",
+        "description": "Beneficiary database update lag of 2 weeks",
+        "remediation": "Implement real-time update system"
+      },
+      {
+        "severity": "Warning",
+        "description": "Grievance resolution time averaging 18 days (target 14)",
+        "remediation": "Streamline grievance handling process"
+      }
+    ],
+    "recommendations": [
+      "Deploy mobile data collection system",
+      "Enhance grievance tracking mechanism",
+      "Maintain high targeting accuracy"
+    ],
+    "nextCheckDate": "2024-04-30T15:45:00Z",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Agnes Mwanza, Social Protection Officer"
+  },
+  {
+    "id": "CC-2024-009",
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2024-02-02T09:15:00Z",
+    "checkType": "Treasury Compliance",
+    "status": "Passed",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2024-05-02T09:15:00Z",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager"
+  },
+  {
+    "id": 10,
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2023-02-16T00:00:00",
+    "checkType": "Treasury Compliance",
+    "status": "Cancelled",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2024-07-14T00:00:00",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager",
+    "checkId": "CC-2024-010"
+  },
+  {
+    "id": 11,
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2024-09-11T00:00:00",
+    "checkType": "Treasury Compliance",
+    "status": "Active",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2023-01-30T00:00:00",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager",
+    "checkId": "CC-2024-011"
+  },
+  {
+    "id": 12,
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2024-08-18T00:00:00",
+    "checkType": "Treasury Compliance",
+    "status": "Released",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2024-12-16T00:00:00",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager",
+    "checkId": "CC-2024-012"
+  },
+  {
+    "id": 13,
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2023-04-13T00:00:00",
+    "checkType": "Treasury Compliance",
+    "status": "Cancelled",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2024-04-05T00:00:00",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager",
+    "checkId": "CC-2024-013"
+  },
+  {
+    "id": 14,
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2023-09-21T00:00:00",
+    "checkType": "Treasury Compliance",
+    "status": "Released",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2023-02-12T00:00:00",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager",
+    "checkId": "CC-2024-014"
+  },
+  {
+    "id": 15,
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2024-12-24T00:00:00",
+    "checkType": "Treasury Compliance",
+    "status": "Completed",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2023-11-20T00:00:00",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager",
+    "checkId": "CC-2024-015"
+  },
+  {
+    "id": 16,
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2024-07-05T00:00:00",
+    "checkType": "Treasury Compliance",
+    "status": "Active",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2023-10-30T00:00:00",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager",
+    "checkId": "CC-2024-016"
+  },
+  {
+    "id": 17,
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2024-08-05T00:00:00",
+    "checkType": "Treasury Compliance",
+    "status": "Completed",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2023-10-31T00:00:00",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager",
+    "checkId": "CC-2024-017"
+  },
+  {
+    "id": 18,
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2023-07-18T00:00:00",
+    "checkType": "Treasury Compliance",
+    "status": "Completed",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2024-05-20T00:00:00",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager",
+    "checkId": "CC-2024-018"
+  },
+  {
+    "id": 19,
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2023-04-13T00:00:00",
+    "checkType": "Treasury Compliance",
+    "status": "Posted",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2024-06-23T00:00:00",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager",
+    "checkId": "CC-2024-019"
+  },
+  {
+    "id": 20,
+    "entityType": "Ministry",
+    "entityId": "MIN-FINANCE-001",
+    "entityName": "Ministry of Finance",
+    "checkDate": "2024-06-28T00:00:00",
+    "checkType": "Treasury Compliance",
+    "status": "In Progress",
+    "complianceScore": 97.3,
+    "confidenceScore": 0.99,
+    "regulatoryFramework": "Treasury Instructions",
+    "checksPerformed": [
+      "Cash management compliance",
+      "Bank account reconciliation",
+      "Payment authorization verification",
+      "Revenue collection procedures"
+    ],
+    "findings": {
+      "passed": 19,
+      "failed": 0,
+      "warnings": 0
+    },
+    "issues": [],
+    "recommendations": [
+      "Continue exemplary compliance standards",
+      "Share best practices across ministries",
+      "Maintain current control environment"
+    ],
+    "nextCheckDate": "2024-07-23T00:00:00",
+    "assessor": "AI Compliance Engine",
+    "reviewedBy": "Michael Lungu, Treasury Compliance Manager"
+  }
+]

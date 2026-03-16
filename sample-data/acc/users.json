@@ -1,0 +1,702 @@
+[
+  {
+    "userId": "USR-ACC-001",
+    "username": "beatrice.mwanza",
+    "fullName": "Beatrice Mwanza",
+    "position": "Director General",
+    "department": "Public Relations",
+    "email": "beatrice.mwanza@acc.gov.zm",
+    "phoneNumber": "+260-211-337475",
+    "userRole": "Director General",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "Approve Payments",
+      "View Analytics"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-09-14",
+    "lastLoginDate": "2024-10-22T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ACC-002",
+    "username": "esther.simwanza",
+    "fullName": "Esther Simwanza",
+    "position": "Deputy Director General",
+    "department": "Planning",
+    "email": "esther.simwanza@acc.gov.zm",
+    "phoneNumber": "+260-211-694774",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Export Data",
+      "View Reports",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-06-26",
+    "lastLoginDate": "2024-11-02T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "HR Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-003",
+    "username": "beatrice.mvula",
+    "fullName": "Beatrice Mvula",
+    "position": "Director",
+    "department": "Public Relations",
+    "email": "beatrice.mvula@acc.gov.zm",
+    "phoneNumber": "+260-211-600964",
+    "userRole": "Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "View Analytics",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-02-16",
+    "lastLoginDate": "2024-02-14T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-004",
+    "username": "catherine.sakala",
+    "fullName": "Catherine Sakala",
+    "position": "Deputy Director",
+    "department": "Legal",
+    "email": "catherine.sakala@acc.gov.zm",
+    "phoneNumber": "+260-211-530744",
+    "userRole": "Deputy Director",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "System Admin",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-10-02",
+    "lastLoginDate": "2024-07-16T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Reporting",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-005",
+    "username": "esther.simwanza",
+    "fullName": "Esther Simwanza",
+    "position": "Manager",
+    "department": "Compliance",
+    "email": "esther.simwanza@acc.gov.zm",
+    "phoneNumber": "+260-211-362372",
+    "userRole": "Manager",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "Manage Users",
+      "View Analytics"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-12-28",
+    "lastLoginDate": "2024-09-20T13:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Compliance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ACC-006",
+    "username": "susan.mutale",
+    "fullName": "Susan Mutale",
+    "position": "Senior Officer",
+    "department": "ICT",
+    "email": "susan.mutale@acc.gov.zm",
+    "phoneNumber": "+260-211-269690",
+    "userRole": "Senior Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-08-11",
+    "lastLoginDate": "2024-09-01T16:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Compliance",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-007",
+    "username": "susan.simwanza",
+    "fullName": "Susan Simwanza",
+    "position": "Officer",
+    "department": "Public Relations",
+    "email": "susan.simwanza@acc.gov.zm",
+    "phoneNumber": "+260-211-738174",
+    "userRole": "Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Analytics",
+      "Approve Payments",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-07-13",
+    "lastLoginDate": "2024-03-28T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-008",
+    "username": "patricia.lungu",
+    "fullName": "Patricia Lungu",
+    "position": "Analyst",
+    "department": "Risk Management",
+    "email": "patricia.lungu@acc.gov.zm",
+    "phoneNumber": "+260-211-450226",
+    "userRole": "Analyst",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "System Admin"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2021-03-04",
+    "lastLoginDate": "2024-03-05T11:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ACC-009",
+    "username": "esther.lungu",
+    "fullName": "Esther Lungu",
+    "position": "Auditor",
+    "department": "Human Resources",
+    "email": "esther.lungu@acc.gov.zm",
+    "phoneNumber": "+260-211-900911",
+    "userRole": "Auditor",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "View Reports",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-02-06",
+    "lastLoginDate": "2024-05-23T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Reporting",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ACC-010",
+    "username": "christine.banda",
+    "fullName": "Christine Banda",
+    "position": "Administrator",
+    "department": "Public Relations",
+    "email": "christine.banda@acc.gov.zm",
+    "phoneNumber": "+260-211-662928",
+    "userRole": "Administrator",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "System Admin"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2023-09-05",
+    "lastLoginDate": "2024-04-28T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Compliance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ACC-011",
+    "username": "florence.banda",
+    "fullName": "Florence Banda",
+    "position": "Finance Officer",
+    "department": "Monitoring & Evaluation",
+    "email": "florence.banda@acc.gov.zm",
+    "phoneNumber": "+260-211-940867",
+    "userRole": "Finance Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Analytics",
+      "Approve Payments",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-11-26",
+    "lastLoginDate": "2024-07-03T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Budget Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ACC-012",
+    "username": "mary.simukonda",
+    "fullName": "Mary Simukonda",
+    "position": "HR Officer",
+    "department": "Public Relations",
+    "email": "mary.simukonda@acc.gov.zm",
+    "phoneNumber": "+260-211-601976",
+    "userRole": "HR Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-08-18",
+    "lastLoginDate": "2024-06-27T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Compliance",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ACC-013",
+    "username": "emmanuel.mwanza",
+    "fullName": "Emmanuel Mwanza",
+    "position": "IT Officer",
+    "department": "Risk Management",
+    "email": "emmanuel.mwanza@acc.gov.zm",
+    "phoneNumber": "+260-211-684572",
+    "userRole": "IT Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "System Admin",
+      "Manage Users",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-01-02",
+    "lastLoginDate": "2024-11-14T11:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ACC-014",
+    "username": "robert.simukonda",
+    "fullName": "Robert Simukonda",
+    "position": "Legal Officer",
+    "department": "Human Resources",
+    "email": "robert.simukonda@acc.gov.zm",
+    "phoneNumber": "+260-211-306369",
+    "userRole": "Legal Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "Approve Payments",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-05-25",
+    "lastLoginDate": "2024-09-20T18:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ACC-015",
+    "username": "paul.lungu",
+    "fullName": "Paul Lungu",
+    "position": "Procurement Officer",
+    "department": "Public Relations",
+    "email": "paul.lungu@acc.gov.zm",
+    "phoneNumber": "+260-211-316300",
+    "userRole": "Procurement Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Export Data",
+      "Manage Users",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2021-01-07",
+    "lastLoginDate": "2024-09-18T13:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Finance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-016",
+    "username": "samuel.mwale",
+    "fullName": "Samuel Mwale",
+    "position": "Director General",
+    "department": "Finance",
+    "email": "samuel.mwale@acc.gov.zm",
+    "phoneNumber": "+260-211-940115",
+    "userRole": "Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "System Admin",
+      "View Analytics",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-06-23",
+    "lastLoginDate": "2024-11-07T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "HR Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-017",
+    "username": "david.nkonde",
+    "fullName": "David Nkonde",
+    "position": "Deputy Director General",
+    "department": "Monitoring & Evaluation",
+    "email": "david.nkonde@acc.gov.zm",
+    "phoneNumber": "+260-211-340582",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "Manage Users",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-09-03",
+    "lastLoginDate": "2024-12-28T13:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Reporting",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-018",
+    "username": "andrew.mutale",
+    "fullName": "Andrew Mutale",
+    "position": "Director",
+    "department": "Internal Audit",
+    "email": "andrew.mutale@acc.gov.zm",
+    "phoneNumber": "+260-211-280617",
+    "userRole": "Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-07-02",
+    "lastLoginDate": "2024-09-07T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Budget Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-019",
+    "username": "paul.bwalya",
+    "fullName": "Paul Bwalya",
+    "position": "Deputy Director",
+    "department": "Public Relations",
+    "email": "paul.bwalya@acc.gov.zm",
+    "phoneNumber": "+260-211-679307",
+    "userRole": "Deputy Director",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "Manage Users",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-09-15",
+    "lastLoginDate": "2024-09-17T17:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Finance",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-020",
+    "username": "benjamin.bwalya",
+    "fullName": "Benjamin Bwalya",
+    "position": "Manager",
+    "department": "Compliance",
+    "email": "benjamin.bwalya@acc.gov.zm",
+    "phoneNumber": "+260-211-163880",
+    "userRole": "Manager",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "View Analytics",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-05-27",
+    "lastLoginDate": "2024-08-22T09:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "HR Management",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-021",
+    "username": "beatrice.simukonda",
+    "fullName": "Beatrice Simukonda",
+    "position": "Senior Officer",
+    "department": "Compliance",
+    "email": "beatrice.simukonda@acc.gov.zm",
+    "phoneNumber": "+260-211-666699",
+    "userRole": "Senior Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Export Data",
+      "Manage Users",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-04-27",
+    "lastLoginDate": "2024-09-21T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-022",
+    "username": "john.mwanza",
+    "fullName": "John Mwanza",
+    "position": "Officer",
+    "department": "Human Resources",
+    "email": "john.mwanza@acc.gov.zm",
+    "phoneNumber": "+260-211-218205",
+    "userRole": "Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-09-28",
+    "lastLoginDate": "2024-09-02T18:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Compliance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-023",
+    "username": "andrew.mwanza",
+    "fullName": "Andrew Mwanza",
+    "position": "Analyst",
+    "department": "Finance",
+    "email": "andrew.mwanza@acc.gov.zm",
+    "phoneNumber": "+260-211-294106",
+    "userRole": "Analyst",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-08-14",
+    "lastLoginDate": "2024-07-04T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ACC-024",
+    "username": "patricia.banda",
+    "fullName": "Patricia Banda",
+    "position": "Auditor",
+    "department": "Operations",
+    "email": "patricia.banda@acc.gov.zm",
+    "phoneNumber": "+260-211-187672",
+    "userRole": "Auditor",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "Manage Users",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-01-24",
+    "lastLoginDate": "2024-04-18T11:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ACC-025",
+    "username": "susan.malama",
+    "fullName": "Susan Malama",
+    "position": "Administrator",
+    "department": "ICT",
+    "email": "susan.malama@acc.gov.zm",
+    "phoneNumber": "+260-211-541597",
+    "userRole": "Administrator",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "Manage Users",
+      "System Admin"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-11-26",
+    "lastLoginDate": "2024-02-02T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Budget Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-ACC-001",
+    "agencyOffice": "ACC House, Los Angeles Boulevard, Lusaka",
+    "biometricRegistered": false
+  }
+]

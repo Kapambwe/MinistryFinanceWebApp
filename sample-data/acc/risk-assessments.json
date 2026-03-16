@@ -1,0 +1,777 @@
+[
+  {
+    "id": "RA-ACC-2024-001",
+    "entityType": "Agency",
+    "entityId": "ACC-001",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-09-16T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 37.4,
+    "confidenceScore": 0.93,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 1",
+      "Finding 2 for assessment 1",
+      "Finding 3 for assessment 1"
+    ],
+    "indicators": {
+      "riskScore": 37.4,
+      "complianceScore": 56.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-04-06T09:30:00Z",
+    "amountAtRisk": 16391455.16,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-002",
+    "entityType": "Agency",
+    "entityId": "ACC-002",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-04-20T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 31.8,
+    "confidenceScore": 0.72,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 2",
+      "Finding 2 for assessment 2",
+      "Finding 3 for assessment 2"
+    ],
+    "indicators": {
+      "riskScore": 31.8,
+      "complianceScore": 62.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-07-03T09:30:00Z",
+    "amountAtRisk": 2298382.46,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-003",
+    "entityType": "Agency",
+    "entityId": "ACC-003",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-12-24T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "High",
+    "riskScore": 90.0,
+    "confidenceScore": 0.74,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 3",
+      "Finding 2 for assessment 3",
+      "Finding 3 for assessment 3"
+    ],
+    "indicators": {
+      "riskScore": 90.0,
+      "complianceScore": 68.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-01-27T09:30:00Z",
+    "amountAtRisk": 7653301.3,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-004",
+    "entityType": "Agency",
+    "entityId": "ACC-004",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-06-08T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 21.6,
+    "confidenceScore": 0.96,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 4",
+      "Finding 2 for assessment 4",
+      "Finding 3 for assessment 4"
+    ],
+    "indicators": {
+      "riskScore": 21.6,
+      "complianceScore": 69.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-01-17T09:30:00Z",
+    "amountAtRisk": 14026883.43,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-005",
+    "entityType": "Agency",
+    "entityId": "ACC-005",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-03-14T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 28.7,
+    "confidenceScore": 0.96,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 5",
+      "Finding 2 for assessment 5",
+      "Finding 3 for assessment 5"
+    ],
+    "indicators": {
+      "riskScore": 28.7,
+      "complianceScore": 89.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-09-07T09:30:00Z",
+    "amountAtRisk": 7545780.96,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-006",
+    "entityType": "Agency",
+    "entityId": "ACC-006",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-10-03T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 49.8,
+    "confidenceScore": 0.81,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 6",
+      "Finding 2 for assessment 6",
+      "Finding 3 for assessment 6"
+    ],
+    "indicators": {
+      "riskScore": 49.8,
+      "complianceScore": 70.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-12-07T09:30:00Z",
+    "amountAtRisk": 2448942.05,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-007",
+    "entityType": "Agency",
+    "entityId": "ACC-007",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-04-09T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 33.2,
+    "confidenceScore": 0.8,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 7",
+      "Finding 2 for assessment 7",
+      "Finding 3 for assessment 7"
+    ],
+    "indicators": {
+      "riskScore": 33.2,
+      "complianceScore": 72.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-07-19T09:30:00Z",
+    "amountAtRisk": 2621086.8,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-008",
+    "entityType": "Agency",
+    "entityId": "ACC-008",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-08-14T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 67.0,
+    "confidenceScore": 0.87,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 8",
+      "Finding 2 for assessment 8",
+      "Finding 3 for assessment 8"
+    ],
+    "indicators": {
+      "riskScore": 67.0,
+      "complianceScore": 87.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-12-02T09:30:00Z",
+    "amountAtRisk": 2758657.08,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-009",
+    "entityType": "Agency",
+    "entityId": "ACC-009",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-09-01T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 42.8,
+    "confidenceScore": 0.92,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 9",
+      "Finding 2 for assessment 9",
+      "Finding 3 for assessment 9"
+    ],
+    "indicators": {
+      "riskScore": 42.8,
+      "complianceScore": 63.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-11-18T09:30:00Z",
+    "amountAtRisk": 14864833.3,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-010",
+    "entityType": "Agency",
+    "entityId": "ACC-010",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-07-02T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 59.6,
+    "confidenceScore": 0.77,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 10",
+      "Finding 2 for assessment 10",
+      "Finding 3 for assessment 10"
+    ],
+    "indicators": {
+      "riskScore": 59.6,
+      "complianceScore": 77.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-01-04T09:30:00Z",
+    "amountAtRisk": 13507002.08,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-011",
+    "entityType": "Agency",
+    "entityId": "ACC-011",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-12-01T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 53.9,
+    "confidenceScore": 0.84,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 11",
+      "Finding 2 for assessment 11",
+      "Finding 3 for assessment 11"
+    ],
+    "indicators": {
+      "riskScore": 53.9,
+      "complianceScore": 76.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-05-10T09:30:00Z",
+    "amountAtRisk": 11694706.14,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-012",
+    "entityType": "Agency",
+    "entityId": "ACC-012",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-12-15T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "High",
+    "riskScore": 90.1,
+    "confidenceScore": 0.86,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 12",
+      "Finding 2 for assessment 12",
+      "Finding 3 for assessment 12"
+    ],
+    "indicators": {
+      "riskScore": 90.1,
+      "complianceScore": 68.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-12-19T09:30:00Z",
+    "amountAtRisk": 12663623.64,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-013",
+    "entityType": "Agency",
+    "entityId": "ACC-013",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-10-19T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 66.9,
+    "confidenceScore": 0.94,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 13",
+      "Finding 2 for assessment 13",
+      "Finding 3 for assessment 13"
+    ],
+    "indicators": {
+      "riskScore": 66.9,
+      "complianceScore": 63.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-11-20T09:30:00Z",
+    "amountAtRisk": 15310145.57,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-014",
+    "entityType": "Agency",
+    "entityId": "ACC-014",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-11-22T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 76.0,
+    "confidenceScore": 0.73,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 14",
+      "Finding 2 for assessment 14",
+      "Finding 3 for assessment 14"
+    ],
+    "indicators": {
+      "riskScore": 76.0,
+      "complianceScore": 63.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-06-19T09:30:00Z",
+    "amountAtRisk": 7989927.38,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-015",
+    "entityType": "Agency",
+    "entityId": "ACC-015",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-04-05T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "High",
+    "riskScore": 91.4,
+    "confidenceScore": 0.86,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 15",
+      "Finding 2 for assessment 15",
+      "Finding 3 for assessment 15"
+    ],
+    "indicators": {
+      "riskScore": 91.4,
+      "complianceScore": 51.0
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-05-19T09:30:00Z",
+    "amountAtRisk": 12566280.62,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-016",
+    "entityType": "Agency",
+    "entityId": "ACC-016",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-04-06T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 93.1,
+    "confidenceScore": 0.73,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 16",
+      "Finding 2 for assessment 16",
+      "Finding 3 for assessment 16"
+    ],
+    "indicators": {
+      "riskScore": 93.1,
+      "complianceScore": 63.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-07-13T09:30:00Z",
+    "amountAtRisk": 11496345.18,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-017",
+    "entityType": "Agency",
+    "entityId": "ACC-017",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-01-14T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "High",
+    "riskScore": 92.0,
+    "confidenceScore": 0.98,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 17",
+      "Finding 2 for assessment 17",
+      "Finding 3 for assessment 17"
+    ],
+    "indicators": {
+      "riskScore": 92.0,
+      "complianceScore": 57.0
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-02-15T09:30:00Z",
+    "amountAtRisk": 15393936.52,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-018",
+    "entityType": "Agency",
+    "entityId": "ACC-018",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-01-21T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 92.9,
+    "confidenceScore": 0.75,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 18",
+      "Finding 2 for assessment 18",
+      "Finding 3 for assessment 18"
+    ],
+    "indicators": {
+      "riskScore": 92.9,
+      "complianceScore": 63.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-04-17T09:30:00Z",
+    "amountAtRisk": 12331255.94,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-019",
+    "entityType": "Agency",
+    "entityId": "ACC-019",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-11-20T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 44.4,
+    "confidenceScore": 0.88,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 19",
+      "Finding 2 for assessment 19",
+      "Finding 3 for assessment 19"
+    ],
+    "indicators": {
+      "riskScore": 44.4,
+      "complianceScore": 56.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-01-27T09:30:00Z",
+    "amountAtRisk": 16466073.23,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-020",
+    "entityType": "Agency",
+    "entityId": "ACC-020",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-01-12T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 41.4,
+    "confidenceScore": 0.95,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 20",
+      "Finding 2 for assessment 20",
+      "Finding 3 for assessment 20"
+    ],
+    "indicators": {
+      "riskScore": 41.4,
+      "complianceScore": 94.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-10-20T09:30:00Z",
+    "amountAtRisk": 8965890.09,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-021",
+    "entityType": "Agency",
+    "entityId": "ACC-021",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-03-13T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 22.2,
+    "confidenceScore": 0.85,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 21",
+      "Finding 2 for assessment 21",
+      "Finding 3 for assessment 21"
+    ],
+    "indicators": {
+      "riskScore": 22.2,
+      "complianceScore": 69.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-02-26T09:30:00Z",
+    "amountAtRisk": 11236972.03,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-022",
+    "entityType": "Agency",
+    "entityId": "ACC-022",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-06-14T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 63.0,
+    "confidenceScore": 0.96,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 22",
+      "Finding 2 for assessment 22",
+      "Finding 3 for assessment 22"
+    ],
+    "indicators": {
+      "riskScore": 63.0,
+      "complianceScore": 50.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-07-04T09:30:00Z",
+    "amountAtRisk": 13604226.59,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-023",
+    "entityType": "Agency",
+    "entityId": "ACC-023",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-03-25T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 71.4,
+    "confidenceScore": 0.93,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 23",
+      "Finding 2 for assessment 23",
+      "Finding 3 for assessment 23"
+    ],
+    "indicators": {
+      "riskScore": 71.4,
+      "complianceScore": 75.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-05-27T09:30:00Z",
+    "amountAtRisk": 4244797.62,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-024",
+    "entityType": "Agency",
+    "entityId": "ACC-024",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-09-05T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 40.0,
+    "confidenceScore": 0.86,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 24",
+      "Finding 2 for assessment 24",
+      "Finding 3 for assessment 24"
+    ],
+    "indicators": {
+      "riskScore": 40.0,
+      "complianceScore": 88.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-11-02T09:30:00Z",
+    "amountAtRisk": 17165419.99,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ACC-2024-025",
+    "entityType": "Agency",
+    "entityId": "ACC-025",
+    "entityName": "Anti-Corruption Commission",
+    "assessmentDate": "2024-03-16T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 82.4,
+    "confidenceScore": 0.7,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 25",
+      "Finding 2 for assessment 25",
+      "Finding 3 for assessment 25"
+    ],
+    "indicators": {
+      "riskScore": 82.4,
+      "complianceScore": 88.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Anti-Corruption Commission",
+      "Recommendation 2 for Anti-Corruption Commission",
+      "Recommendation 3 for Anti-Corruption Commission"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-10-13T09:30:00Z",
+    "amountAtRisk": 18193110.9,
+    "currency": "ZMW"
+  }
+]

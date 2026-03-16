@@ -1,0 +1,1064 @@
+[
+  {
+    "slaId": "SLA-2024-001",
+    "serviceName": "Budget Preparation Support",
+    "serviceProvider": "Ministry of Finance - Budget Office",
+    "serviceConsumer": "All Spending Agencies",
+    "slaType": "Internal Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Technical support and guidance for annual budget preparation process",
+    "performanceMetrics": [
+      {
+        "metric": "Budget Call Circular Issuance",
+        "target": "By 31st March annually",
+        "actual": "2024-03-15",
+        "status": "Met",
+        "weight": 20
+      },
+      {
+        "metric": "Budget Guideline Workshops",
+        "target": "10 provincial workshops",
+        "actual": 10,
+        "status": "Met",
+        "weight": 15
+      },
+      {
+        "metric": "Budget Template Response Time",
+        "target": "48 hours",
+        "actual": "36 hours",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Budget Quality Assurance",
+        "target": "95% accuracy in submissions",
+        "actual": 92.5,
+        "status": "Below Target",
+        "weight": 40
+      }
+    ],
+    "overallPerformance": 93.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "Some ministries submitted budgets with computational errors",
+      "Late submissions from 3 agencies"
+    ],
+    "correctiveActions": [
+      "Enhanced training on budget software",
+      "Implement automated validation checks"
+    ],
+    "lastReviewDate": "2024-06-15",
+    "nextReviewDate": "2024-09-15",
+    "responsibleOfficer": "Ms. Esther Kangwa",
+    "status": "Active"
+  },
+  {
+    "slaId": "SLA-2024-002",
+    "serviceName": "Payment Processing Services",
+    "serviceProvider": "Ministry of Finance - Treasury",
+    "serviceConsumer": "All Government Entities",
+    "slaType": "Internal Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Processing of payment requests for goods, services, and transfers",
+    "performanceMetrics": [
+      {
+        "metric": "Payment Processing Time",
+        "target": "5 working days",
+        "actual": "4.2 days",
+        "status": "Exceeded",
+        "weight": 35
+      },
+      {
+        "metric": "Payment Accuracy Rate",
+        "target": "99.5%",
+        "actual": 99.7,
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "System Uptime",
+        "target": "99%",
+        "actual": 99.8,
+        "status": "Exceeded",
+        "weight": 20
+      },
+      {
+        "metric": "Customer Satisfaction",
+        "target": "85%",
+        "actual": 88.5,
+        "status": "Exceeded",
+        "weight": 15
+      }
+    ],
+    "overallPerformance": 98.5,
+    "complianceStatus": "Fully Compliant",
+    "issuesIdentified": [
+      "Occasional network outages affecting remote users"
+    ],
+    "correctiveActions": [
+      "Upgraded network infrastructure",
+      "Implemented redundant connections"
+    ],
+    "lastReviewDate": "2024-06-10",
+    "nextReviewDate": "2024-09-10",
+    "responsibleOfficer": "Mr. Patrick Mvula",
+    "status": "Active"
+  },
+  {
+    "slaId": "SLA-2024-003",
+    "serviceName": "Financial Reporting and Consolidation",
+    "serviceProvider": "Ministry of Finance - Accounting Services",
+    "serviceConsumer": "Parliament, Cabinet, and Public",
+    "slaType": "Internal Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Monthly and annual financial reporting for government operations",
+    "performanceMetrics": [
+      {
+        "metric": "Monthly Report Submission",
+        "target": "15th of following month",
+        "actual": "12th average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Annual Financial Statements",
+        "target": "By 31st March",
+        "actual": "2024-03-28",
+        "status": "Met",
+        "weight": 30
+      },
+      {
+        "metric": "Report Accuracy",
+        "target": "Zero material errors",
+        "actual": "Zero errors",
+        "status": "Met",
+        "weight": 30
+      },
+      {
+        "metric": "Data Completeness",
+        "target": "100% of entities reporting",
+        "actual": 98.5,
+        "status": "Below Target",
+        "weight": 15
+      }
+    ],
+    "overallPerformance": 96.2,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "2 local authorities did not submit monthly returns",
+      "Some SOEs delayed quarterly reports"
+    ],
+    "correctiveActions": [
+      "Issued compliance directives",
+      "Enhanced follow-up mechanism"
+    ],
+    "lastReviewDate": "2024-06-05",
+    "nextReviewDate": "2024-09-05",
+    "responsibleOfficer": "Ms. Grace Mwape",
+    "status": "Active"
+  },
+  {
+    "slaId": "SLA-2024-004",
+    "serviceName": "IFMIS Technical Support",
+    "serviceProvider": "Ministry of Finance - ICT Department",
+    "serviceConsumer": "All IFMIS Users (Government-wide)",
+    "slaType": "IT Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Technical support, maintenance, and training for IFMIS platform",
+    "performanceMetrics": [
+      {
+        "metric": "Help Desk Response Time",
+        "target": "30 minutes",
+        "actual": "25 minutes",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Issue Resolution Time",
+        "target": "4 hours for critical issues",
+        "actual": "3.5 hours",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "System Availability",
+        "target": "99.5%",
+        "actual": 99.2,
+        "status": "Below Target",
+        "weight": 30
+      },
+      {
+        "metric": "User Training Coverage",
+        "target": "95% of users trained",
+        "actual": 97.5,
+        "status": "Exceeded",
+        "weight": 15
+      }
+    ],
+    "overallPerformance": 97.8,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "Unplanned downtime during peak periods",
+      "Some modules require optimization"
+    ],
+    "correctiveActions": [
+      "Scheduled maintenance windows communicated in advance",
+      "Performance tuning of slow modules"
+    ],
+    "lastReviewDate": "2024-06-12",
+    "nextReviewDate": "2024-09-12",
+    "responsibleOfficer": "System Administrator",
+    "status": "Active"
+  },
+  {
+    "slaId": "SLA-2024-005",
+    "serviceName": "Revenue Data Integration",
+    "serviceProvider": "Zambia Revenue Authority",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Daily revenue collection data transfer to Ministry of Finance systems",
+    "performanceMetrics": [
+      {
+        "metric": "Data Transfer Frequency",
+        "target": "Daily by 9:00 AM",
+        "actual": "Daily by 8:30 AM average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Accuracy",
+        "target": "99.9%",
+        "actual": 99.95,
+        "status": "Exceeded",
+        "weight": 35
+      },
+      {
+        "metric": "System Integration Uptime",
+        "target": "99%",
+        "actual": 99.5,
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Reconciliation Variance",
+        "target": "Less than 0.1%",
+        "actual": 0.05,
+        "status": "Exceeded",
+        "weight": 15
+      }
+    ],
+    "overallPerformance": 99.2,
+    "complianceStatus": "Fully Compliant",
+    "issuesIdentified": [
+      "None identified"
+    ],
+    "correctiveActions": [
+      "Continue monitoring and optimization"
+    ],
+    "lastReviewDate": "2024-06-18",
+    "nextReviewDate": "2024-09-18",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Active"
+  },
+  {
+    "slaId": "SLA-2024-006",
+    "serviceName": "Customs Data Integration",
+    "serviceProvider": "Zambia Revenue Authority",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Real-time customs clearance and revenue data integration",
+    "performanceMetrics": [
+      {
+        "metric": "Real-time Data Sync",
+        "target": "Within 15 minutes of clearance",
+        "actual": "12 minutes average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Data Completeness",
+        "target": "100% of declarations",
+        "actual": 99.8,
+        "status": "Below Target",
+        "weight": 30
+      },
+      {
+        "metric": "Revenue Reconciliation",
+        "target": "Weekly",
+        "actual": "Weekly",
+        "status": "Met",
+        "weight": 20
+      },
+      {
+        "metric": "Trade Statistics Accuracy",
+        "target": "98%",
+        "actual": 99.2,
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 97.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "Minor data gaps in some border post submissions"
+    ],
+    "correctiveActions": [
+      "Enhanced training for border post officers",
+      "Automated validation checks implemented"
+    ],
+    "lastReviewDate": "2024-06-20",
+    "nextReviewDate": "2024-09-20",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Active"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Active"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "In Progress"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Cancelled"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Posted"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Completed"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Pending"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "In Progress"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "In Progress"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Approved"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Completed"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Completed"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Pending"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Cancelled"
+  },
+  {
+    "slaId": "SLA-2024-007",
+    "serviceName": "Statistical Data Provision",
+    "serviceProvider": "Central Statistical Office",
+    "serviceConsumer": "Ministry of Finance",
+    "slaType": "Inter-Agency Service Agreement",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2024-12-31",
+    "serviceDescription": "Provision of economic and social statistics for policy and planning",
+    "performanceMetrics": [
+      {
+        "metric": "Quarterly GDP Data",
+        "target": "45 days after quarter end",
+        "actual": "42 days average",
+        "status": "Exceeded",
+        "weight": 30
+      },
+      {
+        "metric": "Monthly CPI Data",
+        "target": "10 days after month end",
+        "actual": "9 days average",
+        "status": "Exceeded",
+        "weight": 25
+      },
+      {
+        "metric": "Data Quality Assurance",
+        "target": "No revisions required",
+        "actual": "1 minor revision",
+        "status": "Below Target",
+        "weight": 25
+      },
+      {
+        "metric": "Custom Data Requests",
+        "target": "15 working days",
+        "actual": "12 days average",
+        "status": "Exceeded",
+        "weight": 20
+      }
+    ],
+    "overallPerformance": 94.5,
+    "complianceStatus": "Substantially Compliant",
+    "issuesIdentified": [
+      "One CPI revision due to data collection error"
+    ],
+    "correctiveActions": [
+      "Enhanced quality control procedures",
+      "Additional validation steps implemented"
+    ],
+    "lastReviewDate": "2024-06-08",
+    "nextReviewDate": "2024-09-08",
+    "responsibleOfficer": "Mr. Joseph Banda",
+    "status": "Released"
+  }
+]

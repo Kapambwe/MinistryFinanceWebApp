@@ -1,0 +1,777 @@
+[
+  {
+    "id": "RA-RDA-2024-001",
+    "entityType": "Agency",
+    "entityId": "RDA-001",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-01-21T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 26.3,
+    "confidenceScore": 0.77,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 1",
+      "Finding 2 for assessment 1",
+      "Finding 3 for assessment 1"
+    ],
+    "indicators": {
+      "riskScore": 26.3,
+      "complianceScore": 83.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-05-19T09:30:00Z",
+    "amountAtRisk": 14836290.05,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-002",
+    "entityType": "Agency",
+    "entityId": "RDA-002",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-11-24T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 77.8,
+    "confidenceScore": 0.95,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 2",
+      "Finding 2 for assessment 2",
+      "Finding 3 for assessment 2"
+    ],
+    "indicators": {
+      "riskScore": 77.8,
+      "complianceScore": 74.8
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-11-21T09:30:00Z",
+    "amountAtRisk": 7853801.03,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-003",
+    "entityType": "Agency",
+    "entityId": "RDA-003",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-04-04T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 28.2,
+    "confidenceScore": 0.96,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 3",
+      "Finding 2 for assessment 3",
+      "Finding 3 for assessment 3"
+    ],
+    "indicators": {
+      "riskScore": 28.2,
+      "complianceScore": 94.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-03-23T09:30:00Z",
+    "amountAtRisk": 16742637.62,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-004",
+    "entityType": "Agency",
+    "entityId": "RDA-004",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-10-11T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 86.5,
+    "confidenceScore": 0.75,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 4",
+      "Finding 2 for assessment 4",
+      "Finding 3 for assessment 4"
+    ],
+    "indicators": {
+      "riskScore": 86.5,
+      "complianceScore": 83.0
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-09-09T09:30:00Z",
+    "amountAtRisk": 15961859.39,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-005",
+    "entityType": "Agency",
+    "entityId": "RDA-005",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-08-24T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 67.0,
+    "confidenceScore": 0.87,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 5",
+      "Finding 2 for assessment 5",
+      "Finding 3 for assessment 5"
+    ],
+    "indicators": {
+      "riskScore": 67.0,
+      "complianceScore": 77.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-06-13T09:30:00Z",
+    "amountAtRisk": 11618021.14,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-006",
+    "entityType": "Agency",
+    "entityId": "RDA-006",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-01-20T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "High",
+    "riskScore": 78.6,
+    "confidenceScore": 0.94,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 6",
+      "Finding 2 for assessment 6",
+      "Finding 3 for assessment 6"
+    ],
+    "indicators": {
+      "riskScore": 78.6,
+      "complianceScore": 61.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-01-09T09:30:00Z",
+    "amountAtRisk": 9673821.18,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-007",
+    "entityType": "Agency",
+    "entityId": "RDA-007",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-10-03T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 41.6,
+    "confidenceScore": 0.86,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 7",
+      "Finding 2 for assessment 7",
+      "Finding 3 for assessment 7"
+    ],
+    "indicators": {
+      "riskScore": 41.6,
+      "complianceScore": 74.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-03-05T09:30:00Z",
+    "amountAtRisk": 14525935.44,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-008",
+    "entityType": "Agency",
+    "entityId": "RDA-008",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-08-21T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 67.8,
+    "confidenceScore": 0.94,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 8",
+      "Finding 2 for assessment 8",
+      "Finding 3 for assessment 8"
+    ],
+    "indicators": {
+      "riskScore": 67.8,
+      "complianceScore": 89.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-03-08T09:30:00Z",
+    "amountAtRisk": 15987140.91,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-009",
+    "entityType": "Agency",
+    "entityId": "RDA-009",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-01-23T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 50.9,
+    "confidenceScore": 0.8,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 9",
+      "Finding 2 for assessment 9",
+      "Finding 3 for assessment 9"
+    ],
+    "indicators": {
+      "riskScore": 50.9,
+      "complianceScore": 89.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-08-25T09:30:00Z",
+    "amountAtRisk": 19148911.97,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-010",
+    "entityType": "Agency",
+    "entityId": "RDA-010",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-03-08T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 54.8,
+    "confidenceScore": 0.71,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 10",
+      "Finding 2 for assessment 10",
+      "Finding 3 for assessment 10"
+    ],
+    "indicators": {
+      "riskScore": 54.8,
+      "complianceScore": 64.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-10-04T09:30:00Z",
+    "amountAtRisk": 12978282.05,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-011",
+    "entityType": "Agency",
+    "entityId": "RDA-011",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-06-21T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 55.5,
+    "confidenceScore": 0.83,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 11",
+      "Finding 2 for assessment 11",
+      "Finding 3 for assessment 11"
+    ],
+    "indicators": {
+      "riskScore": 55.5,
+      "complianceScore": 65.8
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-06-08T09:30:00Z",
+    "amountAtRisk": 18489914.77,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-012",
+    "entityType": "Agency",
+    "entityId": "RDA-012",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-06-11T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 24.3,
+    "confidenceScore": 0.81,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 12",
+      "Finding 2 for assessment 12",
+      "Finding 3 for assessment 12"
+    ],
+    "indicators": {
+      "riskScore": 24.3,
+      "complianceScore": 90.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-03-20T09:30:00Z",
+    "amountAtRisk": 1086007.25,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-013",
+    "entityType": "Agency",
+    "entityId": "RDA-013",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-07-12T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 64.0,
+    "confidenceScore": 0.91,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 13",
+      "Finding 2 for assessment 13",
+      "Finding 3 for assessment 13"
+    ],
+    "indicators": {
+      "riskScore": 64.0,
+      "complianceScore": 50.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-08-11T09:30:00Z",
+    "amountAtRisk": 18800098.77,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-014",
+    "entityType": "Agency",
+    "entityId": "RDA-014",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-08-18T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 65.1,
+    "confidenceScore": 0.85,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 14",
+      "Finding 2 for assessment 14",
+      "Finding 3 for assessment 14"
+    ],
+    "indicators": {
+      "riskScore": 65.1,
+      "complianceScore": 79.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-11-24T09:30:00Z",
+    "amountAtRisk": 4701253.75,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-015",
+    "entityType": "Agency",
+    "entityId": "RDA-015",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-02-08T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 53.5,
+    "confidenceScore": 0.78,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 15",
+      "Finding 2 for assessment 15",
+      "Finding 3 for assessment 15"
+    ],
+    "indicators": {
+      "riskScore": 53.5,
+      "complianceScore": 54.8
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-08-02T09:30:00Z",
+    "amountAtRisk": 19394820.06,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-016",
+    "entityType": "Agency",
+    "entityId": "RDA-016",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-04-20T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 21.9,
+    "confidenceScore": 0.8,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 16",
+      "Finding 2 for assessment 16",
+      "Finding 3 for assessment 16"
+    ],
+    "indicators": {
+      "riskScore": 21.9,
+      "complianceScore": 77.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-03-08T09:30:00Z",
+    "amountAtRisk": 19206031.61,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-017",
+    "entityType": "Agency",
+    "entityId": "RDA-017",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-08-21T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 23.0,
+    "confidenceScore": 0.72,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 17",
+      "Finding 2 for assessment 17",
+      "Finding 3 for assessment 17"
+    ],
+    "indicators": {
+      "riskScore": 23.0,
+      "complianceScore": 74.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-09-08T09:30:00Z",
+    "amountAtRisk": 16437481.81,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-018",
+    "entityType": "Agency",
+    "entityId": "RDA-018",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-06-11T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 34.9,
+    "confidenceScore": 0.89,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 18",
+      "Finding 2 for assessment 18",
+      "Finding 3 for assessment 18"
+    ],
+    "indicators": {
+      "riskScore": 34.9,
+      "complianceScore": 60.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-08-13T09:30:00Z",
+    "amountAtRisk": 17765115.08,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-019",
+    "entityType": "Agency",
+    "entityId": "RDA-019",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-12-08T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 50.3,
+    "confidenceScore": 0.82,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 19",
+      "Finding 2 for assessment 19",
+      "Finding 3 for assessment 19"
+    ],
+    "indicators": {
+      "riskScore": 50.3,
+      "complianceScore": 53.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-04-07T09:30:00Z",
+    "amountAtRisk": 3440032.93,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-020",
+    "entityType": "Agency",
+    "entityId": "RDA-020",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-06-01T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 31.6,
+    "confidenceScore": 0.93,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 20",
+      "Finding 2 for assessment 20",
+      "Finding 3 for assessment 20"
+    ],
+    "indicators": {
+      "riskScore": 31.6,
+      "complianceScore": 57.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-11-14T09:30:00Z",
+    "amountAtRisk": 2815135.27,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-021",
+    "entityType": "Agency",
+    "entityId": "RDA-021",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-03-09T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 70.0,
+    "confidenceScore": 0.97,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 21",
+      "Finding 2 for assessment 21",
+      "Finding 3 for assessment 21"
+    ],
+    "indicators": {
+      "riskScore": 70.0,
+      "complianceScore": 71.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-10-21T09:30:00Z",
+    "amountAtRisk": 9398175.74,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-022",
+    "entityType": "Agency",
+    "entityId": "RDA-022",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-11-27T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 49.6,
+    "confidenceScore": 0.77,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 22",
+      "Finding 2 for assessment 22",
+      "Finding 3 for assessment 22"
+    ],
+    "indicators": {
+      "riskScore": 49.6,
+      "complianceScore": 79.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-02-27T09:30:00Z",
+    "amountAtRisk": 19861513.63,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-023",
+    "entityType": "Agency",
+    "entityId": "RDA-023",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-04-03T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 65.0,
+    "confidenceScore": 0.83,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 23",
+      "Finding 2 for assessment 23",
+      "Finding 3 for assessment 23"
+    ],
+    "indicators": {
+      "riskScore": 65.0,
+      "complianceScore": 79.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-04-05T09:30:00Z",
+    "amountAtRisk": 18255935.24,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-024",
+    "entityType": "Agency",
+    "entityId": "RDA-024",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-02-24T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 87.2,
+    "confidenceScore": 0.96,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 24",
+      "Finding 2 for assessment 24",
+      "Finding 3 for assessment 24"
+    ],
+    "indicators": {
+      "riskScore": 87.2,
+      "complianceScore": 58.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-08-25T09:30:00Z",
+    "amountAtRisk": 9927051.46,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-RDA-2024-025",
+    "entityType": "Agency",
+    "entityId": "RDA-025",
+    "entityName": "Road Development Agency",
+    "assessmentDate": "2024-09-15T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 66.7,
+    "confidenceScore": 0.89,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 25",
+      "Finding 2 for assessment 25",
+      "Finding 3 for assessment 25"
+    ],
+    "indicators": {
+      "riskScore": 66.7,
+      "complianceScore": 50.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Road Development Agency",
+      "Recommendation 2 for Road Development Agency",
+      "Recommendation 3 for Road Development Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-06-22T09:30:00Z",
+    "amountAtRisk": 7611031.27,
+    "currency": "ZMW"
+  }
+]

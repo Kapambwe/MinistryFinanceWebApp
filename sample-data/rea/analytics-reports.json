@@ -1,0 +1,702 @@
+[
+  {
+    "id": "RPT-REA-2024-001",
+    "reportTitle": "Analytics Report 001 - Rural Electrification Authority",
+    "reportType": "Performance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-07-19T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 1 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5818,
+    "confidenceScore": 0.96,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-002",
+    "reportTitle": "Analytics Report 002 - Rural Electrification Authority",
+    "reportType": "Operational",
+    "period": "Q3 2024",
+    "generatedDate": "2024-08-07T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 2 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5684,
+    "confidenceScore": 0.91,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-003",
+    "reportTitle": "Analytics Report 003 - Rural Electrification Authority",
+    "reportType": "Operational",
+    "period": "Q4 2024",
+    "generatedDate": "2024-12-14T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 3 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1142,
+    "confidenceScore": 0.82,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-004",
+    "reportTitle": "Analytics Report 004 - Rural Electrification Authority",
+    "reportType": "Operational",
+    "period": "Q1 2024",
+    "generatedDate": "2024-12-16T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 4 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2087,
+    "confidenceScore": 0.96,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-005",
+    "reportTitle": "Analytics Report 005 - Rural Electrification Authority",
+    "reportType": "Performance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-06-24T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 5 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4563,
+    "confidenceScore": 0.93,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-006",
+    "reportTitle": "Analytics Report 006 - Rural Electrification Authority",
+    "reportType": "Performance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-01-28T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 6 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2758,
+    "confidenceScore": 0.97,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-007",
+    "reportTitle": "Analytics Report 007 - Rural Electrification Authority",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-02-01T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 7 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7776,
+    "confidenceScore": 0.94,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-008",
+    "reportTitle": "Analytics Report 008 - Rural Electrification Authority",
+    "reportType": "Risk",
+    "period": "Q3 2024",
+    "generatedDate": "2024-11-22T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 8 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4597,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-009",
+    "reportTitle": "Analytics Report 009 - Rural Electrification Authority",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-03-28T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 9 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1134,
+    "confidenceScore": 0.9,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-010",
+    "reportTitle": "Analytics Report 010 - Rural Electrification Authority",
+    "reportType": "Operational",
+    "period": "Q2 2024",
+    "generatedDate": "2024-09-27T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 10 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 6614,
+    "confidenceScore": 0.86,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-011",
+    "reportTitle": "Analytics Report 011 - Rural Electrification Authority",
+    "reportType": "Performance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-11-28T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 11 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5837,
+    "confidenceScore": 0.95,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-012",
+    "reportTitle": "Analytics Report 012 - Rural Electrification Authority",
+    "reportType": "Operational",
+    "period": "Q1 2024",
+    "generatedDate": "2024-06-22T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 12 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4509,
+    "confidenceScore": 0.88,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-013",
+    "reportTitle": "Analytics Report 013 - Rural Electrification Authority",
+    "reportType": "Financial",
+    "period": "Q2 2024",
+    "generatedDate": "2024-03-10T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 13 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3485,
+    "confidenceScore": 0.8,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-014",
+    "reportTitle": "Analytics Report 014 - Rural Electrification Authority",
+    "reportType": "Financial",
+    "period": "Q2 2024",
+    "generatedDate": "2024-01-18T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 14 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4587,
+    "confidenceScore": 0.94,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-015",
+    "reportTitle": "Analytics Report 015 - Rural Electrification Authority",
+    "reportType": "Operational",
+    "period": "Q2 2024",
+    "generatedDate": "2024-11-10T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 15 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7822,
+    "confidenceScore": 0.98,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-016",
+    "reportTitle": "Analytics Report 016 - Rural Electrification Authority",
+    "reportType": "Risk",
+    "period": "Q2 2024",
+    "generatedDate": "2024-09-19T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 16 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 6944,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-017",
+    "reportTitle": "Analytics Report 017 - Rural Electrification Authority",
+    "reportType": "Performance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-11-23T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 17 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 6609,
+    "confidenceScore": 0.86,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-018",
+    "reportTitle": "Analytics Report 018 - Rural Electrification Authority",
+    "reportType": "Risk",
+    "period": "Q4 2024",
+    "generatedDate": "2024-05-14T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 18 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1440,
+    "confidenceScore": 0.93,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-019",
+    "reportTitle": "Analytics Report 019 - Rural Electrification Authority",
+    "reportType": "Financial",
+    "period": "Q3 2024",
+    "generatedDate": "2024-04-20T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 19 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1486,
+    "confidenceScore": 0.88,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-020",
+    "reportTitle": "Analytics Report 020 - Rural Electrification Authority",
+    "reportType": "Operational",
+    "period": "Q3 2024",
+    "generatedDate": "2024-09-16T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 20 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1807,
+    "confidenceScore": 0.85,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-021",
+    "reportTitle": "Analytics Report 021 - Rural Electrification Authority",
+    "reportType": "Financial",
+    "period": "Q1 2024",
+    "generatedDate": "2024-03-11T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 21 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 416,
+    "confidenceScore": 0.8,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-022",
+    "reportTitle": "Analytics Report 022 - Rural Electrification Authority",
+    "reportType": "Compliance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-01-08T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 22 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5117,
+    "confidenceScore": 0.99,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-023",
+    "reportTitle": "Analytics Report 023 - Rural Electrification Authority",
+    "reportType": "Performance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-12-19T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 23 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4319,
+    "confidenceScore": 0.8,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-024",
+    "reportTitle": "Analytics Report 024 - Rural Electrification Authority",
+    "reportType": "Risk",
+    "period": "Q4 2024",
+    "generatedDate": "2024-05-20T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 24 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 426,
+    "confidenceScore": 0.84,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-REA-2024-025",
+    "reportTitle": "Analytics Report 025 - Rural Electrification Authority",
+    "reportType": "Compliance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-05-20T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 25 for Rural Electrification Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5243,
+    "confidenceScore": 0.97,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  }
+]
