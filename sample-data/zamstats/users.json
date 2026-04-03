@@ -1,0 +1,702 @@
+[
+  {
+    "userId": "USR-ZAMSTATS-001",
+    "username": "peter.simukonda",
+    "fullName": "Peter Simukonda",
+    "position": "Director General",
+    "department": "Research",
+    "email": "peter.simukonda@zamstats.gov.zm",
+    "phoneNumber": "+260-211-454773",
+    "userRole": "Director General",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "Manage Users",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-02-13",
+    "lastLoginDate": "2024-05-06T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Procurement",
+      "Budget Management"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-002",
+    "username": "elizabeth.ngoma",
+    "fullName": "Elizabeth Ngoma",
+    "position": "Deputy Director General",
+    "department": "Monitoring & Evaluation",
+    "email": "elizabeth.ngoma@zamstats.gov.zm",
+    "phoneNumber": "+260-211-354080",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Approve Payments",
+      "Manage Users",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-01-02",
+    "lastLoginDate": "2024-03-05T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Budget Management",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-003",
+    "username": "benjamin.simukonda",
+    "fullName": "Benjamin Simukonda",
+    "position": "Director",
+    "department": "Finance",
+    "email": "benjamin.simukonda@zamstats.gov.zm",
+    "phoneNumber": "+260-211-269199",
+    "userRole": "Director",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Export Data",
+      "Manage Users",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-03-12",
+    "lastLoginDate": "2024-09-23T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Reporting",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-004",
+    "username": "elizabeth.musonda",
+    "fullName": "Elizabeth Musonda",
+    "position": "Deputy Director",
+    "department": "Legal",
+    "email": "elizabeth.musonda@zamstats.gov.zm",
+    "phoneNumber": "+260-211-397702",
+    "userRole": "Deputy Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-11-28",
+    "lastLoginDate": "2024-05-13T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Procurement",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-005",
+    "username": "florence.nakambwe",
+    "fullName": "Florence Nakambwe",
+    "position": "Manager",
+    "department": "Compliance",
+    "email": "florence.nakambwe@zamstats.gov.zm",
+    "phoneNumber": "+260-211-852246",
+    "userRole": "Manager",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Export Data",
+      "Approve Payments",
+      "View Reports"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2021-04-09",
+    "lastLoginDate": "2024-03-14T18:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-006",
+    "username": "beatrice.mbewe",
+    "fullName": "Beatrice Mbewe",
+    "position": "Senior Officer",
+    "department": "Procurement",
+    "email": "beatrice.mbewe@zamstats.gov.zm",
+    "phoneNumber": "+260-211-615481",
+    "userRole": "Senior Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Analytics",
+      "Export Data",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-09-25",
+    "lastLoginDate": "2024-04-10T09:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-007",
+    "username": "elizabeth.nsofu",
+    "fullName": "Elizabeth Nsofu",
+    "position": "Officer",
+    "department": "Monitoring & Evaluation",
+    "email": "elizabeth.nsofu@zamstats.gov.zm",
+    "phoneNumber": "+260-211-366704",
+    "userRole": "Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-09-14",
+    "lastLoginDate": "2024-12-06T11:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Compliance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-008",
+    "username": "paul.kaputa",
+    "fullName": "Paul Kaputa",
+    "position": "Analyst",
+    "department": "Monitoring & Evaluation",
+    "email": "paul.kaputa@zamstats.gov.zm",
+    "phoneNumber": "+260-211-144518",
+    "userRole": "Analyst",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-08-28",
+    "lastLoginDate": "2024-10-12T13:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Compliance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-009",
+    "username": "joseph.musonda",
+    "fullName": "Joseph Musonda",
+    "position": "Auditor",
+    "department": "Administration",
+    "email": "joseph.musonda@zamstats.gov.zm",
+    "phoneNumber": "+260-211-435168",
+    "userRole": "Auditor",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Export Data",
+      "Manage Users",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-06-11",
+    "lastLoginDate": "2024-08-12T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Finance",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-010",
+    "username": "daniel.chipimo",
+    "fullName": "Daniel Chipimo",
+    "position": "Administrator",
+    "department": "Internal Audit",
+    "email": "daniel.chipimo@zamstats.gov.zm",
+    "phoneNumber": "+260-211-494274",
+    "userRole": "Administrator",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Approve Payments",
+      "View Analytics",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-08-17",
+    "lastLoginDate": "2024-05-10T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Finance",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-011",
+    "username": "alice.mvula",
+    "fullName": "Alice Mvula",
+    "position": "Finance Officer",
+    "department": "Internal Audit",
+    "email": "alice.mvula@zamstats.gov.zm",
+    "phoneNumber": "+260-211-788353",
+    "userRole": "Finance Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Export Data",
+      "Approve Payments",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-08-13",
+    "lastLoginDate": "2024-05-05T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Procurement",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-012",
+    "username": "patricia.ngoma",
+    "fullName": "Patricia Ngoma",
+    "position": "HR Officer",
+    "department": "Risk Management",
+    "email": "patricia.ngoma@zamstats.gov.zm",
+    "phoneNumber": "+260-211-205692",
+    "userRole": "HR Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Reports",
+      "Approve Payments",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-04-01",
+    "lastLoginDate": "2024-01-05T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-013",
+    "username": "alice.nkonde",
+    "fullName": "Alice Nkonde",
+    "position": "IT Officer",
+    "department": "Administration",
+    "email": "alice.nkonde@zamstats.gov.zm",
+    "phoneNumber": "+260-211-658362",
+    "userRole": "IT Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Reports",
+      "Approve Payments",
+      "System Admin"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-01-06",
+    "lastLoginDate": "2024-01-10T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-014",
+    "username": "dorothy.simukonda",
+    "fullName": "Dorothy Simukonda",
+    "position": "Legal Officer",
+    "department": "Planning",
+    "email": "dorothy.simukonda@zamstats.gov.zm",
+    "phoneNumber": "+260-211-717235",
+    "userRole": "Legal Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Analytics",
+      "Export Data",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-05-20",
+    "lastLoginDate": "2024-05-09T12:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-015",
+    "username": "charity.nakambwe",
+    "fullName": "Charity Nakambwe",
+    "position": "Procurement Officer",
+    "department": "Procurement",
+    "email": "charity.nakambwe@zamstats.gov.zm",
+    "phoneNumber": "+260-211-382839",
+    "userRole": "Procurement Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-04-20",
+    "lastLoginDate": "2024-12-17T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Procurement",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-016",
+    "username": "catherine.ngoma",
+    "fullName": "Catherine Ngoma",
+    "position": "Director General",
+    "department": "Monitoring & Evaluation",
+    "email": "catherine.ngoma@zamstats.gov.zm",
+    "phoneNumber": "+260-211-953813",
+    "userRole": "Director General",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Manage Users",
+      "View Reports",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-07-21",
+    "lastLoginDate": "2024-03-21T17:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Compliance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-017",
+    "username": "david.mwale",
+    "fullName": "David Mwale",
+    "position": "Deputy Director General",
+    "department": "Research",
+    "email": "david.mwale@zamstats.gov.zm",
+    "phoneNumber": "+260-211-791443",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-08-14",
+    "lastLoginDate": "2024-09-14T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Finance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-018",
+    "username": "samuel.bwalya",
+    "fullName": "Samuel Bwalya",
+    "position": "Director",
+    "department": "Corporate Affairs",
+    "email": "samuel.bwalya@zamstats.gov.zm",
+    "phoneNumber": "+260-211-430904",
+    "userRole": "Director",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-02-23",
+    "lastLoginDate": "2024-06-26T11:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Finance",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-019",
+    "username": "catherine.simwanza",
+    "fullName": "Catherine Simwanza",
+    "position": "Deputy Director",
+    "department": "Research",
+    "email": "catherine.simwanza@zamstats.gov.zm",
+    "phoneNumber": "+260-211-690717",
+    "userRole": "Deputy Director",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Analytics",
+      "Approve Payments",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-10-22",
+    "lastLoginDate": "2024-12-10T16:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-020",
+    "username": "beatrice.zulu",
+    "fullName": "Beatrice Zulu",
+    "position": "Manager",
+    "department": "Legal",
+    "email": "beatrice.zulu@zamstats.gov.zm",
+    "phoneNumber": "+260-211-368798",
+    "userRole": "Manager",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Export Data",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-01-15",
+    "lastLoginDate": "2024-08-21T16:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-021",
+    "username": "patricia.daka",
+    "fullName": "Patricia Daka",
+    "position": "Senior Officer",
+    "department": "Legal",
+    "email": "patricia.daka@zamstats.gov.zm",
+    "phoneNumber": "+260-211-238756",
+    "userRole": "Senior Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "Manage Users",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-04-05",
+    "lastLoginDate": "2024-09-10T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Budget Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-022",
+    "username": "benjamin.daka",
+    "fullName": "Benjamin Daka",
+    "position": "Officer",
+    "department": "Internal Audit",
+    "email": "benjamin.daka@zamstats.gov.zm",
+    "phoneNumber": "+260-211-294345",
+    "userRole": "Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "Approve Payments",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-03-01",
+    "lastLoginDate": "2024-02-05T17:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Procurement",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-023",
+    "username": "susan.ngoma",
+    "fullName": "Susan Ngoma",
+    "position": "Analyst",
+    "department": "Internal Audit",
+    "email": "susan.ngoma@zamstats.gov.zm",
+    "phoneNumber": "+260-211-166076",
+    "userRole": "Analyst",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-12-21",
+    "lastLoginDate": "2024-07-09T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-024",
+    "username": "dorothy.banda",
+    "fullName": "Dorothy Banda",
+    "position": "Auditor",
+    "department": "Legal",
+    "email": "dorothy.banda@zamstats.gov.zm",
+    "phoneNumber": "+260-211-243151",
+    "userRole": "Auditor",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "System Admin",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-02-21",
+    "lastLoginDate": "2024-03-18T17:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Reporting",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMSTATS-025",
+    "username": "grace.ngoma",
+    "fullName": "Grace Ngoma",
+    "position": "Administrator",
+    "department": "Internal Audit",
+    "email": "grace.ngoma@zamstats.gov.zm",
+    "phoneNumber": "+260-211-654277",
+    "userRole": "Administrator",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Export Data",
+      "Manage Users",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-09-11",
+    "lastLoginDate": "2024-07-25T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  }
+]

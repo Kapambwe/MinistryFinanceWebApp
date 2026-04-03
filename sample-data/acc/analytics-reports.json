@@ -1,0 +1,702 @@
+[
+  {
+    "id": "RPT-ACC-2024-001",
+    "reportTitle": "Analytics Report 001 - Anti-Corruption Commission",
+    "reportType": "Performance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-09-24T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 1 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8951,
+    "confidenceScore": 0.96,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-002",
+    "reportTitle": "Analytics Report 002 - Anti-Corruption Commission",
+    "reportType": "Financial",
+    "period": "Q3 2024",
+    "generatedDate": "2024-12-23T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 2 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9423,
+    "confidenceScore": 0.96,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-003",
+    "reportTitle": "Analytics Report 003 - Anti-Corruption Commission",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-03-26T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 3 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8083,
+    "confidenceScore": 0.88,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-004",
+    "reportTitle": "Analytics Report 004 - Anti-Corruption Commission",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-08-09T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 4 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 715,
+    "confidenceScore": 0.86,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-005",
+    "reportTitle": "Analytics Report 005 - Anti-Corruption Commission",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-03-08T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 5 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 868,
+    "confidenceScore": 0.83,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-006",
+    "reportTitle": "Analytics Report 006 - Anti-Corruption Commission",
+    "reportType": "Performance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-07-13T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 6 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3068,
+    "confidenceScore": 0.89,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-007",
+    "reportTitle": "Analytics Report 007 - Anti-Corruption Commission",
+    "reportType": "Compliance",
+    "period": "Q2 2024",
+    "generatedDate": "2024-04-07T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 7 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8624,
+    "confidenceScore": 0.99,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-008",
+    "reportTitle": "Analytics Report 008 - Anti-Corruption Commission",
+    "reportType": "Performance",
+    "period": "Q2 2024",
+    "generatedDate": "2024-01-05T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 8 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2302,
+    "confidenceScore": 0.86,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-009",
+    "reportTitle": "Analytics Report 009 - Anti-Corruption Commission",
+    "reportType": "Performance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-04-07T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 9 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3863,
+    "confidenceScore": 0.8,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-010",
+    "reportTitle": "Analytics Report 010 - Anti-Corruption Commission",
+    "reportType": "Operational",
+    "period": "Q3 2024",
+    "generatedDate": "2024-07-15T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 10 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1209,
+    "confidenceScore": 0.94,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-011",
+    "reportTitle": "Analytics Report 011 - Anti-Corruption Commission",
+    "reportType": "Financial",
+    "period": "Q4 2024",
+    "generatedDate": "2024-08-12T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 11 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7268,
+    "confidenceScore": 0.96,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-012",
+    "reportTitle": "Analytics Report 012 - Anti-Corruption Commission",
+    "reportType": "Operational",
+    "period": "Q4 2024",
+    "generatedDate": "2024-10-20T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 12 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5264,
+    "confidenceScore": 0.85,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-013",
+    "reportTitle": "Analytics Report 013 - Anti-Corruption Commission",
+    "reportType": "Financial",
+    "period": "Q2 2024",
+    "generatedDate": "2024-05-21T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 13 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3550,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-014",
+    "reportTitle": "Analytics Report 014 - Anti-Corruption Commission",
+    "reportType": "Operational",
+    "period": "Q2 2024",
+    "generatedDate": "2024-12-19T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 14 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8089,
+    "confidenceScore": 0.83,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-015",
+    "reportTitle": "Analytics Report 015 - Anti-Corruption Commission",
+    "reportType": "Financial",
+    "period": "Q2 2024",
+    "generatedDate": "2024-05-23T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 15 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 864,
+    "confidenceScore": 0.82,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-016",
+    "reportTitle": "Analytics Report 016 - Anti-Corruption Commission",
+    "reportType": "Compliance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-02-26T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 16 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1588,
+    "confidenceScore": 0.89,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-017",
+    "reportTitle": "Analytics Report 017 - Anti-Corruption Commission",
+    "reportType": "Operational",
+    "period": "Q2 2024",
+    "generatedDate": "2024-11-26T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 17 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4895,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-018",
+    "reportTitle": "Analytics Report 018 - Anti-Corruption Commission",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-08-27T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 18 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4342,
+    "confidenceScore": 0.93,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-019",
+    "reportTitle": "Analytics Report 019 - Anti-Corruption Commission",
+    "reportType": "Performance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-12-25T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 19 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7903,
+    "confidenceScore": 0.92,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-020",
+    "reportTitle": "Analytics Report 020 - Anti-Corruption Commission",
+    "reportType": "Risk",
+    "period": "Q3 2024",
+    "generatedDate": "2024-05-14T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 20 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9942,
+    "confidenceScore": 0.98,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-021",
+    "reportTitle": "Analytics Report 021 - Anti-Corruption Commission",
+    "reportType": "Operational",
+    "period": "Q3 2024",
+    "generatedDate": "2024-01-13T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 21 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8973,
+    "confidenceScore": 0.84,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-022",
+    "reportTitle": "Analytics Report 022 - Anti-Corruption Commission",
+    "reportType": "Risk",
+    "period": "Q2 2024",
+    "generatedDate": "2024-11-16T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 22 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5662,
+    "confidenceScore": 0.9,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-023",
+    "reportTitle": "Analytics Report 023 - Anti-Corruption Commission",
+    "reportType": "Financial",
+    "period": "Q2 2024",
+    "generatedDate": "2024-03-11T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 23 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9683,
+    "confidenceScore": 0.95,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-024",
+    "reportTitle": "Analytics Report 024 - Anti-Corruption Commission",
+    "reportType": "Compliance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-07-25T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 24 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4273,
+    "confidenceScore": 0.97,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ACC-2024-025",
+    "reportTitle": "Analytics Report 025 - Anti-Corruption Commission",
+    "reportType": "Operational",
+    "period": "Q2 2024",
+    "generatedDate": "2024-08-08T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 25 for Anti-Corruption Commission",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7495,
+    "confidenceScore": 0.91,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  }
+]

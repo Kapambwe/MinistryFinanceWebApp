@@ -1,0 +1,702 @@
+[
+  {
+    "id": "RPT-ZAMMSA-2024-001",
+    "reportTitle": "Analytics Report 001 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Compliance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-06-18T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 1 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9966,
+    "confidenceScore": 0.99,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-002",
+    "reportTitle": "Analytics Report 002 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Operational",
+    "period": "Q3 2024",
+    "generatedDate": "2024-01-21T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 2 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9177,
+    "confidenceScore": 0.87,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-003",
+    "reportTitle": "Analytics Report 003 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Operational",
+    "period": "Q3 2024",
+    "generatedDate": "2024-02-07T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 3 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 369,
+    "confidenceScore": 0.88,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-004",
+    "reportTitle": "Analytics Report 004 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-04-28T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 4 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 945,
+    "confidenceScore": 0.95,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-005",
+    "reportTitle": "Analytics Report 005 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Financial",
+    "period": "Q3 2024",
+    "generatedDate": "2024-02-04T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 5 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 6449,
+    "confidenceScore": 0.92,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-006",
+    "reportTitle": "Analytics Report 006 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-07-17T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 6 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1424,
+    "confidenceScore": 0.89,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-007",
+    "reportTitle": "Analytics Report 007 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Risk",
+    "period": "Q4 2024",
+    "generatedDate": "2024-05-27T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 7 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8288,
+    "confidenceScore": 0.8,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-008",
+    "reportTitle": "Analytics Report 008 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Compliance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-05-06T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 8 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5738,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-009",
+    "reportTitle": "Analytics Report 009 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Financial",
+    "period": "Q1 2024",
+    "generatedDate": "2024-01-02T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 9 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8756,
+    "confidenceScore": 0.92,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-010",
+    "reportTitle": "Analytics Report 010 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Risk",
+    "period": "Q1 2024",
+    "generatedDate": "2024-12-13T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 10 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1119,
+    "confidenceScore": 0.98,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-011",
+    "reportTitle": "Analytics Report 011 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Financial",
+    "period": "Q1 2024",
+    "generatedDate": "2024-07-27T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 11 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 176,
+    "confidenceScore": 0.94,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-012",
+    "reportTitle": "Analytics Report 012 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Performance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-10-02T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 12 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2774,
+    "confidenceScore": 0.85,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-013",
+    "reportTitle": "Analytics Report 013 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Risk",
+    "period": "Q4 2024",
+    "generatedDate": "2024-04-23T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 13 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5820,
+    "confidenceScore": 0.88,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-014",
+    "reportTitle": "Analytics Report 014 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-11-21T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 14 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 645,
+    "confidenceScore": 0.93,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-015",
+    "reportTitle": "Analytics Report 015 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Performance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-03-21T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 15 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9894,
+    "confidenceScore": 0.83,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-016",
+    "reportTitle": "Analytics Report 016 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Financial",
+    "period": "Q2 2024",
+    "generatedDate": "2024-02-08T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 16 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2233,
+    "confidenceScore": 0.8,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-017",
+    "reportTitle": "Analytics Report 017 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Risk",
+    "period": "Q3 2024",
+    "generatedDate": "2024-11-28T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 17 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5730,
+    "confidenceScore": 0.91,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-018",
+    "reportTitle": "Analytics Report 018 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Operational",
+    "period": "Q3 2024",
+    "generatedDate": "2024-07-04T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 18 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7796,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-019",
+    "reportTitle": "Analytics Report 019 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Compliance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-08-10T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 19 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 1496,
+    "confidenceScore": 0.92,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-020",
+    "reportTitle": "Analytics Report 020 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Risk",
+    "period": "Q2 2024",
+    "generatedDate": "2024-02-10T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 20 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9336,
+    "confidenceScore": 0.9,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-021",
+    "reportTitle": "Analytics Report 021 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Performance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-08-21T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 21 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7085,
+    "confidenceScore": 0.92,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-022",
+    "reportTitle": "Analytics Report 022 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Performance",
+    "period": "Q2 2024",
+    "generatedDate": "2024-07-24T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 22 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8190,
+    "confidenceScore": 0.93,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-023",
+    "reportTitle": "Analytics Report 023 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Risk",
+    "period": "Q2 2024",
+    "generatedDate": "2024-11-27T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 23 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8862,
+    "confidenceScore": 0.96,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-024",
+    "reportTitle": "Analytics Report 024 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Financial",
+    "period": "Q3 2024",
+    "generatedDate": "2024-11-04T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 24 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5480,
+    "confidenceScore": 0.93,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZAMMSA-2024-025",
+    "reportTitle": "Analytics Report 025 - Zambia Medicines and Medical Supplies Agency",
+    "reportType": "Financial",
+    "period": "Q3 2024",
+    "generatedDate": "2024-06-28T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 25 for Zambia Medicines and Medical Supplies Agency",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 327,
+    "confidenceScore": 0.8,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  }
+]

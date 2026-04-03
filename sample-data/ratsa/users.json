@@ -1,0 +1,702 @@
+[
+  {
+    "userId": "USR-RATSA-001",
+    "username": "patricia.tembo",
+    "fullName": "Patricia Tembo",
+    "position": "Director General",
+    "department": "Administration",
+    "email": "patricia.tembo@ratsa.org.zm",
+    "phoneNumber": "+260-211-194905",
+    "userRole": "Director General",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "System Admin",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-12-26",
+    "lastLoginDate": "2024-01-01T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Reporting",
+      "Budget Management"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-002",
+    "username": "paul.phiri",
+    "fullName": "Paul Phiri",
+    "position": "Deputy Director General",
+    "department": "Corporate Affairs",
+    "email": "paul.phiri@ratsa.org.zm",
+    "phoneNumber": "+260-211-204246",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Export Data",
+      "View Reports",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-07-06",
+    "lastLoginDate": "2024-10-22T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Finance",
+      "HR Management"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-003",
+    "username": "john.nkonde",
+    "fullName": "John Nkonde",
+    "position": "Director",
+    "department": "Administration",
+    "email": "john.nkonde@ratsa.org.zm",
+    "phoneNumber": "+260-211-755337",
+    "userRole": "Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Export Data",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-01-22",
+    "lastLoginDate": "2024-07-20T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Procurement",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-004",
+    "username": "robert.sakala",
+    "fullName": "Robert Sakala",
+    "position": "Deputy Director",
+    "department": "Corporate Affairs",
+    "email": "robert.sakala@ratsa.org.zm",
+    "phoneNumber": "+260-211-342994",
+    "userRole": "Deputy Director",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "View Analytics"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-02-07",
+    "lastLoginDate": "2024-08-16T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "HR Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-005",
+    "username": "patricia.mutale",
+    "fullName": "Patricia Mutale",
+    "position": "Manager",
+    "department": "Compliance",
+    "email": "patricia.mutale@ratsa.org.zm",
+    "phoneNumber": "+260-211-522397",
+    "userRole": "Manager",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "System Admin",
+      "View Analytics",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-05-23",
+    "lastLoginDate": "2024-05-20T18:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-006",
+    "username": "miriam.banda",
+    "fullName": "Miriam Banda",
+    "position": "Senior Officer",
+    "department": "Internal Audit",
+    "email": "miriam.banda@ratsa.org.zm",
+    "phoneNumber": "+260-211-693958",
+    "userRole": "Senior Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "View Analytics",
+      "System Admin"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-08-10",
+    "lastLoginDate": "2024-06-17T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Procurement",
+      "Finance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-007",
+    "username": "elizabeth.lungu",
+    "fullName": "Elizabeth Lungu",
+    "position": "Officer",
+    "department": "Research",
+    "email": "elizabeth.lungu@ratsa.org.zm",
+    "phoneNumber": "+260-211-225477",
+    "userRole": "Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "Manage Users",
+      "View Analytics"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-02-16",
+    "lastLoginDate": "2024-03-20T13:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RATSA-008",
+    "username": "mary.simukonda",
+    "fullName": "Mary Simukonda",
+    "position": "Analyst",
+    "department": "Procurement",
+    "email": "mary.simukonda@ratsa.org.zm",
+    "phoneNumber": "+260-211-376570",
+    "userRole": "Analyst",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Export Data",
+      "System Admin",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-11-11",
+    "lastLoginDate": "2024-01-02T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-009",
+    "username": "paul.phiri",
+    "fullName": "Paul Phiri",
+    "position": "Auditor",
+    "department": "Legal",
+    "email": "paul.phiri@ratsa.org.zm",
+    "phoneNumber": "+260-211-141742",
+    "userRole": "Auditor",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Analytics",
+      "System Admin",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-05-28",
+    "lastLoginDate": "2024-09-22T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Budget Management",
+      "Reporting"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RATSA-010",
+    "username": "alice.phiri",
+    "fullName": "Alice Phiri",
+    "position": "Administrator",
+    "department": "Compliance",
+    "email": "alice.phiri@ratsa.org.zm",
+    "phoneNumber": "+260-211-306241",
+    "userRole": "Administrator",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Export Data",
+      "Approve Payments",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-10-21",
+    "lastLoginDate": "2024-03-23T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Finance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RATSA-011",
+    "username": "samuel.zulu",
+    "fullName": "Samuel Zulu",
+    "position": "Finance Officer",
+    "department": "Compliance",
+    "email": "samuel.zulu@ratsa.org.zm",
+    "phoneNumber": "+260-211-851219",
+    "userRole": "Finance Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Manage Users",
+      "System Admin",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-10-27",
+    "lastLoginDate": "2024-09-28T11:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Procurement",
+      "HR Management"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RATSA-012",
+    "username": "catherine.mvula",
+    "fullName": "Catherine Mvula",
+    "position": "HR Officer",
+    "department": "Human Resources",
+    "email": "catherine.mvula@ratsa.org.zm",
+    "phoneNumber": "+260-211-593684",
+    "userRole": "HR Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Approve Payments",
+      "Manage Users",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-09-12",
+    "lastLoginDate": "2024-10-08T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-013",
+    "username": "robert.ngoma",
+    "fullName": "Robert Ngoma",
+    "position": "IT Officer",
+    "department": "Operations",
+    "email": "robert.ngoma@ratsa.org.zm",
+    "phoneNumber": "+260-211-711122",
+    "userRole": "IT Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Analytics",
+      "System Admin",
+      "View Reports"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-09-21",
+    "lastLoginDate": "2024-11-25T16:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Budget Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-014",
+    "username": "michael.mwanza",
+    "fullName": "Michael Mwanza",
+    "position": "Legal Officer",
+    "department": "Monitoring & Evaluation",
+    "email": "michael.mwanza@ratsa.org.zm",
+    "phoneNumber": "+260-211-975001",
+    "userRole": "Legal Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-02-14",
+    "lastLoginDate": "2024-12-28T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Reporting",
+      "HR Management"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RATSA-015",
+    "username": "alice.chilufya",
+    "fullName": "Alice Chilufya",
+    "position": "Procurement Officer",
+    "department": "Planning",
+    "email": "alice.chilufya@ratsa.org.zm",
+    "phoneNumber": "+260-211-994040",
+    "userRole": "Procurement Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Export Data",
+      "System Admin",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-05-11",
+    "lastLoginDate": "2024-02-14T16:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Compliance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RATSA-016",
+    "username": "emmanuel.tembo",
+    "fullName": "Emmanuel Tembo",
+    "position": "Director General",
+    "department": "Operations",
+    "email": "emmanuel.tembo@ratsa.org.zm",
+    "phoneNumber": "+260-211-786690",
+    "userRole": "Director General",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "Export Data"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-03-13",
+    "lastLoginDate": "2024-11-17T17:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-017",
+    "username": "charity.mwanza",
+    "fullName": "Charity Mwanza",
+    "position": "Deputy Director General",
+    "department": "Research",
+    "email": "charity.mwanza@ratsa.org.zm",
+    "phoneNumber": "+260-211-504192",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-07-24",
+    "lastLoginDate": "2024-09-04T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "HR Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RATSA-018",
+    "username": "david.mwale",
+    "fullName": "David Mwale",
+    "position": "Director",
+    "department": "Planning",
+    "email": "david.mwale@ratsa.org.zm",
+    "phoneNumber": "+260-211-924231",
+    "userRole": "Director",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Analytics",
+      "Approve Payments",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-01-07",
+    "lastLoginDate": "2024-04-04T13:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Budget Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-019",
+    "username": "catherine.chilufya",
+    "fullName": "Catherine Chilufya",
+    "position": "Deputy Director",
+    "department": "Human Resources",
+    "email": "catherine.chilufya@ratsa.org.zm",
+    "phoneNumber": "+260-211-464028",
+    "userRole": "Deputy Director",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Analytics",
+      "System Admin",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-03-24",
+    "lastLoginDate": "2024-01-05T11:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Budget Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RATSA-020",
+    "username": "grace.ngoma",
+    "fullName": "Grace Ngoma",
+    "position": "Manager",
+    "department": "Administration",
+    "email": "grace.ngoma@ratsa.org.zm",
+    "phoneNumber": "+260-211-378611",
+    "userRole": "Manager",
+    "accessLevel": "Executive",
+    "permissions": [
+      "System Admin",
+      "Export Data",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-05-19",
+    "lastLoginDate": "2024-12-02T12:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Compliance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-021",
+    "username": "christine.phiri",
+    "fullName": "Christine Phiri",
+    "position": "Senior Officer",
+    "department": "Research",
+    "email": "christine.phiri@ratsa.org.zm",
+    "phoneNumber": "+260-211-700925",
+    "userRole": "Senior Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Export Data",
+      "Manage Users",
+      "View Reports"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-03-28",
+    "lastLoginDate": "2024-04-23T12:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RATSA-022",
+    "username": "david.chilufya",
+    "fullName": "David Chilufya",
+    "position": "Officer",
+    "department": "Compliance",
+    "email": "david.chilufya@ratsa.org.zm",
+    "phoneNumber": "+260-211-375769",
+    "userRole": "Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "Approve Payments",
+      "Export Data"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-08-24",
+    "lastLoginDate": "2024-09-07T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Finance",
+      "HR Management"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-023",
+    "username": "christine.lungu",
+    "fullName": "Christine Lungu",
+    "position": "Analyst",
+    "department": "Legal",
+    "email": "christine.lungu@ratsa.org.zm",
+    "phoneNumber": "+260-211-861206",
+    "userRole": "Analyst",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Reports",
+      "Export Data",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-05-12",
+    "lastLoginDate": "2024-04-16T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Procurement",
+      "Compliance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-RATSA-024",
+    "username": "robert.tembo",
+    "fullName": "Robert Tembo",
+    "position": "Auditor",
+    "department": "Administration",
+    "email": "robert.tembo@ratsa.org.zm",
+    "phoneNumber": "+260-211-192038",
+    "userRole": "Auditor",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-05-15",
+    "lastLoginDate": "2024-03-04T11:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "HR Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-RATSA-025",
+    "username": "susan.mbewe",
+    "fullName": "Susan Mbewe",
+    "position": "Administrator",
+    "department": "Procurement",
+    "email": "susan.mbewe@ratsa.org.zm",
+    "phoneNumber": "+260-211-391237",
+    "userRole": "Administrator",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Manage Users",
+      "Approve Payments",
+      "Export Data"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-01-19",
+    "lastLoginDate": "2024-04-24T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "HR Management",
+      "Reporting"
+    ],
+    "reportingTo": "USR-RATSA-001",
+    "agencyOffice": "RATSA House, Heroes Road, Lusaka",
+    "biometricRegistered": false
+  }
+]

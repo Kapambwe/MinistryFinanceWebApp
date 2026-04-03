@@ -1,0 +1,777 @@
+[
+  {
+    "id": "RA-ZAMMSA-2024-001",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-001",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-02-26T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 41.5,
+    "confidenceScore": 0.84,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 1",
+      "Finding 2 for assessment 1",
+      "Finding 3 for assessment 1"
+    ],
+    "indicators": {
+      "riskScore": 41.5,
+      "complianceScore": 62.6
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-01-06T09:30:00Z",
+    "amountAtRisk": 17670604.4,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-002",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-002",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-09-17T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Medium",
+    "riskScore": 66.1,
+    "confidenceScore": 0.95,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 2",
+      "Finding 2 for assessment 2",
+      "Finding 3 for assessment 2"
+    ],
+    "indicators": {
+      "riskScore": 66.1,
+      "complianceScore": 90.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-10-28T09:30:00Z",
+    "amountAtRisk": 4792504.66,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-003",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-003",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-03-21T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 56.6,
+    "confidenceScore": 0.7,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 3",
+      "Finding 2 for assessment 3",
+      "Finding 3 for assessment 3"
+    ],
+    "indicators": {
+      "riskScore": 56.6,
+      "complianceScore": 66.0
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-11-13T09:30:00Z",
+    "amountAtRisk": 3570146.2,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-004",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-004",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-10-20T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "High",
+    "riskScore": 82.4,
+    "confidenceScore": 0.77,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 4",
+      "Finding 2 for assessment 4",
+      "Finding 3 for assessment 4"
+    ],
+    "indicators": {
+      "riskScore": 82.4,
+      "complianceScore": 93.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-06-07T09:30:00Z",
+    "amountAtRisk": 15897016.29,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-005",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-005",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-10-26T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "High",
+    "riskScore": 81.4,
+    "confidenceScore": 0.81,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 5",
+      "Finding 2 for assessment 5",
+      "Finding 3 for assessment 5"
+    ],
+    "indicators": {
+      "riskScore": 81.4,
+      "complianceScore": 70.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-01-16T09:30:00Z",
+    "amountAtRisk": 1700581.11,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-006",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-006",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-08-20T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 52.7,
+    "confidenceScore": 0.83,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 6",
+      "Finding 2 for assessment 6",
+      "Finding 3 for assessment 6"
+    ],
+    "indicators": {
+      "riskScore": 52.7,
+      "complianceScore": 59.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-02-12T09:30:00Z",
+    "amountAtRisk": 17939756.37,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-007",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-007",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-08-07T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 33.7,
+    "confidenceScore": 0.78,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 7",
+      "Finding 2 for assessment 7",
+      "Finding 3 for assessment 7"
+    ],
+    "indicators": {
+      "riskScore": 33.7,
+      "complianceScore": 85.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-02-18T09:30:00Z",
+    "amountAtRisk": 6366334.67,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-008",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-008",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-09-19T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 61.0,
+    "confidenceScore": 0.8,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 8",
+      "Finding 2 for assessment 8",
+      "Finding 3 for assessment 8"
+    ],
+    "indicators": {
+      "riskScore": 61.0,
+      "complianceScore": 54.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-05-02T09:30:00Z",
+    "amountAtRisk": 11599576.41,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-009",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-009",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-03-11T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 24.6,
+    "confidenceScore": 0.96,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 9",
+      "Finding 2 for assessment 9",
+      "Finding 3 for assessment 9"
+    ],
+    "indicators": {
+      "riskScore": 24.6,
+      "complianceScore": 73.0
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-08-07T09:30:00Z",
+    "amountAtRisk": 19536542.46,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-010",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-010",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-01-06T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 93.9,
+    "confidenceScore": 0.94,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 10",
+      "Finding 2 for assessment 10",
+      "Finding 3 for assessment 10"
+    ],
+    "indicators": {
+      "riskScore": 93.9,
+      "complianceScore": 93.0
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-04-21T09:30:00Z",
+    "amountAtRisk": 7250342.81,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-011",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-011",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-06-21T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 23.2,
+    "confidenceScore": 0.76,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 11",
+      "Finding 2 for assessment 11",
+      "Finding 3 for assessment 11"
+    ],
+    "indicators": {
+      "riskScore": 23.2,
+      "complianceScore": 61.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-02-14T09:30:00Z",
+    "amountAtRisk": 5917871.64,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-012",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-012",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-11-15T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "High",
+    "riskScore": 79.7,
+    "confidenceScore": 0.89,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 12",
+      "Finding 2 for assessment 12",
+      "Finding 3 for assessment 12"
+    ],
+    "indicators": {
+      "riskScore": 79.7,
+      "complianceScore": 68.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-10-24T09:30:00Z",
+    "amountAtRisk": 4961515.16,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-013",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-013",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-10-18T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 57.5,
+    "confidenceScore": 0.8,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 13",
+      "Finding 2 for assessment 13",
+      "Finding 3 for assessment 13"
+    ],
+    "indicators": {
+      "riskScore": 57.5,
+      "complianceScore": 53.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-12-23T09:30:00Z",
+    "amountAtRisk": 19938768.49,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-014",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-014",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-12-10T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 75.9,
+    "confidenceScore": 0.79,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 14",
+      "Finding 2 for assessment 14",
+      "Finding 3 for assessment 14"
+    ],
+    "indicators": {
+      "riskScore": 75.9,
+      "complianceScore": 90.2
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-11-07T09:30:00Z",
+    "amountAtRisk": 3881342.7,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-015",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-015",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-01-26T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 80.7,
+    "confidenceScore": 0.96,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 15",
+      "Finding 2 for assessment 15",
+      "Finding 3 for assessment 15"
+    ],
+    "indicators": {
+      "riskScore": 80.7,
+      "complianceScore": 65.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-06-28T09:30:00Z",
+    "amountAtRisk": 1079823.63,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-016",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-016",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-02-15T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 65.0,
+    "confidenceScore": 0.87,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 16",
+      "Finding 2 for assessment 16",
+      "Finding 3 for assessment 16"
+    ],
+    "indicators": {
+      "riskScore": 65.0,
+      "complianceScore": 82.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-06-01T09:30:00Z",
+    "amountAtRisk": 17013702.56,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-017",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-017",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-11-23T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 42.4,
+    "confidenceScore": 0.7,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 17",
+      "Finding 2 for assessment 17",
+      "Finding 3 for assessment 17"
+    ],
+    "indicators": {
+      "riskScore": 42.4,
+      "complianceScore": 58.3
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-01-03T09:30:00Z",
+    "amountAtRisk": 18775282.72,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-018",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-018",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-06-20T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "High",
+    "riskScore": 81.1,
+    "confidenceScore": 0.83,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 18",
+      "Finding 2 for assessment 18",
+      "Finding 3 for assessment 18"
+    ],
+    "indicators": {
+      "riskScore": 81.1,
+      "complianceScore": 86.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-10-02T09:30:00Z",
+    "amountAtRisk": 19569884.44,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-019",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-019",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-04-28T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 89.6,
+    "confidenceScore": 0.81,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 19",
+      "Finding 2 for assessment 19",
+      "Finding 3 for assessment 19"
+    ],
+    "indicators": {
+      "riskScore": 89.6,
+      "complianceScore": 81.5
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-05-16T09:30:00Z",
+    "amountAtRisk": 849565.5,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-020",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-020",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-11-01T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "High",
+    "riskScore": 92.9,
+    "confidenceScore": 0.82,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 20",
+      "Finding 2 for assessment 20",
+      "Finding 3 for assessment 20"
+    ],
+    "indicators": {
+      "riskScore": 92.9,
+      "complianceScore": 66.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-07-11T09:30:00Z",
+    "amountAtRisk": 2995896.6,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-021",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-021",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-09-08T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 35.4,
+    "confidenceScore": 0.9,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 21",
+      "Finding 2 for assessment 21",
+      "Finding 3 for assessment 21"
+    ],
+    "indicators": {
+      "riskScore": 35.4,
+      "complianceScore": 82.9
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-10-17T09:30:00Z",
+    "amountAtRisk": 17321225.06,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-022",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-022",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-02-17T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 30.4,
+    "confidenceScore": 0.92,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 22",
+      "Finding 2 for assessment 22",
+      "Finding 3 for assessment 22"
+    ],
+    "indicators": {
+      "riskScore": 30.4,
+      "complianceScore": 69.4
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-11-10T09:30:00Z",
+    "amountAtRisk": 13847391.35,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-023",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-023",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-02-13T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 40.1,
+    "confidenceScore": 0.72,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 23",
+      "Finding 2 for assessment 23",
+      "Finding 3 for assessment 23"
+    ],
+    "indicators": {
+      "riskScore": 40.1,
+      "complianceScore": 50.7
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-01-27T09:30:00Z",
+    "amountAtRisk": 11053684.95,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-024",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-024",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-08-17T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 41.1,
+    "confidenceScore": 0.76,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 24",
+      "Finding 2 for assessment 24",
+      "Finding 3 for assessment 24"
+    ],
+    "indicators": {
+      "riskScore": 41.1,
+      "complianceScore": 82.1
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-11-15T09:30:00Z",
+    "amountAtRisk": 12904313.0,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-ZAMMSA-2024-025",
+    "entityType": "Agency",
+    "entityId": "ZAMMSA-025",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "assessmentDate": "2024-04-20T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 38.2,
+    "confidenceScore": 0.94,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 25",
+      "Finding 2 for assessment 25",
+      "Finding 3 for assessment 25"
+    ],
+    "indicators": {
+      "riskScore": 38.2,
+      "complianceScore": 80.8
+    },
+    "recommendations": [
+      "Recommendation 1 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 2 for Zambia Medicines and Medical Supplies Agency",
+      "Recommendation 3 for Zambia Medicines and Medical Supplies Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-06-09T09:30:00Z",
+    "amountAtRisk": 6642790.76,
+    "currency": "ZMW"
+  }
+]

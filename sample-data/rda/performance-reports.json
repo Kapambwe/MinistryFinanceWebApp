@@ -1,0 +1,677 @@
+[
+  {
+    "id": "PR-RDA-2024-001",
+    "reportTitle": "Performance Report 001 - Road Development Agency",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-03-05T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 79.8,
+    "budgetUtilization": 73.9,
+    "programDelivery": 64.7,
+    "staffPerformance": 92.7,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-RDA-2024-002",
+    "reportTitle": "Performance Report 002 - Road Development Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-02-04T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 80.3,
+    "budgetUtilization": 84.1,
+    "programDelivery": 81.8,
+    "staffPerformance": 92.8,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-RDA-2024-003",
+    "reportTitle": "Performance Report 003 - Road Development Agency",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-02-03T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 74.6,
+    "budgetUtilization": 93.3,
+    "programDelivery": 70.5,
+    "staffPerformance": 81.6,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-RDA-2024-004",
+    "reportTitle": "Performance Report 004 - Road Development Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-12-16T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 80.1,
+    "budgetUtilization": 66.0,
+    "programDelivery": 95.2,
+    "staffPerformance": 89.0,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-RDA-2024-005",
+    "reportTitle": "Performance Report 005 - Road Development Agency",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-12-12T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 80.9,
+    "budgetUtilization": 90.1,
+    "programDelivery": 77.1,
+    "staffPerformance": 84.6,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-RDA-2024-006",
+    "reportTitle": "Performance Report 006 - Road Development Agency",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-09-07T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 85.7,
+    "budgetUtilization": 68.3,
+    "programDelivery": 92.1,
+    "staffPerformance": 80.5,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-RDA-2024-007",
+    "reportTitle": "Performance Report 007 - Road Development Agency",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-08-07T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 73.1,
+    "budgetUtilization": 90.2,
+    "programDelivery": 62.8,
+    "staffPerformance": 77.3,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-RDA-2024-008",
+    "reportTitle": "Performance Report 008 - Road Development Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-05-11T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 72.2,
+    "budgetUtilization": 79.7,
+    "programDelivery": 84.0,
+    "staffPerformance": 94.7,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-RDA-2024-009",
+    "reportTitle": "Performance Report 009 - Road Development Agency",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-01-20T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 71.4,
+    "budgetUtilization": 77.8,
+    "programDelivery": 55.8,
+    "staffPerformance": 75.0,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-RDA-2024-010",
+    "reportTitle": "Performance Report 010 - Road Development Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-03-08T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 83.6,
+    "budgetUtilization": 72.1,
+    "programDelivery": 57.3,
+    "staffPerformance": 79.7,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-RDA-2024-011",
+    "reportTitle": "Performance Report 011 - Road Development Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-05-11T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 76.8,
+    "budgetUtilization": 61.8,
+    "programDelivery": 89.4,
+    "staffPerformance": 90.8,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-RDA-2024-012",
+    "reportTitle": "Performance Report 012 - Road Development Agency",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-02-12T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 91.8,
+    "budgetUtilization": 95.9,
+    "programDelivery": 63.7,
+    "staffPerformance": 77.3,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-RDA-2024-013",
+    "reportTitle": "Performance Report 013 - Road Development Agency",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-05-13T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 75.0,
+    "budgetUtilization": 64.2,
+    "programDelivery": 69.0,
+    "staffPerformance": 88.4,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-RDA-2024-014",
+    "reportTitle": "Performance Report 014 - Road Development Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-01-14T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 68.3,
+    "budgetUtilization": 79.9,
+    "programDelivery": 73.0,
+    "staffPerformance": 87.6,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-RDA-2024-015",
+    "reportTitle": "Performance Report 015 - Road Development Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-01-18T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 88.9,
+    "budgetUtilization": 80.4,
+    "programDelivery": 59.7,
+    "staffPerformance": 73.7,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-RDA-2024-016",
+    "reportTitle": "Performance Report 016 - Road Development Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-04-06T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 80.3,
+    "budgetUtilization": 90.5,
+    "programDelivery": 63.3,
+    "staffPerformance": 91.1,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-RDA-2024-017",
+    "reportTitle": "Performance Report 017 - Road Development Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-06-01T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 84.7,
+    "budgetUtilization": 83.1,
+    "programDelivery": 85.4,
+    "staffPerformance": 80.0,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-RDA-2024-018",
+    "reportTitle": "Performance Report 018 - Road Development Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-02-26T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 84.7,
+    "budgetUtilization": 67.1,
+    "programDelivery": 65.9,
+    "staffPerformance": 82.0,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-RDA-2024-019",
+    "reportTitle": "Performance Report 019 - Road Development Agency",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-08-20T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 90.7,
+    "budgetUtilization": 71.7,
+    "programDelivery": 96.2,
+    "staffPerformance": 77.7,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-RDA-2024-020",
+    "reportTitle": "Performance Report 020 - Road Development Agency",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-08-14T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 66.1,
+    "budgetUtilization": 76.2,
+    "programDelivery": 79.3,
+    "staffPerformance": 89.4,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-RDA-2024-021",
+    "reportTitle": "Performance Report 021 - Road Development Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-08-14T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 92.5,
+    "budgetUtilization": 90.2,
+    "programDelivery": 82.4,
+    "staffPerformance": 78.1,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-RDA-2024-022",
+    "reportTitle": "Performance Report 022 - Road Development Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-04-02T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 81.0,
+    "budgetUtilization": 83.5,
+    "programDelivery": 72.6,
+    "staffPerformance": 91.0,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-RDA-2024-023",
+    "reportTitle": "Performance Report 023 - Road Development Agency",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-05-27T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 75.2,
+    "budgetUtilization": 84.9,
+    "programDelivery": 97.4,
+    "staffPerformance": 79.0,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-RDA-2024-024",
+    "reportTitle": "Performance Report 024 - Road Development Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-06-16T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 72.3,
+    "budgetUtilization": 93.6,
+    "programDelivery": 57.2,
+    "staffPerformance": 86.7,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-RDA-2024-025",
+    "reportTitle": "Performance Report 025 - Road Development Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-02-24T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Road Development Agency",
+    "overallScore": 67.7,
+    "budgetUtilization": 60.3,
+    "programDelivery": 55.6,
+    "staffPerformance": 73.1,
+    "highlights": [
+      "Achievement 1 for Road Development Agency",
+      "Achievement 2 for Road Development Agency",
+      "Achievement 3 for Road Development Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  }
+]

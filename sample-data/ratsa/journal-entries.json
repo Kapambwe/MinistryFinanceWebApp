@@ -1,0 +1,877 @@
+[
+  {
+    "id": 1,
+    "journalNumber": "JE-RATSA-2024-001",
+    "journalDate": "2024-01-16T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 1 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Human Resources",
+    "totalDebit": 18524991.48,
+    "totalCredit": 18524991.48,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-08T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 18524991.48,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 18524991.48,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "journalNumber": "JE-RATSA-2024-002",
+    "journalDate": "2024-02-09T00:00:00",
+    "fiscalYear": "2024",
+    "period": "February",
+    "description": "Journal entry 2 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "ICT",
+    "totalDebit": 11956257.73,
+    "totalCredit": 11956257.73,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-02-12T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 11956257.73,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 11956257.73,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "journalNumber": "JE-RATSA-2024-003",
+    "journalDate": "2024-03-19T00:00:00",
+    "fiscalYear": "2024",
+    "period": "March",
+    "description": "Journal entry 3 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Operations",
+    "totalDebit": 5432779.21,
+    "totalCredit": 5432779.21,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-03-01T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 5432779.21,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 5432779.21,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "journalNumber": "JE-RATSA-2024-004",
+    "journalDate": "2024-04-10T00:00:00",
+    "fiscalYear": "2024",
+    "period": "April",
+    "description": "Journal entry 4 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Operations",
+    "totalDebit": 14704342.91,
+    "totalCredit": 14704342.91,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-04-12T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 14704342.91,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 14704342.91,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "journalNumber": "JE-RATSA-2024-005",
+    "journalDate": "2024-05-25T00:00:00",
+    "fiscalYear": "2024",
+    "period": "May",
+    "description": "Journal entry 5 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 10114002.78,
+    "totalCredit": 10114002.78,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-05-24T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 10114002.78,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 10114002.78,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "journalNumber": "JE-RATSA-2024-006",
+    "journalDate": "2024-06-03T00:00:00",
+    "fiscalYear": "2024",
+    "period": "June",
+    "description": "Journal entry 6 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 13796721.84,
+    "totalCredit": 13796721.84,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-06-17T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 13796721.84,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 13796721.84,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "journalNumber": "JE-RATSA-2024-007",
+    "journalDate": "2024-07-26T00:00:00",
+    "fiscalYear": "2024",
+    "period": "July",
+    "description": "Journal entry 7 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Human Resources",
+    "totalDebit": 8873950.38,
+    "totalCredit": 8873950.38,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-07-19T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 8873950.38,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 8873950.38,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "journalNumber": "JE-RATSA-2024-008",
+    "journalDate": "2024-08-12T00:00:00",
+    "fiscalYear": "2024",
+    "period": "August",
+    "description": "Journal entry 8 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 12885311.67,
+    "totalCredit": 12885311.67,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-08-13T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 12885311.67,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 12885311.67,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "journalNumber": "JE-RATSA-2024-009",
+    "journalDate": "2024-09-17T00:00:00",
+    "fiscalYear": "2024",
+    "period": "September",
+    "description": "Journal entry 9 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Internal Audit",
+    "totalDebit": 8172419.24,
+    "totalCredit": 8172419.24,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-09-07T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 8172419.24,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 8172419.24,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "journalNumber": "JE-RATSA-2024-010",
+    "journalDate": "2024-10-22T00:00:00",
+    "fiscalYear": "2024",
+    "period": "October",
+    "description": "Journal entry 10 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Administration",
+    "totalDebit": 12976260.7,
+    "totalCredit": 12976260.7,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-10-26T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 12976260.7,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 12976260.7,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "journalNumber": "JE-RATSA-2024-011",
+    "journalDate": "2024-11-26T00:00:00",
+    "fiscalYear": "2024",
+    "period": "November",
+    "description": "Journal entry 11 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "ICT",
+    "totalDebit": 7423748.05,
+    "totalCredit": 7423748.05,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-11-04T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 7423748.05,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 7423748.05,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "journalNumber": "JE-RATSA-2024-012",
+    "journalDate": "2024-12-10T00:00:00",
+    "fiscalYear": "2024",
+    "period": "December",
+    "description": "Journal entry 12 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Monitoring & Evaluation",
+    "totalDebit": 9449842.75,
+    "totalCredit": 9449842.75,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-12-14T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 9449842.75,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 9449842.75,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "journalNumber": "JE-RATSA-2024-013",
+    "journalDate": "2024-01-22T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 13 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Legal",
+    "totalDebit": 5650435.87,
+    "totalCredit": 5650435.87,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-24T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 5650435.87,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 5650435.87,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "journalNumber": "JE-RATSA-2024-014",
+    "journalDate": "2024-02-27T00:00:00",
+    "fiscalYear": "2024",
+    "period": "February",
+    "description": "Journal entry 14 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Risk Management",
+    "totalDebit": 9953858.33,
+    "totalCredit": 9953858.33,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-02-11T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 9953858.33,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 9953858.33,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "journalNumber": "JE-RATSA-2024-015",
+    "journalDate": "2024-03-10T00:00:00",
+    "fiscalYear": "2024",
+    "period": "March",
+    "description": "Journal entry 15 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Operations",
+    "totalDebit": 17824330.31,
+    "totalCredit": 17824330.31,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-03-08T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 17824330.31,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 17824330.31,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "journalNumber": "JE-RATSA-2024-016",
+    "journalDate": "2024-04-15T00:00:00",
+    "fiscalYear": "2024",
+    "period": "April",
+    "description": "Journal entry 16 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Compliance",
+    "totalDebit": 18526379.33,
+    "totalCredit": 18526379.33,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-04-27T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 18526379.33,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 18526379.33,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "journalNumber": "JE-RATSA-2024-017",
+    "journalDate": "2024-05-08T00:00:00",
+    "fiscalYear": "2024",
+    "period": "May",
+    "description": "Journal entry 17 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Finance",
+    "totalDebit": 19361632.92,
+    "totalCredit": 19361632.92,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-05-18T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 19361632.92,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 19361632.92,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "journalNumber": "JE-RATSA-2024-018",
+    "journalDate": "2024-06-17T00:00:00",
+    "fiscalYear": "2024",
+    "period": "June",
+    "description": "Journal entry 18 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 689964.58,
+    "totalCredit": 689964.58,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-06-18T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 689964.58,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 689964.58,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "journalNumber": "JE-RATSA-2024-019",
+    "journalDate": "2024-07-27T00:00:00",
+    "fiscalYear": "2024",
+    "period": "July",
+    "description": "Journal entry 19 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Administration",
+    "totalDebit": 7777724.39,
+    "totalCredit": 7777724.39,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-07-06T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 7777724.39,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 7777724.39,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "journalNumber": "JE-RATSA-2024-020",
+    "journalDate": "2024-08-06T00:00:00",
+    "fiscalYear": "2024",
+    "period": "August",
+    "description": "Journal entry 20 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Human Resources",
+    "totalDebit": 4582055.4,
+    "totalCredit": 4582055.4,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-08-26T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 4582055.4,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 4582055.4,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "journalNumber": "JE-RATSA-2024-021",
+    "journalDate": "2024-09-27T00:00:00",
+    "fiscalYear": "2024",
+    "period": "September",
+    "description": "Journal entry 21 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Finance",
+    "totalDebit": 15245056.93,
+    "totalCredit": 15245056.93,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-09-02T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 15245056.93,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 15245056.93,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "journalNumber": "JE-RATSA-2024-022",
+    "journalDate": "2024-10-23T00:00:00",
+    "fiscalYear": "2024",
+    "period": "October",
+    "description": "Journal entry 22 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Human Resources",
+    "totalDebit": 8274188.26,
+    "totalCredit": 8274188.26,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-10-25T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 8274188.26,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 8274188.26,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "journalNumber": "JE-RATSA-2024-023",
+    "journalDate": "2024-11-13T00:00:00",
+    "fiscalYear": "2024",
+    "period": "November",
+    "description": "Journal entry 23 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Public Relations",
+    "totalDebit": 4136908.12,
+    "totalCredit": 4136908.12,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-11-02T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 4136908.12,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 4136908.12,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "journalNumber": "JE-RATSA-2024-024",
+    "journalDate": "2024-12-09T00:00:00",
+    "fiscalYear": "2024",
+    "period": "December",
+    "description": "Journal entry 24 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Risk Management",
+    "totalDebit": 9445405.25,
+    "totalCredit": 9445405.25,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-12-26T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 9445405.25,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 9445405.25,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "journalNumber": "JE-RATSA-2024-025",
+    "journalDate": "2024-01-02T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 25 for Road Transport and Safety Agency",
+    "ministry": "Road Transport and Safety Agency",
+    "department": "Monitoring & Evaluation",
+    "totalDebit": 3756736.77,
+    "totalCredit": 3756736.77,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-23T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 3756736.77,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 3756736.77,
+        "description": "Credit entry"
+      }
+    ]
+  }
+]

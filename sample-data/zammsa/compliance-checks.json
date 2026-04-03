@@ -1,0 +1,437 @@
+[
+  {
+    "id": "CC-ZAMMSA-2024-001",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-09-01T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 73.5,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-10-11T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-002",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-08-06T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 70.9,
+    "status": "Partially Compliant",
+    "findings": 3,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-01-05T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-003",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-09-06T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 90.9,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-06-26T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-004",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-02-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 66.3,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-06-28T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-005",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-03-13T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 71.9,
+    "status": "Compliant",
+    "findings": 3,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-02-17T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-006",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-01-25T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 69.4,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-02-08T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-007",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-11-19T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 82.9,
+    "status": "Compliant",
+    "findings": 4,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-05-21T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-008",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-01-16T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 55.9,
+    "status": "Non-Compliant",
+    "findings": 5,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-02-12T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-009",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-03-16T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 95.4,
+    "status": "Compliant",
+    "findings": 1,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-10-12T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-010",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-10-26T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.3,
+    "status": "Compliant",
+    "findings": 0,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-05-28T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-011",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-06-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 87.3,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-05-02T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-012",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-07-03T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 96.8,
+    "status": "Partially Compliant",
+    "findings": 1,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-01-15T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-013",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-09-20T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 91.4,
+    "status": "Compliant",
+    "findings": 6,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-03-28T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-014",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-02-12T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 71.6,
+    "status": "Non-Compliant",
+    "findings": 7,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-02-14T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-015",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-10-26T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 96.6,
+    "status": "Partially Compliant",
+    "findings": 4,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-06-01T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-016",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-06-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 75.5,
+    "status": "Partially Compliant",
+    "findings": 1,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-10-08T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-017",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-06-22T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 95.3,
+    "status": "Compliant",
+    "findings": 4,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-12-17T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-018",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-12-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 61.5,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-08-24T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-019",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-01-01T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 59.8,
+    "status": "Non-Compliant",
+    "findings": 2,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-04-05T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-020",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-03-21T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 95.7,
+    "status": "Non-Compliant",
+    "findings": 1,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-12-19T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-021",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-09-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 63.6,
+    "status": "Non-Compliant",
+    "findings": 1,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-07-01T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-022",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-12-11T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 60.0,
+    "status": "Non-Compliant",
+    "findings": 0,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-04-04T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-023",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-04-13T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 88.3,
+    "status": "Non-Compliant",
+    "findings": 7,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-11-15T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-024",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-02-12T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 92.7,
+    "status": "Partially Compliant",
+    "findings": 6,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-11-06T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMMSA-2024-025",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Medicines and Medical Supplies Agency",
+    "checkDate": "2024-07-12T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 78.9,
+    "status": "Non-Compliant",
+    "findings": 3,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-12-13T00:00:00Z",
+    "remarks": "All checks passed"
+  }
+]

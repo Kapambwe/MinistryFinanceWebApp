@@ -1,0 +1,702 @@
+[
+  {
+    "invoiceId": "INV-ERB-2024-0001",
+    "invoiceNumber": "2024/ERB/0001",
+    "invoiceDate": "2024-02-22T00:00:00Z",
+    "dueDate": "2024-12-01T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Finance",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "4801053993",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3599476.26,
+        "amount": 3599476.26
+      }
+    ],
+    "subtotal": 3599476.26,
+    "vatRate": 16.0,
+    "vatAmount": 575916.2,
+    "totalAmount": 4175392.46,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ERB-0001"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0002",
+    "invoiceNumber": "2024/ERB/0002",
+    "invoiceDate": "2024-12-18T00:00:00Z",
+    "dueDate": "2024-05-23T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "1742678111",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6222589.97,
+        "amount": 6222589.97
+      }
+    ],
+    "subtotal": 6222589.97,
+    "vatRate": 16.0,
+    "vatAmount": 995614.4,
+    "totalAmount": 7218204.37,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ERB-0002"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0003",
+    "invoiceNumber": "2024/ERB/0003",
+    "invoiceDate": "2024-08-05T00:00:00Z",
+    "dueDate": "2024-03-08T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "1991767171",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4241581.69,
+        "amount": 4241581.69
+      }
+    ],
+    "subtotal": 4241581.69,
+    "vatRate": 16.0,
+    "vatAmount": 678653.07,
+    "totalAmount": 4920234.76,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ERB-0003"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0004",
+    "invoiceNumber": "2024/ERB/0004",
+    "invoiceDate": "2024-11-09T00:00:00Z",
+    "dueDate": "2024-04-15T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "3466666925",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1509220.25,
+        "amount": 1509220.25
+      }
+    ],
+    "subtotal": 1509220.25,
+    "vatRate": 16.0,
+    "vatAmount": 241475.24,
+    "totalAmount": 1750695.49,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ERB-0004"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0005",
+    "invoiceNumber": "2024/ERB/0005",
+    "invoiceDate": "2024-09-01T00:00:00Z",
+    "dueDate": "2024-10-04T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Research",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "8342092911",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8509264.82,
+        "amount": 8509264.82
+      }
+    ],
+    "subtotal": 8509264.82,
+    "vatRate": 16.0,
+    "vatAmount": 1361482.37,
+    "totalAmount": 9870747.19,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ERB-0005"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0006",
+    "invoiceNumber": "2024/ERB/0006",
+    "invoiceDate": "2024-07-20T00:00:00Z",
+    "dueDate": "2024-07-27T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Operations",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "2312321856",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8418314.79,
+        "amount": 8418314.79
+      }
+    ],
+    "subtotal": 8418314.79,
+    "vatRate": 16.0,
+    "vatAmount": 1346930.37,
+    "totalAmount": 9765245.16,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ERB-0006"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0007",
+    "invoiceNumber": "2024/ERB/0007",
+    "invoiceDate": "2024-05-09T00:00:00Z",
+    "dueDate": "2024-02-01T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Planning",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "7167118224",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2616967.61,
+        "amount": 2616967.61
+      }
+    ],
+    "subtotal": 2616967.61,
+    "vatRate": 16.0,
+    "vatAmount": 418714.82,
+    "totalAmount": 3035682.43,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ERB-0007"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0008",
+    "invoiceNumber": "2024/ERB/0008",
+    "invoiceDate": "2024-11-18T00:00:00Z",
+    "dueDate": "2024-05-10T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Public Relations",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "3372192211",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 142413.46,
+        "amount": 142413.46
+      }
+    ],
+    "subtotal": 142413.46,
+    "vatRate": 16.0,
+    "vatAmount": 22786.15,
+    "totalAmount": 165199.61,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ERB-0008"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0009",
+    "invoiceNumber": "2024/ERB/0009",
+    "invoiceDate": "2024-08-14T00:00:00Z",
+    "dueDate": "2024-05-05T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Compliance",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "9605366115",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6593292.89,
+        "amount": 6593292.89
+      }
+    ],
+    "subtotal": 6593292.89,
+    "vatRate": 16.0,
+    "vatAmount": 1054926.86,
+    "totalAmount": 7648219.75,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ERB-0009"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0010",
+    "invoiceNumber": "2024/ERB/0010",
+    "invoiceDate": "2024-01-11T00:00:00Z",
+    "dueDate": "2024-01-21T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Compliance",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "2785427960",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1278251.34,
+        "amount": 1278251.34
+      }
+    ],
+    "subtotal": 1278251.34,
+    "vatRate": 16.0,
+    "vatAmount": 204520.21,
+    "totalAmount": 1482771.55,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ERB-0010"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0011",
+    "invoiceNumber": "2024/ERB/0011",
+    "invoiceDate": "2024-12-11T00:00:00Z",
+    "dueDate": "2024-06-06T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Corporate Affairs",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "3990646442",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8380926.89,
+        "amount": 8380926.89
+      }
+    ],
+    "subtotal": 8380926.89,
+    "vatRate": 16.0,
+    "vatAmount": 1340948.3,
+    "totalAmount": 9721875.19,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ERB-0011"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0012",
+    "invoiceNumber": "2024/ERB/0012",
+    "invoiceDate": "2024-09-07T00:00:00Z",
+    "dueDate": "2024-08-21T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Administration",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "6304334625",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3311334.33,
+        "amount": 3311334.33
+      }
+    ],
+    "subtotal": 3311334.33,
+    "vatRate": 16.0,
+    "vatAmount": 529813.49,
+    "totalAmount": 3841147.82,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ERB-0012"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0013",
+    "invoiceNumber": "2024/ERB/0013",
+    "invoiceDate": "2024-05-16T00:00:00Z",
+    "dueDate": "2024-07-06T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "7853970599",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8523249.62,
+        "amount": 8523249.62
+      }
+    ],
+    "subtotal": 8523249.62,
+    "vatRate": 16.0,
+    "vatAmount": 1363719.94,
+    "totalAmount": 9886969.56,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ERB-0013"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0014",
+    "invoiceNumber": "2024/ERB/0014",
+    "invoiceDate": "2024-06-25T00:00:00Z",
+    "dueDate": "2024-03-27T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "6074834411",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1246533.67,
+        "amount": 1246533.67
+      }
+    ],
+    "subtotal": 1246533.67,
+    "vatRate": 16.0,
+    "vatAmount": 199445.39,
+    "totalAmount": 1445979.06,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ERB-0014"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0015",
+    "invoiceNumber": "2024/ERB/0015",
+    "invoiceDate": "2024-07-02T00:00:00Z",
+    "dueDate": "2024-04-03T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Administration",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "2022029756",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5429198.71,
+        "amount": 5429198.71
+      }
+    ],
+    "subtotal": 5429198.71,
+    "vatRate": 16.0,
+    "vatAmount": 868671.79,
+    "totalAmount": 6297870.5,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ERB-0015"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0016",
+    "invoiceNumber": "2024/ERB/0016",
+    "invoiceDate": "2024-09-01T00:00:00Z",
+    "dueDate": "2024-12-25T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Compliance",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "7629576620",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8919850.99,
+        "amount": 8919850.99
+      }
+    ],
+    "subtotal": 8919850.99,
+    "vatRate": 16.0,
+    "vatAmount": 1427176.16,
+    "totalAmount": 10347027.15,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ERB-0016"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0017",
+    "invoiceNumber": "2024/ERB/0017",
+    "invoiceDate": "2024-04-12T00:00:00Z",
+    "dueDate": "2024-12-11T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Corporate Affairs",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "4776485795",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1863099.66,
+        "amount": 1863099.66
+      }
+    ],
+    "subtotal": 1863099.66,
+    "vatRate": 16.0,
+    "vatAmount": 298095.95,
+    "totalAmount": 2161195.61,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ERB-0017"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0018",
+    "invoiceNumber": "2024/ERB/0018",
+    "invoiceDate": "2024-10-14T00:00:00Z",
+    "dueDate": "2024-08-11T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Administration",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "1379088056",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7955171.16,
+        "amount": 7955171.16
+      }
+    ],
+    "subtotal": 7955171.16,
+    "vatRate": 16.0,
+    "vatAmount": 1272827.39,
+    "totalAmount": 9227998.55,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ERB-0018"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0019",
+    "invoiceNumber": "2024/ERB/0019",
+    "invoiceDate": "2024-04-01T00:00:00Z",
+    "dueDate": "2024-12-10T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Public Relations",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "7303877656",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7995061.65,
+        "amount": 7995061.65
+      }
+    ],
+    "subtotal": 7995061.65,
+    "vatRate": 16.0,
+    "vatAmount": 1279209.86,
+    "totalAmount": 9274271.51,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ERB-0019"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0020",
+    "invoiceNumber": "2024/ERB/0020",
+    "invoiceDate": "2024-11-04T00:00:00Z",
+    "dueDate": "2024-02-13T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Finance",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "7744989038",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3318871.08,
+        "amount": 3318871.08
+      }
+    ],
+    "subtotal": 3318871.08,
+    "vatRate": 16.0,
+    "vatAmount": 531019.37,
+    "totalAmount": 3849890.45,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ERB-0020"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0021",
+    "invoiceNumber": "2024/ERB/0021",
+    "invoiceDate": "2024-03-06T00:00:00Z",
+    "dueDate": "2024-02-25T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "8631522247",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6627045.8,
+        "amount": 6627045.8
+      }
+    ],
+    "subtotal": 6627045.8,
+    "vatRate": 16.0,
+    "vatAmount": 1060327.33,
+    "totalAmount": 7687373.13,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ERB-0021"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0022",
+    "invoiceNumber": "2024/ERB/0022",
+    "invoiceDate": "2024-08-14T00:00:00Z",
+    "dueDate": "2024-11-24T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Procurement",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "4098895759",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2037999.57,
+        "amount": 2037999.57
+      }
+    ],
+    "subtotal": 2037999.57,
+    "vatRate": 16.0,
+    "vatAmount": 326079.93,
+    "totalAmount": 2364079.5,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ERB-0022"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0023",
+    "invoiceNumber": "2024/ERB/0023",
+    "invoiceDate": "2024-02-24T00:00:00Z",
+    "dueDate": "2024-02-24T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Legal",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "3552903030",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3965117.25,
+        "amount": 3965117.25
+      }
+    ],
+    "subtotal": 3965117.25,
+    "vatRate": 16.0,
+    "vatAmount": 634418.76,
+    "totalAmount": 4599536.01,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ERB-0023"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0024",
+    "invoiceNumber": "2024/ERB/0024",
+    "invoiceDate": "2024-06-23T00:00:00Z",
+    "dueDate": "2024-07-02T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "8201624910",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9072993.72,
+        "amount": 9072993.72
+      }
+    ],
+    "subtotal": 9072993.72,
+    "vatRate": 16.0,
+    "vatAmount": 1451679.0,
+    "totalAmount": 10524672.72,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ERB-0024"
+  },
+  {
+    "invoiceId": "INV-ERB-2024-0025",
+    "invoiceNumber": "2024/ERB/0025",
+    "invoiceDate": "2024-11-18T00:00:00Z",
+    "dueDate": "2024-10-17T00:00:00Z",
+    "issuingEntity": "Energy Regulation Board",
+    "issuingDepartment": "Planning",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "8589160590",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3718401.7,
+        "amount": 3718401.7
+      }
+    ],
+    "subtotal": 3718401.7,
+    "vatRate": 16.0,
+    "vatAmount": 594944.27,
+    "totalAmount": 4313345.97,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ERB-0025"
+  }
+]

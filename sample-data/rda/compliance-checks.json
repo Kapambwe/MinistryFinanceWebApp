@@ -1,0 +1,438 @@
+[
+  {
+    "id": "CC-RDA-2024-001",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-03-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 59.3,
+    "status": "Partially Compliant",
+    "findings": 2,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-08-17T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-RDA-2024-002",
+    "checkType": "Procurement Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-07-03T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 68.9,
+    "status": "Partially Compliant",
+    "findings": 3,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-07-23T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RDA-2024-003",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-12-12T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 92.3,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-09-25T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RDA-2024-004",
+    "checkType": "IT Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-07-06T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 69.1,
+    "status": "Non-Compliant",
+    "findings": 5,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-12-10T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-RDA-2024-005",
+    "checkType": "Budget Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-02-21T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 83.3,
+    "status": "Partially Compliant",
+    "findings": 0,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-02-11T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-RDA-2024-006",
+    "checkType": "Procurement Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-07-12T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 64.6,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-10-28T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RDA-2024-007",
+    "checkType": "Budget Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-01-16T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 77.7,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-06-23T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RDA-2024-008",
+    "checkType": "IT Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-10-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 77.6,
+    "status": "Partially Compliant",
+    "findings": 5,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-10-08T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RDA-2024-009",
+    "checkType": "IT Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-07-24T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 67.4,
+    "status": "Non-Compliant",
+    "findings": 3,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-09-27T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-RDA-2024-010",
+    "checkType": "HR Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-02-05T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.9,
+    "status": "Compliant",
+    "findings": 1,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-08-25T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-RDA-2024-011",
+    "checkType": "Procurement Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-12-22T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 92.1,
+    "status": "Partially Compliant",
+    "findings": 6,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-06-27T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RDA-2024-012",
+    "checkType": "Procurement Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-04-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 92.8,
+    "status": "Non-Compliant",
+    "findings": 0,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-06-21T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RDA-2024-013",
+    "checkType": "IT Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-10-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 93.0,
+    "status": "Partially Compliant",
+    "findings": 1,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-09-12T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-RDA-2024-014",
+    "checkType": "HR Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-04-03T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 89.4,
+    "status": "Non-Compliant",
+    "findings": 6,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-08-03T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RDA-2024-015",
+    "checkType": "HR Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-09-06T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 72.4,
+    "status": "Partially Compliant",
+    "findings": 0,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-05-24T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RDA-2024-016",
+    "checkType": "IT Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-09-03T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 80.9,
+    "status": "Non-Compliant",
+    "findings": 4,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-11-05T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-RDA-2024-017",
+    "checkType": "IT Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-09-23T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 87.4,
+    "status": "Partially Compliant",
+    "findings": 5,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-11-15T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-RDA-2024-018",
+    "checkType": "HR Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-12-05T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 88.2,
+    "status": "Partially Compliant",
+    "findings": 2,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-12-24T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RDA-2024-019",
+    "checkType": "IT Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-07-24T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 59.8,
+    "status": "Partially Compliant",
+    "findings": 8,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-04-02T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-RDA-2024-020",
+    "checkType": "IT Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-02-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 74.9,
+    "status": "Partially Compliant",
+    "findings": 0,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-09-24T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-RDA-2024-021",
+    "checkType": "Procurement Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-02-26T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 62.3,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-04-23T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-RDA-2024-022",
+    "checkType": "Procurement Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-03-27T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 95.5,
+    "status": "Partially Compliant",
+    "findings": 2,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-07-15T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RDA-2024-023",
+    "checkType": "HR Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-04-06T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 71.7,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-01-15T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-RDA-2024-024",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-06-28T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 89.5,
+    "status": "Partially Compliant",
+    "findings": 7,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-05-05T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RDA-2024-025",
+    "checkType": "IT Compliance",
+    "entityName": "Road Development Agency",
+    "checkDate": "2024-01-27T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 56.4,
+    "status": "Compliant",
+    "findings": 4,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-07-02T00:00:00Z",
+    "remarks": "Under review"
+  }
+]

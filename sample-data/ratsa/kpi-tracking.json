@@ -1,0 +1,927 @@
+[
+  {
+    "id": "KPI-RATSA-2024-001",
+    "kpiName": "Budget Execution Rate",
+    "category": "Operational",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 97.6,
+    "threshold": {
+      "red": 77.6,
+      "amber": 87.6,
+      "green": 97.6
+    },
+    "currentValue": 64.7,
+    "previousValue": 65.3,
+    "ytdValue": 64.7,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-07-07T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 89.2
+      },
+      {
+        "period": "Month 2",
+        "value": 77.3
+      },
+      {
+        "period": "Month 3",
+        "value": 71.9
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-002",
+    "kpiName": "Revenue Collection Rate",
+    "category": "IT",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 84.7,
+    "threshold": {
+      "red": 64.7,
+      "amber": 74.7,
+      "green": 84.7
+    },
+    "currentValue": 84.1,
+    "previousValue": 79.1,
+    "ytdValue": 84.1,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-06-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 63.0
+      },
+      {
+        "period": "Month 2",
+        "value": 80.5
+      },
+      {
+        "period": "Month 3",
+        "value": 88.4
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-003",
+    "kpiName": "Procurement Compliance",
+    "category": "HR",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Weekly",
+    "target": 90.4,
+    "threshold": {
+      "red": 70.4,
+      "amber": 80.4,
+      "green": 90.4
+    },
+    "currentValue": 72.5,
+    "previousValue": 76.0,
+    "ytdValue": 72.5,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-08-09T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 69.7
+      },
+      {
+        "period": "Month 2",
+        "value": 90.4
+      },
+      {
+        "period": "Month 3",
+        "value": 70.8
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-004",
+    "kpiName": "Staff Utilization",
+    "category": "HR",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 85.9,
+    "threshold": {
+      "red": 65.9,
+      "amber": 75.9,
+      "green": 85.9
+    },
+    "currentValue": 86.8,
+    "previousValue": 86.2,
+    "ytdValue": 86.8,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-03-04T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 94.0
+      },
+      {
+        "period": "Month 2",
+        "value": 76.8
+      },
+      {
+        "period": "Month 3",
+        "value": 81.3
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-005",
+    "kpiName": "Service Delivery Rate",
+    "category": "HR",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 98.2,
+    "threshold": {
+      "red": 78.2,
+      "amber": 88.2,
+      "green": 98.2
+    },
+    "currentValue": 62.9,
+    "previousValue": 64.5,
+    "ytdValue": 62.9,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-07-12T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 76.9
+      },
+      {
+        "period": "Month 2",
+        "value": 68.6
+      },
+      {
+        "period": "Month 3",
+        "value": 68.6
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-006",
+    "kpiName": "Audit Completion Rate",
+    "category": "Financial",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 93.7,
+    "threshold": {
+      "red": 73.7,
+      "amber": 83.7,
+      "green": 93.7
+    },
+    "currentValue": 81.6,
+    "previousValue": 79.1,
+    "ytdValue": 81.6,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-04-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 88.7
+      },
+      {
+        "period": "Month 2",
+        "value": 76.9
+      },
+      {
+        "period": "Month 3",
+        "value": 92.1
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-007",
+    "kpiName": "Customer Satisfaction",
+    "category": "HR",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 82.4,
+    "threshold": {
+      "red": 62.400000000000006,
+      "amber": 72.4,
+      "green": 82.4
+    },
+    "currentValue": 74.8,
+    "previousValue": 76.1,
+    "ytdValue": 74.8,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-08-17T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 84.0
+      },
+      {
+        "period": "Month 2",
+        "value": 63.3
+      },
+      {
+        "period": "Month 3",
+        "value": 66.8
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-008",
+    "kpiName": "System Uptime",
+    "category": "Operational",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 89.9,
+    "threshold": {
+      "red": 69.9,
+      "amber": 79.9,
+      "green": 89.9
+    },
+    "currentValue": 66.6,
+    "previousValue": 62.9,
+    "ytdValue": 66.6,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-10-22T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 76.4
+      },
+      {
+        "period": "Month 2",
+        "value": 62.9
+      },
+      {
+        "period": "Month 3",
+        "value": 90.1
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-009",
+    "kpiName": "Response Time",
+    "category": "Financial",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 96.2,
+    "threshold": {
+      "red": 76.2,
+      "amber": 86.2,
+      "green": 96.2
+    },
+    "currentValue": 98.8,
+    "previousValue": 102.7,
+    "ytdValue": 98.8,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-03-16T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 85.8
+      },
+      {
+        "period": "Month 2",
+        "value": 71.4
+      },
+      {
+        "period": "Month 3",
+        "value": 83.5
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-010",
+    "kpiName": "Error Rate",
+    "category": "IT",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 88.5,
+    "threshold": {
+      "red": 68.5,
+      "amber": 78.5,
+      "green": 88.5
+    },
+    "currentValue": 81.8,
+    "previousValue": 81.3,
+    "ytdValue": 81.8,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-09-22T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 65.6
+      },
+      {
+        "period": "Month 2",
+        "value": 65.4
+      },
+      {
+        "period": "Month 3",
+        "value": 95.8
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-011",
+    "kpiName": "Training Completion",
+    "category": "IT",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 82.7,
+    "threshold": {
+      "red": 62.7,
+      "amber": 72.7,
+      "green": 82.7
+    },
+    "currentValue": 85.8,
+    "previousValue": 86.3,
+    "ytdValue": 85.8,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-05-16T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 68.8
+      },
+      {
+        "period": "Month 2",
+        "value": 74.1
+      },
+      {
+        "period": "Month 3",
+        "value": 90.0
+      }
+    ],
+    "actionPlan": "Improve Training Completion through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-012",
+    "kpiName": "Regulatory Compliance",
+    "category": "HR",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 90.3,
+    "threshold": {
+      "red": 70.3,
+      "amber": 80.3,
+      "green": 90.3
+    },
+    "currentValue": 82.6,
+    "previousValue": 80.5,
+    "ytdValue": 82.6,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-07-04T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 92.1
+      },
+      {
+        "period": "Month 2",
+        "value": 87.8
+      },
+      {
+        "period": "Month 3",
+        "value": 89.3
+      }
+    ],
+    "actionPlan": "Improve Regulatory Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-013",
+    "kpiName": "Cost per Transaction",
+    "category": "HR",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 90.6,
+    "threshold": {
+      "red": 70.6,
+      "amber": 80.6,
+      "green": 90.6
+    },
+    "currentValue": 99.6,
+    "previousValue": 102.8,
+    "ytdValue": 99.6,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-12-26T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 93.0
+      },
+      {
+        "period": "Month 2",
+        "value": 79.0
+      },
+      {
+        "period": "Month 3",
+        "value": 93.2
+      }
+    ],
+    "actionPlan": "Improve Cost per Transaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-014",
+    "kpiName": "Payment Processing Time",
+    "category": "IT",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 85.8,
+    "threshold": {
+      "red": 65.8,
+      "amber": 75.8,
+      "green": 85.8
+    },
+    "currentValue": 94.6,
+    "previousValue": 85.4,
+    "ytdValue": 94.6,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-06-02T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 64.2
+      },
+      {
+        "period": "Month 2",
+        "value": 85.9
+      },
+      {
+        "period": "Month 3",
+        "value": 66.5
+      }
+    ],
+    "actionPlan": "Improve Payment Processing Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-015",
+    "kpiName": "Report Timeliness",
+    "category": "Operational",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 90.7,
+    "threshold": {
+      "red": 70.7,
+      "amber": 80.7,
+      "green": 90.7
+    },
+    "currentValue": 66.9,
+    "previousValue": 66.3,
+    "ytdValue": 66.9,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-12-10T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 62.6
+      },
+      {
+        "period": "Month 2",
+        "value": 85.6
+      },
+      {
+        "period": "Month 3",
+        "value": 79.0
+      }
+    ],
+    "actionPlan": "Improve Report Timeliness through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-016",
+    "kpiName": "Budget Execution Rate",
+    "category": "IT",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 90.5,
+    "threshold": {
+      "red": 70.5,
+      "amber": 80.5,
+      "green": 90.5
+    },
+    "currentValue": 88.5,
+    "previousValue": 86.1,
+    "ytdValue": 88.5,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-08-04T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 71.3
+      },
+      {
+        "period": "Month 2",
+        "value": 68.4
+      },
+      {
+        "period": "Month 3",
+        "value": 98.3
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-017",
+    "kpiName": "Revenue Collection Rate",
+    "category": "IT",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 82.2,
+    "threshold": {
+      "red": 62.2,
+      "amber": 72.2,
+      "green": 82.2
+    },
+    "currentValue": 61.9,
+    "previousValue": 59.7,
+    "ytdValue": 61.9,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-02-02T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 85.5
+      },
+      {
+        "period": "Month 2",
+        "value": 73.8
+      },
+      {
+        "period": "Month 3",
+        "value": 94.0
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-018",
+    "kpiName": "Procurement Compliance",
+    "category": "HR",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 90.9,
+    "threshold": {
+      "red": 70.9,
+      "amber": 80.9,
+      "green": 90.9
+    },
+    "currentValue": 68.3,
+    "previousValue": 67.4,
+    "ytdValue": 68.3,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-01-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 81.1
+      },
+      {
+        "period": "Month 2",
+        "value": 73.3
+      },
+      {
+        "period": "Month 3",
+        "value": 85.7
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-019",
+    "kpiName": "Staff Utilization",
+    "category": "IT",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 84.2,
+    "threshold": {
+      "red": 64.2,
+      "amber": 74.2,
+      "green": 84.2
+    },
+    "currentValue": 80.2,
+    "previousValue": 78.7,
+    "ytdValue": 80.2,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-01-19T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 79.5
+      },
+      {
+        "period": "Month 2",
+        "value": 66.7
+      },
+      {
+        "period": "Month 3",
+        "value": 92.4
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-020",
+    "kpiName": "Service Delivery Rate",
+    "category": "Financial",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 90.1,
+    "threshold": {
+      "red": 70.1,
+      "amber": 80.1,
+      "green": 90.1
+    },
+    "currentValue": 77.6,
+    "previousValue": 71.6,
+    "ytdValue": 77.6,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-07-11T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 95.5
+      },
+      {
+        "period": "Month 2",
+        "value": 91.5
+      },
+      {
+        "period": "Month 3",
+        "value": 74.6
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-021",
+    "kpiName": "Audit Completion Rate",
+    "category": "Service Delivery",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 94.3,
+    "threshold": {
+      "red": 74.3,
+      "amber": 84.3,
+      "green": 94.3
+    },
+    "currentValue": 96.0,
+    "previousValue": 94.1,
+    "ytdValue": 96.0,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-07-14T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 77.5
+      },
+      {
+        "period": "Month 2",
+        "value": 62.3
+      },
+      {
+        "period": "Month 3",
+        "value": 84.8
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-022",
+    "kpiName": "Customer Satisfaction",
+    "category": "Service Delivery",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 93.3,
+    "threshold": {
+      "red": 73.3,
+      "amber": 83.3,
+      "green": 93.3
+    },
+    "currentValue": 78.5,
+    "previousValue": 71.4,
+    "ytdValue": 78.5,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-07-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 66.2
+      },
+      {
+        "period": "Month 2",
+        "value": 69.6
+      },
+      {
+        "period": "Month 3",
+        "value": 86.6
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-023",
+    "kpiName": "System Uptime",
+    "category": "IT",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 83.0,
+    "threshold": {
+      "red": 63.0,
+      "amber": 73.0,
+      "green": 83.0
+    },
+    "currentValue": 62.5,
+    "previousValue": 56.6,
+    "ytdValue": 62.5,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-09-03T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 72.1
+      },
+      {
+        "period": "Month 2",
+        "value": 90.1
+      },
+      {
+        "period": "Month 3",
+        "value": 80.4
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-024",
+    "kpiName": "Response Time",
+    "category": "Financial",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 92.1,
+    "threshold": {
+      "red": 72.1,
+      "amber": 82.1,
+      "green": 92.1
+    },
+    "currentValue": 88.4,
+    "previousValue": 80.7,
+    "ytdValue": 88.4,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-04-08T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 79.7
+      },
+      {
+        "period": "Month 2",
+        "value": 86.3
+      },
+      {
+        "period": "Month 3",
+        "value": 61.2
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-RATSA-2024-025",
+    "kpiName": "Error Rate",
+    "category": "IT",
+    "description": "KPI for Road Transport and Safety Agency",
+    "owner": "Road Transport and Safety Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 87.8,
+    "threshold": {
+      "red": 67.8,
+      "amber": 77.8,
+      "green": 87.8
+    },
+    "currentValue": 60.6,
+    "previousValue": 61.3,
+    "ytdValue": 60.6,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-02-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 81.5
+      },
+      {
+        "period": "Month 2",
+        "value": 85.0
+      },
+      {
+        "period": "Month 3",
+        "value": 62.1
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  }
+]

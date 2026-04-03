@@ -1,0 +1,702 @@
+[
+  {
+    "invoiceId": "INV-ZPPA-2024-0001",
+    "invoiceNumber": "2024/ZPPA/0001",
+    "invoiceDate": "2024-12-24T00:00:00Z",
+    "dueDate": "2024-06-26T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "5819946657",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4375577.53,
+        "amount": 4375577.53
+      }
+    ],
+    "subtotal": 4375577.53,
+    "vatRate": 16.0,
+    "vatAmount": 700092.4,
+    "totalAmount": 5075669.93,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZPPA-0001"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0002",
+    "invoiceNumber": "2024/ZPPA/0002",
+    "invoiceDate": "2024-05-20T00:00:00Z",
+    "dueDate": "2024-05-12T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Procurement",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "3070987704",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 609316.19,
+        "amount": 609316.19
+      }
+    ],
+    "subtotal": 609316.19,
+    "vatRate": 16.0,
+    "vatAmount": 97490.59,
+    "totalAmount": 706806.78,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZPPA-0002"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0003",
+    "invoiceNumber": "2024/ZPPA/0003",
+    "invoiceDate": "2024-05-19T00:00:00Z",
+    "dueDate": "2024-04-26T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Planning",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "8273403366",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3738854.4,
+        "amount": 3738854.4
+      }
+    ],
+    "subtotal": 3738854.4,
+    "vatRate": 16.0,
+    "vatAmount": 598216.7,
+    "totalAmount": 4337071.1,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZPPA-0003"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0004",
+    "invoiceNumber": "2024/ZPPA/0004",
+    "invoiceDate": "2024-05-11T00:00:00Z",
+    "dueDate": "2024-06-01T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "2721355673",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7056717.85,
+        "amount": 7056717.85
+      }
+    ],
+    "subtotal": 7056717.85,
+    "vatRate": 16.0,
+    "vatAmount": 1129074.86,
+    "totalAmount": 8185792.71,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZPPA-0004"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0005",
+    "invoiceNumber": "2024/ZPPA/0005",
+    "invoiceDate": "2024-04-13T00:00:00Z",
+    "dueDate": "2024-07-15T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "6884333221",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7486506.44,
+        "amount": 7486506.44
+      }
+    ],
+    "subtotal": 7486506.44,
+    "vatRate": 16.0,
+    "vatAmount": 1197841.03,
+    "totalAmount": 8684347.47,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZPPA-0005"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0006",
+    "invoiceNumber": "2024/ZPPA/0006",
+    "invoiceDate": "2024-01-05T00:00:00Z",
+    "dueDate": "2024-03-25T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Compliance",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "3894673596",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 941074.7,
+        "amount": 941074.7
+      }
+    ],
+    "subtotal": 941074.7,
+    "vatRate": 16.0,
+    "vatAmount": 150571.95,
+    "totalAmount": 1091646.65,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZPPA-0006"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0007",
+    "invoiceNumber": "2024/ZPPA/0007",
+    "invoiceDate": "2024-10-15T00:00:00Z",
+    "dueDate": "2024-07-09T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "6777473414",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4297746.25,
+        "amount": 4297746.25
+      }
+    ],
+    "subtotal": 4297746.25,
+    "vatRate": 16.0,
+    "vatAmount": 687639.4,
+    "totalAmount": 4985385.65,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZPPA-0007"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0008",
+    "invoiceNumber": "2024/ZPPA/0008",
+    "invoiceDate": "2024-08-17T00:00:00Z",
+    "dueDate": "2024-11-10T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Finance",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "3574081104",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6817013.92,
+        "amount": 6817013.92
+      }
+    ],
+    "subtotal": 6817013.92,
+    "vatRate": 16.0,
+    "vatAmount": 1090722.23,
+    "totalAmount": 7907736.15,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZPPA-0008"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0009",
+    "invoiceNumber": "2024/ZPPA/0009",
+    "invoiceDate": "2024-03-25T00:00:00Z",
+    "dueDate": "2024-05-10T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "5328166990",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9458708.46,
+        "amount": 9458708.46
+      }
+    ],
+    "subtotal": 9458708.46,
+    "vatRate": 16.0,
+    "vatAmount": 1513393.35,
+    "totalAmount": 10972101.81,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZPPA-0009"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0010",
+    "invoiceNumber": "2024/ZPPA/0010",
+    "invoiceDate": "2024-12-08T00:00:00Z",
+    "dueDate": "2024-09-18T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Research",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "5604529187",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3864053.71,
+        "amount": 3864053.71
+      }
+    ],
+    "subtotal": 3864053.71,
+    "vatRate": 16.0,
+    "vatAmount": 618248.59,
+    "totalAmount": 4482302.3,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZPPA-0010"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0011",
+    "invoiceNumber": "2024/ZPPA/0011",
+    "invoiceDate": "2024-02-28T00:00:00Z",
+    "dueDate": "2024-06-19T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Planning",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "7088949191",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4651567.08,
+        "amount": 4651567.08
+      }
+    ],
+    "subtotal": 4651567.08,
+    "vatRate": 16.0,
+    "vatAmount": 744250.73,
+    "totalAmount": 5395817.81,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZPPA-0011"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0012",
+    "invoiceNumber": "2024/ZPPA/0012",
+    "invoiceDate": "2024-03-26T00:00:00Z",
+    "dueDate": "2024-10-15T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Research",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "5673482258",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9665376.94,
+        "amount": 9665376.94
+      }
+    ],
+    "subtotal": 9665376.94,
+    "vatRate": 16.0,
+    "vatAmount": 1546460.31,
+    "totalAmount": 11211837.25,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZPPA-0012"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0013",
+    "invoiceNumber": "2024/ZPPA/0013",
+    "invoiceDate": "2024-09-03T00:00:00Z",
+    "dueDate": "2024-07-28T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "ICT",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "6246612046",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5929825.75,
+        "amount": 5929825.75
+      }
+    ],
+    "subtotal": 5929825.75,
+    "vatRate": 16.0,
+    "vatAmount": 948772.12,
+    "totalAmount": 6878597.87,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZPPA-0013"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0014",
+    "invoiceNumber": "2024/ZPPA/0014",
+    "invoiceDate": "2024-09-17T00:00:00Z",
+    "dueDate": "2024-04-25T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "4500557310",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6368924.2,
+        "amount": 6368924.2
+      }
+    ],
+    "subtotal": 6368924.2,
+    "vatRate": 16.0,
+    "vatAmount": 1019027.87,
+    "totalAmount": 7387952.07,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZPPA-0014"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0015",
+    "invoiceNumber": "2024/ZPPA/0015",
+    "invoiceDate": "2024-03-20T00:00:00Z",
+    "dueDate": "2024-03-25T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Public Relations",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "7417183769",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2634085.4,
+        "amount": 2634085.4
+      }
+    ],
+    "subtotal": 2634085.4,
+    "vatRate": 16.0,
+    "vatAmount": 421453.66,
+    "totalAmount": 3055539.06,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZPPA-0015"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0016",
+    "invoiceNumber": "2024/ZPPA/0016",
+    "invoiceDate": "2024-10-11T00:00:00Z",
+    "dueDate": "2024-11-11T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "5588254555",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6389453.36,
+        "amount": 6389453.36
+      }
+    ],
+    "subtotal": 6389453.36,
+    "vatRate": 16.0,
+    "vatAmount": 1022312.54,
+    "totalAmount": 7411765.9,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZPPA-0016"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0017",
+    "invoiceNumber": "2024/ZPPA/0017",
+    "invoiceDate": "2024-06-17T00:00:00Z",
+    "dueDate": "2024-02-10T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Administration",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "1161521910",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5955055.59,
+        "amount": 5955055.59
+      }
+    ],
+    "subtotal": 5955055.59,
+    "vatRate": 16.0,
+    "vatAmount": 952808.89,
+    "totalAmount": 6907864.48,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZPPA-0017"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0018",
+    "invoiceNumber": "2024/ZPPA/0018",
+    "invoiceDate": "2024-02-20T00:00:00Z",
+    "dueDate": "2024-10-17T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Planning",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "5471158508",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6482198.05,
+        "amount": 6482198.05
+      }
+    ],
+    "subtotal": 6482198.05,
+    "vatRate": 16.0,
+    "vatAmount": 1037151.69,
+    "totalAmount": 7519349.74,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZPPA-0018"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0019",
+    "invoiceNumber": "2024/ZPPA/0019",
+    "invoiceDate": "2024-03-02T00:00:00Z",
+    "dueDate": "2024-08-04T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Public Relations",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "9952125442",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4808727.38,
+        "amount": 4808727.38
+      }
+    ],
+    "subtotal": 4808727.38,
+    "vatRate": 16.0,
+    "vatAmount": 769396.38,
+    "totalAmount": 5578123.76,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZPPA-0019"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0020",
+    "invoiceNumber": "2024/ZPPA/0020",
+    "invoiceDate": "2024-08-17T00:00:00Z",
+    "dueDate": "2024-09-20T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "6509985983",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7105454.87,
+        "amount": 7105454.87
+      }
+    ],
+    "subtotal": 7105454.87,
+    "vatRate": 16.0,
+    "vatAmount": 1136872.78,
+    "totalAmount": 8242327.65,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZPPA-0020"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0021",
+    "invoiceNumber": "2024/ZPPA/0021",
+    "invoiceDate": "2024-11-21T00:00:00Z",
+    "dueDate": "2024-06-03T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "6955247915",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6019070.04,
+        "amount": 6019070.04
+      }
+    ],
+    "subtotal": 6019070.04,
+    "vatRate": 16.0,
+    "vatAmount": 963051.21,
+    "totalAmount": 6982121.25,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZPPA-0021"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0022",
+    "invoiceNumber": "2024/ZPPA/0022",
+    "invoiceDate": "2024-10-22T00:00:00Z",
+    "dueDate": "2024-03-12T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "ICT",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "5658832688",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3400284.16,
+        "amount": 3400284.16
+      }
+    ],
+    "subtotal": 3400284.16,
+    "vatRate": 16.0,
+    "vatAmount": 544045.47,
+    "totalAmount": 3944329.63,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZPPA-0022"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0023",
+    "invoiceNumber": "2024/ZPPA/0023",
+    "invoiceDate": "2024-12-22T00:00:00Z",
+    "dueDate": "2024-09-03T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "7478908722",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6734152.36,
+        "amount": 6734152.36
+      }
+    ],
+    "subtotal": 6734152.36,
+    "vatRate": 16.0,
+    "vatAmount": 1077464.38,
+    "totalAmount": 7811616.74,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-ZPPA-0023"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0024",
+    "invoiceNumber": "2024/ZPPA/0024",
+    "invoiceDate": "2024-04-11T00:00:00Z",
+    "dueDate": "2024-08-07T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "1665484476",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1884602.94,
+        "amount": 1884602.94
+      }
+    ],
+    "subtotal": 1884602.94,
+    "vatRate": 16.0,
+    "vatAmount": 301536.47,
+    "totalAmount": 2186139.41,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-ZPPA-0024"
+  },
+  {
+    "invoiceId": "INV-ZPPA-2024-0025",
+    "invoiceNumber": "2024/ZPPA/0025",
+    "invoiceDate": "2024-12-17T00:00:00Z",
+    "dueDate": "2024-01-22T00:00:00Z",
+    "issuingEntity": "Zambia Public Procurement Authority",
+    "issuingDepartment": "Internal Audit",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "7860121241",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7731659.73,
+        "amount": 7731659.73
+      }
+    ],
+    "subtotal": 7731659.73,
+    "vatRate": 16.0,
+    "vatAmount": 1237065.56,
+    "totalAmount": 8968725.29,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-ZPPA-0025"
+  }
+]

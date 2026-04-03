@@ -1,0 +1,742 @@
+[
+  {
+    "id": "KPI-2024-001",
+    "kpiName": "Budget Execution Rate",
+    "category": "Financial Performance",
+    "description": "Percentage of approved budget executed by year-end",
+    "owner": "Ministry of Finance",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 95.0,
+    "threshold": {
+      "red": 75.0,
+      "amber": 85.0,
+      "green": 95.0
+    },
+    "currentValue": 78.2,
+    "previousValue": 74.0,
+    "ytdValue": 78.2,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-01-31T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 78.2
+      },
+      {
+        "period": "Dec 2023",
+        "value": 74.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 68.5
+      }
+    ],
+    "actionPlan": "Accelerate capital budget release; streamline approval processes",
+    "responsible": "Budget Director"
+  },
+  {
+    "id": "KPI-2024-002",
+    "kpiName": "Revenue to Target Ratio",
+    "category": "Revenue Performance",
+    "description": "Actual revenue collected as percentage of revenue target",
+    "owner": "Zambia Revenue Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 100.0,
+    "threshold": {
+      "red": 85.0,
+      "amber": 95.0,
+      "green": 100.0
+    },
+    "currentValue": 96.8,
+    "previousValue": 94.2,
+    "ytdValue": 96.8,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-02-01T09:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 96.8
+      },
+      {
+        "period": "Dec 2023",
+        "value": 94.2
+      },
+      {
+        "period": "Nov 2023",
+        "value": 92.5
+      }
+    ],
+    "actionPlan": "Intensify mining sector compliance; expand SME tax net",
+    "responsible": "Commissioner General"
+  },
+  {
+    "id": "KPI-2024-003",
+    "kpiName": "Procurement Cycle Time",
+    "category": "Operational Efficiency",
+    "description": "Average days from tender advertisement to contract award",
+    "owner": "ZPPA",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 30.0,
+    "threshold": {
+      "red": 60.0,
+      "amber": 45.0,
+      "green": 30.0
+    },
+    "currentValue": 38.0,
+    "previousValue": 42.0,
+    "ytdValue": 38.0,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-01-31T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 38.0
+      },
+      {
+        "period": "Dec 2023",
+        "value": 42.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 45.0
+      }
+    ],
+    "actionPlan": "Deploy e-procurement platform; reduce approval layers",
+    "responsible": "Director General ZPPA"
+  },
+  {
+    "id": "KPI-2024-004",
+    "kpiName": "Audit Compliance Score",
+    "category": "Governance",
+    "description": "Percentage of entities with unqualified audit opinions",
+    "owner": "Office of Auditor General",
+    "measurementUnit": "Percentage",
+    "frequency": "Annual",
+    "target": 85.0,
+    "threshold": {
+      "red": 50.0,
+      "amber": 70.0,
+      "green": 85.0
+    },
+    "currentValue": 58.5,
+    "previousValue": 52.0,
+    "ytdValue": 58.5,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-01-15T10:00:00Z",
+    "dataPoints": [
+      {
+        "period": "2023",
+        "value": 58.5
+      },
+      {
+        "period": "2022",
+        "value": 52.0
+      },
+      {
+        "period": "2021",
+        "value": 48.0
+      }
+    ],
+    "actionPlan": "Strengthen internal controls; capacity building for districts",
+    "responsible": "Secretary to Treasury"
+  },
+  {
+    "id": "KPI-2024-005",
+    "kpiName": "Grant Utilization Rate",
+    "category": "Aid Management",
+    "description": "Percentage of committed grant funds disbursed and utilized",
+    "owner": "Ministry of Finance - Aid Coordination",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 90.0,
+    "threshold": {
+      "red": 60.0,
+      "amber": 75.0,
+      "green": 90.0
+    },
+    "currentValue": 72.5,
+    "previousValue": 71.3,
+    "ytdValue": 72.5,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-01-20T14:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Q4 2023",
+        "value": 72.5
+      },
+      {
+        "period": "Q3 2023",
+        "value": 71.3
+      },
+      {
+        "period": "Q2 2023",
+        "value": 68.0
+      }
+    ],
+    "actionPlan": "Expedite project procurement; strengthen capacity of implementing units",
+    "responsible": "Aid Coordination Director"
+  },
+  {
+    "id": "KPI-2024-006",
+    "kpiName": "Payment Processing Time",
+    "category": "Financial Operations",
+    "description": "Average days from payment request to disbursement",
+    "owner": "Ministry of Finance - Treasury",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 5.0,
+    "threshold": {
+      "red": 15.0,
+      "amber": 10.0,
+      "green": 5.0
+    },
+    "currentValue": 7.8,
+    "previousValue": 8.5,
+    "ytdValue": 7.8,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-02-01T09:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 7.8
+      },
+      {
+        "period": "Dec 2023",
+        "value": 8.5
+      },
+      {
+        "period": "Nov 2023",
+        "value": 9.2
+      }
+    ],
+    "actionPlan": "Automate payment workflow; reduce documentation requirements",
+    "responsible": "Accountant General"
+  },
+  {
+    "id": "KPI-2024-007",
+    "kpiName": "Project On-Time Completion",
+    "category": "Project Management",
+    "description": "Percentage of projects completed by scheduled completion date",
+    "owner": "National Planning & Development",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 80.0,
+    "threshold": {
+      "red": 40.0,
+      "amber": 60.0,
+      "green": 80.0
+    },
+    "currentValue": 62.0,
+    "previousValue": 54.0,
+    "ytdValue": 62.0,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-01-25T16:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Q4 2023",
+        "value": 62.0
+      },
+      {
+        "period": "Q3 2023",
+        "value": 54.0
+      },
+      {
+        "period": "Q2 2023",
+        "value": 48.0
+      }
+    ],
+    "actionPlan": "Enhance project monitoring; strengthen contractor management",
+    "responsible": "Director General Planning"
+  },
+  {
+    "id": "KPI-2024-008",
+    "kpiName": "Debt Service to Revenue Ratio",
+    "category": "Fiscal Sustainability",
+    "description": "Debt service payments as percentage of government revenue",
+    "owner": "Ministry of Finance - Debt Management",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 15.0,
+    "threshold": {
+      "red": 30.0,
+      "amber": 20.0,
+      "green": 15.0
+    },
+    "currentValue": 23.8,
+    "previousValue": 24.5,
+    "ytdValue": 23.8,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-01-18T11:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Q4 2023",
+        "value": 23.8
+      },
+      {
+        "period": "Q3 2023",
+        "value": 24.5
+      },
+      {
+        "period": "Q2 2023",
+        "value": 25.2
+      }
+    ],
+    "actionPlan": "Debt restructuring negotiations; revenue enhancement measures",
+    "responsible": "Director Debt Management"
+  },
+  {
+    "id": "KPI-2024-009",
+    "kpiName": "E-Procurement Adoption",
+    "category": "Digital Transformation",
+    "description": "Percentage of procurement value processed through e-platform",
+    "owner": "ZPPA",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 95.0,
+    "threshold": {
+      "red": 50.0,
+      "amber": 75.0,
+      "green": 95.0
+    },
+    "currentValue": 78.5,
+    "previousValue": 63.3,
+    "ytdValue": 78.5,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-02-01T09:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 78.5
+      },
+      {
+        "period": "Dec 2023",
+        "value": 63.3
+      },
+      {
+        "period": "Nov 2023",
+        "value": 52.0
+      }
+    ],
+    "actionPlan": "Mandate e-procurement for all transactions; training for users",
+    "responsible": "Director ICT ZPPA"
+  },
+  {
+    "id": "KPI-2024-010",
+    "kpiName": "Vendor Payment Timeliness",
+    "category": "Supplier Relations",
+    "description": "Percentage of invoices paid within 30 days",
+    "owner": "Ministry of Finance - Accounts Payable",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 90.0,
+    "threshold": {
+      "red": 50.0,
+      "amber": 70.0,
+      "green": 90.0
+    },
+    "currentValue": 68.0,
+    "previousValue": 60.0,
+    "ytdValue": 68.0,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-01-31T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 68.0
+      },
+      {
+        "period": "Dec 2023",
+        "value": 60.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 55.0
+      }
+    ],
+    "actionPlan": "Streamline approval workflow; improve cash flow planning",
+    "responsible": "Chief Accountant"
+  },
+  {
+    "id": "KPI-2024-011",
+    "kpiName": "Tax Compliance Rate",
+    "category": "Revenue",
+    "description": "Percentage of registered taxpayers filing and paying on time",
+    "owner": "Zambia Revenue Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 60.0,
+      "amber": 75.0,
+      "green": 85.0
+    },
+    "currentValue": 79.2,
+    "previousValue": 76.5,
+    "ytdValue": 79.2,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-02-01T09:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 79.2
+      },
+      {
+        "period": "Dec 2023",
+        "value": 76.5
+      },
+      {
+        "period": "Nov 2023",
+        "value": 74.0
+      }
+    ],
+    "actionPlan": "Taxpayer education campaigns; risk-based enforcement",
+    "responsible": "Commissioner Domestic Taxes"
+  },
+  {
+    "id": "KPI-2024-012",
+    "kpiName": "Capital Budget Execution",
+    "category": "Investment",
+    "description": "Percentage of capital budget executed",
+    "owner": "Ministry of Finance",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 40.0,
+      "amber": 65.0,
+      "green": 85.0
+    },
+    "currentValue": 52.3,
+    "previousValue": 48.0,
+    "ytdValue": 52.3,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-01-31T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 52.3
+      },
+      {
+        "period": "Dec 2023",
+        "value": 48.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 42.0
+      }
+    ],
+    "actionPlan": "Fast-track procurement; quarterly project reviews; address bottlenecks",
+    "responsible": "Budget Director & PS Infrastructure"
+  },
+  {
+    "id": 13,
+    "kpiName": "Capital Budget Execution",
+    "category": "Investment",
+    "description": "Percentage of capital budget executed",
+    "owner": "Ministry of Finance",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 40.0,
+      "amber": 65.0,
+      "green": 85.0
+    },
+    "currentValue": 42290541.26,
+    "previousValue": 5783856.86,
+    "ytdValue": 41330314.89,
+    "trend": "Improving",
+    "status": "Released",
+    "lastUpdated": "2023-11-01T00:00:00",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 52.3
+      },
+      {
+        "period": "Dec 2023",
+        "value": 48.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 42.0
+      }
+    ],
+    "actionPlan": "Fast-track procurement; quarterly project reviews; address bottlenecks",
+    "responsible": "Budget Director & PS Infrastructure"
+  },
+  {
+    "id": 14,
+    "kpiName": "Capital Budget Execution",
+    "category": "Investment",
+    "description": "Percentage of capital budget executed",
+    "owner": "Ministry of Finance",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 40.0,
+      "amber": 65.0,
+      "green": 85.0
+    },
+    "currentValue": 47677204.67,
+    "previousValue": 2216768.45,
+    "ytdValue": 42906006.02,
+    "trend": "Improving",
+    "status": "Active",
+    "lastUpdated": "2024-09-14T00:00:00",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 52.3
+      },
+      {
+        "period": "Dec 2023",
+        "value": 48.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 42.0
+      }
+    ],
+    "actionPlan": "Fast-track procurement; quarterly project reviews; address bottlenecks",
+    "responsible": "Budget Director & PS Infrastructure"
+  },
+  {
+    "id": 15,
+    "kpiName": "Capital Budget Execution",
+    "category": "Investment",
+    "description": "Percentage of capital budget executed",
+    "owner": "Ministry of Finance",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 40.0,
+      "amber": 65.0,
+      "green": 85.0
+    },
+    "currentValue": 39404126.61,
+    "previousValue": 24847870.27,
+    "ytdValue": 15149258.55,
+    "trend": "Improving",
+    "status": "Completed",
+    "lastUpdated": "2023-10-01T00:00:00",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 52.3
+      },
+      {
+        "period": "Dec 2023",
+        "value": 48.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 42.0
+      }
+    ],
+    "actionPlan": "Fast-track procurement; quarterly project reviews; address bottlenecks",
+    "responsible": "Budget Director & PS Infrastructure"
+  },
+  {
+    "id": 16,
+    "kpiName": "Capital Budget Execution",
+    "category": "Investment",
+    "description": "Percentage of capital budget executed",
+    "owner": "Ministry of Finance",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 40.0,
+      "amber": 65.0,
+      "green": 85.0
+    },
+    "currentValue": 47142228.29,
+    "previousValue": 15348739.34,
+    "ytdValue": 24622595.79,
+    "trend": "Improving",
+    "status": "In Progress",
+    "lastUpdated": "2023-07-13T00:00:00",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 52.3
+      },
+      {
+        "period": "Dec 2023",
+        "value": 48.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 42.0
+      }
+    ],
+    "actionPlan": "Fast-track procurement; quarterly project reviews; address bottlenecks",
+    "responsible": "Budget Director & PS Infrastructure"
+  },
+  {
+    "id": 17,
+    "kpiName": "Capital Budget Execution",
+    "category": "Investment",
+    "description": "Percentage of capital budget executed",
+    "owner": "Ministry of Finance",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 40.0,
+      "amber": 65.0,
+      "green": 85.0
+    },
+    "currentValue": 27796565.25,
+    "previousValue": 9284442.11,
+    "ytdValue": 44745046.51,
+    "trend": "Improving",
+    "status": "In Progress",
+    "lastUpdated": "2023-07-30T00:00:00",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 52.3
+      },
+      {
+        "period": "Dec 2023",
+        "value": 48.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 42.0
+      }
+    ],
+    "actionPlan": "Fast-track procurement; quarterly project reviews; address bottlenecks",
+    "responsible": "Budget Director & PS Infrastructure"
+  },
+  {
+    "id": 18,
+    "kpiName": "Capital Budget Execution",
+    "category": "Investment",
+    "description": "Percentage of capital budget executed",
+    "owner": "Ministry of Finance",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 40.0,
+      "amber": 65.0,
+      "green": 85.0
+    },
+    "currentValue": 15733320.4,
+    "previousValue": 8430422.37,
+    "ytdValue": 40909177.44,
+    "trend": "Improving",
+    "status": "Released",
+    "lastUpdated": "2024-11-05T00:00:00",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 52.3
+      },
+      {
+        "period": "Dec 2023",
+        "value": 48.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 42.0
+      }
+    ],
+    "actionPlan": "Fast-track procurement; quarterly project reviews; address bottlenecks",
+    "responsible": "Budget Director & PS Infrastructure"
+  },
+  {
+    "id": 19,
+    "kpiName": "Capital Budget Execution",
+    "category": "Investment",
+    "description": "Percentage of capital budget executed",
+    "owner": "Ministry of Finance",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 40.0,
+      "amber": 65.0,
+      "green": 85.0
+    },
+    "currentValue": 20397532.75,
+    "previousValue": 2976007.13,
+    "ytdValue": 38942580.81,
+    "trend": "Improving",
+    "status": "Pending",
+    "lastUpdated": "2023-07-11T00:00:00",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 52.3
+      },
+      {
+        "period": "Dec 2023",
+        "value": 48.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 42.0
+      }
+    ],
+    "actionPlan": "Fast-track procurement; quarterly project reviews; address bottlenecks",
+    "responsible": "Budget Director & PS Infrastructure"
+  },
+  {
+    "id": 20,
+    "kpiName": "Capital Budget Execution",
+    "category": "Investment",
+    "description": "Percentage of capital budget executed",
+    "owner": "Ministry of Finance",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 40.0,
+      "amber": 65.0,
+      "green": 85.0
+    },
+    "currentValue": 35877625.15,
+    "previousValue": 2913520.75,
+    "ytdValue": 10122578.61,
+    "trend": "Improving",
+    "status": "In Progress",
+    "lastUpdated": "2023-01-14T00:00:00",
+    "dataPoints": [
+      {
+        "period": "Jan 2024",
+        "value": 52.3
+      },
+      {
+        "period": "Dec 2023",
+        "value": 48.0
+      },
+      {
+        "period": "Nov 2023",
+        "value": 42.0
+      }
+    ],
+    "actionPlan": "Fast-track procurement; quarterly project reviews; address bottlenecks",
+    "responsible": "Budget Director & PS Infrastructure"
+  }
+]

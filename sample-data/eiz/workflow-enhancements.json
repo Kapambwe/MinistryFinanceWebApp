@@ -1,0 +1,682 @@
+[
+  {
+    "id": "WE-2024-001",
+    "enhancementType": "Process Automation",
+    "category": "Efficiency Improvement",
+    "title": "Automate Budget Virement Pre-Checks",
+    "description": "Implement automated validation of budget virement requests before routing to human reviewers",
+    "proposedDate": "2024-01-15T09:00:00Z",
+    "priority": "High",
+    "currentProcess": {
+      "avgProcessingTime": 14,
+      "manualSteps": 8,
+      "errorRate": 12.5,
+      "monthlyVolume": 145
+    },
+    "proposedEnhancement": {
+      "automationLevel": 60.0,
+      "estimatedTimeReduction": 8,
+      "errorReductionTarget": 85.0,
+      "implementation": "Rule-based validation engine"
+    },
+    "benefits": [
+      "Reduce processing time from 14 to 6 days",
+      "Free up 120 staff hours per month",
+      "Reduce errors from 12.5% to 2%",
+      "Improve user satisfaction"
+    ],
+    "estimatedCost": 8500000.0,
+    "estimatedSavings": 4200000.0,
+    "roi": 0.49,
+    "implementationTime": "3 months",
+    "status": "Approved",
+    "approvalDate": "2024-01-22T00:00:00Z",
+    "currency": "ZMW"
+  },
+  {
+    "id": "WE-2024-002",
+    "enhancementType": "Workflow Redesign",
+    "category": "Process Simplification",
+    "title": "Streamline Low-Value Payment Approvals",
+    "description": "Reduce approval layers for payments under ZMW 500,000 from 4 steps to 2 steps",
+    "proposedDate": "2024-01-18T10:30:00Z",
+    "priority": "Medium",
+    "currentProcess": {
+      "avgProcessingTime": 6,
+      "manualSteps": 4,
+      "errorRate": 3.2,
+      "monthlyVolume": 3847
+    },
+    "proposedEnhancement": {
+      "automationLevel": 0.0,
+      "estimatedTimeReduction": 4,
+      "approvalStepsReduced": 2,
+      "implementation": "Workflow reconfiguration with risk-based controls"
+    },
+    "benefits": [
+      "Reduce processing time from 6 to 2 days",
+      "Process 23,000+ payments faster annually",
+      "Reduce administrative burden",
+      "Maintain adequate controls through post-payment audit"
+    ],
+    "estimatedCost": 2500000.0,
+    "estimatedSavings": 15000000.0,
+    "roi": 6.0,
+    "implementationTime": "2 months",
+    "status": "Under Review",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WE-2024-003",
+    "enhancementType": "Integration",
+    "category": "System Enhancement",
+    "title": "Integrate Procurement and Financial Systems",
+    "description": "Create seamless data flow between procurement approval and payment processing workflows",
+    "proposedDate": "2024-01-20T14:00:00Z",
+    "priority": "High",
+    "currentProcess": {
+      "avgProcessingTime": 25,
+      "manualDataEntry": 85.0,
+      "errorRate": 18.5,
+      "monthlyVolume": 284
+    },
+    "proposedEnhancement": {
+      "automationLevel": 85.0,
+      "estimatedTimeReduction": 15,
+      "errorReductionTarget": 90.0,
+      "implementation": "API-based system integration"
+    },
+    "benefits": [
+      "Eliminate duplicate data entry",
+      "Reduce procurement-to-payment time by 60%",
+      "Reduce errors from 18.5% to 2%",
+      "Real-time visibility across procurement lifecycle"
+    ],
+    "estimatedCost": 25000000.0,
+    "estimatedSavings": 12000000.0,
+    "roi": 0.48,
+    "implementationTime": "6 months",
+    "status": "Planned",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WE-2024-004",
+    "enhancementType": "Notification Enhancement",
+    "category": "Communication",
+    "title": "Implement Multi-Channel Workflow Notifications",
+    "description": "Add SMS and mobile app notifications to supplement email alerts for workflow tasks",
+    "proposedDate": "2024-01-22T11:00:00Z",
+    "priority": "Medium",
+    "currentProcess": {
+      "avgProcessingTime": 12,
+      "slaBreachRate": 28.0,
+      "notificationChannels": 1,
+      "userResponseTime": 48
+    },
+    "proposedEnhancement": {
+      "automationLevel": 100.0,
+      "notificationChannels": 3,
+      "targetSLACompliance": 85.0,
+      "implementation": "SMS gateway and mobile app integration"
+    },
+    "benefits": [
+      "Reduce SLA breach rate from 28% to 10%",
+      "Improve user response time by 40%",
+      "Better workflow visibility for mobile users",
+      "Reduced workflow bottlenecks"
+    ],
+    "estimatedCost": 4500000.0,
+    "estimatedSavings": 8500000.0,
+    "roi": 1.89,
+    "implementationTime": "2 months",
+    "status": "Approved",
+    "approvalDate": "2024-01-28T00:00:00Z",
+    "currency": "ZMW"
+  },
+  {
+    "id": "WE-2024-005",
+    "enhancementType": "Analytics Dashboard",
+    "category": "Monitoring",
+    "title": "Deploy Real-Time Workflow Performance Dashboard",
+    "description": "Create interactive dashboard for monitoring workflow performance metrics and bottlenecks",
+    "proposedDate": "2024-01-24T13:30:00Z",
+    "priority": "High",
+    "currentProcess": {
+      "reportingFrequency": "Monthly",
+      "reportGenerationTime": 5,
+      "dataLatency": 720,
+      "manualEffort": "Significant"
+    },
+    "proposedEnhancement": {
+      "automationLevel": 95.0,
+      "reportingFrequency": "Real-time",
+      "dataLatency": 5,
+      "implementation": "Business intelligence dashboard"
+    },
+    "benefits": [
+      "Real-time visibility into workflow performance",
+      "Proactive identification of bottlenecks",
+      "Data-driven decision making",
+      "Automated reporting reduces staff time by 90%"
+    ],
+    "estimatedCost": 12000000.0,
+    "estimatedSavings": 6000000.0,
+    "roi": 0.5,
+    "implementationTime": "4 months",
+    "status": "Under Review",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WE-2024-006",
+    "enhancementType": "Mobile Access",
+    "category": "User Experience",
+    "title": "Develop Mobile Workflow Application",
+    "description": "Create mobile app for workflow approvals and monitoring on smartphones and tablets",
+    "proposedDate": "2024-01-26T15:00:00Z",
+    "priority": "Medium",
+    "currentProcess": {
+      "mobileAccess": false,
+      "avgResponseDelay": 72,
+      "userSatisfaction": 62.0,
+      "desktopDependency": 100.0
+    },
+    "proposedEnhancement": {
+      "mobileAccess": true,
+      "targetResponseTime": 12,
+      "userSatisfactionTarget": 85.0,
+      "implementation": "Native mobile app for iOS and Android"
+    },
+    "benefits": [
+      "Enable workflow approvals from anywhere",
+      "Reduce approval delays by 80%",
+      "Improve user satisfaction",
+      "Better support for field officers"
+    ],
+    "estimatedCost": 18000000.0,
+    "estimatedSavings": 10000000.0,
+    "roi": 0.56,
+    "implementationTime": "5 months",
+    "status": "Planned",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WE-2024-007",
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2024-01-28T09:00:00Z",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 22000000.0,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Concept",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 8,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2023-08-09T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 49833516.17,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Posted",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 9,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2024-10-05T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 7552895.91,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Cancelled",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2023-12-21T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 48019397.45,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "In Progress",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2023-06-12T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 8722669.74,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Completed",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2024-03-14T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 16193701.69,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Completed",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2023-07-01T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 12714299.99,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Cancelled",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2023-11-29T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 33624062.37,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Pending",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2023-07-18T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 13870000.47,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Active",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2023-01-19T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 35225960.46,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Active",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2024-09-04T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 1945680.58,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Approved",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2023-11-05T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 17390883.13,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Cancelled",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2023-01-28T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 18292031.67,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "In Progress",
+    "approvalDate": null,
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "enhancementType": "AI Integration",
+    "category": "Intelligent Automation",
+    "title": "AI-Powered Document Classification and Routing",
+    "description": "Use AI to automatically classify uploaded documents and route to appropriate workflows",
+    "proposedDate": "2024-11-17T00:00:00",
+    "priority": "Low",
+    "currentProcess": {
+      "manualClassification": 100.0,
+      "avgClassificationTime": 15,
+      "errorRate": 22.0,
+      "monthlyVolume": 4500
+    },
+    "proposedEnhancement": {
+      "automationLevel": 90.0,
+      "estimatedTimeReduction": 14,
+      "errorReductionTarget": 95.0,
+      "implementation": "Machine learning classification model"
+    },
+    "benefits": [
+      "Automate 90% of document classification",
+      "Reduce classification errors from 22% to 1%",
+      "Free up 1,125 staff hours monthly",
+      "Faster workflow initiation"
+    ],
+    "estimatedCost": 37832404.01,
+    "estimatedSavings": 18000000.0,
+    "roi": 0.82,
+    "implementationTime": "8 months",
+    "status": "Active",
+    "approvalDate": null,
+    "currency": "ZMW"
+  }
+]

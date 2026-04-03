@@ -1,0 +1,702 @@
+[
+  {
+    "invoiceId": "INV-REA-2024-0001",
+    "invoiceNumber": "2024/REA/0001",
+    "invoiceDate": "2024-04-04T00:00:00Z",
+    "dueDate": "2024-05-15T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Research",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "3134376376",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3966251.27,
+        "amount": 3966251.27
+      }
+    ],
+    "subtotal": 3966251.27,
+    "vatRate": 16.0,
+    "vatAmount": 634600.2,
+    "totalAmount": 4600851.47,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-REA-0001"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0002",
+    "invoiceNumber": "2024/REA/0002",
+    "invoiceDate": "2024-07-10T00:00:00Z",
+    "dueDate": "2024-07-03T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Research",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "8275020798",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6165292.98,
+        "amount": 6165292.98
+      }
+    ],
+    "subtotal": 6165292.98,
+    "vatRate": 16.0,
+    "vatAmount": 986446.88,
+    "totalAmount": 7151739.86,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-REA-0002"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0003",
+    "invoiceNumber": "2024/REA/0003",
+    "invoiceDate": "2024-08-09T00:00:00Z",
+    "dueDate": "2024-07-08T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Procurement",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "2839976427",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6259513.58,
+        "amount": 6259513.58
+      }
+    ],
+    "subtotal": 6259513.58,
+    "vatRate": 16.0,
+    "vatAmount": 1001522.17,
+    "totalAmount": 7261035.75,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-REA-0003"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0004",
+    "invoiceNumber": "2024/REA/0004",
+    "invoiceDate": "2024-07-03T00:00:00Z",
+    "dueDate": "2024-12-13T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "2153953555",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1985626.32,
+        "amount": 1985626.32
+      }
+    ],
+    "subtotal": 1985626.32,
+    "vatRate": 16.0,
+    "vatAmount": 317700.21,
+    "totalAmount": 2303326.53,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-REA-0004"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0005",
+    "invoiceNumber": "2024/REA/0005",
+    "invoiceDate": "2024-03-14T00:00:00Z",
+    "dueDate": "2024-04-06T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "1780929582",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9587467.99,
+        "amount": 9587467.99
+      }
+    ],
+    "subtotal": 9587467.99,
+    "vatRate": 16.0,
+    "vatAmount": 1533994.88,
+    "totalAmount": 11121462.87,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-REA-0005"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0006",
+    "invoiceNumber": "2024/REA/0006",
+    "invoiceDate": "2024-10-13T00:00:00Z",
+    "dueDate": "2024-03-27T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "3925291545",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2766683.63,
+        "amount": 2766683.63
+      }
+    ],
+    "subtotal": 2766683.63,
+    "vatRate": 16.0,
+    "vatAmount": 442669.38,
+    "totalAmount": 3209353.01,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-REA-0006"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0007",
+    "invoiceNumber": "2024/REA/0007",
+    "invoiceDate": "2024-03-15T00:00:00Z",
+    "dueDate": "2024-12-15T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "ICT",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "7376607726",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8342346.95,
+        "amount": 8342346.95
+      }
+    ],
+    "subtotal": 8342346.95,
+    "vatRate": 16.0,
+    "vatAmount": 1334775.51,
+    "totalAmount": 9677122.46,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-REA-0007"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0008",
+    "invoiceNumber": "2024/REA/0008",
+    "invoiceDate": "2024-10-25T00:00:00Z",
+    "dueDate": "2024-07-11T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "3461863321",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9279141.37,
+        "amount": 9279141.37
+      }
+    ],
+    "subtotal": 9279141.37,
+    "vatRate": 16.0,
+    "vatAmount": 1484662.62,
+    "totalAmount": 10763803.99,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-REA-0008"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0009",
+    "invoiceNumber": "2024/REA/0009",
+    "invoiceDate": "2024-12-03T00:00:00Z",
+    "dueDate": "2024-08-14T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "ICT",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "9331648454",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5804037.34,
+        "amount": 5804037.34
+      }
+    ],
+    "subtotal": 5804037.34,
+    "vatRate": 16.0,
+    "vatAmount": 928645.97,
+    "totalAmount": 6732683.31,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-REA-0009"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0010",
+    "invoiceNumber": "2024/REA/0010",
+    "invoiceDate": "2024-05-18T00:00:00Z",
+    "dueDate": "2024-09-26T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Administration",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "1318805737",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2473928.79,
+        "amount": 2473928.79
+      }
+    ],
+    "subtotal": 2473928.79,
+    "vatRate": 16.0,
+    "vatAmount": 395828.61,
+    "totalAmount": 2869757.4,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-REA-0010"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0011",
+    "invoiceNumber": "2024/REA/0011",
+    "invoiceDate": "2024-09-27T00:00:00Z",
+    "dueDate": "2024-03-16T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "8576536505",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2577000.97,
+        "amount": 2577000.97
+      }
+    ],
+    "subtotal": 2577000.97,
+    "vatRate": 16.0,
+    "vatAmount": 412320.16,
+    "totalAmount": 2989321.13,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-REA-0011"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0012",
+    "invoiceNumber": "2024/REA/0012",
+    "invoiceDate": "2024-04-03T00:00:00Z",
+    "dueDate": "2024-12-20T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Administration",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "7485356470",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6563197.47,
+        "amount": 6563197.47
+      }
+    ],
+    "subtotal": 6563197.47,
+    "vatRate": 16.0,
+    "vatAmount": 1050111.6,
+    "totalAmount": 7613309.07,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-REA-0012"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0013",
+    "invoiceNumber": "2024/REA/0013",
+    "invoiceDate": "2024-01-25T00:00:00Z",
+    "dueDate": "2024-12-22T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "6550458269",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5243889.43,
+        "amount": 5243889.43
+      }
+    ],
+    "subtotal": 5243889.43,
+    "vatRate": 16.0,
+    "vatAmount": 839022.31,
+    "totalAmount": 6082911.74,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-REA-0013"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0014",
+    "invoiceNumber": "2024/REA/0014",
+    "invoiceDate": "2024-11-21T00:00:00Z",
+    "dueDate": "2024-04-14T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Operations",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "2763296156",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9013613.12,
+        "amount": 9013613.12
+      }
+    ],
+    "subtotal": 9013613.12,
+    "vatRate": 16.0,
+    "vatAmount": 1442178.1,
+    "totalAmount": 10455791.22,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-REA-0014"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0015",
+    "invoiceNumber": "2024/REA/0015",
+    "invoiceDate": "2024-04-20T00:00:00Z",
+    "dueDate": "2024-04-25T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Compliance",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "7489199607",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 179589.78,
+        "amount": 179589.78
+      }
+    ],
+    "subtotal": 179589.78,
+    "vatRate": 16.0,
+    "vatAmount": 28734.36,
+    "totalAmount": 208324.14,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-REA-0015"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0016",
+    "invoiceNumber": "2024/REA/0016",
+    "invoiceDate": "2024-05-10T00:00:00Z",
+    "dueDate": "2024-07-09T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "4046598140",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8219473.67,
+        "amount": 8219473.67
+      }
+    ],
+    "subtotal": 8219473.67,
+    "vatRate": 16.0,
+    "vatAmount": 1315115.79,
+    "totalAmount": 9534589.46,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-REA-0016"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0017",
+    "invoiceNumber": "2024/REA/0017",
+    "invoiceDate": "2024-08-22T00:00:00Z",
+    "dueDate": "2024-09-02T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "3287289954",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9460263.4,
+        "amount": 9460263.4
+      }
+    ],
+    "subtotal": 9460263.4,
+    "vatRate": 16.0,
+    "vatAmount": 1513642.14,
+    "totalAmount": 10973905.54,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-REA-0017"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0018",
+    "invoiceNumber": "2024/REA/0018",
+    "invoiceDate": "2024-08-23T00:00:00Z",
+    "dueDate": "2024-07-20T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "8335473886",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 4634147.47,
+        "amount": 4634147.47
+      }
+    ],
+    "subtotal": 4634147.47,
+    "vatRate": 16.0,
+    "vatAmount": 741463.6,
+    "totalAmount": 5375611.07,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-REA-0018"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0019",
+    "invoiceNumber": "2024/REA/0019",
+    "invoiceDate": "2024-12-07T00:00:00Z",
+    "dueDate": "2024-08-18T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Research",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "2843218439",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3688436.67,
+        "amount": 3688436.67
+      }
+    ],
+    "subtotal": 3688436.67,
+    "vatRate": 16.0,
+    "vatAmount": 590149.87,
+    "totalAmount": 4278586.54,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-REA-0019"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0020",
+    "invoiceNumber": "2024/REA/0020",
+    "invoiceDate": "2024-02-17T00:00:00Z",
+    "dueDate": "2024-09-14T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "6798568408",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1482125.53,
+        "amount": 1482125.53
+      }
+    ],
+    "subtotal": 1482125.53,
+    "vatRate": 16.0,
+    "vatAmount": 237140.08,
+    "totalAmount": 1719265.61,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-REA-0020"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0021",
+    "invoiceNumber": "2024/REA/0021",
+    "invoiceDate": "2024-05-08T00:00:00Z",
+    "dueDate": "2024-10-19T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Research",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "3835810009",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5147997.02,
+        "amount": 5147997.02
+      }
+    ],
+    "subtotal": 5147997.02,
+    "vatRate": 16.0,
+    "vatAmount": 823679.52,
+    "totalAmount": 5971676.54,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-REA-0021"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0022",
+    "invoiceNumber": "2024/REA/0022",
+    "invoiceDate": "2024-12-23T00:00:00Z",
+    "dueDate": "2024-09-22T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Legal",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "5166273919",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2964810.85,
+        "amount": 2964810.85
+      }
+    ],
+    "subtotal": 2964810.85,
+    "vatRate": 16.0,
+    "vatAmount": 474369.74,
+    "totalAmount": 3439180.59,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-REA-0022"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0023",
+    "invoiceNumber": "2024/REA/0023",
+    "invoiceDate": "2024-09-28T00:00:00Z",
+    "dueDate": "2024-08-19T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "9059645445",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1628794.02,
+        "amount": 1628794.02
+      }
+    ],
+    "subtotal": 1628794.02,
+    "vatRate": 16.0,
+    "vatAmount": 260607.04,
+    "totalAmount": 1889401.06,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-REA-0023"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0024",
+    "invoiceNumber": "2024/REA/0024",
+    "invoiceDate": "2024-12-15T00:00:00Z",
+    "dueDate": "2024-12-15T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Administration",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "9797442427",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7457427.02,
+        "amount": 7457427.02
+      }
+    ],
+    "subtotal": 7457427.02,
+    "vatRate": 16.0,
+    "vatAmount": 1193188.32,
+    "totalAmount": 8650615.34,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-REA-0024"
+  },
+  {
+    "invoiceId": "INV-REA-2024-0025",
+    "invoiceNumber": "2024/REA/0025",
+    "invoiceDate": "2024-06-09T00:00:00Z",
+    "dueDate": "2024-02-01T00:00:00Z",
+    "issuingEntity": "Rural Electrification Authority",
+    "issuingDepartment": "Finance",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "5715507267",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3777274.33,
+        "amount": 3777274.33
+      }
+    ],
+    "subtotal": 3777274.33,
+    "vatRate": 16.0,
+    "vatAmount": 604363.89,
+    "totalAmount": 4381638.22,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-REA-0025"
+  }
+]

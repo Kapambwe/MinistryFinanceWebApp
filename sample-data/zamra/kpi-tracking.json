@@ -1,0 +1,927 @@
+[
+  {
+    "id": "KPI-ZAMRA-2024-001",
+    "kpiName": "Budget Execution Rate",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 80.3,
+    "threshold": {
+      "red": 60.3,
+      "amber": 70.3,
+      "green": 80.3
+    },
+    "currentValue": 70.2,
+    "previousValue": 73.0,
+    "ytdValue": 70.2,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-05-12T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 71.5
+      },
+      {
+        "period": "Month 2",
+        "value": 98.4
+      },
+      {
+        "period": "Month 3",
+        "value": 61.6
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-002",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Weekly",
+    "target": 83.9,
+    "threshold": {
+      "red": 63.900000000000006,
+      "amber": 73.9,
+      "green": 83.9
+    },
+    "currentValue": 68.8,
+    "previousValue": 64.6,
+    "ytdValue": 68.8,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-10-05T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 77.2
+      },
+      {
+        "period": "Month 2",
+        "value": 92.9
+      },
+      {
+        "period": "Month 3",
+        "value": 77.6
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-003",
+    "kpiName": "Procurement Compliance",
+    "category": "Financial",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 87.7,
+    "threshold": {
+      "red": 67.7,
+      "amber": 77.7,
+      "green": 87.7
+    },
+    "currentValue": 88.0,
+    "previousValue": 90.3,
+    "ytdValue": 88.0,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-12-14T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 74.1
+      },
+      {
+        "period": "Month 2",
+        "value": 63.3
+      },
+      {
+        "period": "Month 3",
+        "value": 71.0
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-004",
+    "kpiName": "Staff Utilization",
+    "category": "Financial",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 94.9,
+    "threshold": {
+      "red": 74.9,
+      "amber": 84.9,
+      "green": 94.9
+    },
+    "currentValue": 87.6,
+    "previousValue": 91.7,
+    "ytdValue": 87.6,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-09-02T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 98.4
+      },
+      {
+        "period": "Month 2",
+        "value": 76.6
+      },
+      {
+        "period": "Month 3",
+        "value": 61.9
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-005",
+    "kpiName": "Service Delivery Rate",
+    "category": "HR",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 86.3,
+    "threshold": {
+      "red": 66.3,
+      "amber": 76.3,
+      "green": 86.3
+    },
+    "currentValue": 93.2,
+    "previousValue": 92.5,
+    "ytdValue": 93.2,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-12-14T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 74.9
+      },
+      {
+        "period": "Month 2",
+        "value": 84.2
+      },
+      {
+        "period": "Month 3",
+        "value": 73.6
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-006",
+    "kpiName": "Audit Completion Rate",
+    "category": "Financial",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 95.2,
+    "threshold": {
+      "red": 75.2,
+      "amber": 85.2,
+      "green": 95.2
+    },
+    "currentValue": 86.9,
+    "previousValue": 89.9,
+    "ytdValue": 86.9,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-06-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 66.1
+      },
+      {
+        "period": "Month 2",
+        "value": 65.1
+      },
+      {
+        "period": "Month 3",
+        "value": 92.7
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-007",
+    "kpiName": "Customer Satisfaction",
+    "category": "HR",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Monthly",
+    "target": 91.5,
+    "threshold": {
+      "red": 71.5,
+      "amber": 81.5,
+      "green": 91.5
+    },
+    "currentValue": 94.0,
+    "previousValue": 98.2,
+    "ytdValue": 94.0,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-06-10T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 66.3
+      },
+      {
+        "period": "Month 2",
+        "value": 67.6
+      },
+      {
+        "period": "Month 3",
+        "value": 84.3
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-008",
+    "kpiName": "System Uptime",
+    "category": "Financial",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 97.7,
+    "threshold": {
+      "red": 77.7,
+      "amber": 87.7,
+      "green": 97.7
+    },
+    "currentValue": 77.6,
+    "previousValue": 70.3,
+    "ytdValue": 77.6,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-03-01T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 67.8
+      },
+      {
+        "period": "Month 2",
+        "value": 88.4
+      },
+      {
+        "period": "Month 3",
+        "value": 96.5
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-009",
+    "kpiName": "Response Time",
+    "category": "HR",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 89.9,
+    "threshold": {
+      "red": 69.9,
+      "amber": 79.9,
+      "green": 89.9
+    },
+    "currentValue": 99.8,
+    "previousValue": 96.6,
+    "ytdValue": 99.8,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-09-06T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 95.4
+      },
+      {
+        "period": "Month 2",
+        "value": 83.7
+      },
+      {
+        "period": "Month 3",
+        "value": 78.5
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-010",
+    "kpiName": "Error Rate",
+    "category": "IT",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 86.9,
+    "threshold": {
+      "red": 66.9,
+      "amber": 76.9,
+      "green": 86.9
+    },
+    "currentValue": 94.9,
+    "previousValue": 93.7,
+    "ytdValue": 94.9,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-12-04T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 95.3
+      },
+      {
+        "period": "Month 2",
+        "value": 74.1
+      },
+      {
+        "period": "Month 3",
+        "value": 81.1
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-011",
+    "kpiName": "Training Completion",
+    "category": "HR",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 97.9,
+    "threshold": {
+      "red": 77.9,
+      "amber": 87.9,
+      "green": 97.9
+    },
+    "currentValue": 75.9,
+    "previousValue": 77.2,
+    "ytdValue": 75.9,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-03-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 71.8
+      },
+      {
+        "period": "Month 2",
+        "value": 66.0
+      },
+      {
+        "period": "Month 3",
+        "value": 98.5
+      }
+    ],
+    "actionPlan": "Improve Training Completion through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-012",
+    "kpiName": "Regulatory Compliance",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 84.1,
+    "threshold": {
+      "red": 64.1,
+      "amber": 74.1,
+      "green": 84.1
+    },
+    "currentValue": 73.7,
+    "previousValue": 69.9,
+    "ytdValue": 73.7,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-07-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 91.9
+      },
+      {
+        "period": "Month 2",
+        "value": 91.4
+      },
+      {
+        "period": "Month 3",
+        "value": 61.8
+      }
+    ],
+    "actionPlan": "Improve Regulatory Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-013",
+    "kpiName": "Cost per Transaction",
+    "category": "Operational",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 82.2,
+    "threshold": {
+      "red": 62.2,
+      "amber": 72.2,
+      "green": 82.2
+    },
+    "currentValue": 86.5,
+    "previousValue": 85.0,
+    "ytdValue": 86.5,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-09-09T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 71.2
+      },
+      {
+        "period": "Month 2",
+        "value": 93.9
+      },
+      {
+        "period": "Month 3",
+        "value": 99.8
+      }
+    ],
+    "actionPlan": "Improve Cost per Transaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-014",
+    "kpiName": "Payment Processing Time",
+    "category": "Financial",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 82.4,
+    "threshold": {
+      "red": 62.400000000000006,
+      "amber": 72.4,
+      "green": 82.4
+    },
+    "currentValue": 74.8,
+    "previousValue": 69.4,
+    "ytdValue": 74.8,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-01-11T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 75.7
+      },
+      {
+        "period": "Month 2",
+        "value": 72.2
+      },
+      {
+        "period": "Month 3",
+        "value": 65.4
+      }
+    ],
+    "actionPlan": "Improve Payment Processing Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-015",
+    "kpiName": "Report Timeliness",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 96.7,
+    "threshold": {
+      "red": 76.7,
+      "amber": 86.7,
+      "green": 96.7
+    },
+    "currentValue": 91.6,
+    "previousValue": 91.2,
+    "ytdValue": 91.6,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-02-16T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 98.4
+      },
+      {
+        "period": "Month 2",
+        "value": 84.1
+      },
+      {
+        "period": "Month 3",
+        "value": 67.2
+      }
+    ],
+    "actionPlan": "Improve Report Timeliness through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-016",
+    "kpiName": "Budget Execution Rate",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 85.3,
+    "threshold": {
+      "red": 65.3,
+      "amber": 75.3,
+      "green": 85.3
+    },
+    "currentValue": 65.4,
+    "previousValue": 68.2,
+    "ytdValue": 65.4,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-03-05T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 85.2
+      },
+      {
+        "period": "Month 2",
+        "value": 77.4
+      },
+      {
+        "period": "Month 3",
+        "value": 73.8
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-017",
+    "kpiName": "Revenue Collection Rate",
+    "category": "IT",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 97.0,
+    "threshold": {
+      "red": 77.0,
+      "amber": 87.0,
+      "green": 97.0
+    },
+    "currentValue": 79.7,
+    "previousValue": 72.8,
+    "ytdValue": 79.7,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-10-15T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 65.0
+      },
+      {
+        "period": "Month 2",
+        "value": 95.1
+      },
+      {
+        "period": "Month 3",
+        "value": 83.4
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-018",
+    "kpiName": "Procurement Compliance",
+    "category": "IT",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 84.5,
+    "threshold": {
+      "red": 64.5,
+      "amber": 74.5,
+      "green": 84.5
+    },
+    "currentValue": 87.0,
+    "previousValue": 83.5,
+    "ytdValue": 87.0,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-04-13T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 77.8
+      },
+      {
+        "period": "Month 2",
+        "value": 67.5
+      },
+      {
+        "period": "Month 3",
+        "value": 78.8
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-019",
+    "kpiName": "Staff Utilization",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 98.7,
+    "threshold": {
+      "red": 78.7,
+      "amber": 88.7,
+      "green": 98.7
+    },
+    "currentValue": 71.6,
+    "previousValue": 71.3,
+    "ytdValue": 71.6,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-07-15T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 80.3
+      },
+      {
+        "period": "Month 2",
+        "value": 85.9
+      },
+      {
+        "period": "Month 3",
+        "value": 93.4
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-020",
+    "kpiName": "Service Delivery Rate",
+    "category": "Operational",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 86.6,
+    "threshold": {
+      "red": 66.6,
+      "amber": 76.6,
+      "green": 86.6
+    },
+    "currentValue": 71.1,
+    "previousValue": 66.9,
+    "ytdValue": 71.1,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-10-03T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 91.3
+      },
+      {
+        "period": "Month 2",
+        "value": 92.9
+      },
+      {
+        "period": "Month 3",
+        "value": 96.4
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-021",
+    "kpiName": "Audit Completion Rate",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 83.5,
+    "threshold": {
+      "red": 63.5,
+      "amber": 73.5,
+      "green": 83.5
+    },
+    "currentValue": 62.6,
+    "previousValue": 63.0,
+    "ytdValue": 62.6,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-05-13T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 76.8
+      },
+      {
+        "period": "Month 2",
+        "value": 84.1
+      },
+      {
+        "period": "Month 3",
+        "value": 87.6
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-022",
+    "kpiName": "Customer Satisfaction",
+    "category": "IT",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 85.3,
+    "threshold": {
+      "red": 65.3,
+      "amber": 75.3,
+      "green": 85.3
+    },
+    "currentValue": 90.9,
+    "previousValue": 88.6,
+    "ytdValue": 90.9,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-05-03T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 66.2
+      },
+      {
+        "period": "Month 2",
+        "value": 61.7
+      },
+      {
+        "period": "Month 3",
+        "value": 61.3
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-023",
+    "kpiName": "System Uptime",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 81.7,
+    "threshold": {
+      "red": 61.7,
+      "amber": 71.7,
+      "green": 81.7
+    },
+    "currentValue": 85.5,
+    "previousValue": 78.6,
+    "ytdValue": 85.5,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-12-17T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 88.2
+      },
+      {
+        "period": "Month 2",
+        "value": 81.3
+      },
+      {
+        "period": "Month 3",
+        "value": 78.2
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-024",
+    "kpiName": "Response Time",
+    "category": "Service Delivery",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 87.5,
+    "threshold": {
+      "red": 67.5,
+      "amber": 77.5,
+      "green": 87.5
+    },
+    "currentValue": 94.3,
+    "previousValue": 92.4,
+    "ytdValue": 94.3,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-02-26T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 85.7
+      },
+      {
+        "period": "Month 2",
+        "value": 61.5
+      },
+      {
+        "period": "Month 3",
+        "value": 70.4
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMRA-2024-025",
+    "kpiName": "Error Rate",
+    "category": "HR",
+    "description": "KPI for Zambia Medicines Regulatory Authority",
+    "owner": "Zambia Medicines Regulatory Authority",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 95.9,
+    "threshold": {
+      "red": 75.9,
+      "amber": 85.9,
+      "green": 95.9
+    },
+    "currentValue": 74.4,
+    "previousValue": 74.4,
+    "ytdValue": 74.4,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-05-03T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 88.0
+      },
+      {
+        "period": "Month 2",
+        "value": 81.9
+      },
+      {
+        "period": "Month 3",
+        "value": 63.6
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  }
+]

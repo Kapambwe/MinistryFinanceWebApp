@@ -1,0 +1,439 @@
+[
+  {
+    "id": "CC-FIC-2024-001",
+    "checkType": "Procurement Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-04-25T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 80.3,
+    "status": "Compliant",
+    "findings": 8,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-01-07T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-FIC-2024-002",
+    "checkType": "IT Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-03-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 85.8,
+    "status": "Partially Compliant",
+    "findings": 8,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-01-20T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-FIC-2024-003",
+    "checkType": "IT Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-07-12T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 91.4,
+    "status": "Non-Compliant",
+    "findings": 7,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-06-08T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-FIC-2024-004",
+    "checkType": "HR Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-05-26T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 66.2,
+    "status": "Non-Compliant",
+    "findings": 5,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-03-04T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-FIC-2024-005",
+    "checkType": "IT Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-03-02T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 95.7,
+    "status": "Partially Compliant",
+    "findings": 0,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-09-20T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-FIC-2024-006",
+    "checkType": "HR Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-09-06T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 79.0,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-04-28T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-FIC-2024-007",
+    "checkType": "HR Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-01-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 83.5,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-10-02T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-FIC-2024-008",
+    "checkType": "Budget Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-10-06T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.4,
+    "status": "Compliant",
+    "findings": 1,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-05-01T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-FIC-2024-009",
+    "checkType": "Budget Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-06-21T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 75.5,
+    "status": "Partially Compliant",
+    "findings": 4,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-07-17T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-FIC-2024-010",
+    "checkType": "Budget Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-11-26T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 62.9,
+    "status": "Non-Compliant",
+    "findings": 3,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-04-27T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-FIC-2024-011",
+    "checkType": "IT Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-10-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 95.7,
+    "status": "Compliant",
+    "findings": 1,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-06-15T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-FIC-2024-012",
+    "checkType": "IT Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-02-14T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.1,
+    "status": "Partially Compliant",
+    "findings": 2,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-12-14T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-FIC-2024-013",
+    "checkType": "Budget Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-01-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 58.5,
+    "status": "Non-Compliant",
+    "findings": 1,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-11-06T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-FIC-2024-014",
+    "checkType": "HR Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-03-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 66.5,
+    "status": "Non-Compliant",
+    "findings": 5,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-07-24T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-FIC-2024-015",
+    "checkType": "Procurement Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-11-26T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 57.8,
+    "status": "Partially Compliant",
+    "findings": 4,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-11-06T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-FIC-2024-016",
+    "checkType": "HR Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-05-22T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 57.3,
+    "status": "Partially Compliant",
+    "findings": 8,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-05-22T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-FIC-2024-017",
+    "checkType": "HR Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-04-11T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.4,
+    "status": "Partially Compliant",
+    "findings": 4,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-11-23T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-FIC-2024-018",
+    "checkType": "Procurement Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-09-22T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 93.9,
+    "status": "Partially Compliant",
+    "findings": 0,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-04-26T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-FIC-2024-019",
+    "checkType": "IT Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-06-28T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 58.3,
+    "status": "Partially Compliant",
+    "findings": 4,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-11-09T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-FIC-2024-020",
+    "checkType": "Audit Follow-up",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-12-11T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 55.8,
+    "status": "Partially Compliant",
+    "findings": 8,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-01-25T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-FIC-2024-021",
+    "checkType": "HR Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-05-14T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 87.1,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-10-01T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-FIC-2024-022",
+    "checkType": "Budget Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-02-20T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 97.6,
+    "status": "Partially Compliant",
+    "findings": 5,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-11-15T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-FIC-2024-023",
+    "checkType": "HR Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-04-26T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 55.0,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-05-08T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-FIC-2024-024",
+    "checkType": "HR Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-03-18T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 55.7,
+    "status": "Non-Compliant",
+    "findings": 4,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-10-06T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-FIC-2024-025",
+    "checkType": "Budget Compliance",
+    "entityName": "Finance Intelligence Centre",
+    "checkDate": "2024-10-12T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 97.0,
+    "status": "Compliant",
+    "findings": 7,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-01-28T00:00:00Z",
+    "remarks": "Requires immediate action"
+  }
+]

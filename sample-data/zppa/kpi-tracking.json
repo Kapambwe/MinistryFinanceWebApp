@@ -1,0 +1,927 @@
+[
+  {
+    "id": "KPI-ZPPA-2024-001",
+    "kpiName": "Budget Execution Rate",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 81.0,
+    "threshold": {
+      "red": 61.0,
+      "amber": 71.0,
+      "green": 81.0
+    },
+    "currentValue": 75.1,
+    "previousValue": 69.7,
+    "ytdValue": 75.1,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-12-22T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 82.4
+      },
+      {
+        "period": "Month 2",
+        "value": 79.2
+      },
+      {
+        "period": "Month 3",
+        "value": 94.8
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-002",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Financial",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 86.3,
+    "threshold": {
+      "red": 66.3,
+      "amber": 76.3,
+      "green": 86.3
+    },
+    "currentValue": 98.3,
+    "previousValue": 102.7,
+    "ytdValue": 98.3,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-12-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 79.2
+      },
+      {
+        "period": "Month 2",
+        "value": 69.7
+      },
+      {
+        "period": "Month 3",
+        "value": 84.2
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-003",
+    "kpiName": "Procurement Compliance",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 83.9,
+    "threshold": {
+      "red": 63.900000000000006,
+      "amber": 73.9,
+      "green": 83.9
+    },
+    "currentValue": 96.6,
+    "previousValue": 92.5,
+    "ytdValue": 96.6,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-11-12T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 72.3
+      },
+      {
+        "period": "Month 2",
+        "value": 74.4
+      },
+      {
+        "period": "Month 3",
+        "value": 95.3
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-004",
+    "kpiName": "Staff Utilization",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 88.9,
+    "threshold": {
+      "red": 68.9,
+      "amber": 78.9,
+      "green": 88.9
+    },
+    "currentValue": 92.1,
+    "previousValue": 88.0,
+    "ytdValue": 92.1,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-01-19T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 94.6
+      },
+      {
+        "period": "Month 2",
+        "value": 89.7
+      },
+      {
+        "period": "Month 3",
+        "value": 60.6
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-005",
+    "kpiName": "Service Delivery Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 90.5,
+    "threshold": {
+      "red": 70.5,
+      "amber": 80.5,
+      "green": 90.5
+    },
+    "currentValue": 83.4,
+    "previousValue": 77.5,
+    "ytdValue": 83.4,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-07-19T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 93.3
+      },
+      {
+        "period": "Month 2",
+        "value": 80.0
+      },
+      {
+        "period": "Month 3",
+        "value": 86.2
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-006",
+    "kpiName": "Audit Completion Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 93.0,
+    "threshold": {
+      "red": 73.0,
+      "amber": 83.0,
+      "green": 93.0
+    },
+    "currentValue": 70.3,
+    "previousValue": 65.0,
+    "ytdValue": 70.3,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-03-05T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 88.8
+      },
+      {
+        "period": "Month 2",
+        "value": 79.5
+      },
+      {
+        "period": "Month 3",
+        "value": 96.7
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-007",
+    "kpiName": "Customer Satisfaction",
+    "category": "Financial",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 90.3,
+    "threshold": {
+      "red": 70.3,
+      "amber": 80.3,
+      "green": 90.3
+    },
+    "currentValue": 85.7,
+    "previousValue": 89.3,
+    "ytdValue": 85.7,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-01-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 60.3
+      },
+      {
+        "period": "Month 2",
+        "value": 65.5
+      },
+      {
+        "period": "Month 3",
+        "value": 85.2
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-008",
+    "kpiName": "System Uptime",
+    "category": "Operational",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 81.3,
+    "threshold": {
+      "red": 61.3,
+      "amber": 71.3,
+      "green": 81.3
+    },
+    "currentValue": 66.0,
+    "previousValue": 60.0,
+    "ytdValue": 66.0,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-11-20T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 96.5
+      },
+      {
+        "period": "Month 2",
+        "value": 86.4
+      },
+      {
+        "period": "Month 3",
+        "value": 60.6
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-009",
+    "kpiName": "Response Time",
+    "category": "Financial",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 90.1,
+    "threshold": {
+      "red": 70.1,
+      "amber": 80.1,
+      "green": 90.1
+    },
+    "currentValue": 76.5,
+    "previousValue": 69.0,
+    "ytdValue": 76.5,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-11-14T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 92.2
+      },
+      {
+        "period": "Month 2",
+        "value": 96.4
+      },
+      {
+        "period": "Month 3",
+        "value": 64.3
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-010",
+    "kpiName": "Error Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 81.8,
+    "threshold": {
+      "red": 61.8,
+      "amber": 71.8,
+      "green": 81.8
+    },
+    "currentValue": 66.0,
+    "previousValue": 62.0,
+    "ytdValue": 66.0,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-02-12T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 98.4
+      },
+      {
+        "period": "Month 2",
+        "value": 78.4
+      },
+      {
+        "period": "Month 3",
+        "value": 69.7
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-011",
+    "kpiName": "Training Completion",
+    "category": "Financial",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 93.2,
+    "threshold": {
+      "red": 73.2,
+      "amber": 83.2,
+      "green": 93.2
+    },
+    "currentValue": 72.0,
+    "previousValue": 69.2,
+    "ytdValue": 72.0,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-09-16T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 62.2
+      },
+      {
+        "period": "Month 2",
+        "value": 60.4
+      },
+      {
+        "period": "Month 3",
+        "value": 66.9
+      }
+    ],
+    "actionPlan": "Improve Training Completion through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-012",
+    "kpiName": "Regulatory Compliance",
+    "category": "HR",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 89.5,
+    "threshold": {
+      "red": 69.5,
+      "amber": 79.5,
+      "green": 89.5
+    },
+    "currentValue": 77.4,
+    "previousValue": 72.3,
+    "ytdValue": 77.4,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-10-16T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 70.8
+      },
+      {
+        "period": "Month 2",
+        "value": 97.0
+      },
+      {
+        "period": "Month 3",
+        "value": 87.4
+      }
+    ],
+    "actionPlan": "Improve Regulatory Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-013",
+    "kpiName": "Cost per Transaction",
+    "category": "Financial",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 85.3,
+    "threshold": {
+      "red": 65.3,
+      "amber": 75.3,
+      "green": 85.3
+    },
+    "currentValue": 81.7,
+    "previousValue": 73.7,
+    "ytdValue": 81.7,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-10-05T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 90.1
+      },
+      {
+        "period": "Month 2",
+        "value": 88.5
+      },
+      {
+        "period": "Month 3",
+        "value": 75.9
+      }
+    ],
+    "actionPlan": "Improve Cost per Transaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-014",
+    "kpiName": "Payment Processing Time",
+    "category": "Operational",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 81.5,
+    "threshold": {
+      "red": 61.5,
+      "amber": 71.5,
+      "green": 81.5
+    },
+    "currentValue": 66.5,
+    "previousValue": 63.7,
+    "ytdValue": 66.5,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-03-26T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 99.5
+      },
+      {
+        "period": "Month 2",
+        "value": 89.0
+      },
+      {
+        "period": "Month 3",
+        "value": 80.0
+      }
+    ],
+    "actionPlan": "Improve Payment Processing Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-015",
+    "kpiName": "Report Timeliness",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 98.5,
+    "threshold": {
+      "red": 78.5,
+      "amber": 88.5,
+      "green": 98.5
+    },
+    "currentValue": 62.1,
+    "previousValue": 59.1,
+    "ytdValue": 62.1,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-10-13T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 98.8
+      },
+      {
+        "period": "Month 2",
+        "value": 73.1
+      },
+      {
+        "period": "Month 3",
+        "value": 85.4
+      }
+    ],
+    "actionPlan": "Improve Report Timeliness through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-016",
+    "kpiName": "Budget Execution Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 94.9,
+    "threshold": {
+      "red": 74.9,
+      "amber": 84.9,
+      "green": 94.9
+    },
+    "currentValue": 78.0,
+    "previousValue": 75.3,
+    "ytdValue": 78.0,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-10-22T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 75.2
+      },
+      {
+        "period": "Month 2",
+        "value": 90.9
+      },
+      {
+        "period": "Month 3",
+        "value": 71.8
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-017",
+    "kpiName": "Revenue Collection Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 84.7,
+    "threshold": {
+      "red": 64.7,
+      "amber": 74.7,
+      "green": 84.7
+    },
+    "currentValue": 62.9,
+    "previousValue": 63.3,
+    "ytdValue": 62.9,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-03-24T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 75.6
+      },
+      {
+        "period": "Month 2",
+        "value": 74.4
+      },
+      {
+        "period": "Month 3",
+        "value": 63.7
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-018",
+    "kpiName": "Procurement Compliance",
+    "category": "HR",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 97.9,
+    "threshold": {
+      "red": 77.9,
+      "amber": 87.9,
+      "green": 97.9
+    },
+    "currentValue": 77.8,
+    "previousValue": 71.0,
+    "ytdValue": 77.8,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-08-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 82.2
+      },
+      {
+        "period": "Month 2",
+        "value": 76.3
+      },
+      {
+        "period": "Month 3",
+        "value": 61.1
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-019",
+    "kpiName": "Staff Utilization",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 86.7,
+    "threshold": {
+      "red": 66.7,
+      "amber": 76.7,
+      "green": 86.7
+    },
+    "currentValue": 63.7,
+    "previousValue": 57.4,
+    "ytdValue": 63.7,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-07-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 63.4
+      },
+      {
+        "period": "Month 2",
+        "value": 96.0
+      },
+      {
+        "period": "Month 3",
+        "value": 96.2
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-020",
+    "kpiName": "Service Delivery Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 98.6,
+    "threshold": {
+      "red": 78.6,
+      "amber": 88.6,
+      "green": 98.6
+    },
+    "currentValue": 82.9,
+    "previousValue": 76.3,
+    "ytdValue": 82.9,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-05-16T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 65.8
+      },
+      {
+        "period": "Month 2",
+        "value": 66.7
+      },
+      {
+        "period": "Month 3",
+        "value": 71.0
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-021",
+    "kpiName": "Audit Completion Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 85.7,
+    "threshold": {
+      "red": 65.7,
+      "amber": 75.7,
+      "green": 85.7
+    },
+    "currentValue": 91.3,
+    "previousValue": 92.0,
+    "ytdValue": 91.3,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-10-20T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 67.8
+      },
+      {
+        "period": "Month 2",
+        "value": 64.3
+      },
+      {
+        "period": "Month 3",
+        "value": 72.2
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-022",
+    "kpiName": "Customer Satisfaction",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 98.0,
+    "threshold": {
+      "red": 78.0,
+      "amber": 88.0,
+      "green": 98.0
+    },
+    "currentValue": 73.3,
+    "previousValue": 70.8,
+    "ytdValue": 73.3,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-11-20T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 65.4
+      },
+      {
+        "period": "Month 2",
+        "value": 72.8
+      },
+      {
+        "period": "Month 3",
+        "value": 97.9
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-023",
+    "kpiName": "System Uptime",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 83.8,
+    "threshold": {
+      "red": 63.8,
+      "amber": 73.8,
+      "green": 83.8
+    },
+    "currentValue": 72.6,
+    "previousValue": 73.3,
+    "ytdValue": 72.6,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-08-19T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 91.3
+      },
+      {
+        "period": "Month 2",
+        "value": 73.0
+      },
+      {
+        "period": "Month 3",
+        "value": 71.2
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-024",
+    "kpiName": "Response Time",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 94.9,
+    "threshold": {
+      "red": 74.9,
+      "amber": 84.9,
+      "green": 94.9
+    },
+    "currentValue": 74.6,
+    "previousValue": 74.8,
+    "ytdValue": 74.6,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-01-24T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 78.5
+      },
+      {
+        "period": "Month 2",
+        "value": 88.3
+      },
+      {
+        "period": "Month 3",
+        "value": 77.5
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZPPA-2024-025",
+    "kpiName": "Error Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Public Procurement Authority",
+    "owner": "Zambia Public Procurement Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 85.5,
+    "threshold": {
+      "red": 65.5,
+      "amber": 75.5,
+      "green": 85.5
+    },
+    "currentValue": 87.7,
+    "previousValue": 87.3,
+    "ytdValue": 87.7,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-05-22T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 66.2
+      },
+      {
+        "period": "Month 2",
+        "value": 76.9
+      },
+      {
+        "period": "Month 3",
+        "value": 75.1
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  }
+]

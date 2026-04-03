@@ -1,0 +1,927 @@
+[
+  {
+    "id": "KPI-ZAMMSA-2024-001",
+    "kpiName": "Budget Execution Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 89.6,
+    "threshold": {
+      "red": 69.6,
+      "amber": 79.6,
+      "green": 89.6
+    },
+    "currentValue": 67.6,
+    "previousValue": 62.4,
+    "ytdValue": 67.6,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-11-10T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 60.3
+      },
+      {
+        "period": "Month 2",
+        "value": 74.2
+      },
+      {
+        "period": "Month 3",
+        "value": 90.2
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-002",
+    "kpiName": "Revenue Collection Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 86.8,
+    "threshold": {
+      "red": 66.8,
+      "amber": 76.8,
+      "green": 86.8
+    },
+    "currentValue": 62.9,
+    "previousValue": 58.4,
+    "ytdValue": 62.9,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-02-23T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 92.4
+      },
+      {
+        "period": "Month 2",
+        "value": 95.7
+      },
+      {
+        "period": "Month 3",
+        "value": 66.5
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-003",
+    "kpiName": "Procurement Compliance",
+    "category": "Financial",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Daily",
+    "target": 96.6,
+    "threshold": {
+      "red": 76.6,
+      "amber": 86.6,
+      "green": 96.6
+    },
+    "currentValue": 60.3,
+    "previousValue": 58.5,
+    "ytdValue": 60.3,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-02-19T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 93.7
+      },
+      {
+        "period": "Month 2",
+        "value": 81.0
+      },
+      {
+        "period": "Month 3",
+        "value": 93.5
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-004",
+    "kpiName": "Staff Utilization",
+    "category": "Financial",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 88.8,
+    "threshold": {
+      "red": 68.8,
+      "amber": 78.8,
+      "green": 88.8
+    },
+    "currentValue": 98.5,
+    "previousValue": 94.6,
+    "ytdValue": 98.5,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-06-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 82.4
+      },
+      {
+        "period": "Month 2",
+        "value": 92.7
+      },
+      {
+        "period": "Month 3",
+        "value": 77.5
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-005",
+    "kpiName": "Service Delivery Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 82.9,
+    "threshold": {
+      "red": 62.900000000000006,
+      "amber": 72.9,
+      "green": 82.9
+    },
+    "currentValue": 88.4,
+    "previousValue": 83.7,
+    "ytdValue": 88.4,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-07-12T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 78.0
+      },
+      {
+        "period": "Month 2",
+        "value": 68.6
+      },
+      {
+        "period": "Month 3",
+        "value": 95.5
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-006",
+    "kpiName": "Audit Completion Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 95.1,
+    "threshold": {
+      "red": 75.1,
+      "amber": 85.1,
+      "green": 95.1
+    },
+    "currentValue": 79.3,
+    "previousValue": 82.5,
+    "ytdValue": 79.3,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-04-05T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 97.0
+      },
+      {
+        "period": "Month 2",
+        "value": 91.5
+      },
+      {
+        "period": "Month 3",
+        "value": 64.7
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-007",
+    "kpiName": "Customer Satisfaction",
+    "category": "Operational",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 98.3,
+    "threshold": {
+      "red": 78.3,
+      "amber": 88.3,
+      "green": 98.3
+    },
+    "currentValue": 91.3,
+    "previousValue": 89.0,
+    "ytdValue": 91.3,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-05-11T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 77.9
+      },
+      {
+        "period": "Month 2",
+        "value": 67.6
+      },
+      {
+        "period": "Month 3",
+        "value": 66.6
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-008",
+    "kpiName": "System Uptime",
+    "category": "Financial",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 85.0,
+    "threshold": {
+      "red": 65.0,
+      "amber": 75.0,
+      "green": 85.0
+    },
+    "currentValue": 92.1,
+    "previousValue": 85.6,
+    "ytdValue": 92.1,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-05-14T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 96.9
+      },
+      {
+        "period": "Month 2",
+        "value": 74.9
+      },
+      {
+        "period": "Month 3",
+        "value": 79.9
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-009",
+    "kpiName": "Response Time",
+    "category": "HR",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 81.1,
+    "threshold": {
+      "red": 61.099999999999994,
+      "amber": 71.1,
+      "green": 81.1
+    },
+    "currentValue": 89.1,
+    "previousValue": 84.5,
+    "ytdValue": 89.1,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-02-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 67.1
+      },
+      {
+        "period": "Month 2",
+        "value": 62.2
+      },
+      {
+        "period": "Month 3",
+        "value": 81.1
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-010",
+    "kpiName": "Error Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 83.4,
+    "threshold": {
+      "red": 63.400000000000006,
+      "amber": 73.4,
+      "green": 83.4
+    },
+    "currentValue": 72.8,
+    "previousValue": 67.5,
+    "ytdValue": 72.8,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-03-13T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 90.8
+      },
+      {
+        "period": "Month 2",
+        "value": 67.8
+      },
+      {
+        "period": "Month 3",
+        "value": 61.3
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-011",
+    "kpiName": "Training Completion",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 92.4,
+    "threshold": {
+      "red": 72.4,
+      "amber": 82.4,
+      "green": 92.4
+    },
+    "currentValue": 97.2,
+    "previousValue": 88.5,
+    "ytdValue": 97.2,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-10-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 92.7
+      },
+      {
+        "period": "Month 2",
+        "value": 92.8
+      },
+      {
+        "period": "Month 3",
+        "value": 87.2
+      }
+    ],
+    "actionPlan": "Improve Training Completion through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-012",
+    "kpiName": "Regulatory Compliance",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Monthly",
+    "target": 83.5,
+    "threshold": {
+      "red": 63.5,
+      "amber": 73.5,
+      "green": 83.5
+    },
+    "currentValue": 65.8,
+    "previousValue": 62.7,
+    "ytdValue": 65.8,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-03-12T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 87.9
+      },
+      {
+        "period": "Month 2",
+        "value": 63.5
+      },
+      {
+        "period": "Month 3",
+        "value": 97.3
+      }
+    ],
+    "actionPlan": "Improve Regulatory Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-013",
+    "kpiName": "Cost per Transaction",
+    "category": "HR",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 94.3,
+    "threshold": {
+      "red": 74.3,
+      "amber": 84.3,
+      "green": 94.3
+    },
+    "currentValue": 79.0,
+    "previousValue": 73.9,
+    "ytdValue": 79.0,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-06-17T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 68.6
+      },
+      {
+        "period": "Month 2",
+        "value": 63.5
+      },
+      {
+        "period": "Month 3",
+        "value": 87.9
+      }
+    ],
+    "actionPlan": "Improve Cost per Transaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-014",
+    "kpiName": "Payment Processing Time",
+    "category": "HR",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Monthly",
+    "target": 84.1,
+    "threshold": {
+      "red": 64.1,
+      "amber": 74.1,
+      "green": 84.1
+    },
+    "currentValue": 84.9,
+    "previousValue": 79.0,
+    "ytdValue": 84.9,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-10-15T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 94.2
+      },
+      {
+        "period": "Month 2",
+        "value": 89.2
+      },
+      {
+        "period": "Month 3",
+        "value": 94.5
+      }
+    ],
+    "actionPlan": "Improve Payment Processing Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-015",
+    "kpiName": "Report Timeliness",
+    "category": "HR",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 81.8,
+    "threshold": {
+      "red": 61.8,
+      "amber": 71.8,
+      "green": 81.8
+    },
+    "currentValue": 93.1,
+    "previousValue": 97.0,
+    "ytdValue": 93.1,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-11-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 77.6
+      },
+      {
+        "period": "Month 2",
+        "value": 86.1
+      },
+      {
+        "period": "Month 3",
+        "value": 80.8
+      }
+    ],
+    "actionPlan": "Improve Report Timeliness through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-016",
+    "kpiName": "Budget Execution Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 98.2,
+    "threshold": {
+      "red": 78.2,
+      "amber": 88.2,
+      "green": 98.2
+    },
+    "currentValue": 64.2,
+    "previousValue": 62.4,
+    "ytdValue": 64.2,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-06-05T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 83.7
+      },
+      {
+        "period": "Month 2",
+        "value": 77.3
+      },
+      {
+        "period": "Month 3",
+        "value": 66.5
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-017",
+    "kpiName": "Revenue Collection Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 97.6,
+    "threshold": {
+      "red": 77.6,
+      "amber": 87.6,
+      "green": 97.6
+    },
+    "currentValue": 70.1,
+    "previousValue": 69.3,
+    "ytdValue": 70.1,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-02-16T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 87.6
+      },
+      {
+        "period": "Month 2",
+        "value": 86.6
+      },
+      {
+        "period": "Month 3",
+        "value": 74.1
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-018",
+    "kpiName": "Procurement Compliance",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 90.3,
+    "threshold": {
+      "red": 70.3,
+      "amber": 80.3,
+      "green": 90.3
+    },
+    "currentValue": 93.0,
+    "previousValue": 93.5,
+    "ytdValue": 93.0,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-03-22T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 84.5
+      },
+      {
+        "period": "Month 2",
+        "value": 93.2
+      },
+      {
+        "period": "Month 3",
+        "value": 62.1
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-019",
+    "kpiName": "Staff Utilization",
+    "category": "Financial",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 91.8,
+    "threshold": {
+      "red": 71.8,
+      "amber": 81.8,
+      "green": 91.8
+    },
+    "currentValue": 64.8,
+    "previousValue": 63.3,
+    "ytdValue": 64.8,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-02-04T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 79.6
+      },
+      {
+        "period": "Month 2",
+        "value": 72.0
+      },
+      {
+        "period": "Month 3",
+        "value": 71.6
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-020",
+    "kpiName": "Service Delivery Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 97.0,
+    "threshold": {
+      "red": 77.0,
+      "amber": 87.0,
+      "green": 97.0
+    },
+    "currentValue": 81.8,
+    "previousValue": 77.3,
+    "ytdValue": 81.8,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-06-05T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 64.7
+      },
+      {
+        "period": "Month 2",
+        "value": 87.5
+      },
+      {
+        "period": "Month 3",
+        "value": 89.1
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-021",
+    "kpiName": "Audit Completion Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Monthly",
+    "target": 82.4,
+    "threshold": {
+      "red": 62.400000000000006,
+      "amber": 72.4,
+      "green": 82.4
+    },
+    "currentValue": 80.0,
+    "previousValue": 79.5,
+    "ytdValue": 80.0,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-11-08T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 98.6
+      },
+      {
+        "period": "Month 2",
+        "value": 76.9
+      },
+      {
+        "period": "Month 3",
+        "value": 83.2
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-022",
+    "kpiName": "Customer Satisfaction",
+    "category": "Financial",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 89.8,
+    "threshold": {
+      "red": 69.8,
+      "amber": 79.8,
+      "green": 89.8
+    },
+    "currentValue": 62.6,
+    "previousValue": 57.4,
+    "ytdValue": 62.6,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-11-16T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 77.4
+      },
+      {
+        "period": "Month 2",
+        "value": 94.7
+      },
+      {
+        "period": "Month 3",
+        "value": 97.9
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-023",
+    "kpiName": "System Uptime",
+    "category": "Financial",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 81.3,
+    "threshold": {
+      "red": 61.3,
+      "amber": 71.3,
+      "green": 81.3
+    },
+    "currentValue": 76.1,
+    "previousValue": 74.7,
+    "ytdValue": 76.1,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-11-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 89.9
+      },
+      {
+        "period": "Month 2",
+        "value": 80.9
+      },
+      {
+        "period": "Month 3",
+        "value": 86.1
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-024",
+    "kpiName": "Response Time",
+    "category": "HR",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 94.9,
+    "threshold": {
+      "red": 74.9,
+      "amber": 84.9,
+      "green": 94.9
+    },
+    "currentValue": 92.0,
+    "previousValue": 87.5,
+    "ytdValue": 92.0,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-12-20T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 89.9
+      },
+      {
+        "period": "Month 2",
+        "value": 80.4
+      },
+      {
+        "period": "Month 3",
+        "value": 71.7
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ZAMMSA-2024-025",
+    "kpiName": "Error Rate",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Zambia Medicines and Medical Supplies Agency",
+    "owner": "Zambia Medicines and Medical Supplies Agency",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 86.7,
+    "threshold": {
+      "red": 66.7,
+      "amber": 76.7,
+      "green": 86.7
+    },
+    "currentValue": 80.1,
+    "previousValue": 73.4,
+    "ytdValue": 80.1,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-06-06T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 79.7
+      },
+      {
+        "period": "Month 2",
+        "value": 76.6
+      },
+      {
+        "period": "Month 3",
+        "value": 97.9
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  }
+]

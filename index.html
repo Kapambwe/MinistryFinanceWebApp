@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ministry Finance</title>
+    <base href="/" id="dynamic-base">
+    <script>
+        // Dynamically set base path for GitHub Pages deployment
+        (function () {
+            var base = document.getElementById('dynamic-base');
+            var path = window.location.pathname.includes('/MinistryFinanceWebApp')
+                ? '/MinistryFinanceWebApp/'
+                : '/';
+            base.setAttribute('href', path);
+        })();
+    </script>
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="css/decision-engine.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="CompanyApp.Government.MinistryFinanceWebApp.styles.css" rel="stylesheet" />
+    <link href="_content/Radzen.Blazor/css/material-base.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script>
+        // If redirected from 404.html, restore path
+        (function () {
+            const params = new URLSearchParams(window.location.search);
+            const path = params.get('path');
+            if (path) {
+                window.history.replaceState(null, '', '/MinistryFinanceWebApp' + decodeURIComponent(path));
+            }
+        })();
+
+        // Performance Metrics Logging
+        window.addEventListener('load', function () {
+            setTimeout(function() {
+                var navTiming = performance.timing || {};
+                var dllFiles = window._blazorwasmperf ? window._blazorwasmperf.dllFiles || [] : [];
+                var totalDllSize = dllFiles.reduce(function(s, f) { return s + (f.size || 0); }, 0);
+                var jsFiles = window._blazorwasmperf ? window._blazorwasmperf.jsFiles || [] : [];
+                var totalJsSize = jsFiles.reduce(function(s, f) { return s + (f.size || 0); }, 0);
+                var totalSize = totalDllSize + totalJsSize;
+
+                console.log('%c📊 MinistryFinanceWebApp Performance Metrics', 'color: #4CAF50; font-size: 16px; font-weight: bold;');
+                console.log('%c━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━', 'color: #4CAF50;');
+                console.log('🔹 DLLs loaded:', dllFiles.length);
+                console.log('🔹 Total DLL size:', (totalDllSize / 1024 / 1024).toFixed(2), 'MB');
+                console.log('🔹 Total JS size:', (totalJsSize / 1024 / 1024).toFixed(2), 'MB');
+                console.log('🔹 Total download:', (totalSize / 1024 / 1024).toFixed(2), 'MB');
+                console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+
+                console.log('⏱️ Page Load Time:', (navTiming.loadEventEnd - navTiming.fetchStart).toFixed(0), 'ms');
+                console.log('⏱️ DOM Content Loaded:', (navTiming.domContentLoadedEventEnd - navTiming.fetchStart).toFixed(0), 'ms');
+                console.log('⏱️ Time to Interactive:', (navTiming.domInteractive - navTiming.fetchStart).toFixed(0), 'ms');
+
+                console.log('%c🎯 Phase 3: Real Lazy Loading ACTIVE!', 'color: #FF5722; font-weight: bold; font-size: 14px;');
+                console.log('%c   ✓ Workflows assembly configured for lazy loading', 'color: #FF5722;');
+                console.log('%c   ✓ Assembly loads on first access', 'color: #FF5722;');
+                console.log('%c   ✓ Reduced initial bundle size', 'color: #FF5722;');
+                console.log('%c   ✓ Production-ready lazy loading', 'color: #FF5722;');
+                console.log('%c   ℹ️  Navigate to various pages to see lazy loading in action', 'color: #FF5722;');
+            }, 100);
+        });
+
+        // Lazy Load Tracking Functions
+        window.trackLazyLoadStart = function(featureName) {
+            window.lazyLoadStart = performance.now();
+            console.log('%c⏳ Loading: ' + featureName + '...', 'color: #FF9800; font-weight: bold;');
+        };
+
+        window.trackLazyLoadEnd = function(featureName) {
+            if (window.lazyLoadStart) {
+                var loadTime = performance.now() - window.lazyLoadStart;
+                window.lastFeatureLoadTime = loadTime;
+                console.log('%c✅ Loaded: ' + featureName + ' in ' + loadTime.toFixed(0) + 'ms', 'color: #4CAF50; font-weight: bold;');
+            }
+        };
+
+        // Login Tracking Functions
+        window.logLoginAttempt = function(username, password) {
+            console.log('blazor.webassembly.js:1 User selected: ' + username + ', Password set to: ' + password);
+        };
+
+        window.logBeforeLogin = function(username, password) {
+            console.log('blazor.webassembly.js:1 Before LoginAsync - Username: ' + username + ', Password: ' + password);
+        };
+
+        window.logMockLogin = function(username, password) {
+            console.log('blazor.webassembly.js:1 MockAuthenticationService.LoginAsync - Username: ' + username + ', Password: ' + password);
+        };
+    </script>
+</body>
+
+</html>

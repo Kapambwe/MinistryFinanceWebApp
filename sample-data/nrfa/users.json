@@ -1,0 +1,702 @@
+[
+  {
+    "userId": "USR-NRFA-001",
+    "username": "alice.kaputa",
+    "fullName": "Alice Kaputa",
+    "position": "Director General",
+    "department": "Operations",
+    "email": "alice.kaputa@nrfa.org.zm",
+    "phoneNumber": "+260-211-617357",
+    "userRole": "Director General",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Analytics",
+      "View Reports",
+      "System Admin"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2021-11-20",
+    "lastLoginDate": "2024-07-28T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Finance",
+      "HR Management"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-002",
+    "username": "paul.mbewe",
+    "fullName": "Paul Mbewe",
+    "position": "Deputy Director General",
+    "department": "Monitoring & Evaluation",
+    "email": "paul.mbewe@nrfa.org.zm",
+    "phoneNumber": "+260-211-667511",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Approve Payments",
+      "View Analytics",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-04-01",
+    "lastLoginDate": "2024-02-27T16:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Compliance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-NRFA-003",
+    "username": "andrew.ngoma",
+    "fullName": "Andrew Ngoma",
+    "position": "Director",
+    "department": "Public Relations",
+    "email": "andrew.ngoma@nrfa.org.zm",
+    "phoneNumber": "+260-211-920281",
+    "userRole": "Director",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-06-18",
+    "lastLoginDate": "2024-10-23T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-NRFA-004",
+    "username": "andrew.mbewe",
+    "fullName": "Andrew Mbewe",
+    "position": "Deputy Director",
+    "department": "Research",
+    "email": "andrew.mbewe@nrfa.org.zm",
+    "phoneNumber": "+260-211-337334",
+    "userRole": "Deputy Director",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Export Data",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-06-15",
+    "lastLoginDate": "2024-10-12T12:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-NRFA-005",
+    "username": "samuel.mutale",
+    "fullName": "Samuel Mutale",
+    "position": "Manager",
+    "department": "Corporate Affairs",
+    "email": "samuel.mutale@nrfa.org.zm",
+    "phoneNumber": "+260-211-573944",
+    "userRole": "Manager",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Export Data",
+      "Approve Payments",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-02-07",
+    "lastLoginDate": "2024-11-01T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Finance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-006",
+    "username": "miriam.tembo",
+    "fullName": "Miriam Tembo",
+    "position": "Senior Officer",
+    "department": "Planning",
+    "email": "miriam.tembo@nrfa.org.zm",
+    "phoneNumber": "+260-211-845763",
+    "userRole": "Senior Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "View Analytics",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2023-09-15",
+    "lastLoginDate": "2024-11-23T13:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Finance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-NRFA-007",
+    "username": "patricia.mwale",
+    "fullName": "Patricia Mwale",
+    "position": "Officer",
+    "department": "Public Relations",
+    "email": "patricia.mwale@nrfa.org.zm",
+    "phoneNumber": "+260-211-982013",
+    "userRole": "Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Export Data",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-01-19",
+    "lastLoginDate": "2024-07-04T17:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Procurement",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-008",
+    "username": "susan.malama",
+    "fullName": "Susan Malama",
+    "position": "Analyst",
+    "department": "Internal Audit",
+    "email": "susan.malama@nrfa.org.zm",
+    "phoneNumber": "+260-211-539533",
+    "userRole": "Analyst",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Manage Users",
+      "Export Data",
+      "View Reports"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-03-04",
+    "lastLoginDate": "2024-01-19T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Finance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-NRFA-009",
+    "username": "florence.malama",
+    "fullName": "Florence Malama",
+    "position": "Auditor",
+    "department": "Human Resources",
+    "email": "florence.malama@nrfa.org.zm",
+    "phoneNumber": "+260-211-909342",
+    "userRole": "Auditor",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "System Admin",
+      "Approve Payments",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-07-07",
+    "lastLoginDate": "2024-08-07T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "HR Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-010",
+    "username": "catherine.chipimo",
+    "fullName": "Catherine Chipimo",
+    "position": "Administrator",
+    "department": "Operations",
+    "email": "catherine.chipimo@nrfa.org.zm",
+    "phoneNumber": "+260-211-174761",
+    "userRole": "Administrator",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "Export Data",
+      "View Analytics"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2023-03-14",
+    "lastLoginDate": "2024-08-04T12:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-NRFA-011",
+    "username": "susan.banda",
+    "fullName": "Susan Banda",
+    "position": "Finance Officer",
+    "department": "Procurement",
+    "email": "susan.banda@nrfa.org.zm",
+    "phoneNumber": "+260-211-265340",
+    "userRole": "Finance Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Export Data",
+      "System Admin",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-02-26",
+    "lastLoginDate": "2024-07-09T13:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-012",
+    "username": "joseph.mutale",
+    "fullName": "Joseph Mutale",
+    "position": "HR Officer",
+    "department": "Risk Management",
+    "email": "joseph.mutale@nrfa.org.zm",
+    "phoneNumber": "+260-211-828948",
+    "userRole": "HR Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Manage Users",
+      "Approve Payments",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-01-09",
+    "lastLoginDate": "2024-06-12T14:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Procurement",
+      "HR Management"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-013",
+    "username": "emmanuel.zulu",
+    "fullName": "Emmanuel Zulu",
+    "position": "IT Officer",
+    "department": "Research",
+    "email": "emmanuel.zulu@nrfa.org.zm",
+    "phoneNumber": "+260-211-875013",
+    "userRole": "IT Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Manage Users"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2023-05-21",
+    "lastLoginDate": "2024-02-10T11:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Budget Management",
+      "Reporting"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-014",
+    "username": "francis.mbewe",
+    "fullName": "Francis Mbewe",
+    "position": "Legal Officer",
+    "department": "Human Resources",
+    "email": "francis.mbewe@nrfa.org.zm",
+    "phoneNumber": "+260-211-101337",
+    "userRole": "Legal Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Export Data",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-08-01",
+    "lastLoginDate": "2024-05-27T18:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Reporting",
+      "Compliance"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-015",
+    "username": "charity.bwalya",
+    "fullName": "Charity Bwalya",
+    "position": "Procurement Officer",
+    "department": "Monitoring & Evaluation",
+    "email": "charity.bwalya@nrfa.org.zm",
+    "phoneNumber": "+260-211-803124",
+    "userRole": "Procurement Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Analytics",
+      "System Admin",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-02-14",
+    "lastLoginDate": "2024-08-04T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Procurement",
+      "Finance"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-NRFA-016",
+    "username": "james.chilufya",
+    "fullName": "James Chilufya",
+    "position": "Director General",
+    "department": "Monitoring & Evaluation",
+    "email": "james.chilufya@nrfa.org.zm",
+    "phoneNumber": "+260-211-516540",
+    "userRole": "Director General",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "Export Data",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-11-14",
+    "lastLoginDate": "2024-06-18T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Finance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-017",
+    "username": "grace.zulu",
+    "fullName": "Grace Zulu",
+    "position": "Deputy Director General",
+    "department": "Research",
+    "email": "grace.zulu@nrfa.org.zm",
+    "phoneNumber": "+260-211-977380",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "System Admin",
+      "View Analytics",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-02-08",
+    "lastLoginDate": "2024-01-23T18:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-018",
+    "username": "miriam.chipimo",
+    "fullName": "Miriam Chipimo",
+    "position": "Director",
+    "department": "ICT",
+    "email": "miriam.chipimo@nrfa.org.zm",
+    "phoneNumber": "+260-211-608418",
+    "userRole": "Director",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Manage Users",
+      "System Admin",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-01-25",
+    "lastLoginDate": "2024-11-25T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Finance",
+      "Compliance"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-019",
+    "username": "jacqueline.kaputa",
+    "fullName": "Jacqueline Kaputa",
+    "position": "Deputy Director",
+    "department": "Compliance",
+    "email": "jacqueline.kaputa@nrfa.org.zm",
+    "phoneNumber": "+260-211-824027",
+    "userRole": "Deputy Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "Manage Users",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-11-15",
+    "lastLoginDate": "2024-06-13T13:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Reporting",
+      "Finance"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-020",
+    "username": "mwanza.chilufya",
+    "fullName": "Mwanza Chilufya",
+    "position": "Manager",
+    "department": "Human Resources",
+    "email": "mwanza.chilufya@nrfa.org.zm",
+    "phoneNumber": "+260-211-347283",
+    "userRole": "Manager",
+    "accessLevel": "Senior",
+    "permissions": [
+      "System Admin",
+      "Manage Users",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-07-03",
+    "lastLoginDate": "2024-01-25T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Finance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-021",
+    "username": "elizabeth.kaputa",
+    "fullName": "Elizabeth Kaputa",
+    "position": "Senior Officer",
+    "department": "Human Resources",
+    "email": "elizabeth.kaputa@nrfa.org.zm",
+    "phoneNumber": "+260-211-496872",
+    "userRole": "Senior Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Export Data",
+      "View Reports",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-10-08",
+    "lastLoginDate": "2024-09-18T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-NRFA-022",
+    "username": "samuel.simwanza",
+    "fullName": "Samuel Simwanza",
+    "position": "Officer",
+    "department": "Procurement",
+    "email": "samuel.simwanza@nrfa.org.zm",
+    "phoneNumber": "+260-211-513825",
+    "userRole": "Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Approve Payments",
+      "System Admin",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-05-05",
+    "lastLoginDate": "2024-01-03T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Budget Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-NRFA-023",
+    "username": "dorothy.chilufya",
+    "fullName": "Dorothy Chilufya",
+    "position": "Analyst",
+    "department": "Procurement",
+    "email": "dorothy.chilufya@nrfa.org.zm",
+    "phoneNumber": "+260-211-182006",
+    "userRole": "Analyst",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Analytics",
+      "Manage Users",
+      "Export Data"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2021-03-09",
+    "lastLoginDate": "2024-02-06T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Budget Management",
+      "HR Management"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-NRFA-024",
+    "username": "patricia.phiri",
+    "fullName": "Patricia Phiri",
+    "position": "Auditor",
+    "department": "Procurement",
+    "email": "patricia.phiri@nrfa.org.zm",
+    "phoneNumber": "+260-211-809598",
+    "userRole": "Auditor",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "Export Data",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-05-19",
+    "lastLoginDate": "2024-03-23T11:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Budget Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-NRFA-025",
+    "username": "florence.tembo",
+    "fullName": "Florence Tembo",
+    "position": "Administrator",
+    "department": "Research",
+    "email": "florence.tembo@nrfa.org.zm",
+    "phoneNumber": "+260-211-462386",
+    "userRole": "Administrator",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Export Data",
+      "Approve Payments",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-07-23",
+    "lastLoginDate": "2024-11-09T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Reporting",
+      "HR Management"
+    ],
+    "reportingTo": "USR-NRFA-001",
+    "agencyOffice": "NRFA House, Nationalist Road, Lusaka",
+    "biometricRegistered": true
+  }
+]

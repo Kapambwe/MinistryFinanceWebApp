@@ -1,0 +1,877 @@
+[
+  {
+    "id": 1,
+    "journalNumber": "JE-ZAMMSA-2024-001",
+    "journalDate": "2024-01-20T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 1 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Finance",
+    "totalDebit": 14760996.82,
+    "totalCredit": 14760996.82,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-11T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 14760996.82,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 14760996.82,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "journalNumber": "JE-ZAMMSA-2024-002",
+    "journalDate": "2024-02-16T00:00:00",
+    "fiscalYear": "2024",
+    "period": "February",
+    "description": "Journal entry 2 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 18087101.63,
+    "totalCredit": 18087101.63,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-02-22T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 18087101.63,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 18087101.63,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "journalNumber": "JE-ZAMMSA-2024-003",
+    "journalDate": "2024-03-16T00:00:00",
+    "fiscalYear": "2024",
+    "period": "March",
+    "description": "Journal entry 3 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Operations",
+    "totalDebit": 18300299.42,
+    "totalCredit": 18300299.42,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-03-27T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 18300299.42,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 18300299.42,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "journalNumber": "JE-ZAMMSA-2024-004",
+    "journalDate": "2024-04-13T00:00:00",
+    "fiscalYear": "2024",
+    "period": "April",
+    "description": "Journal entry 4 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "ICT",
+    "totalDebit": 15815719.13,
+    "totalCredit": 15815719.13,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-04-18T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 15815719.13,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 15815719.13,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "journalNumber": "JE-ZAMMSA-2024-005",
+    "journalDate": "2024-05-21T00:00:00",
+    "fiscalYear": "2024",
+    "period": "May",
+    "description": "Journal entry 5 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Planning",
+    "totalDebit": 7616455.87,
+    "totalCredit": 7616455.87,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-05-26T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 7616455.87,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 7616455.87,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "journalNumber": "JE-ZAMMSA-2024-006",
+    "journalDate": "2024-06-13T00:00:00",
+    "fiscalYear": "2024",
+    "period": "June",
+    "description": "Journal entry 6 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Operations",
+    "totalDebit": 11166075.69,
+    "totalCredit": 11166075.69,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-06-06T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 11166075.69,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 11166075.69,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "journalNumber": "JE-ZAMMSA-2024-007",
+    "journalDate": "2024-07-17T00:00:00",
+    "fiscalYear": "2024",
+    "period": "July",
+    "description": "Journal entry 7 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Internal Audit",
+    "totalDebit": 8266107.11,
+    "totalCredit": 8266107.11,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-07-11T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 8266107.11,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 8266107.11,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "journalNumber": "JE-ZAMMSA-2024-008",
+    "journalDate": "2024-08-16T00:00:00",
+    "fiscalYear": "2024",
+    "period": "August",
+    "description": "Journal entry 8 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Public Relations",
+    "totalDebit": 2647856.63,
+    "totalCredit": 2647856.63,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-08-24T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 2647856.63,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 2647856.63,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "journalNumber": "JE-ZAMMSA-2024-009",
+    "journalDate": "2024-09-17T00:00:00",
+    "fiscalYear": "2024",
+    "period": "September",
+    "description": "Journal entry 9 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 2358585.89,
+    "totalCredit": 2358585.89,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-09-14T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 2358585.89,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 2358585.89,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "journalNumber": "JE-ZAMMSA-2024-010",
+    "journalDate": "2024-10-08T00:00:00",
+    "fiscalYear": "2024",
+    "period": "October",
+    "description": "Journal entry 10 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Public Relations",
+    "totalDebit": 1591726.81,
+    "totalCredit": 1591726.81,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-10-16T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 1591726.81,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 1591726.81,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "journalNumber": "JE-ZAMMSA-2024-011",
+    "journalDate": "2024-11-23T00:00:00",
+    "fiscalYear": "2024",
+    "period": "November",
+    "description": "Journal entry 11 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Risk Management",
+    "totalDebit": 734047.95,
+    "totalCredit": 734047.95,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-11-11T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 734047.95,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 734047.95,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "journalNumber": "JE-ZAMMSA-2024-012",
+    "journalDate": "2024-12-12T00:00:00",
+    "fiscalYear": "2024",
+    "period": "December",
+    "description": "Journal entry 12 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Planning",
+    "totalDebit": 7067821.2,
+    "totalCredit": 7067821.2,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-12-11T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 7067821.2,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 7067821.2,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "journalNumber": "JE-ZAMMSA-2024-013",
+    "journalDate": "2024-01-09T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 13 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Risk Management",
+    "totalDebit": 2526532.84,
+    "totalCredit": 2526532.84,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-27T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 2526532.84,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 2526532.84,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "journalNumber": "JE-ZAMMSA-2024-014",
+    "journalDate": "2024-02-08T00:00:00",
+    "fiscalYear": "2024",
+    "period": "February",
+    "description": "Journal entry 14 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 5926665.85,
+    "totalCredit": 5926665.85,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-02-14T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 5926665.85,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 5926665.85,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "journalNumber": "JE-ZAMMSA-2024-015",
+    "journalDate": "2024-03-10T00:00:00",
+    "fiscalYear": "2024",
+    "period": "March",
+    "description": "Journal entry 15 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Internal Audit",
+    "totalDebit": 1981743.95,
+    "totalCredit": 1981743.95,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-03-20T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 1981743.95,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 1981743.95,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "journalNumber": "JE-ZAMMSA-2024-016",
+    "journalDate": "2024-04-08T00:00:00",
+    "fiscalYear": "2024",
+    "period": "April",
+    "description": "Journal entry 16 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Risk Management",
+    "totalDebit": 6445480.53,
+    "totalCredit": 6445480.53,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-04-18T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 6445480.53,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 6445480.53,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "journalNumber": "JE-ZAMMSA-2024-017",
+    "journalDate": "2024-05-26T00:00:00",
+    "fiscalYear": "2024",
+    "period": "May",
+    "description": "Journal entry 17 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Internal Audit",
+    "totalDebit": 3817526.15,
+    "totalCredit": 3817526.15,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-05-03T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 3817526.15,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 3817526.15,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "journalNumber": "JE-ZAMMSA-2024-018",
+    "journalDate": "2024-06-02T00:00:00",
+    "fiscalYear": "2024",
+    "period": "June",
+    "description": "Journal entry 18 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Procurement",
+    "totalDebit": 5711686.04,
+    "totalCredit": 5711686.04,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-06-01T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 5711686.04,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 5711686.04,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "journalNumber": "JE-ZAMMSA-2024-019",
+    "journalDate": "2024-07-22T00:00:00",
+    "fiscalYear": "2024",
+    "period": "July",
+    "description": "Journal entry 19 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Procurement",
+    "totalDebit": 19508471.55,
+    "totalCredit": 19508471.55,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-07-01T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 19508471.55,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 19508471.55,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "journalNumber": "JE-ZAMMSA-2024-020",
+    "journalDate": "2024-08-22T00:00:00",
+    "fiscalYear": "2024",
+    "period": "August",
+    "description": "Journal entry 20 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "ICT",
+    "totalDebit": 7213984.87,
+    "totalCredit": 7213984.87,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-08-10T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 7213984.87,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 7213984.87,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "journalNumber": "JE-ZAMMSA-2024-021",
+    "journalDate": "2024-09-22T00:00:00",
+    "fiscalYear": "2024",
+    "period": "September",
+    "description": "Journal entry 21 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Operations",
+    "totalDebit": 14797735.76,
+    "totalCredit": 14797735.76,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-09-14T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 14797735.76,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 14797735.76,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "journalNumber": "JE-ZAMMSA-2024-022",
+    "journalDate": "2024-10-11T00:00:00",
+    "fiscalYear": "2024",
+    "period": "October",
+    "description": "Journal entry 22 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Operations",
+    "totalDebit": 6448440.14,
+    "totalCredit": 6448440.14,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-10-24T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 6448440.14,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 6448440.14,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "journalNumber": "JE-ZAMMSA-2024-023",
+    "journalDate": "2024-11-21T00:00:00",
+    "fiscalYear": "2024",
+    "period": "November",
+    "description": "Journal entry 23 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 19536176.18,
+    "totalCredit": 19536176.18,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-11-04T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 19536176.18,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 19536176.18,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "journalNumber": "JE-ZAMMSA-2024-024",
+    "journalDate": "2024-12-24T00:00:00",
+    "fiscalYear": "2024",
+    "period": "December",
+    "description": "Journal entry 24 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Planning",
+    "totalDebit": 1169301.49,
+    "totalCredit": 1169301.49,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-12-08T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 1169301.49,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 1169301.49,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "journalNumber": "JE-ZAMMSA-2024-025",
+    "journalDate": "2024-01-12T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 25 for Zambia Medicines and Medical Supplies Agency",
+    "ministry": "Zambia Medicines and Medical Supplies Agency",
+    "department": "Procurement",
+    "totalDebit": 18228466.1,
+    "totalCredit": 18228466.1,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-16T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 18228466.1,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 18228466.1,
+        "description": "Credit entry"
+      }
+    ]
+  }
+]

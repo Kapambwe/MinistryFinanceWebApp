@@ -1,0 +1,927 @@
+[
+  {
+    "id": "KPI-ACC-2024-001",
+    "kpiName": "Budget Execution Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "ZMW",
+    "frequency": "Monthly",
+    "target": 92.3,
+    "threshold": {
+      "red": 72.3,
+      "amber": 82.3,
+      "green": 92.3
+    },
+    "currentValue": 71.3,
+    "previousValue": 71.6,
+    "ytdValue": 71.3,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-02-12T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 96.9
+      },
+      {
+        "period": "Month 2",
+        "value": 69.4
+      },
+      {
+        "period": "Month 3",
+        "value": 81.8
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-002",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 88.5,
+    "threshold": {
+      "red": 68.5,
+      "amber": 78.5,
+      "green": 88.5
+    },
+    "currentValue": 79.1,
+    "previousValue": 82.3,
+    "ytdValue": 79.1,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-05-13T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 91.2
+      },
+      {
+        "period": "Month 2",
+        "value": 98.5
+      },
+      {
+        "period": "Month 3",
+        "value": 62.5
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-003",
+    "kpiName": "Procurement Compliance",
+    "category": "IT",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 91.9,
+    "threshold": {
+      "red": 71.9,
+      "amber": 81.9,
+      "green": 91.9
+    },
+    "currentValue": 98.9,
+    "previousValue": 97.1,
+    "ytdValue": 98.9,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-10-14T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 80.2
+      },
+      {
+        "period": "Month 2",
+        "value": 88.7
+      },
+      {
+        "period": "Month 3",
+        "value": 66.2
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-004",
+    "kpiName": "Staff Utilization",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 95.8,
+    "threshold": {
+      "red": 75.8,
+      "amber": 85.8,
+      "green": 95.8
+    },
+    "currentValue": 72.8,
+    "previousValue": 76.4,
+    "ytdValue": 72.8,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-11-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 72.7
+      },
+      {
+        "period": "Month 2",
+        "value": 81.0
+      },
+      {
+        "period": "Month 3",
+        "value": 75.9
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-005",
+    "kpiName": "Service Delivery Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 83.5,
+    "threshold": {
+      "red": 63.5,
+      "amber": 73.5,
+      "green": 83.5
+    },
+    "currentValue": 85.0,
+    "previousValue": 85.4,
+    "ytdValue": 85.0,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-11-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 74.4
+      },
+      {
+        "period": "Month 2",
+        "value": 99.8
+      },
+      {
+        "period": "Month 3",
+        "value": 75.2
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-006",
+    "kpiName": "Audit Completion Rate",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 91.8,
+    "threshold": {
+      "red": 71.8,
+      "amber": 81.8,
+      "green": 91.8
+    },
+    "currentValue": 87.4,
+    "previousValue": 87.5,
+    "ytdValue": 87.4,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-05-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 67.0
+      },
+      {
+        "period": "Month 2",
+        "value": 89.9
+      },
+      {
+        "period": "Month 3",
+        "value": 94.1
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-007",
+    "kpiName": "Customer Satisfaction",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 85.1,
+    "threshold": {
+      "red": 65.1,
+      "amber": 75.1,
+      "green": 85.1
+    },
+    "currentValue": 67.3,
+    "previousValue": 66.6,
+    "ytdValue": 67.3,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-03-12T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 93.1
+      },
+      {
+        "period": "Month 2",
+        "value": 84.5
+      },
+      {
+        "period": "Month 3",
+        "value": 67.4
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-008",
+    "kpiName": "System Uptime",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 84.7,
+    "threshold": {
+      "red": 64.7,
+      "amber": 74.7,
+      "green": 84.7
+    },
+    "currentValue": 98.1,
+    "previousValue": 100.5,
+    "ytdValue": 98.1,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-04-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 98.4
+      },
+      {
+        "period": "Month 2",
+        "value": 97.0
+      },
+      {
+        "period": "Month 3",
+        "value": 97.4
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-009",
+    "kpiName": "Response Time",
+    "category": "Financial",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 86.5,
+    "threshold": {
+      "red": 66.5,
+      "amber": 76.5,
+      "green": 86.5
+    },
+    "currentValue": 66.6,
+    "previousValue": 65.3,
+    "ytdValue": 66.6,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-12-16T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 67.1
+      },
+      {
+        "period": "Month 2",
+        "value": 97.8
+      },
+      {
+        "period": "Month 3",
+        "value": 75.6
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-010",
+    "kpiName": "Error Rate",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 98.4,
+    "threshold": {
+      "red": 78.4,
+      "amber": 88.4,
+      "green": 98.4
+    },
+    "currentValue": 66.9,
+    "previousValue": 63.7,
+    "ytdValue": 66.9,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-11-12T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 64.1
+      },
+      {
+        "period": "Month 2",
+        "value": 94.4
+      },
+      {
+        "period": "Month 3",
+        "value": 97.6
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-011",
+    "kpiName": "Training Completion",
+    "category": "HR",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 82.0,
+    "threshold": {
+      "red": 62.0,
+      "amber": 72.0,
+      "green": 82.0
+    },
+    "currentValue": 88.4,
+    "previousValue": 92.2,
+    "ytdValue": 88.4,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-09-09T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 98.3
+      },
+      {
+        "period": "Month 2",
+        "value": 98.0
+      },
+      {
+        "period": "Month 3",
+        "value": 82.3
+      }
+    ],
+    "actionPlan": "Improve Training Completion through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-012",
+    "kpiName": "Regulatory Compliance",
+    "category": "IT",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 80.3,
+    "threshold": {
+      "red": 60.3,
+      "amber": 70.3,
+      "green": 80.3
+    },
+    "currentValue": 72.8,
+    "previousValue": 68.0,
+    "ytdValue": 72.8,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-05-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 84.9
+      },
+      {
+        "period": "Month 2",
+        "value": 95.1
+      },
+      {
+        "period": "Month 3",
+        "value": 95.8
+      }
+    ],
+    "actionPlan": "Improve Regulatory Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-013",
+    "kpiName": "Cost per Transaction",
+    "category": "Financial",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 95.7,
+    "threshold": {
+      "red": 75.7,
+      "amber": 85.7,
+      "green": 95.7
+    },
+    "currentValue": 63.0,
+    "previousValue": 58.3,
+    "ytdValue": 63.0,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-09-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 88.2
+      },
+      {
+        "period": "Month 2",
+        "value": 83.3
+      },
+      {
+        "period": "Month 3",
+        "value": 70.8
+      }
+    ],
+    "actionPlan": "Improve Cost per Transaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-014",
+    "kpiName": "Payment Processing Time",
+    "category": "Operational",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 80.7,
+    "threshold": {
+      "red": 60.7,
+      "amber": 70.7,
+      "green": 80.7
+    },
+    "currentValue": 93.5,
+    "previousValue": 85.4,
+    "ytdValue": 93.5,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-08-04T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 73.1
+      },
+      {
+        "period": "Month 2",
+        "value": 73.1
+      },
+      {
+        "period": "Month 3",
+        "value": 64.3
+      }
+    ],
+    "actionPlan": "Improve Payment Processing Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-015",
+    "kpiName": "Report Timeliness",
+    "category": "Operational",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 93.8,
+    "threshold": {
+      "red": 73.8,
+      "amber": 83.8,
+      "green": 93.8
+    },
+    "currentValue": 74.6,
+    "previousValue": 75.3,
+    "ytdValue": 74.6,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-02-08T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 92.0
+      },
+      {
+        "period": "Month 2",
+        "value": 77.9
+      },
+      {
+        "period": "Month 3",
+        "value": 72.7
+      }
+    ],
+    "actionPlan": "Improve Report Timeliness through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-016",
+    "kpiName": "Budget Execution Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Percentage",
+    "frequency": "Weekly",
+    "target": 80.3,
+    "threshold": {
+      "red": 60.3,
+      "amber": 70.3,
+      "green": 80.3
+    },
+    "currentValue": 84.8,
+    "previousValue": 88.4,
+    "ytdValue": 84.8,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-01-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 74.2
+      },
+      {
+        "period": "Month 2",
+        "value": 78.3
+      },
+      {
+        "period": "Month 3",
+        "value": 84.6
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-017",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "ZMW",
+    "frequency": "Monthly",
+    "target": 98.0,
+    "threshold": {
+      "red": 78.0,
+      "amber": 88.0,
+      "green": 98.0
+    },
+    "currentValue": 64.9,
+    "previousValue": 64.3,
+    "ytdValue": 64.9,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-08-01T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 70.9
+      },
+      {
+        "period": "Month 2",
+        "value": 65.2
+      },
+      {
+        "period": "Month 3",
+        "value": 93.8
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-018",
+    "kpiName": "Procurement Compliance",
+    "category": "HR",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 90.0,
+    "threshold": {
+      "red": 70.0,
+      "amber": 80.0,
+      "green": 90.0
+    },
+    "currentValue": 94.3,
+    "previousValue": 97.5,
+    "ytdValue": 94.3,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-09-26T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 96.5
+      },
+      {
+        "period": "Month 2",
+        "value": 91.0
+      },
+      {
+        "period": "Month 3",
+        "value": 76.6
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-019",
+    "kpiName": "Staff Utilization",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 98.2,
+    "threshold": {
+      "red": 78.2,
+      "amber": 88.2,
+      "green": 98.2
+    },
+    "currentValue": 94.6,
+    "previousValue": 92.8,
+    "ytdValue": 94.6,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-05-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 66.7
+      },
+      {
+        "period": "Month 2",
+        "value": 79.7
+      },
+      {
+        "period": "Month 3",
+        "value": 73.5
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-020",
+    "kpiName": "Service Delivery Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 86.4,
+    "threshold": {
+      "red": 66.4,
+      "amber": 76.4,
+      "green": 86.4
+    },
+    "currentValue": 89.6,
+    "previousValue": 93.6,
+    "ytdValue": 89.6,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-12-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 84.5
+      },
+      {
+        "period": "Month 2",
+        "value": 67.1
+      },
+      {
+        "period": "Month 3",
+        "value": 65.2
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-021",
+    "kpiName": "Audit Completion Rate",
+    "category": "Financial",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 98.2,
+    "threshold": {
+      "red": 78.2,
+      "amber": 88.2,
+      "green": 98.2
+    },
+    "currentValue": 96.4,
+    "previousValue": 87.1,
+    "ytdValue": 96.4,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-01-02T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 66.2
+      },
+      {
+        "period": "Month 2",
+        "value": 72.3
+      },
+      {
+        "period": "Month 3",
+        "value": 85.6
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-022",
+    "kpiName": "Customer Satisfaction",
+    "category": "Financial",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 91.1,
+    "threshold": {
+      "red": 71.1,
+      "amber": 81.1,
+      "green": 91.1
+    },
+    "currentValue": 95.1,
+    "previousValue": 94.8,
+    "ytdValue": 95.1,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-06-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 72.7
+      },
+      {
+        "period": "Month 2",
+        "value": 68.3
+      },
+      {
+        "period": "Month 3",
+        "value": 73.0
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-023",
+    "kpiName": "System Uptime",
+    "category": "IT",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 89.1,
+    "threshold": {
+      "red": 69.1,
+      "amber": 79.1,
+      "green": 89.1
+    },
+    "currentValue": 80.9,
+    "previousValue": 76.3,
+    "ytdValue": 80.9,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-09-17T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 84.7
+      },
+      {
+        "period": "Month 2",
+        "value": 75.4
+      },
+      {
+        "period": "Month 3",
+        "value": 84.8
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-024",
+    "kpiName": "Response Time",
+    "category": "Operational",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 93.6,
+    "threshold": {
+      "red": 73.6,
+      "amber": 83.6,
+      "green": 93.6
+    },
+    "currentValue": 65.8,
+    "previousValue": 68.1,
+    "ytdValue": 65.8,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-12-10T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 85.7
+      },
+      {
+        "period": "Month 2",
+        "value": 66.0
+      },
+      {
+        "period": "Month 3",
+        "value": 60.3
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ACC-2024-025",
+    "kpiName": "Error Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Anti-Corruption Commission",
+    "owner": "Anti-Corruption Commission",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 87.0,
+    "threshold": {
+      "red": 67.0,
+      "amber": 77.0,
+      "green": 87.0
+    },
+    "currentValue": 80.6,
+    "previousValue": 75.1,
+    "ytdValue": 80.6,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-09-07T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 92.2
+      },
+      {
+        "period": "Month 2",
+        "value": 66.9
+      },
+      {
+        "period": "Month 3",
+        "value": 81.7
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  }
+]

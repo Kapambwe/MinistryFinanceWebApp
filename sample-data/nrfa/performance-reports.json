@@ -1,0 +1,677 @@
+[
+  {
+    "id": "PR-NRFA-2024-001",
+    "reportTitle": "Performance Report 001 - National Road Fund Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-09-19T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 68.9,
+    "budgetUtilization": 90.0,
+    "programDelivery": 76.3,
+    "staffPerformance": 71.5,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-NRFA-2024-002",
+    "reportTitle": "Performance Report 002 - National Road Fund Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-08-04T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 84.7,
+    "budgetUtilization": 68.5,
+    "programDelivery": 74.0,
+    "staffPerformance": 80.6,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-NRFA-2024-003",
+    "reportTitle": "Performance Report 003 - National Road Fund Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-07-23T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 81.0,
+    "budgetUtilization": 80.1,
+    "programDelivery": 78.2,
+    "staffPerformance": 83.5,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-004",
+    "reportTitle": "Performance Report 004 - National Road Fund Agency",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-10-04T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 69.3,
+    "budgetUtilization": 90.5,
+    "programDelivery": 90.8,
+    "staffPerformance": 82.1,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-005",
+    "reportTitle": "Performance Report 005 - National Road Fund Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-04-22T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 81.2,
+    "budgetUtilization": 79.0,
+    "programDelivery": 58.4,
+    "staffPerformance": 87.3,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-NRFA-2024-006",
+    "reportTitle": "Performance Report 006 - National Road Fund Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-04-24T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 87.8,
+    "budgetUtilization": 96.5,
+    "programDelivery": 99.5,
+    "staffPerformance": 84.4,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-NRFA-2024-007",
+    "reportTitle": "Performance Report 007 - National Road Fund Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-04-19T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 87.3,
+    "budgetUtilization": 77.6,
+    "programDelivery": 89.3,
+    "staffPerformance": 82.3,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-008",
+    "reportTitle": "Performance Report 008 - National Road Fund Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-01-09T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 92.1,
+    "budgetUtilization": 69.7,
+    "programDelivery": 97.9,
+    "staffPerformance": 74.8,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-NRFA-2024-009",
+    "reportTitle": "Performance Report 009 - National Road Fund Agency",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-12-22T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 84.4,
+    "budgetUtilization": 83.2,
+    "programDelivery": 69.1,
+    "staffPerformance": 77.5,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-010",
+    "reportTitle": "Performance Report 010 - National Road Fund Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-03-07T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 89.4,
+    "budgetUtilization": 95.4,
+    "programDelivery": 56.5,
+    "staffPerformance": 94.2,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-NRFA-2024-011",
+    "reportTitle": "Performance Report 011 - National Road Fund Agency",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-06-18T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 76.3,
+    "budgetUtilization": 86.5,
+    "programDelivery": 86.2,
+    "staffPerformance": 93.5,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-NRFA-2024-012",
+    "reportTitle": "Performance Report 012 - National Road Fund Agency",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-09-03T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 83.5,
+    "budgetUtilization": 71.3,
+    "programDelivery": 62.5,
+    "staffPerformance": 72.3,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-NRFA-2024-013",
+    "reportTitle": "Performance Report 013 - National Road Fund Agency",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-11-10T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 76.9,
+    "budgetUtilization": 72.0,
+    "programDelivery": 95.4,
+    "staffPerformance": 75.5,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-NRFA-2024-014",
+    "reportTitle": "Performance Report 014 - National Road Fund Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-02-23T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 83.8,
+    "budgetUtilization": 64.1,
+    "programDelivery": 94.7,
+    "staffPerformance": 71.7,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-015",
+    "reportTitle": "Performance Report 015 - National Road Fund Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-03-09T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 71.8,
+    "budgetUtilization": 64.4,
+    "programDelivery": 81.2,
+    "staffPerformance": 84.3,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-016",
+    "reportTitle": "Performance Report 016 - National Road Fund Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-08-26T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 85.9,
+    "budgetUtilization": 75.1,
+    "programDelivery": 60.1,
+    "staffPerformance": 76.8,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-017",
+    "reportTitle": "Performance Report 017 - National Road Fund Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-11-23T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 71.1,
+    "budgetUtilization": 61.4,
+    "programDelivery": 89.6,
+    "staffPerformance": 92.7,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-NRFA-2024-018",
+    "reportTitle": "Performance Report 018 - National Road Fund Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-02-28T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 78.5,
+    "budgetUtilization": 78.6,
+    "programDelivery": 67.2,
+    "staffPerformance": 79.8,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-NRFA-2024-019",
+    "reportTitle": "Performance Report 019 - National Road Fund Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-05-04T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 71.8,
+    "budgetUtilization": 89.4,
+    "programDelivery": 72.3,
+    "staffPerformance": 88.0,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-020",
+    "reportTitle": "Performance Report 020 - National Road Fund Agency",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-06-02T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 92.3,
+    "budgetUtilization": 81.0,
+    "programDelivery": 83.8,
+    "staffPerformance": 84.5,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-021",
+    "reportTitle": "Performance Report 021 - National Road Fund Agency",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-01-19T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 69.5,
+    "budgetUtilization": 62.9,
+    "programDelivery": 65.1,
+    "staffPerformance": 92.0,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-022",
+    "reportTitle": "Performance Report 022 - National Road Fund Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-11-11T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 88.6,
+    "budgetUtilization": 61.6,
+    "programDelivery": 84.2,
+    "staffPerformance": 82.9,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-023",
+    "reportTitle": "Performance Report 023 - National Road Fund Agency",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-03-20T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 74.0,
+    "budgetUtilization": 61.3,
+    "programDelivery": 61.3,
+    "staffPerformance": 81.4,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-NRFA-2024-024",
+    "reportTitle": "Performance Report 024 - National Road Fund Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-02-05T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 82.2,
+    "budgetUtilization": 91.4,
+    "programDelivery": 82.7,
+    "staffPerformance": 86.8,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-NRFA-2024-025",
+    "reportTitle": "Performance Report 025 - National Road Fund Agency",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-06-18T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "National Road Fund Agency",
+    "overallScore": 76.5,
+    "budgetUtilization": 83.7,
+    "programDelivery": 65.9,
+    "staffPerformance": 79.5,
+    "highlights": [
+      "Achievement 1 for National Road Fund Agency",
+      "Achievement 2 for National Road Fund Agency",
+      "Achievement 3 for National Road Fund Agency"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  }
+]

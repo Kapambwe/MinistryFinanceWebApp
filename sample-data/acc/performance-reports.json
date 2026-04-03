@@ -1,0 +1,677 @@
+[
+  {
+    "id": "PR-ACC-2024-001",
+    "reportTitle": "Performance Report 001 - Anti-Corruption Commission",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-12-05T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 70.7,
+    "budgetUtilization": 62.4,
+    "programDelivery": 64.0,
+    "staffPerformance": 73.6,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ACC-2024-002",
+    "reportTitle": "Performance Report 002 - Anti-Corruption Commission",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-11-10T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 83.7,
+    "budgetUtilization": 62.2,
+    "programDelivery": 88.2,
+    "staffPerformance": 92.1,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ACC-2024-003",
+    "reportTitle": "Performance Report 003 - Anti-Corruption Commission",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-07-09T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 79.7,
+    "budgetUtilization": 67.8,
+    "programDelivery": 79.9,
+    "staffPerformance": 78.6,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ACC-2024-004",
+    "reportTitle": "Performance Report 004 - Anti-Corruption Commission",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-08-13T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 80.6,
+    "budgetUtilization": 63.3,
+    "programDelivery": 75.5,
+    "staffPerformance": 89.7,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ACC-2024-005",
+    "reportTitle": "Performance Report 005 - Anti-Corruption Commission",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-08-11T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 72.8,
+    "budgetUtilization": 97.0,
+    "programDelivery": 80.3,
+    "staffPerformance": 76.6,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ACC-2024-006",
+    "reportTitle": "Performance Report 006 - Anti-Corruption Commission",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-03-28T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 82.1,
+    "budgetUtilization": 61.2,
+    "programDelivery": 61.4,
+    "staffPerformance": 72.3,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ACC-2024-007",
+    "reportTitle": "Performance Report 007 - Anti-Corruption Commission",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-07-22T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 81.6,
+    "budgetUtilization": 87.7,
+    "programDelivery": 72.7,
+    "staffPerformance": 83.7,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ACC-2024-008",
+    "reportTitle": "Performance Report 008 - Anti-Corruption Commission",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-02-21T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 79.1,
+    "budgetUtilization": 62.4,
+    "programDelivery": 85.9,
+    "staffPerformance": 75.0,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ACC-2024-009",
+    "reportTitle": "Performance Report 009 - Anti-Corruption Commission",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-10-21T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 82.5,
+    "budgetUtilization": 67.1,
+    "programDelivery": 92.7,
+    "staffPerformance": 70.7,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ACC-2024-010",
+    "reportTitle": "Performance Report 010 - Anti-Corruption Commission",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-03-19T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 93.7,
+    "budgetUtilization": 94.6,
+    "programDelivery": 64.6,
+    "staffPerformance": 80.3,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ACC-2024-011",
+    "reportTitle": "Performance Report 011 - Anti-Corruption Commission",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-12-14T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 89.0,
+    "budgetUtilization": 85.0,
+    "programDelivery": 81.3,
+    "staffPerformance": 86.0,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ACC-2024-012",
+    "reportTitle": "Performance Report 012 - Anti-Corruption Commission",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-04-06T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 74.8,
+    "budgetUtilization": 73.8,
+    "programDelivery": 98.4,
+    "staffPerformance": 89.7,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ACC-2024-013",
+    "reportTitle": "Performance Report 013 - Anti-Corruption Commission",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-06-18T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 93.2,
+    "budgetUtilization": 70.1,
+    "programDelivery": 60.5,
+    "staffPerformance": 88.1,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ACC-2024-014",
+    "reportTitle": "Performance Report 014 - Anti-Corruption Commission",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-04-06T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 89.2,
+    "budgetUtilization": 71.0,
+    "programDelivery": 97.4,
+    "staffPerformance": 84.3,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ACC-2024-015",
+    "reportTitle": "Performance Report 015 - Anti-Corruption Commission",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-10-26T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 93.6,
+    "budgetUtilization": 78.9,
+    "programDelivery": 87.2,
+    "staffPerformance": 72.9,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ACC-2024-016",
+    "reportTitle": "Performance Report 016 - Anti-Corruption Commission",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-01-06T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 82.1,
+    "budgetUtilization": 76.7,
+    "programDelivery": 62.3,
+    "staffPerformance": 78.3,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ACC-2024-017",
+    "reportTitle": "Performance Report 017 - Anti-Corruption Commission",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-09-16T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 86.6,
+    "budgetUtilization": 68.1,
+    "programDelivery": 86.9,
+    "staffPerformance": 90.4,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ACC-2024-018",
+    "reportTitle": "Performance Report 018 - Anti-Corruption Commission",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-03-05T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 65.8,
+    "budgetUtilization": 85.7,
+    "programDelivery": 98.7,
+    "staffPerformance": 73.4,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ACC-2024-019",
+    "reportTitle": "Performance Report 019 - Anti-Corruption Commission",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-12-26T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 86.8,
+    "budgetUtilization": 62.1,
+    "programDelivery": 63.5,
+    "staffPerformance": 70.9,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ACC-2024-020",
+    "reportTitle": "Performance Report 020 - Anti-Corruption Commission",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-09-16T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 83.2,
+    "budgetUtilization": 95.7,
+    "programDelivery": 94.8,
+    "staffPerformance": 83.0,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ACC-2024-021",
+    "reportTitle": "Performance Report 021 - Anti-Corruption Commission",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-06-22T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 71.3,
+    "budgetUtilization": 88.1,
+    "programDelivery": 86.7,
+    "staffPerformance": 79.3,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ACC-2024-022",
+    "reportTitle": "Performance Report 022 - Anti-Corruption Commission",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-03-08T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 84.1,
+    "budgetUtilization": 75.0,
+    "programDelivery": 57.7,
+    "staffPerformance": 90.9,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ACC-2024-023",
+    "reportTitle": "Performance Report 023 - Anti-Corruption Commission",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-01-09T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 94.3,
+    "budgetUtilization": 69.0,
+    "programDelivery": 72.5,
+    "staffPerformance": 72.1,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ACC-2024-024",
+    "reportTitle": "Performance Report 024 - Anti-Corruption Commission",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-02-15T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 67.0,
+    "budgetUtilization": 91.7,
+    "programDelivery": 62.3,
+    "staffPerformance": 75.3,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ACC-2024-025",
+    "reportTitle": "Performance Report 025 - Anti-Corruption Commission",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-01-25T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Anti-Corruption Commission",
+    "overallScore": 69.5,
+    "budgetUtilization": 81.9,
+    "programDelivery": 90.1,
+    "staffPerformance": 88.2,
+    "highlights": [
+      "Achievement 1 for Anti-Corruption Commission",
+      "Achievement 2 for Anti-Corruption Commission",
+      "Achievement 3 for Anti-Corruption Commission"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  }
+]

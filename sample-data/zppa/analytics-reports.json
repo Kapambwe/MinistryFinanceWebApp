@@ -1,0 +1,702 @@
+[
+  {
+    "id": "RPT-ZPPA-2024-001",
+    "reportTitle": "Analytics Report 001 - Zambia Public Procurement Authority",
+    "reportType": "Risk",
+    "period": "Q2 2024",
+    "generatedDate": "2024-07-17T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 1 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5268,
+    "confidenceScore": 0.89,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-002",
+    "reportTitle": "Analytics Report 002 - Zambia Public Procurement Authority",
+    "reportType": "Performance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-03-07T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 2 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9286,
+    "confidenceScore": 0.98,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-003",
+    "reportTitle": "Analytics Report 003 - Zambia Public Procurement Authority",
+    "reportType": "Financial",
+    "period": "Q1 2024",
+    "generatedDate": "2024-04-17T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 3 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5565,
+    "confidenceScore": 0.89,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-004",
+    "reportTitle": "Analytics Report 004 - Zambia Public Procurement Authority",
+    "reportType": "Operational",
+    "period": "Q1 2024",
+    "generatedDate": "2024-06-22T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 4 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5922,
+    "confidenceScore": 0.92,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-005",
+    "reportTitle": "Analytics Report 005 - Zambia Public Procurement Authority",
+    "reportType": "Operational",
+    "period": "Q3 2024",
+    "generatedDate": "2024-01-21T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 5 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 6443,
+    "confidenceScore": 0.97,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-006",
+    "reportTitle": "Analytics Report 006 - Zambia Public Procurement Authority",
+    "reportType": "Financial",
+    "period": "Q3 2024",
+    "generatedDate": "2024-04-05T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 6 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 6536,
+    "confidenceScore": 0.92,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-007",
+    "reportTitle": "Analytics Report 007 - Zambia Public Procurement Authority",
+    "reportType": "Financial",
+    "period": "Q4 2024",
+    "generatedDate": "2024-09-22T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 7 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 6937,
+    "confidenceScore": 0.85,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-008",
+    "reportTitle": "Analytics Report 008 - Zambia Public Procurement Authority",
+    "reportType": "Operational",
+    "period": "Q4 2024",
+    "generatedDate": "2024-05-20T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 8 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7459,
+    "confidenceScore": 0.9,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-009",
+    "reportTitle": "Analytics Report 009 - Zambia Public Procurement Authority",
+    "reportType": "Operational",
+    "period": "Q2 2024",
+    "generatedDate": "2024-10-18T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 9 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2362,
+    "confidenceScore": 0.86,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-010",
+    "reportTitle": "Analytics Report 010 - Zambia Public Procurement Authority",
+    "reportType": "Performance",
+    "period": "Q2 2024",
+    "generatedDate": "2024-07-25T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 10 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9354,
+    "confidenceScore": 0.97,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-011",
+    "reportTitle": "Analytics Report 011 - Zambia Public Procurement Authority",
+    "reportType": "Compliance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-09-18T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 11 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3116,
+    "confidenceScore": 0.86,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-012",
+    "reportTitle": "Analytics Report 012 - Zambia Public Procurement Authority",
+    "reportType": "Operational",
+    "period": "Q1 2024",
+    "generatedDate": "2024-06-14T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 12 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 5070,
+    "confidenceScore": 0.88,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-013",
+    "reportTitle": "Analytics Report 013 - Zambia Public Procurement Authority",
+    "reportType": "Compliance",
+    "period": "Q2 2024",
+    "generatedDate": "2024-04-04T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 13 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3126,
+    "confidenceScore": 0.8,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-014",
+    "reportTitle": "Analytics Report 014 - Zambia Public Procurement Authority",
+    "reportType": "Performance",
+    "period": "Q3 2024",
+    "generatedDate": "2024-10-19T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 14 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9870,
+    "confidenceScore": 0.84,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-015",
+    "reportTitle": "Analytics Report 015 - Zambia Public Procurement Authority",
+    "reportType": "Financial",
+    "period": "Q3 2024",
+    "generatedDate": "2024-02-23T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 15 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 2296,
+    "confidenceScore": 0.9,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-016",
+    "reportTitle": "Analytics Report 016 - Zambia Public Procurement Authority",
+    "reportType": "Performance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-12-21T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 16 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3114,
+    "confidenceScore": 0.96,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-017",
+    "reportTitle": "Analytics Report 017 - Zambia Public Procurement Authority",
+    "reportType": "Risk",
+    "period": "Q4 2024",
+    "generatedDate": "2024-03-06T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 17 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3807,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-018",
+    "reportTitle": "Analytics Report 018 - Zambia Public Procurement Authority",
+    "reportType": "Financial",
+    "period": "Q3 2024",
+    "generatedDate": "2024-07-08T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Draft",
+    "summary": "Summary of analytics report 18 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 3451,
+    "confidenceScore": 0.81,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-019",
+    "reportTitle": "Analytics Report 019 - Zambia Public Procurement Authority",
+    "reportType": "Risk",
+    "period": "Q4 2024",
+    "generatedDate": "2024-12-11T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 19 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 4143,
+    "confidenceScore": 0.88,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-020",
+    "reportTitle": "Analytics Report 020 - Zambia Public Procurement Authority",
+    "reportType": "Financial",
+    "period": "Q4 2024",
+    "generatedDate": "2024-12-11T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 20 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 9470,
+    "confidenceScore": 0.91,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-021",
+    "reportTitle": "Analytics Report 021 - Zambia Public Procurement Authority",
+    "reportType": "Performance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-09-04T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 21 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 7585,
+    "confidenceScore": 0.96,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-022",
+    "reportTitle": "Analytics Report 022 - Zambia Public Procurement Authority",
+    "reportType": "Financial",
+    "period": "Q2 2024",
+    "generatedDate": "2024-09-18T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 22 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 743,
+    "confidenceScore": 0.91,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-023",
+    "reportTitle": "Analytics Report 023 - Zambia Public Procurement Authority",
+    "reportType": "Performance",
+    "period": "Q1 2024",
+    "generatedDate": "2024-04-10T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Distributed",
+    "summary": "Summary of analytics report 23 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 6621,
+    "confidenceScore": 0.97,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-024",
+    "reportTitle": "Analytics Report 024 - Zambia Public Procurement Authority",
+    "reportType": "Compliance",
+    "period": "Q4 2024",
+    "generatedDate": "2024-03-14T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Approved",
+    "summary": "Summary of analytics report 24 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 993,
+    "confidenceScore": 0.93,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  },
+  {
+    "id": "RPT-ZPPA-2024-025",
+    "reportTitle": "Analytics Report 025 - Zambia Public Procurement Authority",
+    "reportType": "Operational",
+    "period": "Q4 2024",
+    "generatedDate": "2024-11-15T00:00:00Z",
+    "generatedBy": "Analytics System",
+    "approvedBy": "Director",
+    "status": "Final",
+    "summary": "Summary of analytics report 25 for Zambia Public Procurement Authority",
+    "keyFindings": [
+      "Finding 1",
+      "Finding 2",
+      "Finding 3"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "dataPoints": 8302,
+    "confidenceScore": 0.82,
+    "distributionList": [
+      "Director General",
+      "CFO",
+      "Board",
+      "Ministry of Finance"
+    ]
+  }
+]

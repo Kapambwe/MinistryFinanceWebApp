@@ -1,0 +1,777 @@
+[
+  {
+    "id": "RA-NRFA-2024-001",
+    "entityType": "Agency",
+    "entityId": "NRFA-001",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-10-28T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 33.2,
+    "confidenceScore": 0.9,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 1",
+      "Finding 2 for assessment 1",
+      "Finding 3 for assessment 1"
+    ],
+    "indicators": {
+      "riskScore": 33.2,
+      "complianceScore": 83.3
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-06-13T09:30:00Z",
+    "amountAtRisk": 15626867.12,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-002",
+    "entityType": "Agency",
+    "entityId": "NRFA-002",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-11-02T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 45.6,
+    "confidenceScore": 0.95,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 2",
+      "Finding 2 for assessment 2",
+      "Finding 3 for assessment 2"
+    ],
+    "indicators": {
+      "riskScore": 45.6,
+      "complianceScore": 78.7
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-06-07T09:30:00Z",
+    "amountAtRisk": 11107697.76,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-003",
+    "entityType": "Agency",
+    "entityId": "NRFA-003",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-08-27T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 42.3,
+    "confidenceScore": 0.83,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 3",
+      "Finding 2 for assessment 3",
+      "Finding 3 for assessment 3"
+    ],
+    "indicators": {
+      "riskScore": 42.3,
+      "complianceScore": 52.9
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-12-09T09:30:00Z",
+    "amountAtRisk": 8225974.31,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-004",
+    "entityType": "Agency",
+    "entityId": "NRFA-004",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-04-22T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 25.7,
+    "confidenceScore": 0.95,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 4",
+      "Finding 2 for assessment 4",
+      "Finding 3 for assessment 4"
+    ],
+    "indicators": {
+      "riskScore": 25.7,
+      "complianceScore": 54.5
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-02-21T09:30:00Z",
+    "amountAtRisk": 3761214.75,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-005",
+    "entityType": "Agency",
+    "entityId": "NRFA-005",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-05-02T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 28.6,
+    "confidenceScore": 0.87,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 5",
+      "Finding 2 for assessment 5",
+      "Finding 3 for assessment 5"
+    ],
+    "indicators": {
+      "riskScore": 28.6,
+      "complianceScore": 91.8
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-01-01T09:30:00Z",
+    "amountAtRisk": 9269413.63,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-006",
+    "entityType": "Agency",
+    "entityId": "NRFA-006",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-02-26T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 53.4,
+    "confidenceScore": 0.88,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 6",
+      "Finding 2 for assessment 6",
+      "Finding 3 for assessment 6"
+    ],
+    "indicators": {
+      "riskScore": 53.4,
+      "complianceScore": 83.1
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-12-26T09:30:00Z",
+    "amountAtRisk": 14785205.69,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-007",
+    "entityType": "Agency",
+    "entityId": "NRFA-007",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-08-26T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 78.2,
+    "confidenceScore": 0.79,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 7",
+      "Finding 2 for assessment 7",
+      "Finding 3 for assessment 7"
+    ],
+    "indicators": {
+      "riskScore": 78.2,
+      "complianceScore": 82.7
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-04-06T09:30:00Z",
+    "amountAtRisk": 2358967.01,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-008",
+    "entityType": "Agency",
+    "entityId": "NRFA-008",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-11-25T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 47.0,
+    "confidenceScore": 0.94,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 8",
+      "Finding 2 for assessment 8",
+      "Finding 3 for assessment 8"
+    ],
+    "indicators": {
+      "riskScore": 47.0,
+      "complianceScore": 88.9
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-04-04T09:30:00Z",
+    "amountAtRisk": 10139111.23,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-009",
+    "entityType": "Agency",
+    "entityId": "NRFA-009",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-09-13T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 44.6,
+    "confidenceScore": 0.92,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 9",
+      "Finding 2 for assessment 9",
+      "Finding 3 for assessment 9"
+    ],
+    "indicators": {
+      "riskScore": 44.6,
+      "complianceScore": 57.1
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-11-22T09:30:00Z",
+    "amountAtRisk": 1417555.04,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-010",
+    "entityType": "Agency",
+    "entityId": "NRFA-010",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-10-07T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 30.1,
+    "confidenceScore": 0.93,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 10",
+      "Finding 2 for assessment 10",
+      "Finding 3 for assessment 10"
+    ],
+    "indicators": {
+      "riskScore": 30.1,
+      "complianceScore": 88.5
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-09-08T09:30:00Z",
+    "amountAtRisk": 7201327.23,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-011",
+    "entityType": "Agency",
+    "entityId": "NRFA-011",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-03-05T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Medium",
+    "riskScore": 67.9,
+    "confidenceScore": 0.97,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 11",
+      "Finding 2 for assessment 11",
+      "Finding 3 for assessment 11"
+    ],
+    "indicators": {
+      "riskScore": 67.9,
+      "complianceScore": 50.6
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-09-19T09:30:00Z",
+    "amountAtRisk": 10075023.89,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-012",
+    "entityType": "Agency",
+    "entityId": "NRFA-012",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-08-23T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "High",
+    "riskScore": 93.6,
+    "confidenceScore": 0.94,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 12",
+      "Finding 2 for assessment 12",
+      "Finding 3 for assessment 12"
+    ],
+    "indicators": {
+      "riskScore": 93.6,
+      "complianceScore": 65.6
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-09-22T09:30:00Z",
+    "amountAtRisk": 1241743.58,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-013",
+    "entityType": "Agency",
+    "entityId": "NRFA-013",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-07-10T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "High",
+    "riskScore": 82.6,
+    "confidenceScore": 0.73,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 13",
+      "Finding 2 for assessment 13",
+      "Finding 3 for assessment 13"
+    ],
+    "indicators": {
+      "riskScore": 82.6,
+      "complianceScore": 76.3
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-12-17T09:30:00Z",
+    "amountAtRisk": 6290551.84,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-014",
+    "entityType": "Agency",
+    "entityId": "NRFA-014",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-04-23T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 49.1,
+    "confidenceScore": 0.95,
+    "category": "Strategic",
+    "findings": [
+      "Finding 1 for assessment 14",
+      "Finding 2 for assessment 14",
+      "Finding 3 for assessment 14"
+    ],
+    "indicators": {
+      "riskScore": 49.1,
+      "complianceScore": 71.1
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-03-16T09:30:00Z",
+    "amountAtRisk": 13030417.51,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-015",
+    "entityType": "Agency",
+    "entityId": "NRFA-015",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-12-28T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Medium",
+    "riskScore": 51.2,
+    "confidenceScore": 0.87,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 15",
+      "Finding 2 for assessment 15",
+      "Finding 3 for assessment 15"
+    ],
+    "indicators": {
+      "riskScore": 51.2,
+      "complianceScore": 50.3
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-02-27T09:30:00Z",
+    "amountAtRisk": 19514146.68,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-016",
+    "entityType": "Agency",
+    "entityId": "NRFA-016",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-11-15T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 47.5,
+    "confidenceScore": 0.92,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 16",
+      "Finding 2 for assessment 16",
+      "Finding 3 for assessment 16"
+    ],
+    "indicators": {
+      "riskScore": 47.5,
+      "complianceScore": 89.0
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-12-24T09:30:00Z",
+    "amountAtRisk": 5005271.01,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-017",
+    "entityType": "Agency",
+    "entityId": "NRFA-017",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-05-20T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 41.7,
+    "confidenceScore": 0.86,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 17",
+      "Finding 2 for assessment 17",
+      "Finding 3 for assessment 17"
+    ],
+    "indicators": {
+      "riskScore": 41.7,
+      "complianceScore": 90.7
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-09-27T09:30:00Z",
+    "amountAtRisk": 3288423.81,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-018",
+    "entityType": "Agency",
+    "entityId": "NRFA-018",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-08-10T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 49.2,
+    "confidenceScore": 0.76,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 18",
+      "Finding 2 for assessment 18",
+      "Finding 3 for assessment 18"
+    ],
+    "indicators": {
+      "riskScore": 49.2,
+      "complianceScore": 72.2
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-02-09T09:30:00Z",
+    "amountAtRisk": 12797987.33,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-019",
+    "entityType": "Agency",
+    "entityId": "NRFA-019",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-10-01T09:30:00Z",
+    "assessmentType": "Operational",
+    "riskLevel": "Low",
+    "riskScore": 20.8,
+    "confidenceScore": 0.97,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 19",
+      "Finding 2 for assessment 19",
+      "Finding 3 for assessment 19"
+    ],
+    "indicators": {
+      "riskScore": 20.8,
+      "complianceScore": 74.5
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-01-08T09:30:00Z",
+    "amountAtRisk": 12340863.12,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-020",
+    "entityType": "Agency",
+    "entityId": "NRFA-020",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-11-10T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 25.3,
+    "confidenceScore": 0.84,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 20",
+      "Finding 2 for assessment 20",
+      "Finding 3 for assessment 20"
+    ],
+    "indicators": {
+      "riskScore": 25.3,
+      "complianceScore": 93.8
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-09-26T09:30:00Z",
+    "amountAtRisk": 9020396.7,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-021",
+    "entityType": "Agency",
+    "entityId": "NRFA-021",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-07-07T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 25.4,
+    "confidenceScore": 0.84,
+    "category": "Cyber",
+    "findings": [
+      "Finding 1 for assessment 21",
+      "Finding 2 for assessment 21",
+      "Finding 3 for assessment 21"
+    ],
+    "indicators": {
+      "riskScore": 25.4,
+      "complianceScore": 83.1
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-04-02T09:30:00Z",
+    "amountAtRisk": 7004902.19,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-022",
+    "entityType": "Agency",
+    "entityId": "NRFA-022",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-05-25T09:30:00Z",
+    "assessmentType": "IT Security",
+    "riskLevel": "Low",
+    "riskScore": 42.6,
+    "confidenceScore": 0.97,
+    "category": "Compliance",
+    "findings": [
+      "Finding 1 for assessment 22",
+      "Finding 2 for assessment 22",
+      "Finding 3 for assessment 22"
+    ],
+    "indicators": {
+      "riskScore": 42.6,
+      "complianceScore": 50.9
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Under Review",
+    "reviewDate": "2024-03-08T09:30:00Z",
+    "amountAtRisk": 11314786.47,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-023",
+    "entityType": "Agency",
+    "entityId": "NRFA-023",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-09-18T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Medium",
+    "riskScore": 59.6,
+    "confidenceScore": 0.96,
+    "category": "Financial",
+    "findings": [
+      "Finding 1 for assessment 23",
+      "Finding 2 for assessment 23",
+      "Finding 3 for assessment 23"
+    ],
+    "indicators": {
+      "riskScore": 59.6,
+      "complianceScore": 60.5
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Resolved",
+    "reviewDate": "2024-11-03T09:30:00Z",
+    "amountAtRisk": 11833754.7,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-024",
+    "entityType": "Agency",
+    "entityId": "NRFA-024",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-09-18T09:30:00Z",
+    "assessmentType": "Budget Utilization",
+    "riskLevel": "Low",
+    "riskScore": 44.5,
+    "confidenceScore": 0.84,
+    "category": "Operational",
+    "findings": [
+      "Finding 1 for assessment 24",
+      "Finding 2 for assessment 24",
+      "Finding 3 for assessment 24"
+    ],
+    "indicators": {
+      "riskScore": 44.5,
+      "complianceScore": 90.9
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-05-13T09:30:00Z",
+    "amountAtRisk": 4853574.85,
+    "currency": "ZMW"
+  },
+  {
+    "id": "RA-NRFA-2024-025",
+    "entityType": "Agency",
+    "entityId": "NRFA-025",
+    "entityName": "National Road Fund Agency",
+    "assessmentDate": "2024-03-18T09:30:00Z",
+    "assessmentType": "Compliance",
+    "riskLevel": "Low",
+    "riskScore": 45.7,
+    "confidenceScore": 0.82,
+    "category": "Reputational",
+    "findings": [
+      "Finding 1 for assessment 25",
+      "Finding 2 for assessment 25",
+      "Finding 3 for assessment 25"
+    ],
+    "indicators": {
+      "riskScore": 45.7,
+      "complianceScore": 86.8
+    },
+    "recommendations": [
+      "Recommendation 1 for National Road Fund Agency",
+      "Recommendation 2 for National Road Fund Agency",
+      "Recommendation 3 for National Road Fund Agency"
+    ],
+    "assessor": "AI Risk Engine",
+    "status": "Active",
+    "reviewDate": "2024-11-23T09:30:00Z",
+    "amountAtRisk": 18219154.77,
+    "currency": "ZMW"
+  }
+]

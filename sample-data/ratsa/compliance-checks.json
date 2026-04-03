@@ -1,0 +1,437 @@
+[
+  {
+    "id": "CC-RATSA-2024-001",
+    "checkType": "Budget Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-01-02T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 63.7,
+    "status": "Compliant",
+    "findings": 0,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-11-07T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-RATSA-2024-002",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-07-03T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 84.6,
+    "status": "Non-Compliant",
+    "findings": 7,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-06-05T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RATSA-2024-003",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-01-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 95.8,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-01-28T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-RATSA-2024-004",
+    "checkType": "Budget Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-09-25T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 63.7,
+    "status": "Partially Compliant",
+    "findings": 0,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-05-25T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RATSA-2024-005",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-10-25T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 60.6,
+    "status": "Non-Compliant",
+    "findings": 2,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-04-14T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RATSA-2024-006",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-07-01T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 97.8,
+    "status": "Non-Compliant",
+    "findings": 0,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-07-21T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RATSA-2024-007",
+    "checkType": "IT Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-11-21T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 83.5,
+    "status": "Non-Compliant",
+    "findings": 1,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-11-04T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RATSA-2024-008",
+    "checkType": "IT Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-08-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 73.1,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-03-06T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RATSA-2024-009",
+    "checkType": "Budget Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-04-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 56.5,
+    "status": "Non-Compliant",
+    "findings": 0,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-08-06T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RATSA-2024-010",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-09-08T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 84.8,
+    "status": "Non-Compliant",
+    "findings": 2,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-09-23T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RATSA-2024-011",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-09-23T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 82.2,
+    "status": "Non-Compliant",
+    "findings": 3,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-08-02T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-RATSA-2024-012",
+    "checkType": "IT Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-04-03T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 77.5,
+    "status": "Compliant",
+    "findings": 6,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-06-22T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RATSA-2024-013",
+    "checkType": "Budget Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-12-02T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 87.1,
+    "status": "Compliant",
+    "findings": 1,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-01-21T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RATSA-2024-014",
+    "checkType": "IT Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-12-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 78.1,
+    "status": "Non-Compliant",
+    "findings": 3,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-02-08T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-RATSA-2024-015",
+    "checkType": "Budget Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-07-22T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 72.4,
+    "status": "Partially Compliant",
+    "findings": 6,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-10-03T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RATSA-2024-016",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-03-11T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 73.9,
+    "status": "Compliant",
+    "findings": 4,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-06-11T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-RATSA-2024-017",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-01-20T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 59.3,
+    "status": "Compliant",
+    "findings": 6,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-06-02T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RATSA-2024-018",
+    "checkType": "Procurement Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-04-15T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 64.1,
+    "status": "Compliant",
+    "findings": 1,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-10-23T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RATSA-2024-019",
+    "checkType": "HR Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-07-09T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 58.6,
+    "status": "Partially Compliant",
+    "findings": 5,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-02-19T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RATSA-2024-020",
+    "checkType": "Budget Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-01-24T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 57.0,
+    "status": "Partially Compliant",
+    "findings": 0,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-02-27T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-RATSA-2024-021",
+    "checkType": "Procurement Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-06-26T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 75.1,
+    "status": "Compliant",
+    "findings": 3,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-02-18T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-RATSA-2024-022",
+    "checkType": "HR Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-09-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 78.0,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-11-07T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RATSA-2024-023",
+    "checkType": "IT Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-05-20T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 55.9,
+    "status": "Non-Compliant",
+    "findings": 5,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-05-03T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-RATSA-2024-024",
+    "checkType": "IT Compliance",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-06-06T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 59.9,
+    "status": "Partially Compliant",
+    "findings": 8,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-05-15T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-RATSA-2024-025",
+    "checkType": "Audit Follow-up",
+    "entityName": "Road Transport and Safety Agency",
+    "checkDate": "2024-01-01T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 60.9,
+    "status": "Compliant",
+    "findings": 6,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-02-25T00:00:00Z",
+    "remarks": "Minor issues found"
+  }
+]

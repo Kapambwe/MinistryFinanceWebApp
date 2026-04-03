@@ -1,0 +1,877 @@
+[
+  {
+    "id": 1,
+    "journalNumber": "JE-ZAMSTATS-2024-001",
+    "journalDate": "2024-01-25T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 1 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 14605797.48,
+    "totalCredit": 14605797.48,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-05T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 14605797.48,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 14605797.48,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "journalNumber": "JE-ZAMSTATS-2024-002",
+    "journalDate": "2024-02-02T00:00:00",
+    "fiscalYear": "2024",
+    "period": "February",
+    "description": "Journal entry 2 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Public Relations",
+    "totalDebit": 17901253.43,
+    "totalCredit": 17901253.43,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-02-11T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 17901253.43,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 17901253.43,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "journalNumber": "JE-ZAMSTATS-2024-003",
+    "journalDate": "2024-03-03T00:00:00",
+    "fiscalYear": "2024",
+    "period": "March",
+    "description": "Journal entry 3 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Procurement",
+    "totalDebit": 14055325.56,
+    "totalCredit": 14055325.56,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-03-09T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 14055325.56,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 14055325.56,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "journalNumber": "JE-ZAMSTATS-2024-004",
+    "journalDate": "2024-04-19T00:00:00",
+    "fiscalYear": "2024",
+    "period": "April",
+    "description": "Journal entry 4 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Legal",
+    "totalDebit": 8295042.42,
+    "totalCredit": 8295042.42,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-04-03T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 8295042.42,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 8295042.42,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "journalNumber": "JE-ZAMSTATS-2024-005",
+    "journalDate": "2024-05-03T00:00:00",
+    "fiscalYear": "2024",
+    "period": "May",
+    "description": "Journal entry 5 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Internal Audit",
+    "totalDebit": 15836818.01,
+    "totalCredit": 15836818.01,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-05-15T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 15836818.01,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 15836818.01,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "journalNumber": "JE-ZAMSTATS-2024-006",
+    "journalDate": "2024-06-11T00:00:00",
+    "fiscalYear": "2024",
+    "period": "June",
+    "description": "Journal entry 6 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Human Resources",
+    "totalDebit": 9410107.37,
+    "totalCredit": 9410107.37,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-06-27T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 9410107.37,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 9410107.37,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "journalNumber": "JE-ZAMSTATS-2024-007",
+    "journalDate": "2024-07-19T00:00:00",
+    "fiscalYear": "2024",
+    "period": "July",
+    "description": "Journal entry 7 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Monitoring & Evaluation",
+    "totalDebit": 9154784.36,
+    "totalCredit": 9154784.36,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-07-23T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 9154784.36,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 9154784.36,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "journalNumber": "JE-ZAMSTATS-2024-008",
+    "journalDate": "2024-08-15T00:00:00",
+    "fiscalYear": "2024",
+    "period": "August",
+    "description": "Journal entry 8 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 4502785.09,
+    "totalCredit": 4502785.09,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-08-09T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 4502785.09,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 4502785.09,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "journalNumber": "JE-ZAMSTATS-2024-009",
+    "journalDate": "2024-09-26T00:00:00",
+    "fiscalYear": "2024",
+    "period": "September",
+    "description": "Journal entry 9 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Finance",
+    "totalDebit": 14900748.51,
+    "totalCredit": 14900748.51,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-09-10T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 14900748.51,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 14900748.51,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "journalNumber": "JE-ZAMSTATS-2024-010",
+    "journalDate": "2024-10-23T00:00:00",
+    "fiscalYear": "2024",
+    "period": "October",
+    "description": "Journal entry 10 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Operations",
+    "totalDebit": 4485886.29,
+    "totalCredit": 4485886.29,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-10-07T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 4485886.29,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 4485886.29,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "journalNumber": "JE-ZAMSTATS-2024-011",
+    "journalDate": "2024-11-14T00:00:00",
+    "fiscalYear": "2024",
+    "period": "November",
+    "description": "Journal entry 11 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Planning",
+    "totalDebit": 18830868.14,
+    "totalCredit": 18830868.14,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-11-01T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 18830868.14,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 18830868.14,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "journalNumber": "JE-ZAMSTATS-2024-012",
+    "journalDate": "2024-12-08T00:00:00",
+    "fiscalYear": "2024",
+    "period": "December",
+    "description": "Journal entry 12 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 2549541.41,
+    "totalCredit": 2549541.41,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-12-05T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 2549541.41,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 2549541.41,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "journalNumber": "JE-ZAMSTATS-2024-013",
+    "journalDate": "2024-01-19T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 13 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Monitoring & Evaluation",
+    "totalDebit": 15120928.89,
+    "totalCredit": 15120928.89,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-10T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 15120928.89,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 15120928.89,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "journalNumber": "JE-ZAMSTATS-2024-014",
+    "journalDate": "2024-02-10T00:00:00",
+    "fiscalYear": "2024",
+    "period": "February",
+    "description": "Journal entry 14 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Risk Management",
+    "totalDebit": 17436965.24,
+    "totalCredit": 17436965.24,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-02-06T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 17436965.24,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 17436965.24,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "journalNumber": "JE-ZAMSTATS-2024-015",
+    "journalDate": "2024-03-20T00:00:00",
+    "fiscalYear": "2024",
+    "period": "March",
+    "description": "Journal entry 15 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "ICT",
+    "totalDebit": 4240552.31,
+    "totalCredit": 4240552.31,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-03-01T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 4240552.31,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 4240552.31,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "journalNumber": "JE-ZAMSTATS-2024-016",
+    "journalDate": "2024-04-15T00:00:00",
+    "fiscalYear": "2024",
+    "period": "April",
+    "description": "Journal entry 16 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Human Resources",
+    "totalDebit": 12015017.63,
+    "totalCredit": 12015017.63,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-04-10T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 12015017.63,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 12015017.63,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "journalNumber": "JE-ZAMSTATS-2024-017",
+    "journalDate": "2024-05-24T00:00:00",
+    "fiscalYear": "2024",
+    "period": "May",
+    "description": "Journal entry 17 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Risk Management",
+    "totalDebit": 4887039.36,
+    "totalCredit": 4887039.36,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-05-23T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 4887039.36,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 4887039.36,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "journalNumber": "JE-ZAMSTATS-2024-018",
+    "journalDate": "2024-06-04T00:00:00",
+    "fiscalYear": "2024",
+    "period": "June",
+    "description": "Journal entry 18 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Procurement",
+    "totalDebit": 18779995.09,
+    "totalCredit": 18779995.09,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-06-11T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 18779995.09,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 18779995.09,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "journalNumber": "JE-ZAMSTATS-2024-019",
+    "journalDate": "2024-07-15T00:00:00",
+    "fiscalYear": "2024",
+    "period": "July",
+    "description": "Journal entry 19 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "ICT",
+    "totalDebit": 17307644.25,
+    "totalCredit": 17307644.25,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-07-03T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 17307644.25,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 17307644.25,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "journalNumber": "JE-ZAMSTATS-2024-020",
+    "journalDate": "2024-08-13T00:00:00",
+    "fiscalYear": "2024",
+    "period": "August",
+    "description": "Journal entry 20 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Planning",
+    "totalDebit": 8938192.74,
+    "totalCredit": 8938192.74,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-08-06T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 8938192.74,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 8938192.74,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "journalNumber": "JE-ZAMSTATS-2024-021",
+    "journalDate": "2024-09-20T00:00:00",
+    "fiscalYear": "2024",
+    "period": "September",
+    "description": "Journal entry 21 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Finance",
+    "totalDebit": 5627599.75,
+    "totalCredit": 5627599.75,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-09-11T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 5627599.75,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 5627599.75,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "journalNumber": "JE-ZAMSTATS-2024-022",
+    "journalDate": "2024-10-05T00:00:00",
+    "fiscalYear": "2024",
+    "period": "October",
+    "description": "Journal entry 22 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Monitoring & Evaluation",
+    "totalDebit": 3329592.79,
+    "totalCredit": 3329592.79,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-10-09T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 3329592.79,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 3329592.79,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "journalNumber": "JE-ZAMSTATS-2024-023",
+    "journalDate": "2024-11-12T00:00:00",
+    "fiscalYear": "2024",
+    "period": "November",
+    "description": "Journal entry 23 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Corporate Affairs",
+    "totalDebit": 2215977.71,
+    "totalCredit": 2215977.71,
+    "status": "Under Review",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-11-04T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 2215977.71,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 2215977.71,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "journalNumber": "JE-ZAMSTATS-2024-024",
+    "journalDate": "2024-12-17T00:00:00",
+    "fiscalYear": "2024",
+    "period": "December",
+    "description": "Journal entry 24 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Procurement",
+    "totalDebit": 12261497.12,
+    "totalCredit": 12261497.12,
+    "status": "Draft",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-12-08T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 12261497.12,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 12261497.12,
+        "description": "Credit entry"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "journalNumber": "JE-ZAMSTATS-2024-025",
+    "journalDate": "2024-01-11T00:00:00",
+    "fiscalYear": "2024",
+    "period": "January",
+    "description": "Journal entry 25 for Zambia Statistics Agency",
+    "ministry": "Zambia Statistics Agency",
+    "department": "Procurement",
+    "totalDebit": 6787618.64,
+    "totalCredit": 6787618.64,
+    "status": "Posted",
+    "preparedBy": "Accountant",
+    "reviewedBy": "Senior Accountant",
+    "approvedBy": "Chief Accountant",
+    "postedDate": "2024-01-06T00:00:00",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "accountCode": "510101",
+        "accountName": "Expenditure",
+        "debit": 6787618.64,
+        "credit": 0.0,
+        "description": "Debit entry"
+      },
+      {
+        "lineNumber": 2,
+        "accountCode": "210201",
+        "accountName": "Payable",
+        "debit": 0.0,
+        "credit": 6787618.64,
+        "description": "Credit entry"
+      }
+    ]
+  }
+]

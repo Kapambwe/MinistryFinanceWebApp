@@ -1,0 +1,441 @@
+[
+  {
+    "id": "CC-ACC-2024-001",
+    "checkType": "IT Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-02-02T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 60.3,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-02-22T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ACC-2024-002",
+    "checkType": "Audit Follow-up",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-06-27T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 98.6,
+    "status": "Compliant",
+    "findings": 0,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-09-02T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ACC-2024-003",
+    "checkType": "Budget Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-05-21T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 82.3,
+    "status": "Partially Compliant",
+    "findings": 5,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-07-25T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ACC-2024-004",
+    "checkType": "Audit Follow-up",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-04-28T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 81.2,
+    "status": "Non-Compliant",
+    "findings": 6,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-12-12T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ACC-2024-005",
+    "checkType": "HR Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-05-01T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 95.3,
+    "status": "Non-Compliant",
+    "findings": 7,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-03-02T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ACC-2024-006",
+    "checkType": "Procurement Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-12-13T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 89.3,
+    "status": "Non-Compliant",
+    "findings": 2,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-01-18T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ACC-2024-007",
+    "checkType": "IT Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-12-21T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 92.2,
+    "status": "Non-Compliant",
+    "findings": 0,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-05-01T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ACC-2024-008",
+    "checkType": "Audit Follow-up",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-11-18T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 66.8,
+    "status": "Compliant",
+    "findings": 3,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-04-03T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ACC-2024-009",
+    "checkType": "HR Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-06-23T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 96.9,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-08-18T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ACC-2024-010",
+    "checkType": "IT Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-01-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 93.2,
+    "status": "Compliant",
+    "findings": 1,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-01-13T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ACC-2024-011",
+    "checkType": "Procurement Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-07-08T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 92.1,
+    "status": "Partially Compliant",
+    "findings": 5,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-08-18T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ACC-2024-012",
+    "checkType": "IT Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-02-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 64.8,
+    "status": "Compliant",
+    "findings": 8,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-05-19T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ACC-2024-013",
+    "checkType": "Procurement Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-10-11T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 57.2,
+    "status": "Non-Compliant",
+    "findings": 4,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-07-09T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ACC-2024-014",
+    "checkType": "Budget Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-04-15T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 64.2,
+    "status": "Non-Compliant",
+    "findings": 1,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-09-04T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ACC-2024-015",
+    "checkType": "IT Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-12-26T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 77.5,
+    "status": "Partially Compliant",
+    "findings": 2,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-01-27T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ACC-2024-016",
+    "checkType": "Budget Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-08-27T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 81.5,
+    "status": "Compliant",
+    "findings": 1,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-09-14T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ACC-2024-017",
+    "checkType": "Audit Follow-up",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-09-11T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 88.1,
+    "status": "Non-Compliant",
+    "findings": 7,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-04-28T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ACC-2024-018",
+    "checkType": "Budget Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-09-06T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 79.5,
+    "status": "Non-Compliant",
+    "findings": 6,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-04-19T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ACC-2024-019",
+    "checkType": "Budget Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-08-26T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 86.6,
+    "status": "Partially Compliant",
+    "findings": 6,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-08-16T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ACC-2024-020",
+    "checkType": "IT Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-08-08T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 95.5,
+    "status": "Partially Compliant",
+    "findings": 2,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-01-13T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ACC-2024-021",
+    "checkType": "Budget Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-11-27T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 62.7,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-02-13T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ACC-2024-022",
+    "checkType": "Budget Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-06-18T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 99.5,
+    "status": "Compliant",
+    "findings": 4,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-12-03T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ACC-2024-023",
+    "checkType": "Budget Compliance",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-10-05T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 69.7,
+    "status": "Non-Compliant",
+    "findings": 7,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-04-14T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ACC-2024-024",
+    "checkType": "Audit Follow-up",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-01-06T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 60.7,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-11-27T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ACC-2024-025",
+    "checkType": "Audit Follow-up",
+    "entityName": "Anti-Corruption Commission",
+    "checkDate": "2024-12-23T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 66.3,
+    "status": "Non-Compliant",
+    "findings": 2,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-12-20T00:00:00Z",
+    "remarks": "All checks passed"
+  }
+]

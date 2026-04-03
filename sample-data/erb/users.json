@@ -1,0 +1,702 @@
+[
+  {
+    "userId": "USR-ERB-001",
+    "username": "daniel.ngoma",
+    "fullName": "Daniel Ngoma",
+    "position": "Director General",
+    "department": "ICT",
+    "email": "daniel.ngoma@erb.org.zm",
+    "phoneNumber": "+260-211-417143",
+    "userRole": "Director General",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "Manage Users",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-10-22",
+    "lastLoginDate": "2024-03-14T11:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "HR Management",
+      "Reporting"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ERB-002",
+    "username": "francis.nsofu",
+    "fullName": "Francis Nsofu",
+    "position": "Deputy Director General",
+    "department": "Compliance",
+    "email": "francis.nsofu@erb.org.zm",
+    "phoneNumber": "+260-211-549499",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Standard",
+    "permissions": [
+      "System Admin",
+      "Approve Payments",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-11-26",
+    "lastLoginDate": "2024-10-02T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-003",
+    "username": "charity.musonda",
+    "fullName": "Charity Musonda",
+    "position": "Director",
+    "department": "Procurement",
+    "email": "charity.musonda@erb.org.zm",
+    "phoneNumber": "+260-211-827067",
+    "userRole": "Director",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Reports",
+      "Approve Payments",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-10-27",
+    "lastLoginDate": "2024-11-14T12:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Compliance",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ERB-004",
+    "username": "joseph.lungu",
+    "fullName": "Joseph Lungu",
+    "position": "Deputy Director",
+    "department": "Planning",
+    "email": "joseph.lungu@erb.org.zm",
+    "phoneNumber": "+260-211-555503",
+    "userRole": "Deputy Director",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "Export Data",
+      "View Reports",
+      "View Analytics"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2021-05-16",
+    "lastLoginDate": "2024-07-16T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-005",
+    "username": "emmanuel.mwale",
+    "fullName": "Emmanuel Mwale",
+    "position": "Manager",
+    "department": "Compliance",
+    "email": "emmanuel.mwale@erb.org.zm",
+    "phoneNumber": "+260-211-475783",
+    "userRole": "Manager",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Export Data",
+      "View Reports",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-05-05",
+    "lastLoginDate": "2024-08-13T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ERB-006",
+    "username": "mary.mvula",
+    "fullName": "Mary Mvula",
+    "position": "Senior Officer",
+    "department": "Administration",
+    "email": "mary.mvula@erb.org.zm",
+    "phoneNumber": "+260-211-409284",
+    "userRole": "Senior Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "System Admin",
+      "View Analytics",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-10-10",
+    "lastLoginDate": "2024-01-07T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Compliance",
+      "Finance"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ERB-007",
+    "username": "catherine.mvula",
+    "fullName": "Catherine Mvula",
+    "position": "Officer",
+    "department": "Risk Management",
+    "email": "catherine.mvula@erb.org.zm",
+    "phoneNumber": "+260-211-485877",
+    "userRole": "Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Export Data"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2021-01-02",
+    "lastLoginDate": "2024-03-24T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "HR Management",
+      "Finance"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-008",
+    "username": "peter.mvula",
+    "fullName": "Peter Mvula",
+    "position": "Analyst",
+    "department": "Planning",
+    "email": "peter.mvula@erb.org.zm",
+    "phoneNumber": "+260-211-332204",
+    "userRole": "Analyst",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Manage Users",
+      "View Analytics",
+      "System Admin"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-03-24",
+    "lastLoginDate": "2024-04-10T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Reporting",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-009",
+    "username": "catherine.mvula",
+    "fullName": "Catherine Mvula",
+    "position": "Auditor",
+    "department": "Planning",
+    "email": "catherine.mvula@erb.org.zm",
+    "phoneNumber": "+260-211-105335",
+    "userRole": "Auditor",
+    "accessLevel": "Executive",
+    "permissions": [
+      "System Admin",
+      "View Reports",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-09-17",
+    "lastLoginDate": "2024-07-13T18:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Finance",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-010",
+    "username": "catherine.mbewe",
+    "fullName": "Catherine Mbewe",
+    "position": "Administrator",
+    "department": "ICT",
+    "email": "catherine.mbewe@erb.org.zm",
+    "phoneNumber": "+260-211-892151",
+    "userRole": "Administrator",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "System Admin",
+      "Export Data",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-10-12",
+    "lastLoginDate": "2024-11-09T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Budget Management",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-011",
+    "username": "dorothy.mwanza",
+    "fullName": "Dorothy Mwanza",
+    "position": "Finance Officer",
+    "department": "Monitoring & Evaluation",
+    "email": "dorothy.mwanza@erb.org.zm",
+    "phoneNumber": "+260-211-534984",
+    "userRole": "Finance Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Export Data",
+      "Manage Users",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-06-25",
+    "lastLoginDate": "2024-08-27T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Compliance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ERB-012",
+    "username": "florence.malama",
+    "fullName": "Florence Malama",
+    "position": "HR Officer",
+    "department": "Public Relations",
+    "email": "florence.malama@erb.org.zm",
+    "phoneNumber": "+260-211-323774",
+    "userRole": "HR Officer",
+    "accessLevel": "Senior",
+    "permissions": [
+      "System Admin",
+      "View Analytics",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-09-19",
+    "lastLoginDate": "2024-01-22T12:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Procurement",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-013",
+    "username": "paul.mwale",
+    "fullName": "Paul Mwale",
+    "position": "IT Officer",
+    "department": "Public Relations",
+    "email": "paul.mwale@erb.org.zm",
+    "phoneNumber": "+260-211-417658",
+    "userRole": "IT Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Analytics",
+      "View Reports",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-04-27",
+    "lastLoginDate": "2024-05-12T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "Procurement",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-014",
+    "username": "peter.nakambwe",
+    "fullName": "Peter Nakambwe",
+    "position": "Legal Officer",
+    "department": "Corporate Affairs",
+    "email": "peter.nakambwe@erb.org.zm",
+    "phoneNumber": "+260-211-439078",
+    "userRole": "Legal Officer",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Approve Payments",
+      "Export Data",
+      "View Reports"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-07-26",
+    "lastLoginDate": "2024-10-21T09:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "HR Management",
+      "Procurement",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ERB-015",
+    "username": "david.simwanza",
+    "fullName": "David Simwanza",
+    "position": "Procurement Officer",
+    "department": "Planning",
+    "email": "david.simwanza@erb.org.zm",
+    "phoneNumber": "+260-211-723760",
+    "userRole": "Procurement Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "Export Data"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-07-02",
+    "lastLoginDate": "2024-04-17T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Reporting",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-016",
+    "username": "robert.mbewe",
+    "fullName": "Robert Mbewe",
+    "position": "Director General",
+    "department": "Planning",
+    "email": "robert.mbewe@erb.org.zm",
+    "phoneNumber": "+260-211-752107",
+    "userRole": "Director General",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Analytics",
+      "Export Data",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-04-16",
+    "lastLoginDate": "2024-07-09T14:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Compliance",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-017",
+    "username": "catherine.tembo",
+    "fullName": "Catherine Tembo",
+    "position": "Deputy Director General",
+    "department": "Human Resources",
+    "email": "catherine.tembo@erb.org.zm",
+    "phoneNumber": "+260-211-286037",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Manage Users",
+      "View Reports",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2022-06-18",
+    "lastLoginDate": "2024-07-23T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Budget Management"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-018",
+    "username": "susan.mbewe",
+    "fullName": "Susan Mbewe",
+    "position": "Director",
+    "department": "Procurement",
+    "email": "susan.mbewe@erb.org.zm",
+    "phoneNumber": "+260-211-429101",
+    "userRole": "Director",
+    "accessLevel": "Senior",
+    "permissions": [
+      "Approve Payments",
+      "Export Data",
+      "Manage Users"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-12-23",
+    "lastLoginDate": "2024-11-13T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Reporting",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ERB-019",
+    "username": "jacqueline.banda",
+    "fullName": "Jacqueline Banda",
+    "position": "Deputy Director",
+    "department": "Public Relations",
+    "email": "jacqueline.banda@erb.org.zm",
+    "phoneNumber": "+260-211-127170",
+    "userRole": "Deputy Director",
+    "accessLevel": "Senior",
+    "permissions": [
+      "System Admin",
+      "Manage Users",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-02-01",
+    "lastLoginDate": "2024-02-06T11:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "Budget Management",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ERB-020",
+    "username": "elizabeth.phiri",
+    "fullName": "Elizabeth Phiri",
+    "position": "Manager",
+    "department": "Planning",
+    "email": "elizabeth.phiri@erb.org.zm",
+    "phoneNumber": "+260-211-883992",
+    "userRole": "Manager",
+    "accessLevel": "Executive",
+    "permissions": [
+      "System Admin",
+      "Manage Users",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-11-26",
+    "lastLoginDate": "2024-12-12T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Procurement",
+      "Budget Management",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-021",
+    "username": "andrew.chipimo",
+    "fullName": "Andrew Chipimo",
+    "position": "Senior Officer",
+    "department": "Planning",
+    "email": "andrew.chipimo@erb.org.zm",
+    "phoneNumber": "+260-211-658109",
+    "userRole": "Senior Officer",
+    "accessLevel": "Read-Only",
+    "permissions": [
+      "View Reports",
+      "System Admin",
+      "View Analytics"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-08-01",
+    "lastLoginDate": "2024-09-01T17:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Reporting",
+      "HR Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-022",
+    "username": "michael.mwale",
+    "fullName": "Michael Mwale",
+    "position": "Officer",
+    "department": "Monitoring & Evaluation",
+    "email": "michael.mwale@erb.org.zm",
+    "phoneNumber": "+260-211-850139",
+    "userRole": "Officer",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Reports",
+      "View Analytics",
+      "Export Data"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-03-19",
+    "lastLoginDate": "2024-04-07T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "HR Management",
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-023",
+    "username": "emmanuel.phiri",
+    "fullName": "Emmanuel Phiri",
+    "position": "Analyst",
+    "department": "Compliance",
+    "email": "emmanuel.phiri@erb.org.zm",
+    "phoneNumber": "+260-211-909153",
+    "userRole": "Analyst",
+    "accessLevel": "Standard",
+    "permissions": [
+      "View Reports",
+      "Export Data",
+      "Approve Payments"
+    ],
+    "accountStatus": "Suspended",
+    "createdDate": "2020-08-16",
+    "lastLoginDate": "2024-06-17T15:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Finance",
+      "HR Management",
+      "Compliance"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ERB-024",
+    "username": "elizabeth.banda",
+    "fullName": "Elizabeth Banda",
+    "position": "Auditor",
+    "department": "Planning",
+    "email": "elizabeth.banda@erb.org.zm",
+    "phoneNumber": "+260-211-518829",
+    "userRole": "Auditor",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Reports",
+      "Approve Payments",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-11-08",
+    "lastLoginDate": "2024-01-13T16:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Budget Management",
+      "Finance",
+      "Procurement"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ERB-025",
+    "username": "charity.tembo",
+    "fullName": "Charity Tembo",
+    "position": "Administrator",
+    "department": "Human Resources",
+    "email": "charity.tembo@erb.org.zm",
+    "phoneNumber": "+260-211-215518",
+    "userRole": "Administrator",
+    "accessLevel": "Executive",
+    "permissions": [
+      "System Admin",
+      "View Analytics",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-02-22",
+    "lastLoginDate": "2024-12-05T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Nasser Road, Lusaka",
+    "biometricRegistered": true
+  }
+]

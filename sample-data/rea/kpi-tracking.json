@@ -1,0 +1,927 @@
+[
+  {
+    "id": "KPI-REA-2024-001",
+    "kpiName": "Budget Execution Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Weekly",
+    "target": 94.1,
+    "threshold": {
+      "red": 74.1,
+      "amber": 84.1,
+      "green": 94.1
+    },
+    "currentValue": 77.8,
+    "previousValue": 70.8,
+    "ytdValue": 77.8,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-01-03T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 65.4
+      },
+      {
+        "period": "Month 2",
+        "value": 69.3
+      },
+      {
+        "period": "Month 3",
+        "value": 70.6
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-002",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Financial",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 97.7,
+    "threshold": {
+      "red": 77.7,
+      "amber": 87.7,
+      "green": 97.7
+    },
+    "currentValue": 97.6,
+    "previousValue": 100.3,
+    "ytdValue": 97.6,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-09-07T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 87.8
+      },
+      {
+        "period": "Month 2",
+        "value": 94.2
+      },
+      {
+        "period": "Month 3",
+        "value": 98.0
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-003",
+    "kpiName": "Procurement Compliance",
+    "category": "HR",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 90.1,
+    "threshold": {
+      "red": 70.1,
+      "amber": 80.1,
+      "green": 90.1
+    },
+    "currentValue": 94.5,
+    "previousValue": 92.0,
+    "ytdValue": 94.5,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-12-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 72.8
+      },
+      {
+        "period": "Month 2",
+        "value": 62.6
+      },
+      {
+        "period": "Month 3",
+        "value": 94.8
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-004",
+    "kpiName": "Staff Utilization",
+    "category": "HR",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 98.8,
+    "threshold": {
+      "red": 78.8,
+      "amber": 88.8,
+      "green": 98.8
+    },
+    "currentValue": 66.1,
+    "previousValue": 62.3,
+    "ytdValue": 66.1,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-07-09T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 87.9
+      },
+      {
+        "period": "Month 2",
+        "value": 93.9
+      },
+      {
+        "period": "Month 3",
+        "value": 79.5
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-005",
+    "kpiName": "Service Delivery Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 88.9,
+    "threshold": {
+      "red": 68.9,
+      "amber": 78.9,
+      "green": 88.9
+    },
+    "currentValue": 81.6,
+    "previousValue": 75.2,
+    "ytdValue": 81.6,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-12-17T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 71.9
+      },
+      {
+        "period": "Month 2",
+        "value": 64.6
+      },
+      {
+        "period": "Month 3",
+        "value": 73.0
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-006",
+    "kpiName": "Audit Completion Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 80.3,
+    "threshold": {
+      "red": 60.3,
+      "amber": 70.3,
+      "green": 80.3
+    },
+    "currentValue": 60.4,
+    "previousValue": 60.5,
+    "ytdValue": 60.4,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-02-19T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 80.3
+      },
+      {
+        "period": "Month 2",
+        "value": 68.4
+      },
+      {
+        "period": "Month 3",
+        "value": 96.8
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-007",
+    "kpiName": "Customer Satisfaction",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 96.9,
+    "threshold": {
+      "red": 76.9,
+      "amber": 86.9,
+      "green": 96.9
+    },
+    "currentValue": 82.3,
+    "previousValue": 83.5,
+    "ytdValue": 82.3,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-06-11T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 66.7
+      },
+      {
+        "period": "Month 2",
+        "value": 75.0
+      },
+      {
+        "period": "Month 3",
+        "value": 66.9
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-008",
+    "kpiName": "System Uptime",
+    "category": "IT",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Monthly",
+    "target": 93.5,
+    "threshold": {
+      "red": 73.5,
+      "amber": 83.5,
+      "green": 93.5
+    },
+    "currentValue": 97.9,
+    "previousValue": 102.7,
+    "ytdValue": 97.9,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-12-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 81.4
+      },
+      {
+        "period": "Month 2",
+        "value": 82.8
+      },
+      {
+        "period": "Month 3",
+        "value": 79.9
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-009",
+    "kpiName": "Response Time",
+    "category": "IT",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 80.9,
+    "threshold": {
+      "red": 60.900000000000006,
+      "amber": 70.9,
+      "green": 80.9
+    },
+    "currentValue": 93.9,
+    "previousValue": 86.4,
+    "ytdValue": 93.9,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-08-17T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 80.8
+      },
+      {
+        "period": "Month 2",
+        "value": 66.7
+      },
+      {
+        "period": "Month 3",
+        "value": 97.6
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-010",
+    "kpiName": "Error Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 92.8,
+    "threshold": {
+      "red": 72.8,
+      "amber": 82.8,
+      "green": 92.8
+    },
+    "currentValue": 89.7,
+    "previousValue": 92.5,
+    "ytdValue": 89.7,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-12-20T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 72.5
+      },
+      {
+        "period": "Month 2",
+        "value": 98.5
+      },
+      {
+        "period": "Month 3",
+        "value": 84.0
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-011",
+    "kpiName": "Training Completion",
+    "category": "HR",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 97.5,
+    "threshold": {
+      "red": 77.5,
+      "amber": 87.5,
+      "green": 97.5
+    },
+    "currentValue": 93.8,
+    "previousValue": 89.7,
+    "ytdValue": 93.8,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-05-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 84.4
+      },
+      {
+        "period": "Month 2",
+        "value": 61.2
+      },
+      {
+        "period": "Month 3",
+        "value": 65.4
+      }
+    ],
+    "actionPlan": "Improve Training Completion through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-012",
+    "kpiName": "Regulatory Compliance",
+    "category": "Operational",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 92.8,
+    "threshold": {
+      "red": 72.8,
+      "amber": 82.8,
+      "green": 92.8
+    },
+    "currentValue": 91.2,
+    "previousValue": 90.1,
+    "ytdValue": 91.2,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-10-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 82.2
+      },
+      {
+        "period": "Month 2",
+        "value": 99.5
+      },
+      {
+        "period": "Month 3",
+        "value": 66.2
+      }
+    ],
+    "actionPlan": "Improve Regulatory Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-013",
+    "kpiName": "Cost per Transaction",
+    "category": "Operational",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 92.3,
+    "threshold": {
+      "red": 72.3,
+      "amber": 82.3,
+      "green": 92.3
+    },
+    "currentValue": 96.7,
+    "previousValue": 100.5,
+    "ytdValue": 96.7,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-08-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 86.8
+      },
+      {
+        "period": "Month 2",
+        "value": 65.9
+      },
+      {
+        "period": "Month 3",
+        "value": 72.1
+      }
+    ],
+    "actionPlan": "Improve Cost per Transaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-014",
+    "kpiName": "Payment Processing Time",
+    "category": "IT",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Number",
+    "frequency": "Daily",
+    "target": 98.4,
+    "threshold": {
+      "red": 78.4,
+      "amber": 88.4,
+      "green": 98.4
+    },
+    "currentValue": 79.3,
+    "previousValue": 77.5,
+    "ytdValue": 79.3,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-06-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 74.6
+      },
+      {
+        "period": "Month 2",
+        "value": 89.5
+      },
+      {
+        "period": "Month 3",
+        "value": 60.6
+      }
+    ],
+    "actionPlan": "Improve Payment Processing Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-015",
+    "kpiName": "Report Timeliness",
+    "category": "HR",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 86.8,
+    "threshold": {
+      "red": 66.8,
+      "amber": 76.8,
+      "green": 86.8
+    },
+    "currentValue": 65.3,
+    "previousValue": 61.7,
+    "ytdValue": 65.3,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-04-21T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 92.8
+      },
+      {
+        "period": "Month 2",
+        "value": 66.0
+      },
+      {
+        "period": "Month 3",
+        "value": 76.7
+      }
+    ],
+    "actionPlan": "Improve Report Timeliness through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-016",
+    "kpiName": "Budget Execution Rate",
+    "category": "Financial",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 94.3,
+    "threshold": {
+      "red": 74.3,
+      "amber": 84.3,
+      "green": 94.3
+    },
+    "currentValue": 66.4,
+    "previousValue": 65.3,
+    "ytdValue": 66.4,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-04-26T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 89.3
+      },
+      {
+        "period": "Month 2",
+        "value": 64.1
+      },
+      {
+        "period": "Month 3",
+        "value": 95.7
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-017",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 90.2,
+    "threshold": {
+      "red": 70.2,
+      "amber": 80.2,
+      "green": 90.2
+    },
+    "currentValue": 71.8,
+    "previousValue": 73.6,
+    "ytdValue": 71.8,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-11-06T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 72.8
+      },
+      {
+        "period": "Month 2",
+        "value": 86.0
+      },
+      {
+        "period": "Month 3",
+        "value": 72.0
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-018",
+    "kpiName": "Procurement Compliance",
+    "category": "Operational",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 86.5,
+    "threshold": {
+      "red": 66.5,
+      "amber": 76.5,
+      "green": 86.5
+    },
+    "currentValue": 95.8,
+    "previousValue": 87.5,
+    "ytdValue": 95.8,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-06-15T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 87.8
+      },
+      {
+        "period": "Month 2",
+        "value": 90.2
+      },
+      {
+        "period": "Month 3",
+        "value": 73.4
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-019",
+    "kpiName": "Staff Utilization",
+    "category": "Financial",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 96.2,
+    "threshold": {
+      "red": 76.2,
+      "amber": 86.2,
+      "green": 96.2
+    },
+    "currentValue": 79.7,
+    "previousValue": 75.1,
+    "ytdValue": 79.7,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-02-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 71.5
+      },
+      {
+        "period": "Month 2",
+        "value": 67.2
+      },
+      {
+        "period": "Month 3",
+        "value": 61.9
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-020",
+    "kpiName": "Service Delivery Rate",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 93.9,
+    "threshold": {
+      "red": 73.9,
+      "amber": 83.9,
+      "green": 93.9
+    },
+    "currentValue": 70.8,
+    "previousValue": 73.2,
+    "ytdValue": 70.8,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-02-16T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 92.0
+      },
+      {
+        "period": "Month 2",
+        "value": 80.8
+      },
+      {
+        "period": "Month 3",
+        "value": 77.5
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-021",
+    "kpiName": "Audit Completion Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Weekly",
+    "target": 85.9,
+    "threshold": {
+      "red": 65.9,
+      "amber": 75.9,
+      "green": 85.9
+    },
+    "currentValue": 63.1,
+    "previousValue": 60.6,
+    "ytdValue": 63.1,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-03-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 98.4
+      },
+      {
+        "period": "Month 2",
+        "value": 75.6
+      },
+      {
+        "period": "Month 3",
+        "value": 89.1
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-022",
+    "kpiName": "Customer Satisfaction",
+    "category": "HR",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 81.0,
+    "threshold": {
+      "red": 61.0,
+      "amber": 71.0,
+      "green": 81.0
+    },
+    "currentValue": 99.1,
+    "previousValue": 97.6,
+    "ytdValue": 99.1,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-08-25T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 74.7
+      },
+      {
+        "period": "Month 2",
+        "value": 71.4
+      },
+      {
+        "period": "Month 3",
+        "value": 66.4
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-023",
+    "kpiName": "System Uptime",
+    "category": "Operational",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 90.3,
+    "threshold": {
+      "red": 70.3,
+      "amber": 80.3,
+      "green": 90.3
+    },
+    "currentValue": 94.0,
+    "previousValue": 95.2,
+    "ytdValue": 94.0,
+    "trend": "Declining",
+    "status": "Green",
+    "lastUpdated": "2024-11-22T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 60.8
+      },
+      {
+        "period": "Month 2",
+        "value": 81.3
+      },
+      {
+        "period": "Month 3",
+        "value": 78.7
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-024",
+    "kpiName": "Response Time",
+    "category": "HR",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 89.4,
+    "threshold": {
+      "red": 69.4,
+      "amber": 79.4,
+      "green": 89.4
+    },
+    "currentValue": 74.7,
+    "previousValue": 72.9,
+    "ytdValue": 74.7,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-10-10T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 66.9
+      },
+      {
+        "period": "Month 2",
+        "value": 82.8
+      },
+      {
+        "period": "Month 3",
+        "value": 67.3
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-REA-2024-025",
+    "kpiName": "Error Rate",
+    "category": "Financial",
+    "description": "Key performance indicator for Rural Electrification Authority",
+    "owner": "Rural Electrification Authority",
+    "measurementUnit": "Percentage",
+    "frequency": "Monthly",
+    "target": 84.4,
+    "threshold": {
+      "red": 64.4,
+      "amber": 74.4,
+      "green": 84.4
+    },
+    "currentValue": 77.9,
+    "previousValue": 79.8,
+    "ytdValue": 77.9,
+    "trend": "Improving",
+    "status": "Amber",
+    "lastUpdated": "2024-02-08T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 82.7
+      },
+      {
+        "period": "Month 2",
+        "value": 94.2
+      },
+      {
+        "period": "Month 3",
+        "value": 64.7
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  }
+]

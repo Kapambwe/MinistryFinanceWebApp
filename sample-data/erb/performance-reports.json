@@ -1,0 +1,677 @@
+[
+  {
+    "id": "PR-ERB-2024-001",
+    "reportTitle": "Performance Report 001 - Energy Regulation Board",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-03-11T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 74.1,
+    "budgetUtilization": 60.3,
+    "programDelivery": 79.9,
+    "staffPerformance": 84.9,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ERB-2024-002",
+    "reportTitle": "Performance Report 002 - Energy Regulation Board",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-05-24T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 93.9,
+    "budgetUtilization": 97.1,
+    "programDelivery": 66.8,
+    "staffPerformance": 82.6,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ERB-2024-003",
+    "reportTitle": "Performance Report 003 - Energy Regulation Board",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-02-07T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 71.4,
+    "budgetUtilization": 89.2,
+    "programDelivery": 83.1,
+    "staffPerformance": 87.3,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ERB-2024-004",
+    "reportTitle": "Performance Report 004 - Energy Regulation Board",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-09-14T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 67.6,
+    "budgetUtilization": 78.8,
+    "programDelivery": 68.1,
+    "staffPerformance": 73.2,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ERB-2024-005",
+    "reportTitle": "Performance Report 005 - Energy Regulation Board",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-01-25T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 70.0,
+    "budgetUtilization": 63.3,
+    "programDelivery": 86.3,
+    "staffPerformance": 75.1,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ERB-2024-006",
+    "reportTitle": "Performance Report 006 - Energy Regulation Board",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-01-03T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 73.7,
+    "budgetUtilization": 92.7,
+    "programDelivery": 80.2,
+    "staffPerformance": 74.1,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ERB-2024-007",
+    "reportTitle": "Performance Report 007 - Energy Regulation Board",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-09-18T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 84.3,
+    "budgetUtilization": 87.0,
+    "programDelivery": 81.0,
+    "staffPerformance": 86.9,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ERB-2024-008",
+    "reportTitle": "Performance Report 008 - Energy Regulation Board",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-03-07T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 68.5,
+    "budgetUtilization": 81.7,
+    "programDelivery": 85.4,
+    "staffPerformance": 91.7,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ERB-2024-009",
+    "reportTitle": "Performance Report 009 - Energy Regulation Board",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-02-22T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 71.5,
+    "budgetUtilization": 72.2,
+    "programDelivery": 98.4,
+    "staffPerformance": 88.2,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ERB-2024-010",
+    "reportTitle": "Performance Report 010 - Energy Regulation Board",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-02-15T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 93.8,
+    "budgetUtilization": 68.9,
+    "programDelivery": 74.4,
+    "staffPerformance": 91.6,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ERB-2024-011",
+    "reportTitle": "Performance Report 011 - Energy Regulation Board",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-01-10T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 94.2,
+    "budgetUtilization": 87.0,
+    "programDelivery": 86.3,
+    "staffPerformance": 71.7,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ERB-2024-012",
+    "reportTitle": "Performance Report 012 - Energy Regulation Board",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-01-28T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 84.7,
+    "budgetUtilization": 86.2,
+    "programDelivery": 95.6,
+    "staffPerformance": 72.3,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ERB-2024-013",
+    "reportTitle": "Performance Report 013 - Energy Regulation Board",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-05-02T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 74.6,
+    "budgetUtilization": 92.9,
+    "programDelivery": 60.0,
+    "staffPerformance": 88.1,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ERB-2024-014",
+    "reportTitle": "Performance Report 014 - Energy Regulation Board",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-04-09T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 93.6,
+    "budgetUtilization": 70.0,
+    "programDelivery": 71.6,
+    "staffPerformance": 70.7,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ERB-2024-015",
+    "reportTitle": "Performance Report 015 - Energy Regulation Board",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-05-17T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 79.2,
+    "budgetUtilization": 74.9,
+    "programDelivery": 57.6,
+    "staffPerformance": 87.9,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ERB-2024-016",
+    "reportTitle": "Performance Report 016 - Energy Regulation Board",
+    "reportPeriod": "Q3 2024",
+    "reportDate": "2024-12-05T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 75.7,
+    "budgetUtilization": 92.7,
+    "programDelivery": 75.7,
+    "staffPerformance": 75.7,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ERB-2024-017",
+    "reportTitle": "Performance Report 017 - Energy Regulation Board",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-02-13T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 65.8,
+    "budgetUtilization": 67.4,
+    "programDelivery": 77.4,
+    "staffPerformance": 86.1,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ERB-2024-018",
+    "reportTitle": "Performance Report 018 - Energy Regulation Board",
+    "reportPeriod": "Q1 2024",
+    "reportDate": "2024-02-21T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 94.2,
+    "budgetUtilization": 85.5,
+    "programDelivery": 98.9,
+    "staffPerformance": 71.4,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ERB-2024-019",
+    "reportTitle": "Performance Report 019 - Energy Regulation Board",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-01-07T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 87.8,
+    "budgetUtilization": 81.8,
+    "programDelivery": 72.1,
+    "staffPerformance": 89.3,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ERB-2024-020",
+    "reportTitle": "Performance Report 020 - Energy Regulation Board",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-07-28T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 78.8,
+    "budgetUtilization": 60.5,
+    "programDelivery": 81.7,
+    "staffPerformance": 77.0,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  },
+  {
+    "id": "PR-ERB-2024-021",
+    "reportTitle": "Performance Report 021 - Energy Regulation Board",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-07-22T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 83.1,
+    "budgetUtilization": 92.7,
+    "programDelivery": 61.2,
+    "staffPerformance": 89.1,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ERB-2024-022",
+    "reportTitle": "Performance Report 022 - Energy Regulation Board",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-01-01T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 79.8,
+    "budgetUtilization": 88.2,
+    "programDelivery": 69.3,
+    "staffPerformance": 90.5,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Final"
+  },
+  {
+    "id": "PR-ERB-2024-023",
+    "reportTitle": "Performance Report 023 - Energy Regulation Board",
+    "reportPeriod": "Q4 2024",
+    "reportDate": "2024-02-09T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 84.7,
+    "budgetUtilization": 81.3,
+    "programDelivery": 63.9,
+    "staffPerformance": 74.6,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ERB-2024-024",
+    "reportTitle": "Performance Report 024 - Energy Regulation Board",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-01-26T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 87.6,
+    "budgetUtilization": 72.8,
+    "programDelivery": 79.1,
+    "staffPerformance": 82.3,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Draft"
+  },
+  {
+    "id": "PR-ERB-2024-025",
+    "reportTitle": "Performance Report 025 - Energy Regulation Board",
+    "reportPeriod": "Q2 2024",
+    "reportDate": "2024-10-21T00:00:00Z",
+    "preparedBy": "M&E Unit",
+    "approvedBy": "Director General",
+    "agency": "Energy Regulation Board",
+    "overallScore": 70.1,
+    "budgetUtilization": 77.8,
+    "programDelivery": 82.0,
+    "staffPerformance": 70.1,
+    "highlights": [
+      "Achievement 1 for Energy Regulation Board",
+      "Achievement 2 for Energy Regulation Board",
+      "Achievement 3 for Energy Regulation Board"
+    ],
+    "challenges": [
+      "Challenge 1 encountered",
+      "Challenge 2 encountered"
+    ],
+    "recommendations": [
+      "Recommendation 1",
+      "Recommendation 2"
+    ],
+    "status": "Approved"
+  }
+]

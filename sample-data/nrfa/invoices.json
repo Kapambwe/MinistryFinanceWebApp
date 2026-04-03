@@ -1,0 +1,702 @@
+[
+  {
+    "invoiceId": "INV-NRFA-2024-0001",
+    "invoiceNumber": "2024/NRFA/0001",
+    "invoiceDate": "2024-06-28T00:00:00Z",
+    "dueDate": "2024-09-19T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "8085618215",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5286150.4,
+        "amount": 5286150.4
+      }
+    ],
+    "subtotal": 5286150.4,
+    "vatRate": 16.0,
+    "vatAmount": 845784.06,
+    "totalAmount": 6131934.46,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-NRFA-0001"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0002",
+    "invoiceNumber": "2024/NRFA/0002",
+    "invoiceDate": "2024-04-12T00:00:00Z",
+    "dueDate": "2024-08-22T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "ICT",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "4902749039",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 589601.33,
+        "amount": 589601.33
+      }
+    ],
+    "subtotal": 589601.33,
+    "vatRate": 16.0,
+    "vatAmount": 94336.21,
+    "totalAmount": 683937.54,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-NRFA-0002"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0003",
+    "invoiceNumber": "2024/NRFA/0003",
+    "invoiceDate": "2024-10-06T00:00:00Z",
+    "dueDate": "2024-05-13T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Finance",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "5137557464",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3182745.02,
+        "amount": 3182745.02
+      }
+    ],
+    "subtotal": 3182745.02,
+    "vatRate": 16.0,
+    "vatAmount": 509239.2,
+    "totalAmount": 3691984.22,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-NRFA-0003"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0004",
+    "invoiceNumber": "2024/NRFA/0004",
+    "invoiceDate": "2024-10-24T00:00:00Z",
+    "dueDate": "2024-11-15T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "4744741920",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6582272.33,
+        "amount": 6582272.33
+      }
+    ],
+    "subtotal": 6582272.33,
+    "vatRate": 16.0,
+    "vatAmount": 1053163.57,
+    "totalAmount": 7635435.9,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-NRFA-0004"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0005",
+    "invoiceNumber": "2024/NRFA/0005",
+    "invoiceDate": "2024-01-18T00:00:00Z",
+    "dueDate": "2024-07-14T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Administration",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "7778080960",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5168679.94,
+        "amount": 5168679.94
+      }
+    ],
+    "subtotal": 5168679.94,
+    "vatRate": 16.0,
+    "vatAmount": 826988.79,
+    "totalAmount": 5995668.73,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-NRFA-0005"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0006",
+    "invoiceNumber": "2024/NRFA/0006",
+    "invoiceDate": "2024-06-09T00:00:00Z",
+    "dueDate": "2024-11-02T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Research",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "2163335100",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9728419.95,
+        "amount": 9728419.95
+      }
+    ],
+    "subtotal": 9728419.95,
+    "vatRate": 16.0,
+    "vatAmount": 1556547.19,
+    "totalAmount": 11284967.14,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-NRFA-0006"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0007",
+    "invoiceNumber": "2024/NRFA/0007",
+    "invoiceDate": "2024-09-09T00:00:00Z",
+    "dueDate": "2024-09-17T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "9927934381",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5728047.29,
+        "amount": 5728047.29
+      }
+    ],
+    "subtotal": 5728047.29,
+    "vatRate": 16.0,
+    "vatAmount": 916487.57,
+    "totalAmount": 6644534.86,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-NRFA-0007"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0008",
+    "invoiceNumber": "2024/NRFA/0008",
+    "invoiceDate": "2024-05-03T00:00:00Z",
+    "dueDate": "2024-03-03T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "2630278004",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6970230.73,
+        "amount": 6970230.73
+      }
+    ],
+    "subtotal": 6970230.73,
+    "vatRate": 16.0,
+    "vatAmount": 1115236.92,
+    "totalAmount": 8085467.65,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-NRFA-0008"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0009",
+    "invoiceNumber": "2024/NRFA/0009",
+    "invoiceDate": "2024-08-02T00:00:00Z",
+    "dueDate": "2024-12-13T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Human Resources",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "1615026602",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2121988.46,
+        "amount": 2121988.46
+      }
+    ],
+    "subtotal": 2121988.46,
+    "vatRate": 16.0,
+    "vatAmount": 339518.15,
+    "totalAmount": 2461506.61,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-NRFA-0009"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0010",
+    "invoiceNumber": "2024/NRFA/0010",
+    "invoiceDate": "2024-04-13T00:00:00Z",
+    "dueDate": "2024-02-04T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Legal",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "9838088784",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2776593.34,
+        "amount": 2776593.34
+      }
+    ],
+    "subtotal": 2776593.34,
+    "vatRate": 16.0,
+    "vatAmount": 444254.93,
+    "totalAmount": 3220848.27,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-NRFA-0010"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0011",
+    "invoiceNumber": "2024/NRFA/0011",
+    "invoiceDate": "2024-07-06T00:00:00Z",
+    "dueDate": "2024-10-17T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "ICT",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "8442365860",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 8964105.74,
+        "amount": 8964105.74
+      }
+    ],
+    "subtotal": 8964105.74,
+    "vatRate": 16.0,
+    "vatAmount": 1434256.92,
+    "totalAmount": 10398362.66,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-NRFA-0011"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0012",
+    "invoiceNumber": "2024/NRFA/0012",
+    "invoiceDate": "2024-12-26T00:00:00Z",
+    "dueDate": "2024-01-19T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Planning",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "2768921252",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9642602.18,
+        "amount": 9642602.18
+      }
+    ],
+    "subtotal": 9642602.18,
+    "vatRate": 16.0,
+    "vatAmount": 1542816.35,
+    "totalAmount": 11185418.53,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-NRFA-0012"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0013",
+    "invoiceNumber": "2024/NRFA/0013",
+    "invoiceDate": "2024-09-08T00:00:00Z",
+    "dueDate": "2024-09-28T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "1189594548",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6137813.5,
+        "amount": 6137813.5
+      }
+    ],
+    "subtotal": 6137813.5,
+    "vatRate": 16.0,
+    "vatAmount": 982050.16,
+    "totalAmount": 7119863.66,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-NRFA-0013"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0014",
+    "invoiceNumber": "2024/NRFA/0014",
+    "invoiceDate": "2024-07-15T00:00:00Z",
+    "dueDate": "2024-08-17T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Compliance",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "5883953964",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3451797.08,
+        "amount": 3451797.08
+      }
+    ],
+    "subtotal": 3451797.08,
+    "vatRate": 16.0,
+    "vatAmount": 552287.53,
+    "totalAmount": 4004084.61,
+    "currency": "ZMW",
+    "status": "Overdue",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-NRFA-0014"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0015",
+    "invoiceNumber": "2024/NRFA/0015",
+    "invoiceDate": "2024-01-08T00:00:00Z",
+    "dueDate": "2024-11-13T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "1895694103",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 6170262.99,
+        "amount": 6170262.99
+      }
+    ],
+    "subtotal": 6170262.99,
+    "vatRate": 16.0,
+    "vatAmount": 987242.08,
+    "totalAmount": 7157505.07,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-NRFA-0015"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0016",
+    "invoiceNumber": "2024/NRFA/0016",
+    "invoiceDate": "2024-12-24T00:00:00Z",
+    "dueDate": "2024-07-04T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "Ministry of Agriculture",
+    "billedToTaxId": "8393316209",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7867947.1,
+        "amount": 7867947.1
+      }
+    ],
+    "subtotal": 7867947.1,
+    "vatRate": 16.0,
+    "vatAmount": 1258871.54,
+    "totalAmount": 9126818.64,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-NRFA-0016"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0017",
+    "invoiceNumber": "2024/NRFA/0017",
+    "invoiceDate": "2024-07-18T00:00:00Z",
+    "dueDate": "2024-04-15T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Corporate Affairs",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "3897065689",
+    "description": "Professional services - Q4 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 1973776.06,
+        "amount": 1973776.06
+      }
+    ],
+    "subtotal": 1973776.06,
+    "vatRate": 16.0,
+    "vatAmount": 315804.17,
+    "totalAmount": 2289580.23,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-NRFA-0017"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0018",
+    "invoiceNumber": "2024/NRFA/0018",
+    "invoiceDate": "2024-07-11T00:00:00Z",
+    "dueDate": "2024-09-18T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Finance",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "1629588063",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 820506.02,
+        "amount": 820506.02
+      }
+    ],
+    "subtotal": 820506.02,
+    "vatRate": 16.0,
+    "vatAmount": 131280.96,
+    "totalAmount": 951786.98,
+    "currency": "ZMW",
+    "status": "Approved",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-NRFA-0018"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0019",
+    "invoiceNumber": "2024/NRFA/0019",
+    "invoiceDate": "2024-07-11T00:00:00Z",
+    "dueDate": "2024-07-13T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Legal",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "6195886552",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 3094538.06,
+        "amount": 3094538.06
+      }
+    ],
+    "subtotal": 3094538.06,
+    "vatRate": 16.0,
+    "vatAmount": 495126.09,
+    "totalAmount": 3589664.15,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "EFT",
+    "paymentReference": "REF-NRFA-0019"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0020",
+    "invoiceNumber": "2024/NRFA/0020",
+    "invoiceDate": "2024-04-20T00:00:00Z",
+    "dueDate": "2024-03-26T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "4799083636",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7577915.75,
+        "amount": 7577915.75
+      }
+    ],
+    "subtotal": 7577915.75,
+    "vatRate": 16.0,
+    "vatAmount": 1212466.52,
+    "totalAmount": 8790382.27,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-NRFA-0020"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0021",
+    "invoiceNumber": "2024/NRFA/0021",
+    "invoiceDate": "2024-03-04T00:00:00Z",
+    "dueDate": "2024-01-08T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Administration",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "4881471552",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 9683876.39,
+        "amount": 9683876.39
+      }
+    ],
+    "subtotal": 9683876.39,
+    "vatRate": 16.0,
+    "vatAmount": 1549420.22,
+    "totalAmount": 11233296.61,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-NRFA-0021"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0022",
+    "invoiceNumber": "2024/NRFA/0022",
+    "invoiceDate": "2024-12-24T00:00:00Z",
+    "dueDate": "2024-04-16T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Corporate Affairs",
+    "billedTo": "Ministry of Finance",
+    "billedToTaxId": "1397363327",
+    "description": "Professional services - Q2 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 5671862.63,
+        "amount": 5671862.63
+      }
+    ],
+    "subtotal": 5671862.63,
+    "vatRate": 16.0,
+    "vatAmount": 907498.02,
+    "totalAmount": 6579360.65,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-NRFA-0022"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0023",
+    "invoiceNumber": "2024/NRFA/0023",
+    "invoiceDate": "2024-12-19T00:00:00Z",
+    "dueDate": "2024-12-07T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Corporate Affairs",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "7999946683",
+    "description": "Professional services - Q3 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 7743628.59,
+        "amount": 7743628.59
+      }
+    ],
+    "subtotal": 7743628.59,
+    "vatRate": 16.0,
+    "vatAmount": 1238980.57,
+    "totalAmount": 8982609.16,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-NRFA-0023"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0024",
+    "invoiceNumber": "2024/NRFA/0024",
+    "invoiceDate": "2024-10-05T00:00:00Z",
+    "dueDate": "2024-10-27T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Risk Management",
+    "billedTo": "Ministry of Health",
+    "billedToTaxId": "3658963313",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 899990.2,
+        "amount": 899990.2
+      }
+    ],
+    "subtotal": 899990.2,
+    "vatRate": 16.0,
+    "vatAmount": 143998.43,
+    "totalAmount": 1043988.63,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paymentMethod": "Bank Transfer",
+    "paymentReference": "REF-NRFA-0024"
+  },
+  {
+    "invoiceId": "INV-NRFA-2024-0025",
+    "invoiceNumber": "2024/NRFA/0025",
+    "invoiceDate": "2024-01-24T00:00:00Z",
+    "dueDate": "2024-05-11T00:00:00Z",
+    "issuingEntity": "National Road Fund Agency",
+    "issuingDepartment": "Monitoring & Evaluation",
+    "billedTo": "External Vendor",
+    "billedToTaxId": "9084578659",
+    "description": "Professional services - Q1 2024",
+    "lineItems": [
+      {
+        "itemNumber": 1,
+        "description": "Service fee",
+        "quantity": 1,
+        "unitPrice": 2170383.09,
+        "amount": 2170383.09
+      }
+    ],
+    "subtotal": 2170383.09,
+    "vatRate": 16.0,
+    "vatAmount": 347261.29,
+    "totalAmount": 2517644.38,
+    "currency": "ZMW",
+    "status": "Draft",
+    "paymentMethod": "Cheque",
+    "paymentReference": "REF-NRFA-0025"
+  }
+]

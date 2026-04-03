@@ -1,0 +1,927 @@
+[
+  {
+    "id": "KPI-ERB-2024-001",
+    "kpiName": "Budget Execution Rate",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 97.7,
+    "threshold": {
+      "red": 77.7,
+      "amber": 87.7,
+      "green": 97.7
+    },
+    "currentValue": 90.0,
+    "previousValue": 86.8,
+    "ytdValue": 90.0,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-12-22T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 91.1
+      },
+      {
+        "period": "Month 2",
+        "value": 67.4
+      },
+      {
+        "period": "Month 3",
+        "value": 65.8
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-002",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Financial",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 88.8,
+    "threshold": {
+      "red": 68.8,
+      "amber": 78.8,
+      "green": 88.8
+    },
+    "currentValue": 75.1,
+    "previousValue": 67.7,
+    "ytdValue": 75.1,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-08-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 69.1
+      },
+      {
+        "period": "Month 2",
+        "value": 70.7
+      },
+      {
+        "period": "Month 3",
+        "value": 98.8
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-003",
+    "kpiName": "Procurement Compliance",
+    "category": "Operational",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 98.2,
+    "threshold": {
+      "red": 78.2,
+      "amber": 88.2,
+      "green": 98.2
+    },
+    "currentValue": 60.3,
+    "previousValue": 56.7,
+    "ytdValue": 60.3,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-06-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 94.8
+      },
+      {
+        "period": "Month 2",
+        "value": 90.3
+      },
+      {
+        "period": "Month 3",
+        "value": 98.2
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-004",
+    "kpiName": "Staff Utilization",
+    "category": "HR",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 93.4,
+    "threshold": {
+      "red": 73.4,
+      "amber": 83.4,
+      "green": 93.4
+    },
+    "currentValue": 79.2,
+    "previousValue": 73.6,
+    "ytdValue": 79.2,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-03-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 92.2
+      },
+      {
+        "period": "Month 2",
+        "value": 93.6
+      },
+      {
+        "period": "Month 3",
+        "value": 80.0
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-005",
+    "kpiName": "Service Delivery Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 93.6,
+    "threshold": {
+      "red": 73.6,
+      "amber": 83.6,
+      "green": 93.6
+    },
+    "currentValue": 61.5,
+    "previousValue": 58.5,
+    "ytdValue": 61.5,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-12-19T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 78.8
+      },
+      {
+        "period": "Month 2",
+        "value": 62.4
+      },
+      {
+        "period": "Month 3",
+        "value": 65.0
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-006",
+    "kpiName": "Audit Completion Rate",
+    "category": "Operational",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 88.8,
+    "threshold": {
+      "red": 68.8,
+      "amber": 78.8,
+      "green": 88.8
+    },
+    "currentValue": 89.8,
+    "previousValue": 91.8,
+    "ytdValue": 89.8,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-01-10T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 88.4
+      },
+      {
+        "period": "Month 2",
+        "value": 91.5
+      },
+      {
+        "period": "Month 3",
+        "value": 61.7
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-007",
+    "kpiName": "Customer Satisfaction",
+    "category": "HR",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 93.8,
+    "threshold": {
+      "red": 73.8,
+      "amber": 83.8,
+      "green": 93.8
+    },
+    "currentValue": 66.1,
+    "previousValue": 68.5,
+    "ytdValue": 66.1,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-10-24T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 91.6
+      },
+      {
+        "period": "Month 2",
+        "value": 87.4
+      },
+      {
+        "period": "Month 3",
+        "value": 99.2
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-008",
+    "kpiName": "System Uptime",
+    "category": "IT",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Percentage",
+    "frequency": "Weekly",
+    "target": 95.1,
+    "threshold": {
+      "red": 75.1,
+      "amber": 85.1,
+      "green": 95.1
+    },
+    "currentValue": 95.7,
+    "previousValue": 87.6,
+    "ytdValue": 95.7,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-08-18T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 81.5
+      },
+      {
+        "period": "Month 2",
+        "value": 98.2
+      },
+      {
+        "period": "Month 3",
+        "value": 74.4
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-009",
+    "kpiName": "Response Time",
+    "category": "HR",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 91.1,
+    "threshold": {
+      "red": 71.1,
+      "amber": 81.1,
+      "green": 91.1
+    },
+    "currentValue": 85.5,
+    "previousValue": 79.9,
+    "ytdValue": 85.5,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-06-13T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 84.3
+      },
+      {
+        "period": "Month 2",
+        "value": 71.9
+      },
+      {
+        "period": "Month 3",
+        "value": 98.6
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-010",
+    "kpiName": "Error Rate",
+    "category": "HR",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "ZMW",
+    "frequency": "Daily",
+    "target": 89.8,
+    "threshold": {
+      "red": 69.8,
+      "amber": 79.8,
+      "green": 89.8
+    },
+    "currentValue": 97.1,
+    "previousValue": 98.3,
+    "ytdValue": 97.1,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-03-23T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 67.1
+      },
+      {
+        "period": "Month 2",
+        "value": 93.9
+      },
+      {
+        "period": "Month 3",
+        "value": 98.6
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-011",
+    "kpiName": "Training Completion",
+    "category": "HR",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Days",
+    "frequency": "Daily",
+    "target": 83.1,
+    "threshold": {
+      "red": 63.099999999999994,
+      "amber": 73.1,
+      "green": 83.1
+    },
+    "currentValue": 81.8,
+    "previousValue": 84.9,
+    "ytdValue": 81.8,
+    "trend": "Stable",
+    "status": "Amber",
+    "lastUpdated": "2024-01-01T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 86.4
+      },
+      {
+        "period": "Month 2",
+        "value": 76.9
+      },
+      {
+        "period": "Month 3",
+        "value": 66.5
+      }
+    ],
+    "actionPlan": "Improve Training Completion through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-012",
+    "kpiName": "Regulatory Compliance",
+    "category": "HR",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Days",
+    "frequency": "Quarterly",
+    "target": 92.9,
+    "threshold": {
+      "red": 72.9,
+      "amber": 82.9,
+      "green": 92.9
+    },
+    "currentValue": 70.5,
+    "previousValue": 67.9,
+    "ytdValue": 70.5,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-08-14T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 61.0
+      },
+      {
+        "period": "Month 2",
+        "value": 82.2
+      },
+      {
+        "period": "Month 3",
+        "value": 72.9
+      }
+    ],
+    "actionPlan": "Improve Regulatory Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-013",
+    "kpiName": "Cost per Transaction",
+    "category": "Financial",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 81.1,
+    "threshold": {
+      "red": 61.099999999999994,
+      "amber": 71.1,
+      "green": 81.1
+    },
+    "currentValue": 65.2,
+    "previousValue": 64.3,
+    "ytdValue": 65.2,
+    "trend": "Improving",
+    "status": "Red",
+    "lastUpdated": "2024-12-04T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 69.7
+      },
+      {
+        "period": "Month 2",
+        "value": 97.8
+      },
+      {
+        "period": "Month 3",
+        "value": 80.0
+      }
+    ],
+    "actionPlan": "Improve Cost per Transaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-014",
+    "kpiName": "Payment Processing Time",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Number",
+    "frequency": "Quarterly",
+    "target": 96.5,
+    "threshold": {
+      "red": 76.5,
+      "amber": 86.5,
+      "green": 96.5
+    },
+    "currentValue": 75.0,
+    "previousValue": 71.5,
+    "ytdValue": 75.0,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-10-02T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 72.8
+      },
+      {
+        "period": "Month 2",
+        "value": 95.5
+      },
+      {
+        "period": "Month 3",
+        "value": 91.0
+      }
+    ],
+    "actionPlan": "Improve Payment Processing Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-015",
+    "kpiName": "Report Timeliness",
+    "category": "Financial",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Percentage",
+    "frequency": "Weekly",
+    "target": 81.4,
+    "threshold": {
+      "red": 61.400000000000006,
+      "amber": 71.4,
+      "green": 81.4
+    },
+    "currentValue": 81.6,
+    "previousValue": 83.5,
+    "ytdValue": 81.6,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-08-09T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 93.5
+      },
+      {
+        "period": "Month 2",
+        "value": 67.9
+      },
+      {
+        "period": "Month 3",
+        "value": 76.1
+      }
+    ],
+    "actionPlan": "Improve Report Timeliness through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-016",
+    "kpiName": "Budget Execution Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 80.4,
+    "threshold": {
+      "red": 60.400000000000006,
+      "amber": 70.4,
+      "green": 80.4
+    },
+    "currentValue": 85.4,
+    "previousValue": 83.4,
+    "ytdValue": 85.4,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-02-11T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 97.0
+      },
+      {
+        "period": "Month 2",
+        "value": 74.6
+      },
+      {
+        "period": "Month 3",
+        "value": 77.3
+      }
+    ],
+    "actionPlan": "Improve Budget Execution Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-017",
+    "kpiName": "Revenue Collection Rate",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 91.8,
+    "threshold": {
+      "red": 71.8,
+      "amber": 81.8,
+      "green": 91.8
+    },
+    "currentValue": 78.5,
+    "previousValue": 82.0,
+    "ytdValue": 78.5,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-10-11T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 84.5
+      },
+      {
+        "period": "Month 2",
+        "value": 74.8
+      },
+      {
+        "period": "Month 3",
+        "value": 74.7
+      }
+    ],
+    "actionPlan": "Improve Revenue Collection Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-018",
+    "kpiName": "Procurement Compliance",
+    "category": "Operational",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 96.9,
+    "threshold": {
+      "red": 76.9,
+      "amber": 86.9,
+      "green": 96.9
+    },
+    "currentValue": 73.0,
+    "previousValue": 71.9,
+    "ytdValue": 73.0,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-02-15T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 64.6
+      },
+      {
+        "period": "Month 2",
+        "value": 80.6
+      },
+      {
+        "period": "Month 3",
+        "value": 95.0
+      }
+    ],
+    "actionPlan": "Improve Procurement Compliance through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-019",
+    "kpiName": "Staff Utilization",
+    "category": "Financial",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Number",
+    "frequency": "Weekly",
+    "target": 98.2,
+    "threshold": {
+      "red": 78.2,
+      "amber": 88.2,
+      "green": 98.2
+    },
+    "currentValue": 71.4,
+    "previousValue": 74.3,
+    "ytdValue": 71.4,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-06-05T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 89.6
+      },
+      {
+        "period": "Month 2",
+        "value": 86.5
+      },
+      {
+        "period": "Month 3",
+        "value": 74.7
+      }
+    ],
+    "actionPlan": "Improve Staff Utilization through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-020",
+    "kpiName": "Service Delivery Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Number",
+    "frequency": "Monthly",
+    "target": 95.4,
+    "threshold": {
+      "red": 75.4,
+      "amber": 85.4,
+      "green": 95.4
+    },
+    "currentValue": 62.5,
+    "previousValue": 59.9,
+    "ytdValue": 62.5,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-02-28T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 62.7
+      },
+      {
+        "period": "Month 2",
+        "value": 85.2
+      },
+      {
+        "period": "Month 3",
+        "value": 67.4
+      }
+    ],
+    "actionPlan": "Improve Service Delivery Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-021",
+    "kpiName": "Audit Completion Rate",
+    "category": "IT",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Days",
+    "frequency": "Weekly",
+    "target": 85.7,
+    "threshold": {
+      "red": 65.7,
+      "amber": 75.7,
+      "green": 85.7
+    },
+    "currentValue": 96.3,
+    "previousValue": 91.3,
+    "ytdValue": 96.3,
+    "trend": "Improving",
+    "status": "Green",
+    "lastUpdated": "2024-04-02T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 91.6
+      },
+      {
+        "period": "Month 2",
+        "value": 86.6
+      },
+      {
+        "period": "Month 3",
+        "value": 78.9
+      }
+    ],
+    "actionPlan": "Improve Audit Completion Rate through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-022",
+    "kpiName": "Customer Satisfaction",
+    "category": "HR",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "ZMW",
+    "frequency": "Quarterly",
+    "target": 87.3,
+    "threshold": {
+      "red": 67.3,
+      "amber": 77.3,
+      "green": 87.3
+    },
+    "currentValue": 84.9,
+    "previousValue": 76.7,
+    "ytdValue": 84.9,
+    "trend": "Declining",
+    "status": "Amber",
+    "lastUpdated": "2024-09-05T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 72.0
+      },
+      {
+        "period": "Month 2",
+        "value": 62.3
+      },
+      {
+        "period": "Month 3",
+        "value": 92.9
+      }
+    ],
+    "actionPlan": "Improve Customer Satisfaction through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-023",
+    "kpiName": "System Uptime",
+    "category": "Operational",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Percentage",
+    "frequency": "Quarterly",
+    "target": 86.9,
+    "threshold": {
+      "red": 66.9,
+      "amber": 76.9,
+      "green": 86.9
+    },
+    "currentValue": 94.3,
+    "previousValue": 95.3,
+    "ytdValue": 94.3,
+    "trend": "Stable",
+    "status": "Green",
+    "lastUpdated": "2024-05-01T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 89.5
+      },
+      {
+        "period": "Month 2",
+        "value": 66.9
+      },
+      {
+        "period": "Month 3",
+        "value": 68.0
+      }
+    ],
+    "actionPlan": "Improve System Uptime through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-024",
+    "kpiName": "Response Time",
+    "category": "Financial",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 94.7,
+    "threshold": {
+      "red": 74.7,
+      "amber": 84.7,
+      "green": 94.7
+    },
+    "currentValue": 69.3,
+    "previousValue": 64.2,
+    "ytdValue": 69.3,
+    "trend": "Declining",
+    "status": "Red",
+    "lastUpdated": "2024-02-27T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 82.1
+      },
+      {
+        "period": "Month 2",
+        "value": 61.6
+      },
+      {
+        "period": "Month 3",
+        "value": 88.7
+      }
+    ],
+    "actionPlan": "Improve Response Time through targeted initiatives",
+    "responsible": "Department Head"
+  },
+  {
+    "id": "KPI-ERB-2024-025",
+    "kpiName": "Error Rate",
+    "category": "Service Delivery",
+    "description": "Key performance indicator for Energy Regulation Board",
+    "owner": "Energy Regulation Board",
+    "measurementUnit": "Days",
+    "frequency": "Monthly",
+    "target": 92.5,
+    "threshold": {
+      "red": 72.5,
+      "amber": 82.5,
+      "green": 92.5
+    },
+    "currentValue": 74.1,
+    "previousValue": 74.6,
+    "ytdValue": 74.1,
+    "trend": "Stable",
+    "status": "Red",
+    "lastUpdated": "2024-08-20T17:00:00Z",
+    "dataPoints": [
+      {
+        "period": "Month 1",
+        "value": 96.5
+      },
+      {
+        "period": "Month 2",
+        "value": 63.5
+      },
+      {
+        "period": "Month 3",
+        "value": 92.0
+      }
+    ],
+    "actionPlan": "Improve Error Rate through targeted initiatives",
+    "responsible": "Department Head"
+  }
+]

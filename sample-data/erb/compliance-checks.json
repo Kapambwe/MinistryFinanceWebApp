@@ -1,0 +1,446 @@
+[
+  {
+    "id": "CC-ERB-2024-001",
+    "checkType": "Budget Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-12-17T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 71.7,
+    "status": "Partially Compliant",
+    "findings": 1,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-11-14T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ERB-2024-002",
+    "checkType": "Audit Follow-up",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-04-27T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 62.5,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-09-22T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ERB-2024-003",
+    "checkType": "Budget Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-11-15T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 87.5,
+    "status": "Compliant",
+    "findings": 4,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-03-05T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ERB-2024-004",
+    "checkType": "HR Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-03-12T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 82.7,
+    "status": "Non-Compliant",
+    "findings": 2,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-06-10T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ERB-2024-005",
+    "checkType": "Audit Follow-up",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-09-28T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.8,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-02-28T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ERB-2024-006",
+    "checkType": "IT Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-11-09T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 82.4,
+    "status": "Partially Compliant",
+    "findings": 4,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-07-01T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ERB-2024-007",
+    "checkType": "Procurement Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-10-08T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 97.1,
+    "status": "Compliant",
+    "findings": 7,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-03-03T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ERB-2024-008",
+    "checkType": "IT Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-02-15T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 63.2,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-06-26T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ERB-2024-009",
+    "checkType": "Audit Follow-up",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-03-14T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 75.1,
+    "status": "Non-Compliant",
+    "findings": 8,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-08-11T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ERB-2024-010",
+    "checkType": "HR Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-06-17T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 66.6,
+    "status": "Non-Compliant",
+    "findings": 4,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-05-01T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ERB-2024-011",
+    "checkType": "Audit Follow-up",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-03-24T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 97.1,
+    "status": "Partially Compliant",
+    "findings": 3,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-12-11T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ERB-2024-012",
+    "checkType": "Procurement Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-12-15T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 70.0,
+    "status": "Compliant",
+    "findings": 3,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-04-17T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ERB-2024-013",
+    "checkType": "Budget Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-03-27T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 67.5,
+    "status": "Partially Compliant",
+    "findings": 4,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-10-08T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ERB-2024-014",
+    "checkType": "HR Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-07-04T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 96.5,
+    "status": "Compliant",
+    "findings": 5,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-03-23T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ERB-2024-015",
+    "checkType": "Procurement Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-01-26T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 75.9,
+    "status": "Partially Compliant",
+    "findings": 6,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-09-01T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ERB-2024-016",
+    "checkType": "Procurement Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-02-13T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 56.6,
+    "status": "Partially Compliant",
+    "findings": 2,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-04-08T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ERB-2024-017",
+    "checkType": "Procurement Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-08-22T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 62.9,
+    "status": "Partially Compliant",
+    "findings": 7,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-11-21T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ERB-2024-018",
+    "checkType": "HR Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-05-15T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.2,
+    "status": "Non-Compliant",
+    "findings": 6,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-02-05T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ERB-2024-019",
+    "checkType": "Procurement Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-09-23T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 55.6,
+    "status": "Partially Compliant",
+    "findings": 2,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-07-14T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ERB-2024-020",
+    "checkType": "HR Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-12-10T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 70.6,
+    "status": "Partially Compliant",
+    "findings": 5,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-04-12T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ERB-2024-021",
+    "checkType": "HR Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-12-27T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 68.3,
+    "status": "Partially Compliant",
+    "findings": 0,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-06-05T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ERB-2024-022",
+    "checkType": "Procurement Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-11-17T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 86.7,
+    "status": "Non-Compliant",
+    "findings": 6,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-10-09T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ERB-2024-023",
+    "checkType": "Audit Follow-up",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-12-20T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 78.7,
+    "status": "Non-Compliant",
+    "findings": 2,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-08-02T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ERB-2024-024",
+    "checkType": "Procurement Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-01-08T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 58.6,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-12-25T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ERB-2024-025",
+    "checkType": "Procurement Compliance",
+    "entityName": "Energy Regulation Board",
+    "checkDate": "2024-12-06T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 96.3,
+    "status": "Compliant",
+    "findings": 6,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-05-05T00:00:00Z",
+    "remarks": "Under review"
+  }
+]

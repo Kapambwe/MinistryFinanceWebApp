@@ -1,0 +1,445 @@
+[
+  {
+    "id": "CC-ZAMSTATS-2024-001",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-09-15T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 68.4,
+    "status": "Partially Compliant",
+    "findings": 0,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-11-26T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-002",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-10-21T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 99.9,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-10-18T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-003",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-05-12T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 65.7,
+    "status": "Partially Compliant",
+    "findings": 3,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-04-19T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-004",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-08-19T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.9,
+    "status": "Compliant",
+    "findings": 1,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-07-11T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-005",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-01-14T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 69.9,
+    "status": "Compliant",
+    "findings": 4,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-01-10T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-006",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-08-19T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 71.6,
+    "status": "Compliant",
+    "findings": 7,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-02-13T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-007",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-03-22T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 97.0,
+    "status": "Non-Compliant",
+    "findings": 1,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-09-25T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-008",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-05-23T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.1,
+    "status": "Partially Compliant",
+    "findings": 6,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-07-07T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-009",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-08-25T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 78.9,
+    "status": "Compliant",
+    "findings": 3,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-05-28T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-010",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-05-08T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 95.0,
+    "status": "Partially Compliant",
+    "findings": 7,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-01-09T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-011",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-07-25T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 59.7,
+    "status": "Partially Compliant",
+    "findings": 2,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-04-15T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-012",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-05-21T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 56.6,
+    "status": "Compliant",
+    "findings": 7,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-03-04T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-013",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-05-21T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 68.6,
+    "status": "Partially Compliant",
+    "findings": 5,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-09-09T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-014",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-03-21T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 77.4,
+    "status": "Compliant",
+    "findings": 2,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-02-22T00:00:00Z",
+    "remarks": "Under review"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-015",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-02-22T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 61.8,
+    "status": "Non-Compliant",
+    "findings": 4,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2"
+    ],
+    "nextReviewDate": "2024-10-14T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-016",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-12-07T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 89.3,
+    "status": "Compliant",
+    "findings": 8,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-01-27T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-017",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-08-28T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 64.1,
+    "status": "Partially Compliant",
+    "findings": 7,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-02-04T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-018",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-10-27T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 82.7,
+    "status": "Non-Compliant",
+    "findings": 4,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-06-13T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-019",
+    "checkType": "Audit Follow-up",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-07-15T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 69.1,
+    "status": "Compliant",
+    "findings": 0,
+    "criticalFindings": 0,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-11-14T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-020",
+    "checkType": "IT Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-11-19T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 92.8,
+    "status": "Partially Compliant",
+    "findings": 2,
+    "criticalFindings": 1,
+    "actionItems": [
+      "Action item 1"
+    ],
+    "nextReviewDate": "2024-09-23T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-021",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-12-14T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 78.9,
+    "status": "Partially Compliant",
+    "findings": 5,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-08-04T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-022",
+    "checkType": "Budget Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-03-27T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 59.1,
+    "status": "Non-Compliant",
+    "findings": 1,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-12-23T00:00:00Z",
+    "remarks": "Requires immediate action"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-023",
+    "checkType": "HR Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-09-22T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 82.1,
+    "status": "Non-Compliant",
+    "findings": 0,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-03-03T00:00:00Z",
+    "remarks": "Minor issues found"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-024",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-01-14T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 57.5,
+    "status": "Partially Compliant",
+    "findings": 1,
+    "criticalFindings": 2,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3",
+      "Action item 4"
+    ],
+    "nextReviewDate": "2024-08-23T00:00:00Z",
+    "remarks": "All checks passed"
+  },
+  {
+    "id": "CC-ZAMSTATS-2024-025",
+    "checkType": "Procurement Compliance",
+    "entityName": "Zambia Statistics Agency",
+    "checkDate": "2024-11-24T00:00:00Z",
+    "checkedBy": "Compliance Officer",
+    "complianceScore": 94.4,
+    "status": "Compliant",
+    "findings": 1,
+    "criticalFindings": 3,
+    "actionItems": [
+      "Action item 1",
+      "Action item 2",
+      "Action item 3"
+    ],
+    "nextReviewDate": "2024-04-12T00:00:00Z",
+    "remarks": "Minor issues found"
+  }
+]
