@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "EmployeeId": 1,
+    "EmployeeNumber": "EMP-2020-0001",
+    "EmployeeName": "Joseph Mwansa Banda",
+    "ShiftId": 1,
+    "ShiftName": "Day Shift",
+    "EffectiveDate": "2026-01-01T00:00:00",
+    "ExpiryDate": null,
+    "IsActive": true
+  },
+  {
+    "Id": 2,
+    "EmployeeId": 2,
+    "EmployeeNumber": "EMP-2018-0042",
+    "EmployeeName": "Grace Mutale Mwape",
+    "ShiftId": 1,
+    "ShiftName": "Day Shift",
+    "EffectiveDate": "2026-01-01T00:00:00",
+    "ExpiryDate": null,
+    "IsActive": true
+  }
+]

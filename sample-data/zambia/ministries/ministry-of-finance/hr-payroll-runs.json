@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "PayrollNumber": "PAY-202604-001",
+    "PayrollPeriod": "April 2026",
+    "PeriodStart": "2026-04-01T00:00:00",
+    "PeriodEnd": "2026-04-30T00:00:00",
+    "PaymentDate": "2026-04-30T00:00:00",
+    "PayrollType": 0,
+    "Status": 5,
+    "EmployeeCount": 2,
+    "TotalGrossPay": 185000,
+    "TotalDeductions": 57350,
+    "TotalNetPay": 127650,
+    "TotalEmployerContributions": 11100,
+    "TotalPAYE": 46250,
+    "TotalNAPSAEmployee": 9250,
+    "TotalNAPSAEmployer": 9250,
+    "TotalNHIMAEmployee": 1850,
+    "TotalNHIMAEmployer": 1850,
+    "ProcessedDate": "2026-04-25T00:00:00",
+    "ProcessedBy": "MockProcessor",
+    "ApprovedDate": "2026-04-25T00:00:00",
+    "ApprovedBy": "MockApprover",
+    "PostedDate": "2026-04-25T00:00:00",
+    "PostedBy": "MockPoster",
+    "IsBankFileGenerated": true,
+    "BankFileGeneratedDate": "2026-04-25T00:00:00",
+    "BankFileName": "BANKFILE-PAY-001.txt",
+    "PaySlips": []
+  }
+]

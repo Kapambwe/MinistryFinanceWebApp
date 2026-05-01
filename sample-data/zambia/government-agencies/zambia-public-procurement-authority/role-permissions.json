@@ -1,0 +1,177 @@
+{
+  "CountryName": "Zambia",
+  "CountrySlug": "zambia",
+  "InstitutionType": "government-agencies",
+  "InstitutionName": "Zambia Public Procurement Authority",
+  "InstitutionSlug": "zambia-public-procurement-authority",
+  "OrganizationType": "GovernmentAgency",
+  "TenantType": "GovernmentAgency",
+  "CountryCapabilityTags": [
+    "ProcurementOversight",
+    "Compliance",
+    "Audit",
+    "Reporting",
+    "Analytics",
+    "Transparency"
+  ],
+  "CountryRecommendedPermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.AccessAreas.AI.View",
+    "MOF.Accounting.View",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View",
+    "MOF.Audit.ViewComplianceStatus",
+    "MOF.Dashboard.View",
+    "MOF.Payments.View",
+    "MOF.Performance.View",
+    "MOF.Performance.ViewPerformanceIndicators",
+    "MOF.Performance.ViewPerformanceReports",
+    "MOF.Procurement.View",
+    "MOF.Procurement.ViewProcurement",
+    "MOF.Procurement.ManageProcurement",
+    "MOF.Procurement.CreateProcurement",
+    "MOF.Procurement.ViewGuidelines",
+    "MOF.Reporting.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Transparency.View"
+  ],
+  "InstitutionTypePermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.Dashboard.View",
+    "MOF.Procurement.View",
+    "MOF.Procurement.ViewProcurement",
+    "MOF.Procurement.ManageProcurement",
+    "MOF.Procurement.CreateProcurement",
+    "MOF.Procurement.ViewGuidelines",
+    "MOF.Reporting.ViewReports",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View",
+    "MOF.Payments.View"
+  ],
+  "EffectiveInstitutionPermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.Dashboard.View",
+    "MOF.Procurement.View",
+    "MOF.Procurement.ViewProcurement",
+    "MOF.Procurement.ManageProcurement",
+    "MOF.Procurement.CreateProcurement",
+    "MOF.Procurement.ViewGuidelines",
+    "MOF.Reporting.ViewReports",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View"
+  ],
+  "AccessiblePages": [
+    "/",
+    "/dashboard",
+    "/procurement",
+    "/procurement/overview",
+    "/procurement/compliance",
+    "/procurement/reports",
+    "/reports",
+    "/analytics"
+  ],
+  "Roles": [
+    {
+      "RoleId": "zppa.director-general",
+      "RoleName": "Director General",
+      "TemplateRole": "Agency.DirectorProcurement",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Audit.View",
+        "MOF.Procurement.View",
+        "MOF.Procurement.ManageProcurement",
+        "MOF.Procurement.CreateProcurement",
+        "MOF.AccessAreas.Monitoring.View",
+        "MOF.AccessAreas.Diagnostics.View"
+      ]
+    },
+    {
+      "RoleId": "zppa.deputy-director-general",
+      "RoleName": "Deputy Director General",
+      "TemplateRole": "Agency.DirectorProcurement",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Procurement.View",
+        "MOF.Procurement.ManageProcurement",
+        "MOF.Audit.ViewComplianceStatus",
+        "MOF.AccessAreas.Monitoring.View"
+      ]
+    },
+    {
+      "RoleId": "zppa.director-compliance",
+      "RoleName": "Director - Compliance",
+      "TemplateRole": "Agency.DirectorOperations",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Procurement.ViewProcurement",
+        "MOF.Procurement.ViewGuidelines",
+        "MOF.Audit.View",
+        "MOF.Audit.ViewComplianceStatus",
+        "MOF.Reporting.ViewReports"
+      ]
+    },
+    {
+      "RoleId": "zppa.director-finance",
+      "RoleName": "Director - Finance",
+      "TemplateRole": "Agency.FinanceClerk",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Payments.View",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Reporting.ViewReports",
+        "MOF.AccessAreas.Utilities.View"
+      ]
+    },
+    {
+      "RoleId": "zppa.manager-procurement",
+      "RoleName": "Manager - Procurement",
+      "TemplateRole": "Agency.ProcurementOfficer",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Procurement.View",
+        "MOF.Procurement.ViewProcurement",
+        "MOF.Procurement.CreateProcurement",
+        "MOF.Procurement.ManageProcurement",
+        "MOF.Procurement.ViewGuidelines",
+        "MOF.Reporting.ViewReports"
+      ]
+    },
+    {
+      "RoleId": "zppa.manager-audit",
+      "RoleName": "Manager - Audit",
+      "TemplateRole": "Agency.InternalAuditor",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Audit.View",
+        "MOF.Audit.ViewComplianceStatus",
+        "MOF.Reporting.ViewReports",
+        "MOF.AccessAreas.Diagnostics.View"
+      ]
+    },
+    {
+      "RoleId": "zppa.officer",
+      "RoleName": "Officer",
+      "TemplateRole": "Agency.FinanceClerk",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Procurement.View",
+        "MOF.Procurement.ViewProcurement",
+        "MOF.Reporting.ViewReports",
+        "MOF.AccessAreas.Utilities.View"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,793 @@
+[
+  {
+    "id": "AI-2024-001",
+    "insightType": "Spending Pattern",
+    "category": "Budget Analysis",
+    "title": "Seasonal Spike in Agricultural Inputs Procurement",
+    "description": "Analysis reveals 340% increase in agricultural input procurement during Oct-Dec quarter compared to annual average",
+    "generatedDate": "2024-01-15T10:00:00Z",
+    "dataSource": "Procurement Database",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.94,
+    "severity": "Informational",
+    "metrics": {
+      "avgQuarterlySpend": 15800000.0,
+      "q4Spend": 69520000.0,
+      "variance": 340.0,
+      "affectedMinistries": 1
+    },
+    "visualization": {
+      "type": "Line Chart",
+      "dataPoints": 12
+    },
+    "insights": [
+      "Spending aligns with planting season (Oct-Nov)",
+      "Early procurement in October enables timely distribution",
+      "Pattern consistent across last 3 fiscal years"
+    ],
+    "recommendations": [
+      "Plan cash flow for Q4 agricultural procurement surge",
+      "Consider framework agreements to smooth procurement timeline",
+      "Budget allocation should reflect seasonal pattern"
+    ],
+    "actionTaken": false,
+    "currency": "ZMW"
+  },
+  {
+    "id": "AI-2024-002",
+    "insightType": "Efficiency Analysis",
+    "category": "Procurement",
+    "title": "Procurement Processing Time Variance Across Districts",
+    "description": "District-level analysis shows 3x variance in procurement processing times, with urban districts significantly faster",
+    "generatedDate": "2024-01-18T11:30:00Z",
+    "dataSource": "Procurement Management System",
+    "timeframe": {
+      "start": "2023-07-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.91,
+    "severity": "Medium",
+    "metrics": {
+      "avgProcessingDays": 28.5,
+      "fastestDistrict": 15.2,
+      "slowestDistrict": 47.8,
+      "variance": 214.0
+    },
+    "visualization": {
+      "type": "Bar Chart",
+      "dataPoints": 72
+    },
+    "insights": [
+      "Urban districts average 18 days vs 42 days in rural areas",
+      "Staff capacity gaps in rural districts identified",
+      "Internet connectivity affects system access times"
+    ],
+    "recommendations": [
+      "Deploy mobile procurement officers to rural districts",
+      "Provide targeted training for rural district staff",
+      "Improve ICT infrastructure in remote areas",
+      "Implement offline procurement workflow capability"
+    ],
+    "actionTaken": true,
+    "actionDate": "2024-01-25T00:00:00Z",
+    "currency": "ZMW"
+  },
+  {
+    "id": "AI-2024-003",
+    "insightType": "Revenue Optimization",
+    "category": "Revenue Analysis",
+    "title": "Tax Collection Improvement Opportunity in Mining Sector",
+    "description": "Machine learning analysis identifies ZMW 28M additional revenue potential through enhanced mining royalty compliance",
+    "generatedDate": "2024-01-20T14:45:00Z",
+    "dataSource": "Tax Revenue System",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.87,
+    "severity": "High",
+    "metrics": {
+      "currentCollection": 245800000.0,
+      "potentialRevenue": 28400000.0,
+      "complianceRate": 76.5,
+      "targetComplianceRate": 90.0
+    },
+    "visualization": {
+      "type": "Funnel Chart",
+      "dataPoints": 8
+    },
+    "insights": [
+      "15 mining companies show inconsistent reporting patterns",
+      "Production volume discrepancies detected in 8 operations",
+      "Improved verification could increase compliance by 13.5%"
+    ],
+    "recommendations": [
+      "Implement real-time production monitoring systems",
+      "Increase frequency of physical verification visits",
+      "Deploy AI-powered anomaly detection for royalty calculations",
+      "Strengthen penalties for non-compliance"
+    ],
+    "actionTaken": true,
+    "actionDate": "2024-01-28T00:00:00Z",
+    "currency": "ZMW"
+  },
+  {
+    "id": "AI-2024-004",
+    "insightType": "Cost Optimization",
+    "category": "Operational Efficiency",
+    "title": "Vehicle Fleet Utilization Inefficiency",
+    "description": "Government vehicle fleet analysis reveals 38% underutilization and potential ZMW 12M annual savings",
+    "generatedDate": "2024-01-22T09:20:00Z",
+    "dataSource": "Fleet Management System",
+    "timeframe": {
+      "start": "2023-10-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.93,
+    "severity": "Medium",
+    "metrics": {
+      "totalVehicles": 1850,
+      "underutilizedVehicles": 703,
+      "avgUtilizationRate": 62.0,
+      "potentialSavings": 12300000.0
+    },
+    "visualization": {
+      "type": "Heat Map",
+      "dataPoints": 1850
+    },
+    "insights": [
+      "245 vehicles used less than 10 days per month",
+      "Clustering of vehicles in Lusaka (42% of total fleet)",
+      "Maintenance costs disproportionately high for idle vehicles"
+    ],
+    "recommendations": [
+      "Implement vehicle sharing pool system",
+      "Redistribute vehicles to high-demand districts",
+      "Consider disposal of vehicles idle >6 months",
+      "Deploy fleet booking and tracking system"
+    ],
+    "actionTaken": false,
+    "currency": "ZMW"
+  },
+  {
+    "id": "AI-2024-005",
+    "insightType": "Risk Pattern",
+    "category": "Fraud Detection",
+    "title": "Vendor Invoice Pattern Anomaly Detected",
+    "description": "Statistical analysis identifies unusual invoice clustering pattern from 12 vendors suggesting potential collusion",
+    "generatedDate": "2024-01-25T16:10:00Z",
+    "dataSource": "Accounts Payable System",
+    "timeframe": {
+      "start": "2023-11-01T00:00:00Z",
+      "end": "2024-01-24T23:59:59Z"
+    },
+    "confidenceScore": 0.89,
+    "severity": "High",
+    "metrics": {
+      "suspiciousVendors": 12,
+      "invoiceCount": 284,
+      "totalValue": 8750000.0,
+      "anomalyScore": 87.5
+    },
+    "visualization": {
+      "type": "Network Graph",
+      "dataPoints": 12
+    },
+    "insights": [
+      "Invoice amounts frequently just below approval thresholds",
+      "Common invoice submission dates and times",
+      "Shared bank account patterns among vendors",
+      "Similar invoice formatting and terminology"
+    ],
+    "recommendations": [
+      "Initiate comprehensive vendor audit",
+      "Review approval processes for threshold manipulation",
+      "Verify vendor independence and ownership",
+      "Strengthen invoice review controls"
+    ],
+    "actionTaken": true,
+    "actionDate": "2024-01-26T00:00:00Z",
+    "currency": "ZMW"
+  },
+  {
+    "id": "AI-2024-006",
+    "insightType": "Performance Trend",
+    "category": "Project Delivery",
+    "title": "Infrastructure Project Completion Rate Improving",
+    "description": "Trend analysis shows 28% improvement in on-time project completion over past 18 months",
+    "generatedDate": "2024-01-28T10:50:00Z",
+    "dataSource": "Project Management System",
+    "timeframe": {
+      "start": "2022-07-01T00:00:00Z",
+      "end": "2024-01-27T23:59:59Z"
+    },
+    "confidenceScore": 0.96,
+    "severity": "Positive",
+    "metrics": {
+      "baselineCompletionRate": 54.0,
+      "currentCompletionRate": 82.0,
+      "improvement": 28.0,
+      "projectsAnalyzed": 156
+    },
+    "visualization": {
+      "type": "Trend Line",
+      "dataPoints": 18
+    },
+    "insights": [
+      "Enhanced project monitoring contributing to improvement",
+      "Better contractor performance management",
+      "Improved procurement planning reducing delays",
+      "Weather contingency planning proving effective"
+    ],
+    "recommendations": [
+      "Document and replicate success factors",
+      "Expand best practices to other sectors",
+      "Recognize high-performing project teams",
+      "Maintain current monitoring intensity"
+    ],
+    "actionTaken": false,
+    "currency": "ZMW"
+  },
+  {
+    "id": "AI-2024-007",
+    "insightType": "Budget Forecast",
+    "category": "Predictive Analysis",
+    "title": "Education Sector Budget Pressure Forecast",
+    "description": "Predictive model forecasts 15% budget pressure in education sector by Q3 2024 based on enrollment trends",
+    "generatedDate": "2024-01-30T13:25:00Z",
+    "dataSource": "Budget Execution & Education Data",
+    "timeframe": {
+      "start": "2024-01-01T00:00:00Z",
+      "end": "2024-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.85,
+    "severity": "Medium",
+    "metrics": {
+      "currentBudget": 2850000000.0,
+      "forecastedNeed": 3277500000.0,
+      "shortfall": 427500000.0,
+      "pressurePercentage": 15.0
+    },
+    "visualization": {
+      "type": "Projection Chart",
+      "dataPoints": 12
+    },
+    "insights": [
+      "Student enrollment growing 8% above projections",
+      "New school constructions adding operational costs",
+      "Teacher hiring requirements increasing",
+      "Learning materials costs rising with inflation"
+    ],
+    "recommendations": [
+      "Consider supplementary budget allocation for Q3",
+      "Explore efficiency gains in non-salary items",
+      "Prioritize high-impact expenditures",
+      "Engage development partners for gap funding"
+    ],
+    "actionTaken": false,
+    "currency": "ZMW"
+  },
+  {
+    "id": "AI-2024-008",
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2024-02-01T11:40:00Z",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2024-02-05T00:00:00Z",
+    "currency": "ZMW"
+  },
+  {
+    "id": 9,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2023-09-06T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2023-06-10T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2024-10-20T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2024-03-23T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2024-01-24T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2024-05-03T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2024-08-04T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2024-12-27T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2023-09-26T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2023-03-11T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2023-09-13T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2024-08-08T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2023-05-02T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2023-04-13T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2024-01-24T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2023-02-04T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2024-06-20T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2024-11-07T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2023-03-11T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2024-01-06T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2024-01-18T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2023-01-05T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "insightType": "Comparative Analysis",
+    "category": "Benchmarking",
+    "title": "District Health Expenditure Per Capita Variance",
+    "description": "Cross-district analysis reveals 4.2x variance in health expenditure per capita, indicating resource allocation inequity",
+    "generatedDate": "2023-08-10T00:00:00",
+    "dataSource": "Health Information System & Budget Data",
+    "timeframe": {
+      "start": "2023-01-01T00:00:00Z",
+      "end": "2023-12-31T23:59:59Z"
+    },
+    "confidenceScore": 0.92,
+    "severity": "High",
+    "metrics": {
+      "nationalAverage": 285.5,
+      "highestDistrict": 612.3,
+      "lowestDistrict": 146.8,
+      "varianceRatio": 4.2
+    },
+    "visualization": {
+      "type": "Choropleth Map",
+      "dataPoints": 116
+    },
+    "insights": [
+      "Urban districts receiving disproportionate allocation",
+      "Rural health posts significantly underfunded",
+      "Population-based formula not fully implemented",
+      "Disease burden not factored into allocations"
+    ],
+    "recommendations": [
+      "Revise budget allocation formula to include disease burden",
+      "Implement minimum per capita spending floor",
+      "Redirect resources to underserved districts",
+      "Conduct equity impact assessment quarterly"
+    ],
+    "actionTaken": true,
+    "actionDate": "2023-03-27T00:00:00",
+    "currency": "ZMW"
+  }
+]

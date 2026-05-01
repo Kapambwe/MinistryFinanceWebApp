@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "EmployeeId": 1,
+    "EmployeeNumber": "EMP-2020-0001",
+    "EmployeeName": "Joseph Mwansa Banda",
+    "SalaryComponentId": 2,
+    "ComponentCode": "HOUSING",
+    "ComponentName": "Housing Allowance",
+    "Type": 0,
+    "Amount": 5000,
+    "EffectiveDate": "2026-01-01T00:00:00",
+    "ExpiryDate": null,
+    "IsActive": true,
+    "Remarks": "Sample housing allowance"
+  },
+  {
+    "Id": 2,
+    "EmployeeId": 2,
+    "EmployeeNumber": "EMP-2018-0042",
+    "EmployeeName": "Grace Mutale Mwape",
+    "SalaryComponentId": 3,
+    "ComponentCode": "TRANSPORT",
+    "ComponentName": "Transport Allowance",
+    "Type": 0,
+    "Amount": 2500,
+    "EffectiveDate": "2026-01-01T00:00:00",
+    "ExpiryDate": null,
+    "IsActive": true,
+    "Remarks": "Sample transport allowance"
+  }
+]

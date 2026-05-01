@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "AdvanceNumber": "ADV-202604-001",
+    "EmployeeId": 1,
+    "EmployeeNumber": "EMP-2020-0001",
+    "EmployeeName": "Joseph Mwansa Banda",
+    "Type": 0,
+    "RequestDate": "2026-04-20T00:00:00",
+    "RequestedAmount": 5000,
+    "ApprovedAmount": 5000,
+    "Reason": "School fees",
+    "RepaymentMonths": 3,
+    "MonthlyDeduction": 1666.67,
+    "OutstandingBalance": 3333.33,
+    "Status": 1,
+    "ApprovedBy": "System",
+    "ApprovedDate": "2026-04-21T00:00:00",
+    "DisbursedDate": null,
+    "Remarks": "Seeded advance"
+  }
+]

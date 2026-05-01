@@ -1,0 +1,144 @@
+{
+  "CountryName": "Zambia",
+  "CountrySlug": "zambia",
+  "InstitutionType": "government-agencies",
+  "InstitutionName": "Zambia Medicines Regulatory Authority",
+  "InstitutionSlug": "zambia-medicines-regulatory-authority",
+  "OrganizationType": "GovernmentAgency",
+  "TenantType": "GovernmentAgency",
+  "CountryCapabilityTags": [
+    "MedicinesRegulation",
+    "Licensing",
+    "ComplianceMonitoring",
+    "Inspections",
+    "Reporting",
+    "Analytics",
+    "Transparency"
+  ],
+  "CountryRecommendedPermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.Accounting.View",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View",
+    "MOF.Audit.ViewComplianceStatus",
+    "MOF.Dashboard.View",
+    "MOF.Performance.View",
+    "MOF.Performance.ViewPerformanceIndicators",
+    "MOF.Performance.ViewPerformanceReports",
+    "MOF.Reporting.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Transparency.View"
+  ],
+  "InstitutionTypePermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.Dashboard.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Reporting.GenerateReports",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View",
+    "MOF.Audit.ViewComplianceStatus",
+    "MOF.Performance.View"
+  ],
+  "EffectiveInstitutionPermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.Dashboard.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View",
+    "MOF.Audit.ViewComplianceStatus",
+    "MOF.Performance.View"
+  ],
+  "AccessiblePages": [
+    "/",
+    "/dashboard",
+    "/reports",
+    "/analytics",
+    "/licensing",
+    "/inspections",
+    "/compliance",
+    "/integration/dashboard"
+  ],
+  "Roles": [
+    {
+      "RoleId": "zmra.director-general",
+      "RoleName": "Director General",
+      "TemplateRole": "Agency.DirectorOperations",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Reporting.GenerateReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Audit.View",
+        "MOF.Audit.ViewComplianceStatus",
+        "MOF.AccessAreas.Monitoring.View",
+        "MOF.AccessAreas.Diagnostics.View"
+      ]
+    },
+    {
+      "RoleId": "zmra.deputy-director-general",
+      "RoleName": "Deputy Director General",
+      "TemplateRole": "Agency.DirectorOperations",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Audit.View",
+        "MOF.AccessAreas.Monitoring.View"
+      ]
+    },
+    {
+      "RoleId": "zmra.director-licensing",
+      "RoleName": "Director - Licensing",
+      "TemplateRole": "Agency.DirectorOperations",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.AccessAreas.Utilities.View",
+        "MOF.AccessAreas.Monitoring.View"
+      ]
+    },
+    {
+      "RoleId": "zmra.director-inspections",
+      "RoleName": "Director - Inspections",
+      "TemplateRole": "Agency.InternalAuditor",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Audit.View",
+        "MOF.Audit.ViewComplianceStatus",
+        "MOF.Reporting.ViewReports",
+        "MOF.AccessAreas.Diagnostics.View"
+      ]
+    },
+    {
+      "RoleId": "zmra.manager-compliance",
+      "RoleName": "Manager - Compliance",
+      "TemplateRole": "Agency.FinanceClerk",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.AccessAreas.Monitoring.View",
+        "MOF.AccessAreas.Diagnostics.View"
+      ]
+    },
+    {
+      "RoleId": "zmra.analyst",
+      "RoleName": "Analyst",
+      "TemplateRole": "Agency.FinanceClerk",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Performance.ViewPerformanceIndicators"
+      ]
+    }
+  ]
+}

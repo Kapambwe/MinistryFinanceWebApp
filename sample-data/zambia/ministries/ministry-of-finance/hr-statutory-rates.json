@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "RateName": "PAYE 2026",
+    "Type": 0,
+    "EffectiveDate": "2026-01-01T00:00:00",
+    "ExpiryDate": null,
+    "EmployeeRate": 0.25,
+    "EmployerRate": null,
+    "MinimumAmount": null,
+    "MaximumAmount": null,
+    "IsActive": true
+  },
+  {
+    "Id": 2,
+    "RateName": "NAPSA 2026",
+    "Type": 1,
+    "EffectiveDate": "2026-01-01T00:00:00",
+    "ExpiryDate": null,
+    "EmployeeRate": 0.05,
+    "EmployerRate": 0.05,
+    "MinimumAmount": null,
+    "MaximumAmount": null,
+    "IsActive": true
+  },
+  {
+    "Id": 3,
+    "RateName": "NHIMA 2026",
+    "Type": 2,
+    "EffectiveDate": "2026-01-01T00:00:00",
+    "ExpiryDate": null,
+    "EmployeeRate": 0.01,
+    "EmployerRate": 0.01,
+    "MinimumAmount": null,
+    "MaximumAmount": null,
+    "IsActive": true
+  }
+]

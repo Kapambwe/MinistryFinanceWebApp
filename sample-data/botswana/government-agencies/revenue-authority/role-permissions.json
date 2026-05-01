@@ -1,0 +1,138 @@
+{
+  "CountryName": "Botswana",
+  "CountrySlug": "botswana",
+  "InstitutionType": "government-agencies",
+  "InstitutionName": "revenue-authority",
+  "InstitutionSlug": "revenue-authority",
+  "OrganizationType": "GovernmentAgency",
+  "TenantType": "GovernmentAgency",
+  "CountryCapabilityTags": [
+    "CorePFM",
+    "DebtManagement",
+    "FiscalRisk"
+  ],
+  "CountryRecommendedPermissions": [
+    "MOF.Access",
+    "MOF.Accounting.View",
+    "MOF.Accounting.ViewAccountingRecords",
+    "MOF.Audit.View",
+    "MOF.Audit.ViewComplianceStatus",
+    "MOF.Budgeting.ViewBudgetConsolidation",
+    "MOF.Budgeting.ViewBudgetExecution",
+    "MOF.Budgeting.ViewBudgetPreparation",
+    "MOF.Budgeting.ViewBudgetVsActual",
+    "MOF.Budgeting.ViewCashFlowForecast",
+    "MOF.Budgeting.ViewStrategicPlanning",
+    "MOF.CountryDocuments.Botswana.View",
+    "MOF.CountryDocuments.ViewAll",
+    "MOF.Dashboard.View",
+    "MOF.DebtManagement.View",
+    "MOF.DebtManagement.ViewDebtPortfolio",
+    "MOF.DebtManagement.ViewDebtSustainability",
+    "MOF.FiscalRisk.View",
+    "MOF.FiscalRisk.ViewRiskRegister",
+    "MOF.GeneralLedger.View",
+    "MOF.GeneralLedger.ViewTrialBalance",
+    "MOF.Payments.View",
+    "MOF.Payments.ViewDashboard",
+    "MOF.Reporting.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Revenue.ViewAccountsReceivable",
+    "MOF.Revenue.ViewNonTaxRevenue",
+    "MOF.Revenue.ViewRevenueMonitoring",
+    "MOF.Revenue.ViewTaxForecasting",
+    "MOF.Treasury.View",
+    "MOF.Treasury.ViewTreasuryMovements",
+    "MOF.Treasury.ViewTSA"
+  ],
+  "InstitutionTypePermissions": [
+    "MOF.Access",
+    "MOF.Dashboard.View",
+    "MOF.Budgeting.ViewBudgetPreparation",
+    "MOF.Budgeting.PrepareBudget",
+    "MOF.Budgeting.ViewBudgetExecution",
+    "MOF.Payments.View",
+    "MOF.Payments.Create",
+    "MOF.Accounting.ViewAccountingRecords",
+    "MOF.Accounting.CreateJournalEntry",
+    "MOF.Reporting.ViewReports",
+    "MOF.Reporting.GenerateReports"
+  ],
+  "EffectiveInstitutionPermissions": [
+    "MOF.Access",
+    "MOF.Accounting.ViewAccountingRecords",
+    "MOF.Budgeting.ViewBudgetExecution",
+    "MOF.Budgeting.ViewBudgetPreparation",
+    "MOF.Dashboard.View",
+    "MOF.Payments.View",
+    "MOF.Reporting.ViewReports"
+  ],
+  "AccessiblePages": [
+    "/",
+    "/budget/execution",
+    "/payments/requests",
+    "/reports/agency"
+  ],
+  "Roles": [
+    {
+      "RoleId": "revenue-authority.accountant",
+      "RoleName": "Accountant",
+      "TemplateRole": "Agency.AccountingOfficer",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Budgeting.ViewBudgetExecution",
+        "MOF.Dashboard.View",
+        "MOF.Payments.View"
+      ]
+    },
+    {
+      "RoleId": "revenue-authority.director-budget",
+      "RoleName": "Director Budget",
+      "TemplateRole": "Agency.DirectorFinance",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Budgeting.ViewBudgetExecution",
+        "MOF.Dashboard.View",
+        "MOF.Payments.View"
+      ]
+    },
+    {
+      "RoleId": "revenue-authority.economist",
+      "RoleName": "Economist",
+      "TemplateRole": "Agency.RevenueOfficer",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Budgeting.ViewBudgetExecution",
+        "MOF.Dashboard.View"
+      ]
+    },
+    {
+      "RoleId": "revenue-authority.hr-officer",
+      "RoleName": "HR Officer",
+      "TemplateRole": "Agency.HRManager",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Dashboard.View"
+      ]
+    },
+    {
+      "RoleId": "revenue-authority.legal-counsel",
+      "RoleName": "Legal Counsel",
+      "TemplateRole": "Agency.InternalAuditor",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Dashboard.View"
+      ]
+    },
+    {
+      "RoleId": "revenue-authority.senior-economist",
+      "RoleName": "Senior Economist",
+      "TemplateRole": "Agency.RevenueOfficer",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Budgeting.ViewBudgetExecution",
+        "MOF.Dashboard.View"
+      ]
+    }
+  ]
+}

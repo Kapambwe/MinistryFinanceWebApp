@@ -1,0 +1,159 @@
+{
+  "CountryName": "Zimbabwe",
+  "CountrySlug": "zimbabwe",
+  "InstitutionType": "government-agencies",
+  "InstitutionName": "statistics-office",
+  "InstitutionSlug": "statistics-office",
+  "OrganizationType": "GovernmentAgency",
+  "TenantType": "GovernmentAgency",
+  "CountryCapabilityTags": [
+    "AidManagement",
+    "CorePFM",
+    "DebtManagement",
+    "FiscalRisk",
+    "IntergovernmentalTransfers",
+    "ParliamentaryOversight",
+    "PerformanceReporting",
+    "Transparency"
+  ],
+  "CountryRecommendedPermissions": [
+    "MOF.Access",
+    "MOF.Accounting.View",
+    "MOF.Accounting.ViewAccountingRecords",
+    "MOF.AidManagement.View",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View",
+    "MOF.Audit.ViewComplianceStatus",
+    "MOF.Budgeting.ViewBudgetConsolidation",
+    "MOF.Budgeting.ViewBudgetExecution",
+    "MOF.Budgeting.ViewBudgetPreparation",
+    "MOF.Budgeting.ViewBudgetVsActual",
+    "MOF.Budgeting.ViewCashFlowForecast",
+    "MOF.Budgeting.ViewStrategicPlanning",
+    "MOF.CountryDocuments.ViewAll",
+    "MOF.CountryDocuments.Zimbabwe.View",
+    "MOF.Dashboard.View",
+    "MOF.DebtManagement.View",
+    "MOF.DebtManagement.ViewDebtPortfolio",
+    "MOF.DebtManagement.ViewDebtSustainability",
+    "MOF.Donors.View",
+    "MOF.Donors.ViewDisbursements",
+    "MOF.Donors.ViewGrantPrograms",
+    "MOF.FiscalRisk.View",
+    "MOF.FiscalRisk.ViewRiskRegister",
+    "MOF.FundDisbursement.TrackFundUtilization",
+    "MOF.FundDisbursement.ViewDisbursements",
+    "MOF.GeneralLedger.View",
+    "MOF.GeneralLedger.ViewTrialBalance",
+    "MOF.Parliamentary.View",
+    "MOF.Parliamentary.ViewAccountsCommittee",
+    "MOF.Parliamentary.ViewBudgetAnalysis",
+    "MOF.Payments.View",
+    "MOF.Payments.ViewDashboard",
+    "MOF.Performance.View",
+    "MOF.Performance.ViewPerformanceIndicators",
+    "MOF.Performance.ViewPerformanceReports",
+    "MOF.Reporting.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Revenue.ViewAccountsReceivable",
+    "MOF.Revenue.ViewNonTaxRevenue",
+    "MOF.Revenue.ViewRevenueMonitoring",
+    "MOF.Revenue.ViewTaxForecasting",
+    "MOF.Transfers.View",
+    "MOF.Transparency.View",
+    "MOF.Transparency.ViewCitizenBudget",
+    "MOF.Treasury.View",
+    "MOF.Treasury.ViewTreasuryMovements",
+    "MOF.Treasury.ViewTSA"
+  ],
+  "InstitutionTypePermissions": [
+    "MOF.Access",
+    "MOF.Dashboard.View",
+    "MOF.Budgeting.ViewBudgetPreparation",
+    "MOF.Budgeting.PrepareBudget",
+    "MOF.Budgeting.ViewBudgetExecution",
+    "MOF.Payments.View",
+    "MOF.Payments.Create",
+    "MOF.Accounting.ViewAccountingRecords",
+    "MOF.Accounting.CreateJournalEntry",
+    "MOF.Reporting.ViewReports",
+    "MOF.Reporting.GenerateReports"
+  ],
+  "EffectiveInstitutionPermissions": [
+    "MOF.Access",
+    "MOF.Accounting.ViewAccountingRecords",
+    "MOF.Budgeting.ViewBudgetExecution",
+    "MOF.Budgeting.ViewBudgetPreparation",
+    "MOF.Dashboard.View",
+    "MOF.Payments.View",
+    "MOF.Reporting.ViewReports"
+  ],
+  "AccessiblePages": [
+    "/",
+    "/budget/execution",
+    "/payments/requests",
+    "/reports/agency"
+  ],
+  "Roles": [
+    {
+      "RoleId": "statistics-office.accountant",
+      "RoleName": "Accountant",
+      "TemplateRole": "Agency.AccountingOfficer",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Budgeting.ViewBudgetExecution",
+        "MOF.Dashboard.View",
+        "MOF.Payments.View"
+      ]
+    },
+    {
+      "RoleId": "statistics-office.director-budget",
+      "RoleName": "Director Budget",
+      "TemplateRole": "Agency.DirectorFinance",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Budgeting.ViewBudgetExecution",
+        "MOF.Dashboard.View",
+        "MOF.Payments.View"
+      ]
+    },
+    {
+      "RoleId": "statistics-office.economist",
+      "RoleName": "Economist",
+      "TemplateRole": "Agency.RevenueOfficer",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Budgeting.ViewBudgetExecution",
+        "MOF.Dashboard.View"
+      ]
+    },
+    {
+      "RoleId": "statistics-office.hr-officer",
+      "RoleName": "HR Officer",
+      "TemplateRole": "Agency.HRManager",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Dashboard.View"
+      ]
+    },
+    {
+      "RoleId": "statistics-office.legal-counsel",
+      "RoleName": "Legal Counsel",
+      "TemplateRole": "Agency.InternalAuditor",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Dashboard.View"
+      ]
+    },
+    {
+      "RoleId": "statistics-office.senior-economist",
+      "RoleName": "Senior Economist",
+      "TemplateRole": "Agency.RevenueOfficer",
+      "Permissions": [
+        "MOF.Access",
+        "MOF.Budgeting.ViewBudgetExecution",
+        "MOF.Dashboard.View"
+      ]
+    }
+  ]
+}

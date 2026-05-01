@@ -1,0 +1,13 @@
+[
+  { "Id": 1, "UnitCode": "MOF", "UnitName": "Ministry of Finance", "ShortName": "MOF", "Level": 1, "Path": "/MOF", "CostCenter": "CC-001", "EmployeeCount": 25, "IsActive": true },
+  { "Id": 2, "UnitCode": "BUD", "UnitName": "Budget Division", "ShortName": "BUD", "ParentUnitId": 1, "ParentUnitName": "Ministry of Finance", "Level": 2, "Path": "/MOF/BUD", "CostCenter": "CC-002", "EmployeeCount": 3, "IsActive": true },
+  { "Id": 3, "UnitCode": "ECO", "UnitName": "Economic Planning", "ShortName": "ECO", "ParentUnitId": 1, "ParentUnitName": "Ministry of Finance", "Level": 2, "Path": "/MOF/ECO", "CostCenter": "CC-003", "EmployeeCount": 3, "IsActive": true },
+  { "Id": 4, "UnitCode": "FIN", "UnitName": "Finance Division", "ShortName": "FIN", "ParentUnitId": 1, "ParentUnitName": "Ministry of Finance", "Level": 2, "Path": "/MOF/FIN", "CostCenter": "CC-004", "EmployeeCount": 3, "IsActive": true },
+  { "Id": 5, "UnitCode": "ADM", "UnitName": "Administration", "ShortName": "ADM", "ParentUnitId": 1, "ParentUnitName": "Ministry of Finance", "Level": 2, "Path": "/MOF/ADM", "CostCenter": "CC-005", "EmployeeCount": 2, "IsActive": true },
+  { "Id": 6, "UnitCode": "COR", "UnitName": "Corporate Affairs", "ShortName": "COR", "ParentUnitId": 1, "ParentUnitName": "Ministry of Finance", "Level": 2, "Path": "/MOF/COR", "CostCenter": "CC-006", "EmployeeCount": 2, "IsActive": true },
+  { "Id": 7, "UnitCode": "ICT", "UnitName": "ICT", "ShortName": "ICT", "ParentUnitId": 1, "ParentUnitName": "Ministry of Finance", "Level": 2, "Path": "/MOF/ICT", "CostCenter": "CC-007", "EmployeeCount": 2, "IsActive": true },
+  { "Id": 8, "UnitCode": "LEG", "UnitName": "Legal", "ShortName": "LEG", "ParentUnitId": 1, "ParentUnitName": "Ministry of Finance", "Level": 2, "Path": "/MOF/LEG", "CostCenter": "CC-008", "EmployeeCount": 2, "IsActive": true },
+  { "Id": 9, "UnitCode": "PHA", "UnitName": "Pharmacy", "ShortName": "PHA", "ParentUnitId": 1, "ParentUnitName": "Ministry of Finance", "Level": 2, "Path": "/MOF/PHA", "CostCenter": "CC-009", "EmployeeCount": 2, "IsActive": true },
+  { "Id": 10, "UnitCode": "PRO", "UnitName": "Procurement", "ShortName": "PRO", "ParentUnitId": 1, "ParentUnitName": "Ministry of Finance", "Level": 2, "Path": "/MOF/PRO", "CostCenter": "CC-010", "EmployeeCount": 1, "IsActive": true },
+  { "Id": 11, "UnitCode": "RES", "UnitName": "Research", "ShortName": "RES", "ParentUnitId": 1, "ParentUnitName": "Ministry of Finance", "Level": 2, "Path": "/MOF/RES", "CostCenter": "CC-011", "EmployeeCount": 0, "IsActive": true }
+]

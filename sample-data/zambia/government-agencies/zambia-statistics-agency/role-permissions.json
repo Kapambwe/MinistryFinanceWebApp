@@ -1,0 +1,140 @@
+{
+  "CountryName": "Zambia",
+  "CountrySlug": "zambia",
+  "InstitutionType": "government-agencies",
+  "InstitutionName": "Zambia Statistics Agency",
+  "InstitutionSlug": "zambia-statistics-agency",
+  "OrganizationType": "GovernmentAgency",
+  "TenantType": "GovernmentAgency",
+  "CountryCapabilityTags": [
+    "Statistics",
+    "DataCollection",
+    "DataQuality",
+    "Reporting",
+    "Analytics",
+    "Dissemination",
+    "Transparency"
+  ],
+  "CountryRecommendedPermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.AccessAreas.AI.View",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View",
+    "MOF.Dashboard.View",
+    "MOF.Performance.View",
+    "MOF.Performance.ViewPerformanceIndicators",
+    "MOF.Performance.ViewPerformanceReports",
+    "MOF.Reporting.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Transparency.View"
+  ],
+  "InstitutionTypePermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.Dashboard.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Reporting.GenerateReports",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Performance.View",
+    "MOF.Performance.ViewPerformanceIndicators"
+  ],
+  "EffectiveInstitutionPermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.Dashboard.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Performance.View",
+    "MOF.Performance.ViewPerformanceIndicators"
+  ],
+  "AccessiblePages": [
+    "/",
+    "/dashboard",
+    "/reports",
+    "/analytics",
+    "/statistics",
+    "/data-collection",
+    "/data-quality",
+    "/integration/dashboard"
+  ],
+  "Roles": [
+    {
+      "RoleId": "zamstats.director-general",
+      "RoleName": "Director General",
+      "TemplateRole": "Agency.DirectorOperations",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Reporting.GenerateReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Performance.View",
+        "MOF.AccessAreas.Monitoring.View",
+        "MOF.AccessAreas.Diagnostics.View"
+      ]
+    },
+    {
+      "RoleId": "zamstats.deputy-director-general",
+      "RoleName": "Deputy Director General",
+      "TemplateRole": "Agency.DirectorOperations",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Performance.View",
+        "MOF.AccessAreas.Monitoring.View"
+      ]
+    },
+    {
+      "RoleId": "zamstats.director-research",
+      "RoleName": "Director - Research",
+      "TemplateRole": "Agency.DirectorOperations",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Reporting.GenerateReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Performance.ViewPerformanceIndicators"
+      ]
+    },
+    {
+      "RoleId": "zamstats.director-data-quality",
+      "RoleName": "Director - Data Quality",
+      "TemplateRole": "Agency.DirectorOperations",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.AccessAreas.Diagnostics.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Performance.ViewPerformanceIndicators"
+      ]
+    },
+    {
+      "RoleId": "zamstats.manager-dissemination",
+      "RoleName": "Manager - Dissemination",
+      "TemplateRole": "Agency.ProcurementOfficer",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Transparency.View",
+        "MOF.AccessAreas.Utilities.View"
+      ]
+    },
+    {
+      "RoleId": "zamstats.methodologist",
+      "RoleName": "Methodologist",
+      "TemplateRole": "Agency.FinanceClerk",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Performance.ViewPerformanceIndicators"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "CountryName": "Zambia",
+  "CountrySlug": "zambia",
+  "InstitutionType": "government-agencies",
+  "InstitutionName": "Bank of Zambia",
+  "InstitutionSlug": "bank-of-zambia",
+  "OrganizationType": "GovernmentAgency",
+  "TenantType": "GovernmentAgency",
+  "CountryCapabilityTags": [
+    "MonetaryPolicy",
+    "FinancialStability",
+    "BankingSupervision",
+    "PaymentsOversight",
+    "ReserveManagement",
+    "Reporting",
+    "Analytics",
+    "Transparency"
+  ],
+  "CountryRecommendedPermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.AccessAreas.AI.View",
+    "MOF.Accounting.View",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View",
+    "MOF.Audit.ViewComplianceStatus",
+    "MOF.Dashboard.View",
+    "MOF.DebtManagement.View",
+    "MOF.DebtManagement.ViewDebtPortfolio",
+    "MOF.DebtManagement.ViewDebtSustainability",
+    "MOF.FiscalRisk.View",
+    "MOF.FiscalRisk.ViewRiskRegister",
+    "MOF.GeneralLedger.View",
+    "MOF.GeneralLedger.ViewTrialBalance",
+    "MOF.Payments.View",
+    "MOF.Payments.ViewDashboard",
+    "MOF.Performance.View",
+    "MOF.Performance.ViewPerformanceIndicators",
+    "MOF.Performance.ViewPerformanceReports",
+    "MOF.Reporting.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Transfers.View",
+    "MOF.Transparency.View",
+    "MOF.Transparency.ViewCitizenBudget",
+    "MOF.Treasury.View",
+    "MOF.Treasury.ViewTreasuryMovements",
+    "MOF.Treasury.ViewTSA"
+  ],
+  "InstitutionTypePermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.AccessAreas.AI.View",
+    "MOF.Dashboard.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Reporting.GenerateReports",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View",
+    "MOF.Payments.View",
+    "MOF.Treasury.View",
+    "MOF.GeneralLedger.View",
+    "MOF.DebtManagement.View",
+    "MOF.FiscalRisk.View"
+  ],
+  "EffectiveInstitutionPermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.AccessAreas.AI.View",
+    "MOF.Dashboard.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View",
+    "MOF.Payments.View",
+    "MOF.Treasury.View",
+    "MOF.GeneralLedger.View",
+    "MOF.DebtManagement.View",
+    "MOF.FiscalRisk.View"
+  ],
+  "AccessiblePages": [
+    "/",
+    "/dashboard",
+    "/treasury-management",
+    "/treasury/comprehensive",
+    "/treasury/cash-management",
+    "/treasury/bank-integration",
+    "/treasury/bank-health-monitoring",
+    "/treasury/bank-accounts",
+    "/treasury/tsa",
+    "/payments",
+    "/reports",
+    "/analytics",
+    "/integration/dashboard"
+  ],
+  "Roles": [
+    {
+      "RoleId": "boz.governor",
+      "RoleName": "Governor",
+      "TemplateRole": "Minister",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Reporting.ViewAllReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.FiscalRisk.View",
+        "MOF.DebtManagement.View",
+        "MOF.Treasury.View",
+        "MOF.Transparency.View"
+      ]
+    },
+    {
+      "RoleId": "boz.deputy-governor",
+      "RoleName": "Deputy Governor",
+      "TemplateRole": "PermanentSecretary",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Audit.View",
+        "MOF.Payments.View",
+        "MOF.Treasury.View",
+        "MOF.GeneralLedger.View",
+        "MOF.FiscalRisk.View"
+      ]
+    },
+    {
+      "RoleId": "boz.director-research",
+      "RoleName": "Director - Research",
+      "TemplateRole": "DirectorBudget",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Reporting.GenerateReports",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.DebtManagement.View",
+        "MOF.FiscalRisk.View",
+        "MOF.Transparency.View"
+      ]
+    },
+    {
+      "RoleId": "boz.director-payments",
+      "RoleName": "Director - Payments",
+      "TemplateRole": "TreasuryOfficer",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Payments.View",
+        "MOF.Payments.ViewDashboard",
+        "MOF.Treasury.View",
+        "MOF.Treasury.ViewTreasuryMovements",
+        "MOF.GeneralLedger.View",
+        "MOF.Reporting.ViewReports"
+      ]
+    },
+    {
+      "RoleId": "boz.director-banking-supervision",
+      "RoleName": "Director - Banking Supervision",
+      "TemplateRole": "Agency.DirectorOperations",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Audit.View",
+        "MOF.Audit.ViewComplianceStatus",
+        "MOF.FiscalRisk.View",
+        "MOF.Transfers.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.AccessAreas.Monitoring.View",
+        "MOF.AccessAreas.Diagnostics.View"
+      ]
+    },
+    {
+      "RoleId": "boz.manager-reserve",
+      "RoleName": "Manager - Reserve Operations",
+      "TemplateRole": "TreasuryOfficer",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Treasury.View",
+        "MOF.Treasury.ViewTSA",
+        "MOF.Treasury.ViewTreasuryMovements",
+        "MOF.GeneralLedger.View",
+        "MOF.Payments.View",
+        "MOF.Reporting.ViewReports"
+      ]
+    }
+  ]
+}

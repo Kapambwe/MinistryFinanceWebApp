@@ -1,0 +1,164 @@
+[
+  {
+    "userId": "USR-ERB-001",
+    "username": "daniel.ngoma",
+    "fullName": "Daniel Ngoma",
+    "position": "Director General",
+    "department": "Executive Office",
+    "email": "dg@erb.org.zm",
+    "phoneNumber": "+260-211-417143",
+    "userRole": "Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Approve Regulatory Reports",
+      "View Executive Dashboards",
+      "Manage Agency Strategy"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-10-22",
+    "lastLoginDate": "2024-03-14T11:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Regulation",
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "ERB House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-002",
+    "username": "francis.nsofu",
+    "fullName": "Francis Nsofu",
+    "position": "Deputy Director General",
+    "department": "Compliance",
+    "email": "ddg@erb.org.zm",
+    "phoneNumber": "+260-211-549499",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Review Compliance Cases",
+      "Approve Reports",
+      "Monitor Regulatory Actions"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-11-26",
+    "lastLoginDate": "2024-10-02T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-003",
+    "username": "charity.musonda",
+    "fullName": "Charity Musonda",
+    "position": "Director - Licensing",
+    "department": "Licensing",
+    "email": "licensing@erb.org.zm",
+    "phoneNumber": "+260-211-827067",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Manage Licenses",
+      "Generate Reports",
+      "View Applications"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-10-27",
+    "lastLoginDate": "2024-11-14T12:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Licensing",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-004",
+    "username": "joseph.lungu",
+    "fullName": "Joseph Lungu",
+    "position": "Manager - Tariffs",
+    "department": "Tariffs",
+    "email": "tariffs@erb.org.zm",
+    "phoneNumber": "+260-211-555503",
+    "userRole": "Manager",
+    "accessLevel": "Management",
+    "permissions": [
+      "View Tariff Models",
+      "Generate Reports",
+      "Analyze Rate Trends"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-05-16",
+    "lastLoginDate": "2024-07-16T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Tariffs",
+      "Analytics",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ERB-001",
+    "agencyOffice": "ERB House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-005",
+    "username": "emmanuel.mwale",
+    "fullName": "Emmanuel Mwale",
+    "position": "Analyst",
+    "department": "Monitoring & Evaluation",
+    "email": "analyst@erb.org.zm",
+    "phoneNumber": "+260-211-475783",
+    "userRole": "Analyst",
+    "accessLevel": "Operational",
+    "permissions": [
+      "Track Compliance Indicators",
+      "Generate Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-05-05",
+    "lastLoginDate": "2024-08-13T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Monitoring",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ERB-002",
+    "agencyOffice": "ERB House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ERB-006",
+    "username": "mary.mvula",
+    "fullName": "Mary Mvula",
+    "position": "Officer",
+    "department": "Compliance",
+    "email": "mary.mvula@erb.org.zm",
+    "phoneNumber": "+260-211-409284",
+    "userRole": "Officer",
+    "accessLevel": "Operational",
+    "permissions": [
+      "Review Cases",
+      "Prepare Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-10-10",
+    "lastLoginDate": "2024-01-07T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ERB-002",
+    "agencyOffice": "ERB House, Lusaka",
+    "biometricRegistered": true
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "userId": "USR-ZAMSTATS-001",
+    "username": "peter.simukonda",
+    "fullName": "Peter Simukonda",
+    "position": "Director General",
+    "department": "Executive Office",
+    "email": "dg@zamstats.gov.zm",
+    "phoneNumber": "+260-211-454773",
+    "userRole": "Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Approve Statistical Releases",
+      "View Executive Dashboards",
+      "Manage Agency Strategy"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-02-13",
+    "lastLoginDate": "2024-05-06T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Statistics",
+      "Reporting",
+      "Strategy"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-002",
+    "username": "elizabeth.ngoma",
+    "fullName": "Elizabeth Ngoma",
+    "position": "Deputy Director General",
+    "department": "Monitoring & Evaluation",
+    "email": "ddg@zamstats.gov.zm",
+    "phoneNumber": "+260-211-354080",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Review Reports",
+      "Monitor Data Quality",
+      "Approve Releases"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-01-02",
+    "lastLoginDate": "2024-03-05T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Monitoring",
+      "Reporting",
+      "Data Quality"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-003",
+    "username": "benjamin.simukonda",
+    "fullName": "Benjamin Simukonda",
+    "position": "Director - Research",
+    "department": "Research",
+    "email": "research@zamstats.gov.zm",
+    "phoneNumber": "+260-211-269199",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Run Analysis",
+      "Generate Statistical Reports",
+      "Publish Research Findings"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-03-12",
+    "lastLoginDate": "2024-09-23T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Research",
+      "Analytics",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-004",
+    "username": "elizabeth.musonda",
+    "fullName": "Elizabeth Musonda",
+    "position": "Director - Data Quality",
+    "department": "Data Quality",
+    "email": "quality@zamstats.gov.zm",
+    "phoneNumber": "+260-211-397702",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Review Data Quality",
+      "Approve Methodology Notes",
+      "Generate Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-11-28",
+    "lastLoginDate": "2024-05-13T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Data Quality",
+      "Monitoring",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-005",
+    "username": "florence.nakambwe",
+    "fullName": "Florence Nakambwe",
+    "position": "Manager - Dissemination",
+    "department": "Dissemination",
+    "email": "dissemination@zamstats.gov.zm",
+    "phoneNumber": "+260-211-852246",
+    "userRole": "Manager",
+    "accessLevel": "Management",
+    "permissions": [
+      "Prepare Publications",
+      "Manage Releases",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-04-09",
+    "lastLoginDate": "2024-03-14T18:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Dissemination",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMSTATS-001",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMSTATS-006",
+    "username": "beatrice.mbewe",
+    "fullName": "Beatrice Mbewe",
+    "position": "Methodologist",
+    "department": "Methodology",
+    "email": "methodology@zamstats.gov.zm",
+    "phoneNumber": "+260-211-615481",
+    "userRole": "Analyst",
+    "accessLevel": "Operational",
+    "permissions": [
+      "Analyze Samples",
+      "Review Indicators",
+      "Generate Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-09-25",
+    "lastLoginDate": "2024-04-10T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Methodology",
+      "Analytics",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMSTATS-003",
+    "agencyOffice": "Central Statistics Office Building, Lusaka",
+    "biometricRegistered": true
+  }
+]

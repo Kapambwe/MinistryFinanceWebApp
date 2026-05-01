@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "FiscalYear": "2025",
+    "Period": "01",
+    "PeriodName": "January",
+    "StartDate": "2025-01-01T00:00:00Z",
+    "EndDate": "2025-01-31T23:59:59Z",
+    "Status": "Open",
+    "Notes": "Current open period"
+  },
+  {
+    "Id": 2,
+    "FiscalYear": "2025",
+    "Period": "02",
+    "PeriodName": "February",
+    "StartDate": "2025-02-01T00:00:00Z",
+    "EndDate": "2025-02-28T23:59:59Z",
+    "Status": "SoftClosed"
+  },
+  {
+    "Id": 3,
+    "FiscalYear": "2025",
+    "Period": "03",
+    "PeriodName": "March",
+    "StartDate": "2025-03-01T00:00:00Z",
+    "EndDate": "2025-03-31T23:59:59Z",
+    "Status": "Closed",
+    "ClosedBy": "System",
+    "ClosedDate": "2025-04-02T09:00:00Z"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "ComponentCode": "BASIC",
+    "ComponentName": "Basic Salary",
+    "Type": 0,
+    "Category": 0,
+    "IsTaxable": true,
+    "IsStatutory": false,
+    "CalculationMethod": 0,
+    "FixedAmount": 0,
+    "Percentage": null,
+    "Formula": null,
+    "IsActive": true,
+    "DisplayOrder": 1
+  },
+  {
+    "Id": 2,
+    "ComponentCode": "HOUSING",
+    "ComponentName": "Housing Allowance",
+    "Type": 0,
+    "Category": 1,
+    "IsTaxable": true,
+    "IsStatutory": false,
+    "CalculationMethod": 0,
+    "FixedAmount": 5000,
+    "Percentage": null,
+    "Formula": null,
+    "IsActive": true,
+    "DisplayOrder": 2
+  }
+]

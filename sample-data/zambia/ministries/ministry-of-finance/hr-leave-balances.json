@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "EmployeeId": 1,
+    "EmployeeNumber": "EMP-2020-0001",
+    "EmployeeName": "Joseph Mwansa Banda",
+    "LeaveType": 0,
+    "LeaveTypeName": "Annual Leave",
+    "Year": 2026,
+    "OpeningBalance": 30,
+    "Accrued": 0,
+    "Taken": 2,
+    "Forfeited": 0,
+    "CarriedForward": 0,
+    "PendingApprovals": 1
+  },
+  {
+    "Id": 2,
+    "EmployeeId": 2,
+    "EmployeeNumber": "EMP-2018-0042",
+    "EmployeeName": "Grace Mutale Mwape",
+    "LeaveType": 0,
+    "LeaveTypeName": "Annual Leave",
+    "Year": 2026,
+    "OpeningBalance": 30,
+    "Accrued": 0,
+    "Taken": 4,
+    "Forfeited": 0,
+    "CarriedForward": 0,
+    "PendingApprovals": 0
+  }
+]

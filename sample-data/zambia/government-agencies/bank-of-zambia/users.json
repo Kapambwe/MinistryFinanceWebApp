@@ -1,0 +1,169 @@
+[
+  {
+    "userId": "USR-BOZ-001",
+    "username": "mumba.malay",
+    "fullName": "Dr. Mumba Malay",
+    "position": "Governor",
+    "department": "Governor's Office",
+    "email": "governor@boz.zm",
+    "phoneNumber": "+260-211-228888",
+    "userRole": "Governor",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Monetary Policy Oversight",
+      "Financial Stability Review",
+      "Approve Strategic Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-01-12",
+    "lastLoginDate": "2024-12-18T08:15:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Monetary Policy",
+      "Financial Stability",
+      "Reporting"
+    ],
+    "reportingTo": null,
+    "officeLocation": "Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-BOZ-002",
+    "username": "chanda.kashala",
+    "fullName": "Ms. Chanda Kashala",
+    "position": "Deputy Governor",
+    "department": "Deputy Governor's Office",
+    "email": "deputy.governor@boz.zm",
+    "phoneNumber": "+260-211-228889",
+    "userRole": "Deputy Governor",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Review Financial Reports",
+      "Approve Operational Actions",
+      "Manage Compliance Escalations"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-02-08",
+    "lastLoginDate": "2024-12-16T09:45:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Reporting",
+      "Compliance",
+      "Operations"
+    ],
+    "reportingTo": "USR-BOZ-001",
+    "officeLocation": "Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-BOZ-003",
+    "username": "benard.tembo",
+    "fullName": "Mr. Benard Tembo",
+    "position": "Director - Research",
+    "department": "Research and Statistics",
+    "email": "research@boz.zm",
+    "phoneNumber": "+260-211-228810",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Economic Research",
+      "Generate Statistical Reports",
+      "View Financial Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-09-17",
+    "lastLoginDate": "2024-12-14T11:10:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Research",
+      "Analytics",
+      "Reporting"
+    ],
+    "reportingTo": "USR-BOZ-002",
+    "officeLocation": "Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-BOZ-004",
+    "username": "gloria.simbeye",
+    "fullName": "Ms. Gloria Simbeye",
+    "position": "Director - Payments",
+    "department": "National Payment Systems",
+    "email": "payments@boz.zm",
+    "phoneNumber": "+260-211-228811",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Payment Oversight",
+      "Settlement Monitoring",
+      "View Treasury Movements"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2019-05-12",
+    "lastLoginDate": "2024-12-15T07:25:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Payments",
+      "Treasury",
+      "Reporting"
+    ],
+    "reportingTo": "USR-BOZ-002",
+    "officeLocation": "Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-BOZ-005",
+    "username": "kennedy.mwansa",
+    "fullName": "Mr. Kennedy Mwansa",
+    "position": "Manager - Reserve Operations",
+    "department": "Reserve Management",
+    "email": "reserve.operations@boz.zm",
+    "phoneNumber": "+260-211-228812",
+    "userRole": "Manager",
+    "accessLevel": "Management",
+    "permissions": [
+      "Reserve Management",
+      "Treasury Monitoring",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-03-04",
+    "lastLoginDate": "2024-12-10T13:05:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Treasury",
+      "Reporting"
+    ],
+    "reportingTo": "USR-BOZ-004",
+    "officeLocation": "Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-BOZ-006",
+    "username": "muleya.phiri",
+    "fullName": "Ms. Muleya Phiri",
+    "position": "Analyst - Financial Stability",
+    "department": "Financial Stability",
+    "email": "stability@boz.zm",
+    "phoneNumber": "+260-211-228813",
+    "userRole": "Analyst",
+    "accessLevel": "Operational",
+    "permissions": [
+      "Monitor Financial Indicators",
+      "Prepare Compliance Notes",
+      "Generate Analytical Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-01-23",
+    "lastLoginDate": "2024-12-20T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Analytics",
+      "Monitoring",
+      "Reporting"
+    ],
+    "reportingTo": "USR-BOZ-003",
+    "officeLocation": "Lusaka",
+    "biometricRegistered": false
+  }
+]

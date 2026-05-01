@@ -1,0 +1,165 @@
+[
+  {
+    "userId": "USR-ZMRA-001",
+    "username": "patricia.tembo",
+    "fullName": "Patricia Tembo",
+    "position": "Director General",
+    "department": "Executive Office",
+    "email": "dg@zmra.gov.zm",
+    "phoneNumber": "+260-211-194905",
+    "userRole": "Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Approve Regulatory Strategy",
+      "View Executive Dashboards",
+      "Manage Agency Strategy"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-12-26",
+    "lastLoginDate": "2024-01-01T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Regulation",
+      "Reporting",
+      "Compliance"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "ZMRA House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZMRA-002",
+    "username": "paul.phiri",
+    "fullName": "Paul Phiri",
+    "position": "Deputy Director General",
+    "department": "Corporate Affairs",
+    "email": "ddg@zmra.gov.zm",
+    "phoneNumber": "+260-211-204246",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Review Reports",
+      "Monitor Compliance",
+      "Approve Releases"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-07-06",
+    "lastLoginDate": "2024-10-22T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZMRA-001",
+    "agencyOffice": "ZMRA House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZMRA-003",
+    "username": "john.nkonde",
+    "fullName": "John Nkonde",
+    "position": "Director - Licensing",
+    "department": "Licensing",
+    "email": "licensing@zmra.gov.zm",
+    "phoneNumber": "+260-211-755337",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Manage Licenses",
+      "Generate Reports",
+      "View Applications"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-01-22",
+    "lastLoginDate": "2024-07-20T08:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Licensing",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZMRA-001",
+    "agencyOffice": "ZMRA House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZMRA-004",
+    "username": "robert.sakala",
+    "fullName": "Robert Sakala",
+    "position": "Director - Inspections",
+    "department": "Inspections",
+    "email": "inspections@zmra.gov.zm",
+    "phoneNumber": "+260-211-342994",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Review Inspection Findings",
+      "Approve Compliance Reports",
+      "Track Compliance"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-02-07",
+    "lastLoginDate": "2024-08-16T10:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Monitoring"
+    ],
+    "reportingTo": "USR-ZMRA-001",
+    "agencyOffice": "ZMRA House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZMRA-005",
+    "username": "patricia.mutale",
+    "fullName": "Patricia Mutale",
+    "position": "Manager - Compliance",
+    "department": "Compliance",
+    "email": "compliance@zmra.gov.zm",
+    "phoneNumber": "+260-211-522397",
+    "userRole": "Manager",
+    "accessLevel": "Management",
+    "permissions": [
+      "Track Compliance Cases",
+      "Prepare Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-05-23",
+    "lastLoginDate": "2024-05-20T18:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZMRA-002",
+    "agencyOffice": "ZMRA House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZMRA-006",
+    "username": "miriam.banda",
+    "fullName": "Miriam Banda",
+    "position": "Analyst",
+    "department": "Monitoring & Evaluation",
+    "email": "analyst@zmra.gov.zm",
+    "phoneNumber": "+260-211-693958",
+    "userRole": "Analyst",
+    "accessLevel": "Operational",
+    "permissions": [
+      "Analyze Trends",
+      "Generate Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-08-10",
+    "lastLoginDate": "2024-06-17T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Analytics",
+      "Monitoring",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZMRA-005",
+    "agencyOffice": "ZMRA House, Lusaka",
+    "biometricRegistered": true
+  }
+]

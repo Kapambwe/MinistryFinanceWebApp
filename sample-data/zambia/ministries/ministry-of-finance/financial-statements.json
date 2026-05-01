@@ -1,0 +1,78 @@
+[
+  {
+    "Id": 1,
+    "StatementType": "BalanceSheet",
+    "FiscalYear": "2025",
+    "Period": "03",
+    "CurrencyCode": "ZMW",
+    "AsOfDate": "2025-03-31T00:00:00Z",
+    "CurrentPeriodAmount": 0,
+    "YearToDateAmount": 0,
+    "Status": "Approved",
+    "Lines": [
+      {
+        "Id": 1,
+        "FinancialStatementId": 1,
+        "LineCode": "1000",
+        "LineName": "Cash and Cash Equivalents",
+        "Category": "Assets",
+        "CurrentPeriodAmount": 4650000,
+        "YearToDateAmount": 4650000,
+        "SortOrder": 1
+      },
+      {
+        "Id": 2,
+        "FinancialStatementId": 1,
+        "LineCode": "1100",
+        "LineName": "Accounts Receivable",
+        "Category": "Assets",
+        "CurrentPeriodAmount": 1500000,
+        "YearToDateAmount": 1500000,
+        "SortOrder": 2
+      },
+      {
+        "Id": 3,
+        "FinancialStatementId": 1,
+        "LineCode": "2000",
+        "LineName": "Accounts Payable",
+        "Category": "Liabilities",
+        "CurrentPeriodAmount": 45000,
+        "YearToDateAmount": 45000,
+        "SortOrder": 3
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "StatementType": "IncomeStatement",
+    "FiscalYear": "2025",
+    "Period": "03",
+    "CurrencyCode": "ZMW",
+    "AsOfDate": "2025-03-31T00:00:00Z",
+    "CurrentPeriodAmount": 0,
+    "YearToDateAmount": 0,
+    "Status": "Draft",
+    "Lines": [
+      {
+        "Id": 4,
+        "FinancialStatementId": 2,
+        "LineCode": "4000",
+        "LineName": "Revenue",
+        "Category": "Income",
+        "CurrentPeriodAmount": 4500000,
+        "YearToDateAmount": 4500000,
+        "SortOrder": 1
+      },
+      {
+        "Id": 5,
+        "FinancialStatementId": 2,
+        "LineCode": "5000",
+        "LineName": "Operating Expenses",
+        "Category": "Expense",
+        "CurrentPeriodAmount": 1450000,
+        "YearToDateAmount": 1450000,
+        "SortOrder": 2
+      }
+    ]
+  }
+]

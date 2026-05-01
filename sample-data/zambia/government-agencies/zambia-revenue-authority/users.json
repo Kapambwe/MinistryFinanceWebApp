@@ -1,0 +1,171 @@
+[
+  {
+    "userId": "USR-ZRA-001",
+    "username": "elizabeth.mwale",
+    "fullName": "Elizabeth Mwale",
+    "position": "Commissioner General",
+    "department": "Executive Office",
+    "email": "commissioner.general@zra.gov.zm",
+    "phoneNumber": "+260-211-236405",
+    "userRole": "Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Revenue Strategy",
+      "Approve Agency Reports",
+      "Access Executive Dashboards"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-04-19",
+    "lastLoginDate": "2024-11-22T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Revenue Strategy",
+      "Dashboards",
+      "Reporting",
+      "Oversight"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZRA-002",
+    "username": "peter.kaputa",
+    "fullName": "Peter Kaputa",
+    "position": "Deputy Commissioner General",
+    "department": "Internal Audit",
+    "email": "deputy.commissioner.general@zra.gov.zm",
+    "phoneNumber": "+260-211-550146",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Revenue Reports",
+      "Manage Internal Controls",
+      "Review Compliance"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-09-10",
+    "lastLoginDate": "2024-06-22T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Audit",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZRA-001",
+    "agencyOffice": "Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZRA-003",
+    "username": "francis.ngoma",
+    "fullName": "Francis Ngoma",
+    "position": "Director - ICT and Digital Services",
+    "department": "ICT",
+    "email": "francis.ngoma@zra.gov.zm",
+    "phoneNumber": "+260-211-127052",
+    "userRole": "Director",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Manage Integrations",
+      "View Analytics",
+      "Approve Payments"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-09-17",
+    "lastLoginDate": "2024-02-20T07:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Integration",
+      "Finance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZRA-001",
+    "agencyOffice": "Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZRA-004",
+    "username": "jacqueline.mbewe",
+    "fullName": "Jacqueline Mbewe",
+    "position": "Deputy Director - Research",
+    "department": "Research",
+    "email": "jacqueline.mbewe@zra.gov.zm",
+    "phoneNumber": "+260-211-782375",
+    "userRole": "Deputy Director",
+    "accessLevel": "Management",
+    "permissions": [
+      "View Analytics",
+      "Manage Users",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-04-18",
+    "lastLoginDate": "2024-12-22T18:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Finance",
+      "HR Management"
+    ],
+    "reportingTo": "USR-ZRA-001",
+    "agencyOffice": "Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZRA-005",
+    "username": "miriam.nsofu",
+    "fullName": "Miriam Nsofu",
+    "position": "Manager - Planning",
+    "department": "Planning",
+    "email": "miriam.nsofu@zra.gov.zm",
+    "phoneNumber": "+260-211-898219",
+    "userRole": "Manager",
+    "accessLevel": "Management",
+    "permissions": [
+      "View Analytics",
+      "View Reports",
+      "Manage Workflows"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-01-17",
+    "lastLoginDate": "2024-03-22T10:00:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Workflow"
+    ],
+    "reportingTo": "USR-ZRA-001",
+    "agencyOffice": "Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZRA-006",
+    "username": "grace.mwila",
+    "fullName": "Grace Mwila",
+    "position": "Revenue Systems Analyst",
+    "department": "Digital Services",
+    "email": "grace.mwila@zra.gov.zm",
+    "phoneNumber": "+260-211-236499",
+    "userRole": "Analyst",
+    "accessLevel": "Operational",
+    "permissions": [
+      "View Data",
+      "Analyze Trends",
+      "Generate Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2024-01-11",
+    "lastLoginDate": "2024-12-29T09:30:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Revenue Analytics",
+      "Dashboards",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZRA-003",
+    "agencyOffice": "Lusaka",
+    "biometricRegistered": true
+  }
+]

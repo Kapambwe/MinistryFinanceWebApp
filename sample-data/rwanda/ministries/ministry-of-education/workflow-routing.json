@@ -1,0 +1,1287 @@
+[
+  {
+    "id": "WR-2024-001",
+    "routeName": "High-Value Procurement Routing",
+    "routingType": "Value-Based",
+    "category": "Procurement",
+    "description": "Automatic routing rules for procurement approvals based on contract value thresholds",
+    "createdDate": "2024-01-10T08:00:00Z",
+    "status": "Active",
+    "priority": "Critical",
+    "conditions": [
+      {
+        "parameter": "Contract Value",
+        "operator": "Greater Than",
+        "value": 50000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Ministry Procurement Officer",
+        "action": "Initial Review",
+        "sla": 3,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Technical Evaluation Committee",
+        "action": "Technical Assessment",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Permanent Secretary",
+        "action": "Ministry Approval",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Zambia Public Procurement Authority",
+        "action": "ZPPA Approval",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 5,
+        "role": "Secretary to Treasury",
+        "action": "Financial Clearance",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 6,
+        "role": "Cabinet Office",
+        "action": "Cabinet Approval",
+        "sla": 14,
+        "required": true
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "SLA Breach",
+        "escalateTo": "Permanent Secretary",
+        "notificationMethod": "Email and SMS"
+      },
+      {
+        "trigger": "48 Hour Inactivity",
+        "escalateTo": "Supervisor",
+        "notificationMethod": "Email"
+      }
+    ],
+    "applicableEntities": [
+      "All Ministries",
+      "Departments",
+      "Agencies"
+    ],
+    "workflowsProcessed": 28,
+    "avgProcessingTime": 42,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WR-2024-002",
+    "routeName": "Budget Virement Approval",
+    "routingType": "Budget Reallocation",
+    "category": "Financial Management",
+    "description": "Routing workflow for budget reallocation requests (virements) based on amount and budget line",
+    "createdDate": "2024-01-12T09:00:00Z",
+    "status": "Active",
+    "priority": "High",
+    "conditions": [
+      {
+        "parameter": "Virement Amount",
+        "operator": "Greater Than",
+        "value": 5000000.0,
+        "unit": "ZMW"
+      },
+      {
+        "parameter": "Budget Line Change",
+        "operator": "Equals",
+        "value": "Cross-Activity",
+        "unit": "Category"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Budget Officer",
+        "action": "Virement Request Submission",
+        "sla": 2,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Chief Accountant",
+        "action": "Financial Review",
+        "sla": 3,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Controlling Officer",
+        "action": "Programmatic Justification",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Ministry of Finance",
+        "action": "MOF Approval",
+        "sla": 7,
+        "required": true
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Rejection",
+        "escalateTo": "Permanent Secretary",
+        "notificationMethod": "Email"
+      }
+    ],
+    "applicableEntities": [
+      "All Ministries"
+    ],
+    "workflowsProcessed": 145,
+    "avgProcessingTime": 14,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WR-2024-003",
+    "routeName": "Payment Authorization Routing",
+    "routingType": "Payment Processing",
+    "category": "Accounts Payable",
+    "description": "Multi-tier payment authorization routing based on payment amount and type",
+    "createdDate": "2024-01-14T10:30:00Z",
+    "status": "Active",
+    "priority": "High",
+    "conditions": [
+      {
+        "parameter": "Payment Amount",
+        "operator": "Between",
+        "value": "1000000-10000000",
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Accounts Officer",
+        "action": "Payment Request Verification",
+        "sla": 1,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Senior Accountant",
+        "action": "Documentation Review",
+        "sla": 2,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Chief Accountant",
+        "action": "Financial Authorization",
+        "sla": 2,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Controlling Officer",
+        "action": "Final Approval",
+        "sla": 3,
+        "required": true
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Missing Documentation",
+        "escalateTo": "Initiator",
+        "notificationMethod": "Email and System Alert"
+      },
+      {
+        "trigger": "SLA Breach",
+        "escalateTo": "Chief Accountant",
+        "notificationMethod": "Email"
+      }
+    ],
+    "applicableEntities": [
+      "All Government Entities"
+    ],
+    "workflowsProcessed": 3847,
+    "avgProcessingTime": 6,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WR-2024-004",
+    "routeName": "Grant Application Review",
+    "routingType": "External Funding",
+    "category": "Aid Coordination",
+    "description": "Routing for donor grant applications requiring multi-stakeholder review and approval",
+    "createdDate": "2024-01-16T11:00:00Z",
+    "status": "Active",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Grant Amount",
+        "operator": "Greater Than",
+        "value": 10000000.0,
+        "unit": "USD"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Line Ministry",
+        "action": "Proposal Development",
+        "sla": 30,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Aid Coordination Unit",
+        "action": "Alignment Review",
+        "sla": 14,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Ministry of Finance",
+        "action": "Fiscal Impact Assessment",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Attorney General",
+        "action": "Legal Review",
+        "sla": 14,
+        "required": true
+      },
+      {
+        "step": 5,
+        "role": "Cabinet Office",
+        "action": "Cabinet Approval",
+        "sla": 21,
+        "required": true
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Donor Deadline Approaching",
+        "escalateTo": "Secretary to Cabinet",
+        "notificationMethod": "Email and SMS"
+      }
+    ],
+    "applicableEntities": [
+      "Line Ministries",
+      "Agencies"
+    ],
+    "workflowsProcessed": 12,
+    "avgProcessingTime": 75,
+    "currency": "USD"
+  },
+  {
+    "id": "WR-2024-005",
+    "routeName": "Audit Finding Resolution",
+    "routingType": "Compliance",
+    "category": "Audit Management",
+    "description": "Systematic routing of audit findings to responsible officers for resolution and verification",
+    "createdDate": "2024-01-18T13:00:00Z",
+    "status": "Active",
+    "priority": "Critical",
+    "conditions": [
+      {
+        "parameter": "Finding Severity",
+        "operator": "Equals",
+        "value": "High or Critical",
+        "unit": "Category"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Action Officer",
+        "action": "Management Response",
+        "sla": 14,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Controlling Officer",
+        "action": "Response Approval",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Action Officer",
+        "action": "Implementation",
+        "sla": 90,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Internal Audit",
+        "action": "Verification",
+        "sla": 14,
+        "required": true
+      },
+      {
+        "step": 5,
+        "role": "Auditor General",
+        "action": "Closure Approval",
+        "sla": 7,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Implementation Overdue",
+        "escalateTo": "Permanent Secretary",
+        "notificationMethod": "Email and System Alert"
+      },
+      {
+        "trigger": "Repeated Non-Compliance",
+        "escalateTo": "Secretary to Treasury",
+        "notificationMethod": "Formal Letter"
+      }
+    ],
+    "applicableEntities": [
+      "All Audited Entities"
+    ],
+    "workflowsProcessed": 287,
+    "avgProcessingTime": 118,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WR-2024-006",
+    "routeName": "Contract Variation Approval",
+    "routingType": "Contract Management",
+    "category": "Procurement",
+    "description": "Approval routing for contract variations exceeding specified thresholds",
+    "createdDate": "2024-01-20T14:30:00Z",
+    "status": "Active",
+    "priority": "High",
+    "conditions": [
+      {
+        "parameter": "Variation Percentage",
+        "operator": "Greater Than",
+        "value": 15.0,
+        "unit": "Percent"
+      },
+      {
+        "parameter": "Variation Amount",
+        "operator": "Greater Than",
+        "value": 2000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Project Manager",
+        "action": "Variation Justification",
+        "sla": 3,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Technical Officer",
+        "action": "Technical Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Procurement Officer",
+        "action": "Procurement Review",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Controlling Officer",
+        "action": "Authorization",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 5,
+        "role": "ZPPA",
+        "action": "Regulatory Approval",
+        "sla": 10,
+        "required": true
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Exceeds 25% Variation",
+        "escalateTo": "Secretary to Treasury",
+        "notificationMethod": "Email"
+      }
+    ],
+    "applicableEntities": [
+      "All Procuring Entities"
+    ],
+    "workflowsProcessed": 67,
+    "avgProcessingTime": 28,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WR-2024-007",
+    "routeName": "Emergency Expenditure Authorization",
+    "routingType": "Expedited Approval",
+    "category": "Emergency Response",
+    "description": "Fast-track routing for emergency expenditures with post-approval reporting requirements",
+    "createdDate": "2024-01-22T09:00:00Z",
+    "status": "Active",
+    "priority": "Critical",
+    "conditions": [
+      {
+        "parameter": "Emergency Classification",
+        "operator": "Equals",
+        "value": "Disaster or Public Health",
+        "unit": "Category"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Emergency Coordinator",
+        "action": "Request Submission",
+        "sla": 4,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Permanent Secretary",
+        "action": "Expedited Approval",
+        "sla": 8,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Secretary to Treasury",
+        "action": "Financial Authorization",
+        "sla": 12,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Requesting Officer",
+        "action": "Post-Expenditure Reporting",
+        "sla": 72,
+        "required": true
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Life-Threatening Emergency",
+        "escalateTo": "Secretary to Cabinet",
+        "notificationMethod": "Phone Call and Email"
+      }
+    ],
+    "applicableEntities": [
+      "Emergency Response Entities"
+    ],
+    "workflowsProcessed": 8,
+    "avgProcessingTime": 18,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WR-2024-008",
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2024-01-24T10:00:00Z",
+    "status": "Active",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 9,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2024-10-14T00:00:00",
+    "status": "In Progress",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2023-06-09T00:00:00",
+    "status": "Completed",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2024-10-20T00:00:00",
+    "status": "Approved",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2024-05-19T00:00:00",
+    "status": "Released",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2023-02-05T00:00:00",
+    "status": "Released",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2023-11-11T00:00:00",
+    "status": "Released",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2023-12-24T00:00:00",
+    "status": "In Progress",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2024-08-20T00:00:00",
+    "status": "Released",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2024-07-10T00:00:00",
+    "status": "Approved",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2023-09-13T00:00:00",
+    "status": "Completed",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2024-03-28T00:00:00",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "routeName": "Revenue Waiver Approval",
+    "routingType": "Tax Administration",
+    "category": "Revenue",
+    "description": "Multi-level approval routing for requests to waive penalties, interest, or taxes",
+    "createdDate": "2024-01-29T00:00:00",
+    "status": "Approved",
+    "priority": "Medium",
+    "conditions": [
+      {
+        "parameter": "Waiver Amount",
+        "operator": "Greater Than",
+        "value": 1000000.0,
+        "unit": "ZMW"
+      }
+    ],
+    "routingRules": [
+      {
+        "step": 1,
+        "role": "Tax Officer",
+        "action": "Initial Assessment",
+        "sla": 5,
+        "required": true
+      },
+      {
+        "step": 2,
+        "role": "Revenue Manager",
+        "action": "Review and Recommendation",
+        "sla": 7,
+        "required": true
+      },
+      {
+        "step": 3,
+        "role": "Commissioner General (ZRA)",
+        "action": "Decision",
+        "sla": 10,
+        "required": true
+      },
+      {
+        "step": 4,
+        "role": "Secretary to Treasury",
+        "action": "Final Approval (if >ZMW 5M)",
+        "sla": 14,
+        "required": false
+      }
+    ],
+    "escalationRules": [
+      {
+        "trigger": "Politically Sensitive Case",
+        "escalateTo": "Minister of Finance",
+        "notificationMethod": "Briefing Note"
+      }
+    ],
+    "applicableEntities": [
+      "Zambia Revenue Authority"
+    ],
+    "workflowsProcessed": 34,
+    "avgProcessingTime": 25,
+    "currency": "ZMW"
+  }
+]

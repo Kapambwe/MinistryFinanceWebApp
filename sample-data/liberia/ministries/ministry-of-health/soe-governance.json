@@ -1,0 +1,1456 @@
+[
+  {
+    "id": 1,
+    "soeId": 15,
+    "soeName": "ZESCO",
+    "boardSize": 9,
+    "independentDirectors": 5,
+    "executiveDirectors": 2,
+    "governmentNominees": 2,
+    "chairpersonName": "Dr. Chanda Mwansa",
+    "chairpersonType": "Independent",
+    "ceoName": "Eng. Victor Mapani",
+    "boardMeetingsPerYear": 12,
+    "attendanceRate": 87.5,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 78.5,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-06-30T00:00:00",
+    "nextBoardEvaluation": "2025-06-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Chanda Mwansa",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-03-15T00:00:00",
+        "expertise": "Engineering & Infrastructure"
+      },
+      {
+        "name": "Eng. Victor Mapani",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-08-01T00:00:00",
+        "expertise": "Electrical Engineering"
+      },
+      {
+        "name": "Mrs. Patricia Mwila",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2020-01-10T00:00:00",
+        "expertise": "Finance & Accounting"
+      },
+      {
+        "name": "Mr. Joseph Banda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-01-20T00:00:00",
+        "expertise": "Public Policy"
+      },
+      {
+        "name": "Ms. Sarah Mutale",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-01-20T00:00:00",
+        "expertise": "Energy Policy"
+      },
+      {
+        "name": "Dr. James Phiri",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-06-15T00:00:00",
+        "expertise": "Corporate Governance"
+      },
+      {
+        "name": "Mrs. Christine Zulu",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-06-15T00:00:00",
+        "expertise": "Legal & Compliance"
+      },
+      {
+        "name": "Mr. David Tembo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-09-01T00:00:00",
+        "expertise": "Risk Management"
+      },
+      {
+        "name": "Eng. Mary Sakala",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-09-01T00:00:00",
+        "expertise": "Renewable Energy"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "soeId": 23,
+    "soeName": "ZANACO",
+    "boardSize": 8,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 2,
+    "chairpersonName": "Mr. Andrew Kashita",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Mukwandi Chibesakunda",
+    "boardMeetingsPerYear": 12,
+    "attendanceRate": 92.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 85.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-09-30T00:00:00",
+    "nextBoardEvaluation": "2025-09-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Mr. Andrew Kashita",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2020-05-01T00:00:00",
+        "expertise": "Banking & Finance"
+      },
+      {
+        "name": "Mr. Mukwandi Chibesakunda",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2019-01-15T00:00:00",
+        "expertise": "Banking Operations"
+      },
+      {
+        "name": "Mrs. Grace Mbewe",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2020-03-01T00:00:00",
+        "expertise": "Financial Management"
+      },
+      {
+        "name": "Dr. Peter Ngoma",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2022-07-01T00:00:00",
+        "expertise": "Economics"
+      },
+      {
+        "name": "Mr. Charles Mumba",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2022-07-01T00:00:00",
+        "expertise": "Public Finance"
+      },
+      {
+        "name": "Mrs. Linda Phiri",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2021-04-15T00:00:00",
+        "expertise": "Banking Regulation"
+      },
+      {
+        "name": "Mr. George Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2021-04-15T00:00:00",
+        "expertise": "Risk Management"
+      },
+      {
+        "name": "Dr. Susan Kalabo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-02-01T00:00:00",
+        "expertise": "Digital Banking"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "soeId": 13,
+    "soeName": "ZAMTEL",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Mr. Sydney Mwamba",
+    "chairpersonType": "Independent",
+    "ceoName": "Eng. Darius Mukwakwa",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 85.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 80.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-08-31T00:00:00",
+    "nextBoardEvaluation": "2025-08-31T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Mr. Sydney Mwamba",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2021-06-01T00:00:00",
+        "expertise": "Telecommunications"
+      },
+      {
+        "name": "Eng. Darius Mukwakwa",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2022-01-10T00:00:00",
+        "expertise": "ICT & Telecommunications"
+      },
+      {
+        "name": "Mr. Moses Chilufya",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2021-09-01T00:00:00",
+        "expertise": "Corporate Finance"
+      },
+      {
+        "name": "Dr. Angela Mwansa",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-05-15T00:00:00",
+        "expertise": "Technology Policy"
+      },
+      {
+        "name": "Mrs. Jane Simfukwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-03-20T00:00:00",
+        "expertise": "Telecommunications Law"
+      },
+      {
+        "name": "Mr. Patrick Sakala",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-03-20T00:00:00",
+        "expertise": "Network Engineering"
+      },
+      {
+        "name": "Dr. Francis Kabwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-11-01T00:00:00",
+        "expertise": "Digital Transformation"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "soeId": 8,
+    "soeName": "Zambia Railways Limited",
+    "boardSize": 6,
+    "independentDirectors": 3,
+    "executiveDirectors": 1,
+    "governmentNominees": 2,
+    "chairpersonName": "Mr. Given Lubinda",
+    "chairpersonType": "Government Nominee",
+    "ceoName": "Eng. Christopher Musonda",
+    "boardMeetingsPerYear": 8,
+    "attendanceRate": 78.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": false,
+    "corporateGovernanceScore": 62.0,
+    "complianceStatus": "PartiallyCompliant",
+    "lastBoardEvaluation": "2024-03-31T00:00:00",
+    "nextBoardEvaluation": "2025-03-31T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Mr. Given Lubinda",
+        "position": "Chairperson",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-08-01T00:00:00",
+        "expertise": "Transport Policy"
+      },
+      {
+        "name": "Eng. Christopher Musonda",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2024-02-15T00:00:00",
+        "expertise": "Railway Engineering"
+      },
+      {
+        "name": "Mrs. Elizabeth Tembo",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-08-01T00:00:00",
+        "expertise": "Infrastructure Development"
+      },
+      {
+        "name": "Mr. Jackson Phiri",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2024-01-10T00:00:00",
+        "expertise": "Restructuring & Turnaround"
+      },
+      {
+        "name": "Dr. Beatrice Mwale",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2024-01-10T00:00:00",
+        "expertise": "Financial Restructuring"
+      },
+      {
+        "name": "Mr. Kenneth Sichone",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2024-03-01T00:00:00",
+        "expertise": "Logistics Management"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "soeId": 18,
+    "soeName": "Lusaka South MFEZ",
+    "boardSize": 7,
+    "independentDirectors": 4,
+    "executiveDirectors": 2,
+    "governmentNominees": 1,
+    "chairpersonName": "Dr. Mwelwa Chibesakunda",
+    "chairpersonType": "Independent",
+    "ceoName": "Mr. Lewis Mwape",
+    "boardMeetingsPerYear": 10,
+    "attendanceRate": 88.0,
+    "hasAuditCommittee": true,
+    "hasRiskCommittee": true,
+    "hasRemunerationCommittee": true,
+    "corporateGovernanceScore": 82.0,
+    "complianceStatus": "Compliant",
+    "lastBoardEvaluation": "2024-11-30T00:00:00",
+    "nextBoardEvaluation": "2025-11-30T00:00:00",
+    "boardMembers": [
+      {
+        "name": "Dr. Mwelwa Chibesakunda",
+        "position": "Chairperson",
+        "type": "Independent",
+        "appointmentDate": "2022-04-01T00:00:00",
+        "expertise": "Industrial Development"
+      },
+      {
+        "name": "Mr. Lewis Mwape",
+        "position": "Managing Director/CEO",
+        "type": "Executive",
+        "appointmentDate": "2021-10-15T00:00:00",
+        "expertise": "Economic Zone Management"
+      },
+      {
+        "name": "Mrs. Monde Nkamba",
+        "position": "Finance Director",
+        "type": "Executive",
+        "appointmentDate": "2022-02-01T00:00:00",
+        "expertise": "Project Finance"
+      },
+      {
+        "name": "Mr. Brian Hapunda",
+        "position": "Board Member",
+        "type": "Government Nominee",
+        "appointmentDate": "2023-06-01T00:00:00",
+        "expertise": "Trade & Investment"
+      },
+      {
+        "name": "Dr. Isaac Mbewe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Manufacturing"
+      },
+      {
+        "name": "Mrs. Naomi Sikazwe",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2022-08-15T00:00:00",
+        "expertise": "Infrastructure Planning"
+      },
+      {
+        "name": "Mr. Daniel Moyo",
+        "position": "Board Member",
+        "type": "Independent",
+        "appointmentDate": "2023-10-01T00:00:00",
+        "expertise": "Foreign Investment"
+      }
+    ]
+  }
+]

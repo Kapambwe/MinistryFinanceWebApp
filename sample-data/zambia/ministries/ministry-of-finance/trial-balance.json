@@ -1,0 +1,15 @@
+{
+  "FiscalYear": "2025",
+  "Period": "03",
+  "AsOfDate": "2025-03-31T00:00:00Z",
+  "TotalDebits": 7050000,
+  "TotalCredits": 7050000,
+  "Lines": [
+    { "AccountCode": "1010", "AccountName": "Cash at Bank", "AccountType": "Asset", "OpeningBalance": 2000000, "Debits": 3500000, "Credits": 850000, "ClosingBalance": 4650000 },
+    { "AccountCode": "1100", "AccountName": "Accounts Receivable", "AccountType": "Asset", "OpeningBalance": 1500000, "Debits": 0, "Credits": 0, "ClosingBalance": 1500000 },
+    { "AccountCode": "2000", "AccountName": "Accounts Payable", "AccountType": "Liability", "OpeningBalance": 0, "Debits": 0, "Credits": 45000, "ClosingBalance": 45000 },
+    { "AccountCode": "4010", "AccountName": "Tax Revenue", "AccountType": "Revenue", "OpeningBalance": 0, "Debits": 0, "Credits": 3000000, "ClosingBalance": 3000000 },
+    { "AccountCode": "5010", "AccountName": "Salaries & Wages", "AccountType": "Expense", "OpeningBalance": 0, "Debits": 600000, "Credits": 0, "ClosingBalance": 600000 },
+    { "AccountCode": "5030", "AccountName": "Utilities", "AccountType": "Expense", "OpeningBalance": 0, "Debits": 45000, "Credits": 0, "ClosingBalance": 45000 }
+  ]
+}

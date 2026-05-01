@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "AccountCode": "AR-1001",
+    "AccountName": "Government Agencies Receivable",
+    "SubledgerType": "AccountsReceivable",
+    "ControlAccountCode": "1100",
+    "OpeningBalance": 1500000,
+    "CurrentBalance": 1850000,
+    "OpenItemsCount": 12,
+    "LastActivityDate": "2025-04-10T00:00:00Z",
+    "Status": "Active",
+    "Transactions": [
+      {
+        "Id": 1,
+        "SubledgerAccountId": 1,
+        "TransactionDate": "2025-04-10T00:00:00Z",
+        "DocumentNumber": "INV-2025-0041",
+        "Description": "Road user fee invoice",
+        "DebitAmount": 250000,
+        "CreditAmount": 0,
+        "Balance": 250000,
+        "Reference": "MIN-ROAD",
+        "Status": "Open"
+      },
+      {
+        "Id": 2,
+        "SubledgerAccountId": 1,
+        "TransactionDate": "2025-04-12T00:00:00Z",
+        "DocumentNumber": "RCPT-2025-0181",
+        "Description": "Receipt posted",
+        "DebitAmount": 0,
+        "CreditAmount": 100000,
+        "Balance": 150000,
+        "Reference": "RCPT-0181",
+        "Status": "Posted"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "AccountCode": "AP-2001",
+    "AccountName": "Supplier Payables",
+    "SubledgerType": "AccountsPayable",
+    "ControlAccountCode": "2100",
+    "OpeningBalance": 450000,
+    "CurrentBalance": 525000,
+    "OpenItemsCount": 8,
+    "LastActivityDate": "2025-04-11T00:00:00Z",
+    "Status": "Active"
+  }
+]

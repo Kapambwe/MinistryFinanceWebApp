@@ -1,0 +1,998 @@
+[
+  {
+    "id": "AD-2024-001",
+    "detectionDate": "2024-01-16T14:35:00Z",
+    "anomalyType": "Payment Pattern",
+    "severity": "High",
+    "category": "Financial Transaction",
+    "title": "Unusual Payment Clustering to Single Vendor",
+    "description": "Detected 47 payments totaling ZMW 18.5M to vendor VND-SVC-892 within 72-hour period, exceeding normal pattern by 840%",
+    "entityType": "Ministry",
+    "entityId": "MIN-WORKS-001",
+    "entityName": "Ministry of Infrastructure",
+    "confidenceScore": 0.94,
+    "anomalyScore": 87.3,
+    "metrics": {
+      "normalPattern": 2200000.0,
+      "detectedAmount": 18500000.0,
+      "variance": 840.9,
+      "transactionCount": 47,
+      "timeWindow": "72 hours"
+    },
+    "indicators": [
+      "Payment frequency 12x higher than vendor average",
+      "Amount per transaction consistently below approval threshold",
+      "Payments processed outside normal business hours",
+      "Multiple approvers involved in short timeframe"
+    ],
+    "dataSource": "Payment Processing System",
+    "status": "Under Investigation",
+    "investigationStarted": "2024-01-17T08:00:00Z",
+    "assignedTo": "Financial Crimes Investigation Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-SVC-892",
+        "name": "QuickServe Contractors Ltd"
+      }
+    ],
+    "recommendedActions": [
+      "Freeze pending payments to vendor",
+      "Conduct vendor due diligence review",
+      "Interview payment approvers",
+      "Review supporting documentation for all 47 payments"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "AD-2024-002",
+    "detectionDate": "2024-01-19T11:20:00Z",
+    "anomalyType": "Budget Variance",
+    "severity": "Medium",
+    "category": "Budget Execution",
+    "title": "Unexpected Budget Line Depletion",
+    "description": "Education Ministry training budget line depleted 9 months early, with 82% spent in single month",
+    "entityType": "Ministry",
+    "entityId": "MIN-EDU-001",
+    "entityName": "Ministry of Education",
+    "confidenceScore": 0.91,
+    "anomalyScore": 78.5,
+    "metrics": {
+      "annualBudget": 15000000.0,
+      "spentAmount": 12300000.0,
+      "utilizationRate": 82.0,
+      "normalMonthlyRate": 8.3,
+      "monthsRemaining": 9
+    },
+    "indicators": [
+      "Single month expenditure 10x monthly average",
+      "Multiple training events not in annual plan",
+      "Foreign training component unusually high",
+      "Limited supporting documentation submitted"
+    ],
+    "dataSource": "Budget Execution System",
+    "status": "Resolved",
+    "investigationStarted": "2024-01-19T14:00:00Z",
+    "investigationCompleted": "2024-01-25T16:30:00Z",
+    "assignedTo": "Budget Monitoring Unit",
+    "resolution": "Legitimate expenses for emergency teacher training program approved by Cabinet. Documentation requirements strengthened.",
+    "relatedEntities": [
+      {
+        "type": "Program",
+        "id": "PRG-EDU-TRAIN-24",
+        "name": "Emergency Teacher Upskilling Program"
+      }
+    ],
+    "recommendedActions": [
+      "Verify training attendance records",
+      "Review budget reallocation approvals",
+      "Assess remaining annual training needs"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "AD-2024-003",
+    "detectionDate": "2024-01-21T09:45:00Z",
+    "anomalyType": "Procurement Irregularity",
+    "severity": "Critical",
+    "category": "Procurement",
+    "title": "Identical Bid Documents from Different Vendors",
+    "description": "AI analysis detected 94.7% similarity in technical bid documents from 3 competing vendors for ZMW 22M road contract",
+    "entityType": "Project",
+    "entityId": "PRJ-ROAD-2024-15",
+    "entityName": "Chipata-Lundazi Road Rehabilitation",
+    "confidenceScore": 0.96,
+    "anomalyScore": 94.7,
+    "metrics": {
+      "contractValue": 22000000.0,
+      "vendorsInvolved": 3,
+      "documentSimilarity": 94.7,
+      "identicalSections": 23,
+      "suspiciousPatterns": 8
+    },
+    "indicators": [
+      "Identical technical specifications and methodologies",
+      "Same formatting, fonts, and styling",
+      "Sequential document creation timestamps",
+      "Common unique spelling errors across documents",
+      "Identical pricing breakdown structures"
+    ],
+    "dataSource": "Procurement Document Analysis System",
+    "status": "Under Investigation",
+    "investigationStarted": "2024-01-22T08:00:00Z",
+    "assignedTo": "Public Procurement Authority - Investigations",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-334",
+        "name": "Eastern Province Builders"
+      },
+      {
+        "type": "Vendor",
+        "id": "VND-CON-556",
+        "name": "Chipata Construction Ltd"
+      },
+      {
+        "type": "Vendor",
+        "id": "VND-CON-667",
+        "name": "Lundazi Infrastructure Co"
+      }
+    ],
+    "recommendedActions": [
+      "Suspend bid evaluation process",
+      "Investigate vendor relationships and ownership",
+      "Refer to Anti-Corruption Commission",
+      "Cancel tender and re-advertise with enhanced controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "AD-2024-004",
+    "detectionDate": "2024-01-23T15:10:00Z",
+    "anomalyType": "Revenue Collection",
+    "severity": "Medium",
+    "category": "Revenue",
+    "title": "Declining Revenue Despite Increased Activity",
+    "description": "Lusaka City Council revenue collections down 22% despite 18% increase in business permits issued",
+    "entityType": "District",
+    "entityId": "DST-LUSAKA-001",
+    "entityName": "Lusaka City Council",
+    "confidenceScore": 0.88,
+    "anomalyScore": 71.2,
+    "metrics": {
+      "previousRevenue": 45000000.0,
+      "currentRevenue": 35100000.0,
+      "revenueChange": -22.0,
+      "activityIncrease": 18.0,
+      "expectedRevenue": 53100000.0
+    },
+    "indicators": [
+      "Business permit issuance up 18%",
+      "Market stall allocations increased",
+      "Property valuations growing",
+      "Revenue collection declining inconsistently"
+    ],
+    "dataSource": "Revenue Management System",
+    "status": "Under Investigation",
+    "investigationStarted": "2024-01-24T09:00:00Z",
+    "assignedTo": "Revenue Assurance Team",
+    "relatedEntities": [
+      {
+        "type": "Department",
+        "id": "DEPT-REV-LCC",
+        "name": "LCC Revenue Department"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct revenue collection audit",
+      "Review fee collection procedures",
+      "Verify bank deposit records",
+      "Assess collector accountability"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "AD-2024-005",
+    "detectionDate": "2024-01-25T13:25:00Z",
+    "anomalyType": "Payroll Irregularity",
+    "severity": "High",
+    "category": "Human Resources",
+    "title": "Ghost Worker Pattern Detected",
+    "description": "Statistical analysis identifies 28 employees with identical bank account for salary payments across 3 health facilities",
+    "entityType": "Ministry",
+    "entityId": "MIN-HLTH-001",
+    "entityName": "Ministry of Health",
+    "confidenceScore": 0.92,
+    "anomalyScore": 89.4,
+    "metrics": {
+      "suspiciousEmployees": 28,
+      "facilitiesAffected": 3,
+      "monthlyPayrollImpact": 378000.0,
+      "estimatedAnnualLoss": 4536000.0,
+      "districts": 2
+    },
+    "indicators": [
+      "Multiple employees sharing single bank account",
+      "No physical verification records for 18 employees",
+      "Attendance records missing or irregular",
+      "Same contact phone number for multiple employees"
+    ],
+    "dataSource": "Payroll System & HR Database",
+    "status": "Under Investigation",
+    "investigationStarted": "2024-01-26T08:00:00Z",
+    "assignedTo": "Internal Audit - Payroll Division",
+    "relatedEntities": [
+      {
+        "type": "Facility",
+        "id": "HF-KATETE-001",
+        "name": "Katete District Hospital"
+      },
+      {
+        "type": "Facility",
+        "id": "HF-PETAUKE-002",
+        "name": "Petauke Health Centre"
+      }
+    ],
+    "recommendedActions": [
+      "Suspend salary payments pending verification",
+      "Conduct physical headcount at all facilities",
+      "Verify employee identity documents",
+      "Review HR appointment documentation"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "AD-2024-006",
+    "detectionDate": "2024-01-27T10:50:00Z",
+    "anomalyType": "Inventory Discrepancy",
+    "severity": "Medium",
+    "category": "Asset Management",
+    "title": "Medical Supplies Stock Variance",
+    "description": "Physical stock count reveals 35% variance from system records for high-value medical supplies worth ZMW 8.2M",
+    "entityType": "Facility",
+    "entityId": "HF-UTH-001",
+    "entityName": "University Teaching Hospital",
+    "confidenceScore": 0.87,
+    "anomalyScore": 68.9,
+    "metrics": {
+      "systemQuantity": 12500,
+      "physicalQuantity": 8125,
+      "variance": -35.0,
+      "valueDifference": 8200000.0,
+      "itemsAffected": 47
+    },
+    "indicators": [
+      "High-value items disproportionately affected",
+      "Stock issuance records incomplete",
+      "Storage area access log gaps",
+      "Receiving documentation inconsistencies"
+    ],
+    "dataSource": "Inventory Management System",
+    "status": "Under Investigation",
+    "investigationStarted": "2024-01-28T08:00:00Z",
+    "assignedTo": "Medical Supplies Audit Team",
+    "relatedEntities": [
+      {
+        "type": "Department",
+        "id": "DEPT-PHARM-UTH",
+        "name": "UTH Pharmacy Department"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct comprehensive stock reconciliation",
+      "Review dispensing and issuance records",
+      "Strengthen storage security controls",
+      "Implement cycle counting procedures"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "AD-2024-007",
+    "detectionDate": "2024-01-29T16:15:00Z",
+    "anomalyType": "Access Pattern",
+    "severity": "Low",
+    "category": "System Security",
+    "title": "Unusual After-Hours System Access",
+    "description": "User account accessed financial system 156 times between 11 PM and 4 AM over 2-week period, deviating from normal pattern",
+    "entityType": "User",
+    "entityId": "USR-FIN-445",
+    "entityName": "Finance Officer - District Treasury",
+    "confidenceScore": 0.85,
+    "anomalyScore": 64.3,
+    "metrics": {
+      "normalAccessCount": 12,
+      "detectedAccessCount": 156,
+      "variance": 1300.0,
+      "timeRange": "23:00-04:00",
+      "duration": "14 days"
+    },
+    "indicators": [
+      "Access outside normal working hours",
+      "High frequency compared to user baseline",
+      "Predominantly query and report functions",
+      "No corresponding overtime approval records"
+    ],
+    "dataSource": "System Audit Logs",
+    "status": "Resolved",
+    "investigationStarted": "2024-01-30T09:00:00Z",
+    "investigationCompleted": "2024-01-31T14:00:00Z",
+    "assignedTo": "IT Security Team",
+    "resolution": "User working on month-end closing and annual report preparation. Remote access from home due to family circumstances. No unauthorized activities detected.",
+    "relatedEntities": [
+      {
+        "type": "System",
+        "id": "SYS-IFMIS-01",
+        "name": "Integrated Financial Management System"
+      }
+    ],
+    "recommendedActions": [
+      "Verify overtime approvals",
+      "Review accessed data and transactions",
+      "Confirm legitimate business need"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": "AD-2024-008",
+    "detectionDate": "2024-01-31T12:30:00Z",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Under Investigation",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 9,
+    "detectionDate": "2023-03-07T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Released",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "detectionDate": "2024-05-25T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Cancelled",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "detectionDate": "2023-07-08T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Active",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "detectionDate": "2023-06-21T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "In Progress",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "detectionDate": "2023-06-29T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Released",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "detectionDate": "2023-11-19T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Completed",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "detectionDate": "2024-10-14T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Completed",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "detectionDate": "2023-10-17T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Pending",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "detectionDate": "2023-04-29T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Pending",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "detectionDate": "2024-07-08T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Cancelled",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "detectionDate": "2023-09-09T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Pending",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "detectionDate": "2024-09-20T00:00:00",
+    "anomalyType": "Contract Performance",
+    "severity": "Medium",
+    "category": "Project Management",
+    "title": "Contractor Payment Without Deliverable Verification",
+    "description": "AI detected ZMW 6.8M payment to contractor with no corresponding delivery confirmation or inspection reports in system",
+    "entityType": "Project",
+    "entityId": "PRJ-SCHOOL-2024-09",
+    "entityName": "Rural School Construction - Phase 3",
+    "confidenceScore": 0.9,
+    "anomalyScore": 74.6,
+    "metrics": {
+      "paymentAmount": 6800000.0,
+      "contractValue": 28000000.0,
+      "paymentPercentage": 24.3,
+      "missingDocuments": 5,
+      "daysOverdue": 12
+    },
+    "indicators": [
+      "Payment processed without inspection report",
+      "No deliverable acceptance certificate",
+      "Progress photos not uploaded",
+      "Site visit records missing",
+      "Payment approval chain incomplete"
+    ],
+    "dataSource": "Project Management & Payment Systems",
+    "status": "Pending",
+    "investigationStarted": "2024-02-01T08:00:00Z",
+    "assignedTo": "Project Monitoring Unit",
+    "relatedEntities": [
+      {
+        "type": "Vendor",
+        "id": "VND-CON-778",
+        "name": "Northern Builders Ltd"
+      },
+      {
+        "type": "District",
+        "id": "DST-KASAMA-001",
+        "name": "Kasama District"
+      }
+    ],
+    "recommendedActions": [
+      "Conduct immediate site inspection",
+      "Verify work completion status",
+      "Review payment authorization process",
+      "Strengthen deliverable verification controls"
+    ],
+    "currency": "ZMW"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 1,
+    "ControlCode": "CTRL-001",
+    "ControlName": "Journal Approval Threshold",
+    "Category": "Posting Controls",
+    "Severity": "High",
+    "Status": "Passed",
+    "ResultSummary": "All entries within approval threshold"
+  },
+  {
+    "Id": 2,
+    "ControlCode": "CTRL-002",
+    "ControlName": "Closed Period Posting",
+    "Category": "Period Controls",
+    "Severity": "Critical",
+    "Status": "Warning",
+    "ResultSummary": "1 entry posted to a soft-closed period",
+    "Findings": "Review late adjustment journals"
+  },
+  {
+    "Id": 3,
+    "ControlCode": "CTRL-003",
+    "ControlName": "Intercompany Account Mapping",
+    "Category": "COA Governance",
+    "Severity": "Medium",
+    "Status": "Passed",
+    "ResultSummary": "COA mapping is aligned"
+  },
+  {
+    "Id": 4,
+    "ControlCode": "CTRL-004",
+    "ControlName": "Foreign Currency Revaluation",
+    "Category": "Multi-Currency",
+    "Severity": "High",
+    "Status": "Failed",
+    "ResultSummary": "One EUR account not revalued",
+    "Findings": "Run month-end FX revaluation",
+    "Resolution": "Pending"
+  }
+]

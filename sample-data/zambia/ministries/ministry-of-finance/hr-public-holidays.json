@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "HolidayName": "Youth Day",
+    "HolidayDate": "2026-03-12T00:00:00",
+    "IsRecurring": true,
+    "IsObserved": true,
+    "Year": 2026,
+    "Description": "Zambia Youth Day"
+  },
+  {
+    "Id": 2,
+    "HolidayName": "Independence Day",
+    "HolidayDate": "2026-10-24T00:00:00",
+    "IsRecurring": true,
+    "IsObserved": true,
+    "Year": 2026,
+    "Description": "Zambia Independence Day"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "BaseCurrency": "USD",
+    "QuoteCurrency": "ZMW",
+    "Rate": 26.25,
+    "EffectiveDate": "2025-04-01T00:00:00Z",
+    "IsActive": true,
+    "Source": "Sample Market Feed"
+  },
+  {
+    "Id": 2,
+    "BaseCurrency": "EUR",
+    "QuoteCurrency": "ZMW",
+    "Rate": 28.9,
+    "EffectiveDate": "2025-04-01T00:00:00Z",
+    "IsActive": true,
+    "Source": "Sample Market Feed"
+  },
+  {
+    "Id": 3,
+    "BaseCurrency": "GBP",
+    "QuoteCurrency": "ZMW",
+    "Rate": 33.1,
+    "EffectiveDate": "2025-04-01T00:00:00Z",
+    "IsActive": true,
+    "Source": "Sample Market Feed"
+  },
+  {
+    "Id": 4,
+    "BaseCurrency": "ZMW",
+    "QuoteCurrency": "ZMW",
+    "Rate": 1,
+    "EffectiveDate": "2025-04-01T00:00:00Z",
+    "IsActive": true,
+    "Source": "Base Currency"
+  }
+]

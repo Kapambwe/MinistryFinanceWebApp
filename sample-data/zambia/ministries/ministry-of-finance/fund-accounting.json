@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "FundCode": "CF-001",
+    "FundName": "Consolidated Fund",
+    "FundType": "Treasury Fund",
+    "OpeningBalance": 12000000,
+    "BudgetBalance": 16500000,
+    "ExpenditureBalance": 5400000,
+    "CurrentBalance": 11100000,
+    "Status": "Active",
+    "LastUpdated": "2025-04-12T00:00:00Z",
+    "Transactions": [
+      {
+        "Id": 1,
+        "FundAccountId": 1,
+        "TransactionDate": "2025-04-10T00:00:00Z",
+        "DocumentNumber": "WARR-0018",
+        "Description": "Quarterly release to ministries",
+        "ProgramCode": "PFM",
+        "ProjectCode": "N/A",
+        "DebitAmount": 2500000,
+        "CreditAmount": 0,
+        "Balance": 13750000,
+        "SourceModule": "Treasury"
+      },
+      {
+        "Id": 2,
+        "FundAccountId": 1,
+        "TransactionDate": "2025-04-12T00:00:00Z",
+        "DocumentNumber": "PAY-0091",
+        "Description": "Operational expenditure posting",
+        "ProgramCode": "OPS",
+        "ProjectCode": "N/A",
+        "DebitAmount": 0,
+        "CreditAmount": 1200000,
+        "Balance": 12550000,
+        "SourceModule": "GeneralLedger"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "FundCode": "HF-010",
+    "FundName": "Health Sector Fund",
+    "FundType": "Sector Fund",
+    "OpeningBalance": 2500000,
+    "BudgetBalance": 8000000,
+    "ExpenditureBalance": 3200000,
+    "CurrentBalance": 7300000,
+    "Status": "Active",
+    "LastUpdated": "2025-04-11T00:00:00Z"
+  }
+]

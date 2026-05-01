@@ -1,0 +1,193 @@
+[
+  {
+    "userId": "USR-ZPPA-001",
+    "username": "lillian.mwale",
+    "fullName": "Lillian Mwale",
+    "position": "Director General",
+    "department": "Executive Office",
+    "email": "dg@zppa.org.zm",
+    "phoneNumber": "+260-211-270557",
+    "userRole": "Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Approve Procurement Strategy",
+      "View Compliance Reports",
+      "Access Executive Dashboards"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-05-04",
+    "lastLoginDate": "2024-11-21T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement Oversight",
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "Procurement House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZPPA-002",
+    "username": "miriam.nkonde",
+    "fullName": "Miriam Nkonde",
+    "position": "Deputy Director General",
+    "department": "Monitoring & Evaluation",
+    "email": "ddg@zppa.org.zm",
+    "phoneNumber": "+260-211-606186",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Review Compliance",
+      "Approve Reports",
+      "Access Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-02-11",
+    "lastLoginDate": "2024-11-12T13:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting",
+      "Analytics"
+    ],
+    "reportingTo": "USR-ZPPA-001",
+    "agencyOffice": "Procurement House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZPPA-003",
+    "username": "patricia.phiri",
+    "fullName": "Patricia Phiri",
+    "position": "Director - Compliance",
+    "department": "Compliance",
+    "email": "compliance@zppa.org.zm",
+    "phoneNumber": "+260-211-699544",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Review Procurement Cases",
+      "Approve Compliance Notes",
+      "Generate Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-02-10",
+    "lastLoginDate": "2024-10-21T16:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZPPA-001",
+    "agencyOffice": "Procurement House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZPPA-004",
+    "username": "grace.nsofu",
+    "fullName": "Grace Nsofu",
+    "position": "Director - Finance",
+    "department": "Finance",
+    "email": "finance@zppa.org.zm",
+    "phoneNumber": "+260-211-185916",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Approve Payments",
+      "View Reports",
+      "Manage Budget"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-11-09",
+    "lastLoginDate": "2024-11-18T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Payments",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZPPA-001",
+    "agencyOffice": "Procurement House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZPPA-005",
+    "username": "andrew.mbewe",
+    "fullName": "Andrew Mbewe",
+    "position": "Manager - Procurement",
+    "department": "Procurement",
+    "email": "procurement@zppa.org.zm",
+    "phoneNumber": "+260-211-393964",
+    "userRole": "Manager",
+    "accessLevel": "Management",
+    "permissions": [
+      "Manage Procurement Cases",
+      "View Procurement Reports",
+      "Track Bids"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-12-15",
+    "lastLoginDate": "2024-06-09T18:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZPPA-003",
+    "agencyOffice": "Procurement House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZPPA-006",
+    "username": "mary.phiri",
+    "fullName": "Mary Phiri",
+    "position": "Officer - Procurement",
+    "department": "Procurement",
+    "email": "mary.phiri@zppa.org.zm",
+    "phoneNumber": "+260-211-153015",
+    "userRole": "Officer",
+    "accessLevel": "Operational",
+    "permissions": [
+      "View Procurement Records",
+      "Generate Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2023-09-13",
+    "lastLoginDate": "2024-11-04T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZPPA-005",
+    "agencyOffice": "Procurement House, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZPPA-007",
+    "username": "john.nkonde",
+    "fullName": "John Nkonde",
+    "position": "Auditor",
+    "department": "Compliance",
+    "email": "john.nkonde@zppa.org.zm",
+    "phoneNumber": "+260-211-139285",
+    "userRole": "Auditor",
+    "accessLevel": "Management",
+    "permissions": [
+      "View Audit Logs",
+      "Review Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-07-11",
+    "lastLoginDate": "2024-12-08T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Audit",
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZPPA-001",
+    "agencyOffice": "Procurement House, Lusaka",
+    "biometricRegistered": true
+  }
+]

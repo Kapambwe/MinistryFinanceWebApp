@@ -1,0 +1,1536 @@
+[
+  {
+    "id": "PA-2024-001",
+    "modelType": "Budget Forecast",
+    "category": "Revenue Prediction",
+    "title": "Q2 2024 Revenue Forecast",
+    "description": "Machine learning model predicts revenue collection trends for Q2 2024 across all government revenue streams",
+    "createdDate": "2024-01-15T08:00:00Z",
+    "modelVersion": "v2.3.1",
+    "confidenceScore": 0.89,
+    "predictionHorizon": "90 days",
+    "timeframe": {
+      "start": "2024-04-01T00:00:00Z",
+      "end": "2024-06-30T23:59:59Z"
+    },
+    "baseline": {
+      "period": "Q2 2023",
+      "amount": 4850000000.0
+    },
+    "prediction": {
+      "optimistic": 5425000000.0,
+      "expected": 5150000000.0,
+      "pessimistic": 4920000000.0,
+      "variance": 6.2
+    },
+    "keyDrivers": [
+      {
+        "factor": "Mining Royalties",
+        "impact": 15.2,
+        "trend": "Increasing",
+        "reasoning": "Copper prices trending upward, production volumes stable"
+      },
+      {
+        "factor": "VAT Collections",
+        "impact": 8.5,
+        "trend": "Stable",
+        "reasoning": "Consumer spending maintaining steady growth"
+      },
+      {
+        "factor": "Corporate Tax",
+        "impact": -2.3,
+        "trend": "Declining",
+        "reasoning": "Economic slowdown in manufacturing sector"
+      }
+    ],
+    "risks": [
+      "Global copper price volatility",
+      "Exchange rate fluctuations",
+      "Drought impact on agricultural sector taxes"
+    ],
+    "recommendations": [
+      "Enhance mining sector monitoring to capture royalty opportunities",
+      "Strengthen VAT compliance in retail sector",
+      "Provide tax relief measures for struggling manufacturing companies"
+    ],
+    "accuracy": {
+      "previousPredictions": 3,
+      "averageAccuracy": 91.5,
+      "lastActualVsPredicted": 94.2
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "PA-2024-002",
+    "modelType": "Expenditure Forecast",
+    "category": "Budget Pressure",
+    "title": "Education Sector Expenditure Pressure - 2024",
+    "description": "Predictive model identifies emerging budget pressures in education sector based on enrollment and policy changes",
+    "createdDate": "2024-01-18T10:30:00Z",
+    "modelVersion": "v1.8.2",
+    "confidenceScore": 0.86,
+    "predictionHorizon": "12 months",
+    "timeframe": {
+      "start": "2024-01-01T00:00:00Z",
+      "end": "2024-12-31T23:59:59Z"
+    },
+    "baseline": {
+      "period": "2023 Actual",
+      "amount": 2850000000.0
+    },
+    "prediction": {
+      "optimistic": 3180000000.0,
+      "expected": 3350000000.0,
+      "pessimistic": 3520000000.0,
+      "variance": 17.5
+    },
+    "keyDrivers": [
+      {
+        "factor": "Enrollment Growth",
+        "impact": 8.2,
+        "trend": "Increasing",
+        "reasoning": "Free education policy driving 8% annual enrollment increase"
+      },
+      {
+        "factor": "Teacher Recruitment",
+        "impact": 5.5,
+        "trend": "Increasing",
+        "reasoning": "5,000 new teacher positions approved"
+      },
+      {
+        "factor": "Infrastructure Expansion",
+        "impact": 3.8,
+        "trend": "Increasing",
+        "reasoning": "120 new schools under construction require operational funding"
+      }
+    ],
+    "risks": [
+      "Enrollment exceeding projections",
+      "Inflation in construction and learning materials",
+      "Delayed teacher deployment affecting quality"
+    ],
+    "recommendations": [
+      "Request supplementary budget allocation of ZMW 500M",
+      "Accelerate teacher recruitment and deployment",
+      "Explore public-private partnerships for infrastructure",
+      "Implement efficiency measures in non-critical spending"
+    ],
+    "accuracy": {
+      "previousPredictions": 4,
+      "averageAccuracy": 88.3,
+      "lastActualVsPredicted": 92.1
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "PA-2024-003",
+    "modelType": "Risk Prediction",
+    "category": "Procurement Risk",
+    "title": "High-Risk Procurement Identification",
+    "description": "AI model predicts procurement processes with elevated fraud and non-compliance risk for proactive intervention",
+    "createdDate": "2024-01-20T14:00:00Z",
+    "modelVersion": "v3.1.0",
+    "confidenceScore": 0.91,
+    "predictionHorizon": "30 days",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "procurementsAnalyzed": 284,
+      "highRiskIdentified": 23
+    },
+    "prediction": {
+      "totalProcurements": 310,
+      "highRiskProcurements": 28,
+      "mediumRiskProcurements": 87,
+      "lowRiskProcurements": 195,
+      "riskRate": 9.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Single Source Procurements",
+        "impact": 42.5,
+        "trend": "Stable",
+        "reasoning": "Emergency procurements bypass competitive process"
+      },
+      {
+        "factor": "High Value Contracts",
+        "impact": 28.3,
+        "trend": "Increasing",
+        "reasoning": "Contracts over ZMW 10M show higher irregularity rates"
+      },
+      {
+        "factor": "Repeat Vendors",
+        "impact": 15.7,
+        "trend": "Stable",
+        "reasoning": "Vendors winning multiple contracts attract scrutiny"
+      }
+    ],
+    "highRiskProcurements": [
+      {
+        "procurementId": "PROC-2024-445",
+        "ministry": "Ministry of Health",
+        "value": 18500000.0,
+        "riskScore": 87.5,
+        "riskFactors": [
+          "Single source",
+          "Urgent timeline",
+          "New vendor"
+        ]
+      },
+      {
+        "procurementId": "PROC-2024-467",
+        "ministry": "Ministry of Infrastructure",
+        "value": 34200000.0,
+        "riskScore": 82.3,
+        "riskFactors": [
+          "High value",
+          "Complex technical specs",
+          "Limited competition"
+        ]
+      }
+    ],
+    "recommendations": [
+      "Enhanced due diligence for flagged procurements",
+      "Mandatory competitive process unless Cabinet approved",
+      "Real-time monitoring of high-risk contracts",
+      "Independent technical evaluation for complex procurements"
+    ],
+    "accuracy": {
+      "previousPredictions": 6,
+      "averageAccuracy": 89.7,
+      "lastActualVsPredicted": 91.3
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "PA-2024-004",
+    "modelType": "Compliance Forecast",
+    "category": "Audit Readiness",
+    "title": "District Audit Compliance Prediction",
+    "description": "Predicts district councils likely to fail compliance audits based on historical patterns and current indicators",
+    "createdDate": "2024-01-22T11:15:00Z",
+    "modelVersion": "v2.5.3",
+    "confidenceScore": 0.93,
+    "predictionHorizon": "60 days",
+    "timeframe": {
+      "start": "2024-03-01T00:00:00Z",
+      "end": "2024-04-30T23:59:59Z"
+    },
+    "baseline": {
+      "period": "2023 Audit Cycle",
+      "districtsAudited": 116,
+      "complianceFailures": 28,
+      "failureRate": 24.1
+    },
+    "prediction": {
+      "districtsScheduled": 116,
+      "predictedFailures": 22,
+      "predictedPasses": 94,
+      "failureRate": 19.0,
+      "improvement": 5.1
+    },
+    "keyDrivers": [
+      {
+        "factor": "Previous Audit Performance",
+        "impact": 45.8,
+        "trend": "Stable",
+        "reasoning": "Historical non-compliance strongly predicts future issues"
+      },
+      {
+        "factor": "Staff Capacity",
+        "impact": 23.5,
+        "trend": "Improving",
+        "reasoning": "Training programs showing positive impact"
+      },
+      {
+        "factor": "Financial Management Systems",
+        "impact": 18.2,
+        "trend": "Improving",
+        "reasoning": "System upgrades in 35 districts"
+      }
+    ],
+    "atRiskDistricts": [
+      {
+        "districtId": "DST-LIVINGSTONE-001",
+        "districtName": "Livingstone",
+        "riskScore": 89.5,
+        "failureProbability": 0.92,
+        "keyIssues": [
+          "Bank reconciliation gaps",
+          "Missing documentation",
+          "Weak controls"
+        ]
+      },
+      {
+        "districtId": "DST-MONGU-001",
+        "districtName": "Mongu",
+        "riskScore": 76.3,
+        "failureProbability": 0.81,
+        "keyIssues": [
+          "Late reporting",
+          "Asset management issues",
+          "Revenue gaps"
+        ]
+      }
+    ],
+    "recommendations": [
+      "Deploy support teams to high-risk districts",
+      "Conduct pre-audit readiness assessments",
+      "Provide targeted technical assistance",
+      "Fast-track system implementations in at-risk areas"
+    ],
+    "accuracy": {
+      "previousPredictions": 5,
+      "averageAccuracy": 92.8,
+      "lastActualVsPredicted": 94.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "PA-2024-005",
+    "modelType": "Demand Forecast",
+    "category": "Service Delivery",
+    "title": "Health Service Demand Projection - Q2 2024",
+    "description": "Predicts health service utilization patterns to optimize resource allocation and budget planning",
+    "createdDate": "2024-01-24T09:30:00Z",
+    "modelVersion": "v1.6.8",
+    "confidenceScore": 0.87,
+    "predictionHorizon": "90 days",
+    "timeframe": {
+      "start": "2024-04-01T00:00:00Z",
+      "end": "2024-06-30T23:59:59Z"
+    },
+    "baseline": {
+      "period": "Q2 2023",
+      "patientVisits": 2850000,
+      "avgCostPerVisit": 125.5
+    },
+    "prediction": {
+      "optimistic": 3150000,
+      "expected": 3280000,
+      "pessimistic": 3420000,
+      "variance": 15.1,
+      "budgetImpact": 53950000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Seasonal Malaria",
+        "impact": 22.5,
+        "trend": "Increasing",
+        "reasoning": "Rainy season drives malaria cases in Q2"
+      },
+      {
+        "factor": "Population Growth",
+        "impact": 6.8,
+        "trend": "Increasing",
+        "reasoning": "Annual population growth rate of 2.8%"
+      },
+      {
+        "factor": "New Health Facilities",
+        "impact": 4.2,
+        "trend": "Increasing",
+        "reasoning": "18 new health posts operationalized"
+      }
+    ],
+    "regionalVariations": [
+      {
+        "region": "Luapula Province",
+        "predictedIncrease": 28.5,
+        "reason": "Highest malaria prevalence region"
+      },
+      {
+        "region": "Lusaka Province",
+        "predictedIncrease": 12.3,
+        "reason": "Urban population growth"
+      }
+    ],
+    "recommendations": [
+      "Pre-position malaria medicines and supplies",
+      "Increase staffing in high-demand facilities",
+      "Allocate additional ZMW 54M for Q2 health services",
+      "Strengthen preventive health campaigns"
+    ],
+    "accuracy": {
+      "previousPredictions": 4,
+      "averageAccuracy": 86.5,
+      "lastActualVsPredicted": 88.9
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "PA-2024-006",
+    "modelType": "Project Success Prediction",
+    "category": "Project Management",
+    "title": "Infrastructure Project Completion Forecast",
+    "description": "Predicts likelihood of on-time and on-budget completion for ongoing infrastructure projects",
+    "createdDate": "2024-01-26T13:45:00Z",
+    "modelVersion": "v2.2.4",
+    "confidenceScore": 0.84,
+    "predictionHorizon": "180 days",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-07-31T23:59:59Z"
+    },
+    "baseline": {
+      "period": "2023",
+      "projectsCompleted": 87,
+      "onTimeRate": 54.0,
+      "onBudgetRate": 62.0
+    },
+    "prediction": {
+      "projectsDue": 94,
+      "onTimeCompletion": 76,
+      "delayedCompletion": 18,
+      "successRate": 80.9,
+      "improvement": 26.9
+    },
+    "keyDrivers": [
+      {
+        "factor": "Enhanced Monitoring",
+        "impact": 18.5,
+        "trend": "Improving",
+        "reasoning": "New project monitoring system showing impact"
+      },
+      {
+        "factor": "Contractor Performance",
+        "impact": 15.3,
+        "trend": "Improving",
+        "reasoning": "Better contractor selection and management"
+      },
+      {
+        "factor": "Weather Conditions",
+        "impact": -8.2,
+        "trend": "Risk",
+        "reasoning": "Rainy season may delay outdoor projects"
+      }
+    ],
+    "atRiskProjects": [
+      {
+        "projectId": "PRJ-ROAD-2024-12",
+        "projectName": "Mongu-Senanga Road",
+        "value": 45000000.0,
+        "completionProbability": 0.35,
+        "keyRisks": [
+          "Contractor delays",
+          "Equipment breakdowns",
+          "Funding gaps"
+        ]
+      },
+      {
+        "projectId": "PRJ-BRIDGE-2024-05",
+        "projectName": "Luangwa Bridge Construction",
+        "value": 68000000.0,
+        "completionProbability": 0.42,
+        "keyRisks": [
+          "Technical challenges",
+          "Weather delays",
+          "Material shortages"
+        ]
+      }
+    ],
+    "recommendations": [
+      "Intensive monitoring for at-risk projects",
+      "Accelerate procurement for delayed projects",
+      "Consider contract variations where necessary",
+      "Deploy support to struggling contractors"
+    ],
+    "accuracy": {
+      "previousPredictions": 3,
+      "averageAccuracy": 82.7,
+      "lastActualVsPredicted": 85.3
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "PA-2024-007",
+    "modelType": "Cash Flow Forecast",
+    "category": "Treasury Management",
+    "title": "Government Cash Position Forecast - Q1 2024",
+    "description": "Predicts daily cash position to optimize treasury operations and prevent cash shortages",
+    "createdDate": "2024-01-28T08:00:00Z",
+    "modelVersion": "v3.4.1",
+    "confidenceScore": 0.95,
+    "predictionHorizon": "90 days",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-04-30T23:59:59Z"
+    },
+    "baseline": {
+      "period": "Q1 2023",
+      "avgDailyCash": 850000000.0,
+      "cashShortages": 5,
+      "borrowingCost": 12500000.0
+    },
+    "prediction": {
+      "avgDailyCash": 920000000.0,
+      "minCashPosition": 450000000.0,
+      "maxCashPosition": 1850000000.0,
+      "shortageRiskDays": 8
+    },
+    "keyDrivers": [
+      {
+        "factor": "Tax Revenue Inflows",
+        "impact": 65.2,
+        "trend": "Stable",
+        "reasoning": "Predictable monthly corporate and VAT payments"
+      },
+      {
+        "factor": "Donor Disbursements",
+        "impact": 18.5,
+        "trend": "Variable",
+        "reasoning": "Grant payments depend on tranche approvals"
+      },
+      {
+        "factor": "Salary Payments",
+        "impact": -45.8,
+        "trend": "Stable",
+        "reasoning": "Fixed monthly commitment of ZMW 2.1B"
+      }
+    ],
+    "criticalDates": [
+      {
+        "date": "2024-02-25T00:00:00Z",
+        "event": "Month-end Salary Payments",
+        "cashImpact": -2100000000.0,
+        "positionAfter": 650000000.0,
+        "risk": "Medium"
+      },
+      {
+        "date": "2024-03-15T00:00:00Z",
+        "event": "VAT Revenue Expected",
+        "cashImpact": 1450000000.0,
+        "positionAfter": 1820000000.0,
+        "risk": "Low"
+      }
+    ],
+    "recommendations": [
+      "Align large payments with revenue inflow dates",
+      "Maintain minimum cash buffer of ZMW 500M",
+      "Accelerate tax collection in low-revenue weeks",
+      "Coordinate with donors on disbursement timing"
+    ],
+    "accuracy": {
+      "previousPredictions": 12,
+      "averageAccuracy": 94.2,
+      "lastActualVsPredicted": 96.1
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": "PA-2024-008",
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2024-01-30T15:20:00Z",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 9,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2023-02-24T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2024-09-22T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2024-04-12T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2024-04-06T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2023-02-14T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2024-06-24T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2023-07-17T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2024-06-13T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2023-06-23T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2024-09-24T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2024-05-14T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "modelType": "Fraud Risk Prediction",
+    "category": "Fraud Prevention",
+    "title": "High-Risk Transaction Identification",
+    "description": "AI model predicts transactions with elevated fraud risk based on pattern analysis and anomaly detection",
+    "createdDate": "2023-12-07T00:00:00",
+    "modelVersion": "v4.1.2",
+    "confidenceScore": 0.92,
+    "predictionHorizon": "Real-time",
+    "timeframe": {
+      "start": "2024-02-01T00:00:00Z",
+      "end": "2024-02-29T23:59:59Z"
+    },
+    "baseline": {
+      "period": "January 2024",
+      "transactionsAnalyzed": 45678,
+      "fraudDetected": 23,
+      "fraudRate": 0.05
+    },
+    "prediction": {
+      "transactionsExpected": 48500,
+      "highRiskTransactions": 340,
+      "mediumRiskTransactions": 1850,
+      "predictedFraud": 28,
+      "preventionPotential": 25600000.0
+    },
+    "keyDrivers": [
+      {
+        "factor": "Vendor Pattern Anomalies",
+        "impact": 38.5,
+        "trend": "Increasing",
+        "reasoning": "New vendor schemes emerging"
+      },
+      {
+        "factor": "Threshold Manipulation",
+        "impact": 25.3,
+        "trend": "Stable",
+        "reasoning": "Transactions just below approval limits"
+      },
+      {
+        "factor": "Unusual Time Patterns",
+        "impact": 18.7,
+        "trend": "Decreasing",
+        "reasoning": "After-hours controls strengthened"
+      }
+    ],
+    "riskIndicators": [
+      {
+        "indicator": "Rapid repeat transactions to same vendor",
+        "fraudProbability": 0.78,
+        "occurrences": 15
+      },
+      {
+        "indicator": "New vendor with large first transaction",
+        "fraudProbability": 0.65,
+        "occurrences": 12
+      },
+      {
+        "indicator": "Invoice amount clustering below threshold",
+        "fraudProbability": 0.72,
+        "occurrences": 23
+      }
+    ],
+    "recommendations": [
+      "Real-time alerting for high-risk transactions",
+      "Enhanced due diligence for flagged vendors",
+      "Mandatory secondary approval for risk patterns",
+      "Continuous model training with new fraud cases"
+    ],
+    "accuracy": {
+      "previousPredictions": 8,
+      "averageAccuracy": 90.5,
+      "lastActualVsPredicted": 92.8,
+      "falsePositiveRate": 8.5
+    },
+    "currency": "ZMW"
+  }
+]

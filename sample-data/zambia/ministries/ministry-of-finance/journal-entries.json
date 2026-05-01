@@ -1,0 +1,31 @@
+[
+  {
+    "Id": 1,
+    "JournalNumber": "JE-2025-000001",
+    "EntryDate": "2025-04-01T00:00:00Z",
+    "PostingDate": "2025-04-01T00:00:00Z",
+    "Description": "Opening balance entry for FY 2025",
+    "Reference": "OB-2025",
+    "EntryType": "Opening",
+    "Status": "Posted",
+    "TotalDebit": 5000000,
+    "TotalCredit": 5000000,
+    "CreatedBy": "System",
+    "CreatedDate": "2025-04-01T00:00:00Z",
+    "ApprovedBy": "System",
+    "ApprovedDate": "2025-04-01T00:00:00Z",
+    "PostedBy": "System",
+    "PostedDate": "2025-04-01T00:00:00Z",
+    "IsRecurring": false,
+    "FiscalYear": "2025",
+    "Period": "01",
+    "TenantCode": "MOF",
+    "TenantName": "Ministry of Finance",
+    "Lines": [
+      { "Id": 1, "JournalEntryId": 1, "LineNumber": 1, "AccountCode": "1010", "AccountName": "Cash at Bank", "Description": "Opening cash", "DebitAmount": 2000000, "CreditAmount": 0 },
+      { "Id": 2, "JournalEntryId": 1, "LineNumber": 2, "AccountCode": "1100", "AccountName": "Accounts Receivable", "Description": "Opening receivables", "DebitAmount": 1500000, "CreditAmount": 0 },
+      { "Id": 3, "JournalEntryId": 1, "LineNumber": 3, "AccountCode": "1500", "AccountName": "Fixed Assets", "Description": "Opening assets", "DebitAmount": 1500000, "CreditAmount": 0 },
+      { "Id": 4, "JournalEntryId": 1, "LineNumber": 4, "AccountCode": "3000", "AccountName": "Fund Balance", "Description": "Opening equity", "DebitAmount": 0, "CreditAmount": 5000000 }
+    ]
+  }
+]

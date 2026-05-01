@@ -1,0 +1,173 @@
+{
+  "CountryName": "Zambia",
+  "CountrySlug": "zambia",
+  "InstitutionType": "government-agencies",
+  "InstitutionName": "Zambia Revenue Authority",
+  "InstitutionSlug": "zambia-revenue-authority",
+  "OrganizationType": "GovernmentAgency",
+  "TenantType": "GovernmentAgency",
+  "CountryCapabilityTags": [
+    "RevenueCollection",
+    "Customs",
+    "TaxCompliance",
+    "AccountsReceivable",
+    "TreasuryInterface",
+    "Analytics",
+    "Transparency"
+  ],
+  "CountryRecommendedPermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.AI.View",
+    "MOF.Analytics.ViewFinancialAnalytics",
+    "MOF.Audit.View",
+    "MOF.Audit.ViewComplianceStatus",
+    "MOF.Dashboard.View",
+    "MOF.Revenue.ViewRevenueMonitoring",
+    "MOF.Revenue.ViewAccountsReceivable",
+    "MOF.Revenue.ViewBillingWorkspace",
+    "MOF.Revenue.ViewZRAIntegration",
+    "MOF.Revenue.ViewCustomsTracking",
+    "MOF.Revenue.ViewTaxForecasting",
+    "MOF.Revenue.ViewNonTaxRevenue",
+    "MOF.Revenue.ViewTaxExpenditure",
+    "MOF.Revenue.ViewRevenueGapAnalysis",
+    "MOF.Reporting.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Payments.View",
+    "MOF.Payments.ViewDashboard",
+    "MOF.Treasury.View",
+    "MOF.Treasury.ViewTSA",
+    "MOF.Transparency.View"
+  ],
+  "InstitutionTypePermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.AI.View",
+    "MOF.Dashboard.View",
+    "MOF.Payments.View",
+    "MOF.Payments.Create",
+    "MOF.Revenue.ViewAccountsReceivable",
+    "MOF.Revenue.ViewRevenueMonitoring",
+    "MOF.Revenue.ViewZRAIntegration",
+    "MOF.Revenue.ViewCustomsTracking",
+    "MOF.Revenue.ViewTaxForecasting",
+    "MOF.Reporting.View",
+    "MOF.Reporting.ViewReports",
+    "MOF.Reporting.GenerateReports"
+  ],
+  "EffectiveInstitutionPermissions": [
+    "MOF.AccessAreas.Integration.View",
+    "MOF.AccessAreas.Monitoring.View",
+    "MOF.AccessAreas.Utilities.View",
+    "MOF.AccessAreas.Diagnostics.View",
+    "MOF.AccessAreas.AI.View",
+    "MOF.Dashboard.View",
+    "MOF.Payments.View",
+    "MOF.Revenue.ViewAccountsReceivable",
+    "MOF.Revenue.ViewRevenueMonitoring",
+    "MOF.Revenue.ViewZRAIntegration",
+    "MOF.Revenue.ViewCustomsTracking",
+    "MOF.Revenue.ViewTaxForecasting",
+    "MOF.Reporting.ViewReports"
+  ],
+  "AccessiblePages": [
+    "/",
+    "/revenue/agency-integration",
+    "/ar/dashboard",
+    "/ar/billing",
+    "/revenue/forecasting",
+    "/revenue/gap-analysis",
+    "/revenue/tax-expenditure"
+  ],
+  "Roles": [
+    {
+      "RoleId": "zra.accountant",
+      "RoleName": "Accountant",
+      "TemplateRole": "Agency.RevenueOfficer",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Revenue.ViewAccountsReceivable",
+        "MOF.Revenue.ViewBillingWorkspace",
+        "MOF.Revenue.ViewRevenueMonitoring",
+        "MOF.Payments.View",
+        "MOF.AccessAreas.Integration.View",
+        "MOF.Reporting.ViewReports"
+      ]
+    },
+    {
+      "RoleId": "zra.director-budget",
+      "RoleName": "Director Budget",
+      "TemplateRole": "Agency.DirectorRevenue",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Revenue.ViewRevenueMonitoring",
+        "MOF.Revenue.ViewTaxForecasting",
+        "MOF.Revenue.ViewNonTaxRevenue",
+        "MOF.Revenue.ViewRevenueGapAnalysis",
+        "MOF.Revenue.ViewZRAIntegration",
+        "MOF.AccessAreas.Integration.View",
+        "MOF.AccessAreas.Monitoring.View",
+        "MOF.AccessAreas.Diagnostics.View",
+        "MOF.Reporting.ViewReports"
+      ]
+    },
+    {
+      "RoleId": "zra.economist",
+      "RoleName": "Economist",
+      "TemplateRole": "Agency.RevenueOfficer",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Revenue.ViewTaxForecasting",
+        "MOF.Revenue.ViewRevenueMonitoring",
+        "MOF.Revenue.ViewRevenueGapAnalysis",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.Analytics.ViewCustomReports",
+        "MOF.AccessAreas.Integration.View",
+        "MOF.AccessAreas.Monitoring.View",
+        "MOF.AccessAreas.Diagnostics.View",
+        "MOF.Reporting.ViewReports"
+      ]
+    },
+    {
+      "RoleId": "zra.hr-officer",
+      "RoleName": "HR Officer",
+      "TemplateRole": "Agency.HRManager",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.AccessAreas.Utilities.View"
+      ]
+    },
+    {
+      "RoleId": "zra.legal-counsel",
+      "RoleName": "Legal Counsel",
+      "TemplateRole": "Agency.InternalAuditor",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.AccessAreas.Diagnostics.View",
+        "MOF.Reporting.ViewReports",
+        "MOF.Audit.View",
+        "MOF.Audit.ViewComplianceStatus"
+      ]
+    },
+    {
+      "RoleId": "zra.senior-economist",
+      "RoleName": "Senior Economist",
+      "TemplateRole": "Agency.RevenueOfficer",
+      "Permissions": [
+        "MOF.Dashboard.View",
+        "MOF.Revenue.ViewTaxForecasting",
+        "MOF.Revenue.ViewRevenueMonitoring",
+        "MOF.Revenue.ViewNonTaxRevenue",
+        "MOF.Analytics.ViewFinancialAnalytics",
+        "MOF.AccessAreas.Integration.View",
+        "MOF.AccessAreas.Monitoring.View",
+        "MOF.AccessAreas.Diagnostics.View",
+        "MOF.Reporting.ViewReports"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "FiscalYear": "2025",
+    "PreparedDate": "2025-04-20T00:00:00Z",
+    "PreparedBy": "System",
+    "Status": "Prepared",
+    "TotalAssets": 20000000,
+    "TotalLiabilities": 4500000,
+    "TotalEquity": 15500000,
+    "TotalRevenue": 7500000,
+    "TotalExpenses": 4200000,
+    "DisclosureNotes": [
+      { "Id": 1, "NoteCode": "DN-01", "Title": "Basis of Preparation", "Content": "Prepared on the accrual basis.", "IsMandatory": true }
+    ],
+    "Checklist": [
+      { "Id": 1, "ChecklistCode": "YC-01", "Description": "All periods closed", "IsComplete": true, "CompletedBy": "System", "CompletedDate": "2025-04-20T00:00:00Z" }
+    ]
+  }
+]

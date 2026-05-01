@@ -1,0 +1,7 @@
+[
+  { "Id": 1, "PositionCode": "DIR-BUD", "PositionTitle": "Director Budget", "JobGrade": "DIR1", "OrganizationUnitId": 2, "OrganizationUnitName": "Budget Division", "MinSalary": 65000.0, "MaxSalary": 85000.0, "AuthorizedCount": 1, "FilledCount": 1, "IsActive": true },
+  { "Id": 2, "PositionCode": "SNR-ECO", "PositionTitle": "Senior Economist", "JobGrade": "SNR1", "OrganizationUnitId": 3, "OrganizationUnitName": "Economic Planning", "MinSalary": 28000.0, "MaxSalary": 38000.0, "AuthorizedCount": 3, "FilledCount": 3, "IsActive": true },
+  { "Id": 3, "PositionCode": "SNR-FIN", "PositionTitle": "Senior Manager", "JobGrade": "SNR1", "OrganizationUnitId": 4, "OrganizationUnitName": "Finance Division", "MinSalary": 28000.0, "MaxSalary": 38000.0, "AuthorizedCount": 3, "FilledCount": 3, "IsActive": true },
+  { "Id": 4, "PositionCode": "IT-OFF", "PositionTitle": "IT Officer", "JobGrade": "OFF1", "OrganizationUnitId": 7, "OrganizationUnitName": "ICT", "MinSalary": 18000.0, "MaxSalary": 25000.0, "AuthorizedCount": 2, "FilledCount": 2, "IsActive": true },
+  { "Id": 5, "PositionCode": "GEN-OFF", "PositionTitle": "Accountant", "JobGrade": "OFF1", "OrganizationUnitId": 5, "OrganizationUnitName": "Administration", "MinSalary": 18000.0, "MaxSalary": 25000.0, "AuthorizedCount": 2, "FilledCount": 2, "IsActive": true }
+]

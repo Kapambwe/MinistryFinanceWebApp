@@ -1,0 +1,164 @@
+[
+  {
+    "userId": "USR-ZAMMSA-001",
+    "username": "john.zulu",
+    "fullName": "John Zulu",
+    "position": "Director General",
+    "department": "Executive Office",
+    "email": "dg@zammsa.gov.zm",
+    "phoneNumber": "+260-211-343106",
+    "userRole": "Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Approve Procurement Strategy",
+      "View Executive Dashboards",
+      "Manage Agency Strategy"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-09-09",
+    "lastLoginDate": "2024-05-11T12:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Inventory",
+      "Reporting"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "ZAMMSA House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-002",
+    "username": "beatrice.mwale",
+    "fullName": "Beatrice Mwale",
+    "position": "Deputy Director General",
+    "department": "Finance",
+    "email": "ddg@zammsa.gov.zm",
+    "phoneNumber": "+260-211-305768",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Review Reports",
+      "Monitor Compliance",
+      "Approve Releases"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-01-03",
+    "lastLoginDate": "2024-01-11T13:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Finance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-003",
+    "username": "jacqueline.mutale",
+    "fullName": "Jacqueline Mutale",
+    "position": "Director - Procurement",
+    "department": "Procurement",
+    "email": "procurement@zammsa.gov.zm",
+    "phoneNumber": "+260-211-369935",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Manage Procurement",
+      "Generate Reports",
+      "View Applications"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-07-19",
+    "lastLoginDate": "2024-07-27T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMMSA-004",
+    "username": "john.kaputa",
+    "fullName": "John Kaputa",
+    "position": "Director - Supply Chain",
+    "department": "Logistics",
+    "email": "supplychain@zammsa.gov.zm",
+    "phoneNumber": "+260-211-708945",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Track Stock Levels",
+      "Approve Supply Plans",
+      "Review Delivery Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-06-16",
+    "lastLoginDate": "2024-03-05T17:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Inventory",
+      "Logistics",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMMSA-001",
+    "agencyOffice": "ZAMMSA House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-ZAMMSA-005",
+    "username": "michael.mvula",
+    "fullName": "Michael Mvula",
+    "position": "Manager - Inventory",
+    "department": "Inventory",
+    "email": "inventory@zammsa.gov.zm",
+    "phoneNumber": "+260-211-134951",
+    "userRole": "Manager",
+    "accessLevel": "Management",
+    "permissions": [
+      "Monitor Inventory",
+      "Generate Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-08-11",
+    "lastLoginDate": "2024-09-04T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Inventory",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMMSA-003",
+    "agencyOffice": "ZAMMSA House, Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZAMMSA-006",
+    "username": "paul.ngoma",
+    "fullName": "Paul Ngoma",
+    "position": "Analyst",
+    "department": "Analytics",
+    "email": "analytics@zammsa.gov.zm",
+    "phoneNumber": "+260-211-288327",
+    "userRole": "Analyst",
+    "accessLevel": "Operational",
+    "permissions": [
+      "Analyze Supply Trends",
+      "Generate Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-09-27",
+    "lastLoginDate": "2024-01-23T07:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Analytics",
+      "Reporting"
+    ],
+    "reportingTo": "USR-ZAMMSA-005",
+    "agencyOffice": "ZAMMSA House, Lusaka",
+    "biometricRegistered": false
+  }
+]

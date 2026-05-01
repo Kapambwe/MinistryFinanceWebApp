@@ -1,0 +1,1391 @@
+[
+  {
+    "id": "WF-2024-001",
+    "workflowType": "Budget Approval",
+    "workflowName": "Annual Budget Approval 2024",
+    "initiatedBy": "Ministry of Finance - Budget Office",
+    "initiatedDate": "2024-01-10T08:00:00Z",
+    "status": "In Progress",
+    "currentStage": "Parliamentary Review",
+    "priority": "Critical",
+    "dueDate": "2024-03-31T23:59:59Z",
+    "description": "Approval workflow for National Budget 2024 across all ministries and parliamentary committees",
+    "totalAmount": 85000000000.0,
+    "participants": [
+      {
+        "role": "Initiator",
+        "entity": "Ministry of Finance",
+        "user": "Budget Director",
+        "completedDate": "2024-01-10T08:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Ministry Review",
+        "entity": "All Line Ministries",
+        "user": "Permanent Secretaries",
+        "completedDate": "2024-01-25T17:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Cabinet Approval",
+        "entity": "Cabinet Office",
+        "user": "Cabinet Secretary",
+        "completedDate": "2024-02-05T14:30:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Parliamentary Review",
+        "entity": "National Assembly",
+        "user": "Budget Committee",
+        "completedDate": null,
+        "status": "In Progress",
+        "expectedDate": "2024-03-15T00:00:00Z"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 15
+      },
+      {
+        "stageName": "Ministry Consultations",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 15
+      },
+      {
+        "stageName": "Cabinet Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 11
+      },
+      {
+        "stageName": "Parliamentary Review",
+        "status": "In Progress",
+        "completionPercentage": 65,
+        "durationDays": 28
+      },
+      {
+        "stageName": "Presidential Assent",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      }
+    ],
+    "attachments": 247,
+    "comments": 1285,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WF-2024-002",
+    "workflowType": "Procurement Approval",
+    "workflowName": "Medical Equipment Procurement",
+    "initiatedBy": "Ministry of Health - Procurement Unit",
+    "initiatedDate": "2024-01-15T09:30:00Z",
+    "status": "In Progress",
+    "currentStage": "Technical Evaluation",
+    "priority": "High",
+    "dueDate": "2024-03-30T23:59:59Z",
+    "description": "Procurement of medical diagnostic equipment for 15 district hospitals valued at ZMW 85M",
+    "totalAmount": 85000000.0,
+    "participants": [
+      {
+        "role": "Procurement Officer",
+        "entity": "Ministry of Health",
+        "user": "Jane Mwape",
+        "completedDate": "2024-01-15T09:30:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Bid Opening",
+        "entity": "Procurement Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-02-01T10:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Technical Evaluation",
+        "entity": "Technical Committee",
+        "user": "Chief Medical Officer",
+        "completedDate": null,
+        "status": "In Progress",
+        "expectedDate": "2024-02-20T00:00:00Z"
+      },
+      {
+        "role": "Financial Evaluation",
+        "entity": "Finance Department",
+        "user": "Chief Accountant",
+        "completedDate": null,
+        "status": "Pending"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Tender Advertisement",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 7
+      },
+      {
+        "stageName": "Bid Submission",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 21
+      },
+      {
+        "stageName": "Bid Opening",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      },
+      {
+        "stageName": "Technical Evaluation",
+        "status": "In Progress",
+        "completionPercentage": 70,
+        "durationDays": 14
+      },
+      {
+        "stageName": "Financial Evaluation",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      }
+    ],
+    "bidsReceived": 8,
+    "attachments": 156,
+    "comments": 42,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WF-2024-003",
+    "workflowType": "Payment Processing",
+    "workflowName": "Contractor Payment - School Construction",
+    "initiatedBy": "Ministry of Education - Finance",
+    "initiatedDate": "2024-01-18T14:00:00Z",
+    "status": "In Progress",
+    "currentStage": "Authorization",
+    "priority": "Medium",
+    "dueDate": "2024-02-05T23:59:59Z",
+    "description": "Progress payment for school construction project in Kasama District",
+    "totalAmount": 6800000.0,
+    "participants": [
+      {
+        "role": "Initiator",
+        "entity": "Project Office",
+        "user": "Project Accountant",
+        "completedDate": "2024-01-18T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Verification",
+        "entity": "Engineering Department",
+        "user": "District Engineer",
+        "completedDate": "2024-01-22T11:30:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Accounting Review",
+        "entity": "Finance Department",
+        "user": "Senior Accountant",
+        "completedDate": "2024-01-25T15:45:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Authorization",
+        "entity": "Management",
+        "user": "Permanent Secretary",
+        "completedDate": null,
+        "status": "In Progress",
+        "expectedDate": "2024-02-01T00:00:00Z"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Work Verification",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 4
+      },
+      {
+        "stageName": "Documentation Review",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 3
+      },
+      {
+        "stageName": "Authorization",
+        "status": "In Progress",
+        "completionPercentage": 50,
+        "durationDays": 5
+      },
+      {
+        "stageName": "Payment Processing",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      }
+    ],
+    "attachments": 23,
+    "comments": 8,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WF-2024-004",
+    "workflowType": "Grant Application",
+    "workflowName": "World Bank Education Grant",
+    "initiatedBy": "Ministry of Education - Planning",
+    "initiatedDate": "2024-01-12T10:00:00Z",
+    "status": "In Progress",
+    "currentStage": "Donor Review",
+    "priority": "High",
+    "dueDate": "2024-04-30T23:59:59Z",
+    "description": "Grant application for rural education infrastructure development program",
+    "totalAmount": 450000000.0,
+    "participants": [
+      {
+        "role": "Application Preparation",
+        "entity": "Ministry of Education",
+        "user": "Director of Planning",
+        "completedDate": "2024-01-12T10:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Ministry Approval",
+        "entity": "Education Management",
+        "user": "Permanent Secretary",
+        "completedDate": "2024-01-20T16:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "MOF Clearance",
+        "entity": "Ministry of Finance",
+        "user": "Aid Coordination Unit",
+        "completedDate": "2024-01-28T14:30:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Donor Review",
+        "entity": "World Bank",
+        "user": "Country Director",
+        "completedDate": null,
+        "status": "In Progress",
+        "expectedDate": "2024-03-15T00:00:00Z"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Needs Assessment",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Proposal Development",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 12
+      },
+      {
+        "stageName": "Internal Approvals",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 16
+      },
+      {
+        "stageName": "Donor Review",
+        "status": "In Progress",
+        "completionPercentage": 45,
+        "durationDays": 32
+      },
+      {
+        "stageName": "Negotiation",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      }
+    ],
+    "attachments": 89,
+    "comments": 134,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WF-2024-005",
+    "workflowType": "Audit Resolution",
+    "workflowName": "2023 Annual Audit Findings Resolution",
+    "initiatedBy": "Office of Auditor General",
+    "initiatedDate": "2023-12-15T08:00:00Z",
+    "status": "In Progress",
+    "currentStage": "Implementation",
+    "priority": "Critical",
+    "dueDate": "2024-06-30T23:59:59Z",
+    "description": "Resolution of audit findings from 2023 annual financial audit across 15 ministries",
+    "totalAmount": 0.0,
+    "participants": [
+      {
+        "role": "Audit Report",
+        "entity": "Office of Auditor General",
+        "user": "Auditor General",
+        "completedDate": "2023-12-15T08:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Management Response",
+        "entity": "Line Ministries",
+        "user": "Permanent Secretaries",
+        "completedDate": "2024-01-15T17:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Implementation",
+        "entity": "Implementing Ministries",
+        "user": "Action Officers",
+        "completedDate": null,
+        "status": "In Progress",
+        "expectedDate": "2024-06-30T00:00:00Z"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Audit Conducted",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 90
+      },
+      {
+        "stageName": "Report Issued",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 15
+      },
+      {
+        "stageName": "Management Response",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 31
+      },
+      {
+        "stageName": "Implementation",
+        "status": "In Progress",
+        "completionPercentage": 42,
+        "durationDays": 48
+      },
+      {
+        "stageName": "Verification",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      }
+    ],
+    "findingsCount": 287,
+    "resolvedCount": 121,
+    "attachments": 425,
+    "comments": 567,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WF-2024-006",
+    "workflowType": "Policy Approval",
+    "workflowName": "National Health Insurance Scheme",
+    "initiatedBy": "Ministry of Health - Policy Unit",
+    "initiatedDate": "2024-01-08T09:00:00Z",
+    "status": "In Progress",
+    "currentStage": "Public Consultation",
+    "priority": "High",
+    "dueDate": "2024-08-31T23:59:59Z",
+    "description": "Development and approval of National Health Insurance Scheme policy framework",
+    "totalAmount": 0.0,
+    "participants": [
+      {
+        "role": "Policy Development",
+        "entity": "Ministry of Health",
+        "user": "Policy Director",
+        "completedDate": "2024-01-08T09:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Stakeholder Consultation",
+        "entity": "Various Stakeholders",
+        "user": "Consultation Team",
+        "completedDate": null,
+        "status": "In Progress",
+        "expectedDate": "2024-03-31T00:00:00Z"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Research & Drafting",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 60
+      },
+      {
+        "stageName": "Public Consultation",
+        "status": "In Progress",
+        "completionPercentage": 55,
+        "durationDays": 45
+      },
+      {
+        "stageName": "Cabinet Review",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      },
+      {
+        "stageName": "Parliamentary Debate",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      }
+    ],
+    "consultationsMeetings": 28,
+    "publicComments": 1547,
+    "attachments": 67,
+    "comments": 289,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WF-2024-007",
+    "workflowType": "Project Approval",
+    "workflowName": "Lusaka Water Supply Expansion",
+    "initiatedBy": "Ministry of Water Development",
+    "initiatedDate": "2024-01-05T08:30:00Z",
+    "status": "In Progress",
+    "currentStage": "Environmental Assessment",
+    "priority": "Critical",
+    "dueDate": "2024-09-30T23:59:59Z",
+    "description": "Approval workflow for ZMW 850M water supply infrastructure project in Lusaka",
+    "totalAmount": 850000000.0,
+    "participants": [
+      {
+        "role": "Project Proposal",
+        "entity": "Ministry of Water",
+        "user": "Project Manager",
+        "completedDate": "2024-01-05T08:30:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Technical Review",
+        "entity": "Engineering Services",
+        "user": "Chief Engineer",
+        "completedDate": "2024-01-20T16:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Environmental Assessment",
+        "entity": "ZEMA",
+        "user": "Environmental Officer",
+        "completedDate": null,
+        "status": "In Progress",
+        "expectedDate": "2024-03-30T00:00:00Z"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Feasibility Study",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 30
+      },
+      {
+        "stageName": "Technical Review",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 15
+      },
+      {
+        "stageName": "Environmental Impact Assessment",
+        "status": "In Progress",
+        "completionPercentage": 60,
+        "durationDays": 42
+      },
+      {
+        "stageName": "Financial Approval",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      },
+      {
+        "stageName": "Procurement",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      }
+    ],
+    "attachments": 134,
+    "comments": 87,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WF-2024-008",
+    "workflowType": "Supplementary Budget",
+    "workflowName": "Drought Response Supplementary Budget",
+    "initiatedBy": "Ministry of Finance",
+    "initiatedDate": "2024-01-22T10:00:00Z",
+    "status": "In Progress",
+    "currentStage": "Ministry Consolidation",
+    "priority": "Critical",
+    "dueDate": "2024-03-15T23:59:59Z",
+    "description": "Supplementary budget allocation for drought response across agriculture, water, and social protection sectors",
+    "totalAmount": 1250000000.0,
+    "participants": [
+      {
+        "role": "Needs Assessment",
+        "entity": "Disaster Management Unit",
+        "user": "Coordinator",
+        "completedDate": "2024-01-22T10:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Budget Preparation",
+        "entity": "Ministry of Finance",
+        "user": "Budget Director",
+        "completedDate": "2024-01-28T17:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Ministry Review",
+        "entity": "Line Ministries",
+        "user": "Permanent Secretaries",
+        "completedDate": null,
+        "status": "In Progress",
+        "expectedDate": "2024-02-10T00:00:00Z"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Needs Assessment",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 6
+      },
+      {
+        "stageName": "Budget Formulation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 6
+      },
+      {
+        "stageName": "Ministry Consolidation",
+        "status": "In Progress",
+        "completionPercentage": 70,
+        "durationDays": 10
+      },
+      {
+        "stageName": "Cabinet Approval",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      },
+      {
+        "stageName": "Parliamentary Approval",
+        "status": "Pending",
+        "completionPercentage": 0,
+        "durationDays": 0
+      }
+    ],
+    "affectedMinistries": 5,
+    "attachments": 78,
+    "comments": 156,
+    "currency": "ZMW"
+  },
+  {
+    "id": "WF-2024-009",
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2024-01-16T11:00:00Z",
+    "status": "Completed",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2024-02-28T23:59:59Z",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 38500000.0,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2024-02-02T15:30:00Z",
+    "currency": "ZMW"
+  },
+  {
+    "id": 10,
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2023-03-11T00:00:00",
+    "status": "Active",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2023-11-08T00:00:00",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 31819705.86,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2023-11-24T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 11,
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2024-11-10T00:00:00",
+    "status": "Cancelled",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2024-08-12T00:00:00",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 38570376.77,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2023-11-03T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 12,
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2024-06-04T00:00:00",
+    "status": "Approved",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2023-09-27T00:00:00",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 38135464.48,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2024-01-30T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 13,
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2023-03-18T00:00:00",
+    "status": "Cancelled",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2024-09-19T00:00:00",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 32167127.41,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2024-02-20T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 14,
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2024-04-12T00:00:00",
+    "status": "In Progress",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2024-06-12T00:00:00",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 48388295.02,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2024-01-09T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 15,
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2024-06-04T00:00:00",
+    "status": "Approved",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2024-11-18T00:00:00",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 10582011.62,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2024-03-19T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 16,
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2023-06-25T00:00:00",
+    "status": "Posted",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2024-12-16T00:00:00",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 40651371.96,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2023-06-19T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 17,
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2023-03-02T00:00:00",
+    "status": "Active",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2023-01-04T00:00:00",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 10639581.35,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2024-11-05T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 18,
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2023-10-25T00:00:00",
+    "status": "Posted",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2023-01-09T00:00:00",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 9790888.66,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2024-01-21T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 19,
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2023-11-21T00:00:00",
+    "status": "Cancelled",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2023-07-05T00:00:00",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 43760348.15,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2024-02-05T00:00:00",
+    "currency": "ZMW"
+  },
+  {
+    "id": 20,
+    "workflowType": "Contract Award",
+    "workflowName": "School Furniture Supply Contract",
+    "initiatedBy": "Ministry of Education - Procurement",
+    "initiatedDate": "2023-07-23T00:00:00",
+    "status": "Pending",
+    "currentStage": "Contract Signed",
+    "priority": "Medium",
+    "dueDate": "2024-03-08T00:00:00",
+    "description": "Contract award for supply of 15,000 student desks to 120 schools",
+    "totalAmount": 29664405.82,
+    "participants": [
+      {
+        "role": "Evaluation",
+        "entity": "Evaluation Committee",
+        "user": "Committee Chair",
+        "completedDate": "2024-01-16T11:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Award Approval",
+        "entity": "Procurement Authority",
+        "user": "Director",
+        "completedDate": "2024-01-25T14:00:00Z",
+        "status": "Completed"
+      },
+      {
+        "role": "Contract Signing",
+        "entity": "Permanent Secretary",
+        "user": "PS Education",
+        "completedDate": "2024-02-02T15:30:00Z",
+        "status": "Completed"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bid Evaluation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Award Approval",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 9
+      },
+      {
+        "stageName": "Contract Preparation",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 8
+      },
+      {
+        "stageName": "Contract Signing",
+        "status": "Completed",
+        "completionPercentage": 100,
+        "durationDays": 1
+      }
+    ],
+    "attachments": 45,
+    "comments": 23,
+    "completedDate": "2023-07-18T00:00:00",
+    "currency": "ZMW"
+  }
+]

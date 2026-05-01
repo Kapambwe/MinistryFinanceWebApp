@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "RuleCode": "COA-001",
+    "RuleName": "Segment format",
+    "Description": "Account codes must follow segment format",
+    "Category": "Structure",
+    "IsCompliant": true,
+    "Owner": "COA Team"
+  },
+  {
+    "Id": 2,
+    "RuleCode": "COA-002",
+    "RuleName": "Template alignment",
+    "Description": "All ministry templates align to national COA",
+    "Category": "Governance",
+    "IsCompliant": true,
+    "Owner": "COA Team"
+  },
+  {
+    "Id": 3,
+    "RuleCode": "COA-003",
+    "RuleName": "Blocked duplicate code",
+    "Description": "Duplicate operational code detected in one legacy account",
+    "Category": "Control",
+    "IsCompliant": false,
+    "Owner": "Finance Operations",
+    "Notes": "Merge or retire duplicate code"
+  }
+]

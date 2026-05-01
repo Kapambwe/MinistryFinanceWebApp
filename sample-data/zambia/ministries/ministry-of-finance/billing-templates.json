@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "TemplateName": "Property Rates - Residential",
+    "TemplateCode": "PROP-RES",
+    "InvoiceType": "Recurring",
+    "RevenueSource": "PropertyRates",
+    "Description": "Quarterly property rates for residential properties",
+    "IsActive": true,
+    "IsDefault": true,
+    "Version": 1,
+    "Frequency": "Quarterly",
+    "PaymentTermDays": 30,
+    "Items": [
+      {
+        "Id": 1,
+        "Description": "Property Rates",
+        "DefaultAmount": 50000.0,
+        "GLAccount": "4100"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "TemplateName": "Market Stall Rental",
+    "TemplateCode": "MKT-RENT",
+    "InvoiceType": "Recurring",
+    "RevenueSource": "MarketFees",
+    "Description": "Monthly market stall rental",
+    "IsActive": true,
+    "IsDefault": false,
+    "Version": 1,
+    "Frequency": "Monthly",
+    "PaymentTermDays": 15,
+    "Items": [
+      {
+        "Id": 2,
+        "Description": "Stall Rental",
+        "DefaultAmount": 35000.0,
+        "GLAccount": "4200"
+      }
+    ]
+  }
+]

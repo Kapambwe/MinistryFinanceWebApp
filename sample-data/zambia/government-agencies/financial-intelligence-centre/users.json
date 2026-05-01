@@ -1,0 +1,167 @@
+[
+  {
+    "userId": "USR-FIC-001",
+    "username": "charity.phiri",
+    "fullName": "Charity Phiri",
+    "position": "Director General",
+    "department": "Executive Office",
+    "email": "dg@fic.gov.zm",
+    "phoneNumber": "+260-211-407142",
+    "userRole": "Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "View Intelligence Reports",
+      "Approve Compliance Actions",
+      "Access Executive Dashboards"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-12-03",
+    "lastLoginDate": "2024-12-15T16:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Intelligence",
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": null,
+    "agencyOffice": "FIC House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-002",
+    "username": "charity.tembo",
+    "fullName": "Charity Tembo",
+    "position": "Deputy Director General",
+    "department": "Operations",
+    "email": "ddg@fic.gov.zm",
+    "phoneNumber": "+260-211-540319",
+    "userRole": "Deputy Director General",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Review Reports",
+      "Monitor Compliance Cases",
+      "Approve Releases"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-03-21",
+    "lastLoginDate": "2024-09-25T11:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Monitoring",
+      "Reporting"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-003",
+    "username": "john.sakala",
+    "fullName": "John Sakala",
+    "position": "Director - Intelligence",
+    "department": "Intelligence",
+    "email": "intelligence@fic.gov.zm",
+    "phoneNumber": "+260-211-692738",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Analyze Cases",
+      "Generate Intelligence Reports",
+      "View Analytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-01-16",
+    "lastLoginDate": "2024-09-08T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Intelligence",
+      "Reporting",
+      "Analytics"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-004",
+    "username": "john.mbewe",
+    "fullName": "John Mbewe",
+    "position": "Director - Compliance",
+    "department": "Compliance",
+    "email": "compliance@fic.gov.zm",
+    "phoneNumber": "+260-211-279358",
+    "userRole": "Director",
+    "accessLevel": "Senior Management",
+    "permissions": [
+      "Review Compliance",
+      "Approve Escalations",
+      "View Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2021-03-26",
+    "lastLoginDate": "2024-06-23T15:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Compliance",
+      "Reporting"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-005",
+    "username": "robert.malama",
+    "fullName": "Robert Malama",
+    "position": "Manager - Analytics",
+    "department": "Analytics",
+    "email": "analytics@fic.gov.zm",
+    "phoneNumber": "+260-211-206560",
+    "userRole": "Manager",
+    "accessLevel": "Management",
+    "permissions": [
+      "View Analytics",
+      "Generate Reports",
+      "Track Trends"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2022-02-26",
+    "lastLoginDate": "2024-05-20T09:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Analytics",
+      "Reporting"
+    ],
+    "reportingTo": "USR-FIC-001",
+    "agencyOffice": "FIC House, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-FIC-006",
+    "username": "emmanuel.musonda",
+    "fullName": "Emmanuel Musonda",
+    "position": "Analyst",
+    "department": "Intelligence",
+    "email": "emmanuel.musonda@fic.gov.zm",
+    "phoneNumber": "+260-211-587243",
+    "userRole": "Analyst",
+    "accessLevel": "Operational",
+    "permissions": [
+      "Analyze Data",
+      "Prepare Reports"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2020-07-01",
+    "lastLoginDate": "2024-11-28T14:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Intelligence",
+      "Monitoring",
+      "Reporting"
+    ],
+    "reportingTo": "USR-FIC-003",
+    "agencyOffice": "FIC House, Lusaka",
+    "biometricRegistered": true
+  }
+]

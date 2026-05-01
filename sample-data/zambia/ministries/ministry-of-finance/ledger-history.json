@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "AggregateType": "JournalEntry",
+    "AggregateId": 1,
+    "EntityCode": "JE-2025-000001",
+    "FiscalYear": "2025",
+    "Period": "01",
+    "Timestamp": "2025-04-01T00:00:00Z",
+    "Action": "Loaded",
+    "PerformedBy": "System",
+    "Details": "Seeded opening balance journal",
+    "TotalDebit": 5000000,
+    "TotalCredit": 5000000,
+    "PreviousHash": null,
+    "CurrentHash": "C3B299D1D12BEF9F9D8157FEF0B8D5D37E5C6D49B6B2E08CE4B4E5D9BB0C5E2B"
+  }
+]

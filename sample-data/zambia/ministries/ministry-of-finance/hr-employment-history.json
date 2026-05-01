@@ -1,0 +1,15 @@
+[
+  {
+    "Id": 1,
+    "EmployeeId": 1,
+    "EmployeeNumber": "EMP-2020-0001",
+    "EmployeeName": "Joseph Mwansa Banda",
+    "Type": "Promotion",
+    "EffectiveDate": "2025-01-01T00:00:00Z",
+    "PreviousValue": "Director Budget",
+    "NewValue": "Permanent Secretary",
+    "Reason": "Appointment to head office",
+    "ApprovedBy": "Public Service Commission",
+    "ApprovedDate": "2025-01-02T00:00:00Z"
+  }
+]

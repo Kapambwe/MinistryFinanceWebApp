@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "ApplicationNumber": "LV-202604-001",
+    "EmployeeId": 2,
+    "EmployeeNumber": "EMP-2018-0042",
+    "EmployeeName": "Grace Mutale Mwape",
+    "PositionTitle": "Director Budget",
+    "OrganizationUnit": "Budget Department",
+    "LeaveType": 0,
+    "StartDate": "2026-05-04T00:00:00",
+    "EndDate": "2026-05-08T00:00:00",
+    "NumberOfDays": 5,
+    "Reason": "Annual leave request",
+    "RelieverEmployeeId": null,
+    "RelieverName": "Joseph Mwansa Banda",
+    "ContactDuringLeave": "+260 97 2345678",
+    "Status": 3,
+    "ApplicationDate": "2026-04-18T00:00:00",
+    "ApprovedBy": "Permanent Secretary",
+    "ApprovedDate": "2026-04-19T00:00:00",
+    "ApprovalRemarks": "Approved for annual leave",
+    "RejectionReason": null,
+    "BalanceBeforeLeave": 30,
+    "BalanceAfterLeave": 25,
+    "ActualStartDate": null,
+    "ActualEndDate": null,
+    "ActualDaysTaken": null,
+    "CancellationReason": null,
+    "SupportingDocumentPath": null
+  }
+]

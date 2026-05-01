@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "BankAccountCode": "1010",
+    "BankAccountName": "Cash at Bank - Zanaco",
+    "BankName": "Zanaco Bank",
+    "AccountNumber": "0123456789",
+    "ReconciliationDate": "2025-04-05T00:00:00Z",
+    "Period": "2025-03",
+    "GLBalance": 4650000,
+    "BankStatementBalance": 4680000,
+    "OutstandingDeposits": 120000,
+    "OutstandingChecks": 150000,
+    "ReconciledBalance": 4650000,
+    "Variance": 0,
+    "Status": "Completed",
+    "ReconciledBy": "Mary Phiri",
+    "ReconciledDate": "2025-04-05T00:00:00Z"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "CollectorCode": "RC-001",
+    "FullName": "John Mwanza",
+    "PhoneNumber": "+260977123456",
+    "Email": "j.mwanza@mof.gov.zm",
+    "Station": "City Centre Collection Point",
+    "Region": "Lusaka",
+    "Type": "FullTime",
+    "IsActive": true,
+    "AssignedSources": ["PropertyRates", "MarketFees"],
+    "DailyTarget": 500000.0,
+    "MonthlyTarget": 15000000.0,
+    "AppointmentDate": "2023-01-15T00:00:00Z",
+    "SupervisorName": "Mary Banda"
+  },
+  {
+    "Id": 2,
+    "CollectorCode": "RC-002",
+    "FullName": "Grace Phiri",
+    "PhoneNumber": "+260966234567",
+    "Email": "g.phiri@mof.gov.zm",
+    "Station": "Market Collection Point",
+    "Region": "Lusaka",
+    "Type": "FullTime",
+    "IsActive": true,
+    "AssignedSources": ["MarketFees", "LicensingFees"],
+    "DailyTarget": 300000.0,
+    "MonthlyTarget": 9000000.0,
+    "AppointmentDate": "2023-03-01T00:00:00Z",
+    "SupervisorName": "Mary Banda"
+  }
+]

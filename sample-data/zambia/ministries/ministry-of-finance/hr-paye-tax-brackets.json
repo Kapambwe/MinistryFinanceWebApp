@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "TaxYear": "2026",
+    "EffectiveDate": "2026-01-01T00:00:00",
+    "ExpiryDate": null,
+    "MinIncome": 0,
+    "MaxIncome": 5000,
+    "TaxRate": 0,
+    "PersonalRelief": 500,
+    "IsActive": true
+  },
+  {
+    "Id": 2,
+    "TaxYear": "2026",
+    "EffectiveDate": "2026-01-01T00:00:00",
+    "ExpiryDate": null,
+    "MinIncome": 5000,
+    "MaxIncome": 10000,
+    "TaxRate": 0.2,
+    "PersonalRelief": 500,
+    "IsActive": true
+  }
+]
