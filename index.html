@@ -5,15 +5,23 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Public Financial Management System</title>
-    <base href="/" id="dynamic-base">
     <script>
         // Dynamically set base path for GitHub Pages deployment
         (function () {
-            var base = document.getElementById('dynamic-base');
-            var path = window.location.pathname.includes('/MinistryFinanceWebApp')
-                ? '/MinistryFinanceWebApp/'
-                : '/';
-            base.setAttribute('href', path);
+            var path = window.location.pathname.toLowerCase();
+            var isGitHubPages = path.includes('/ministryfinancewebapp');
+            var baseHref = isGitHubPages ? '/MinistryFinanceWebApp/' : '/';
+            
+            // Create or update base tag
+            var base = document.getElementById('dynamic-base') || document.createElement('base');
+            base.id = 'dynamic-base';
+            base.setAttribute('href', baseHref);
+            
+            if (!base.parentNode) {
+                document.head.insertBefore(base, document.head.firstChild);
+            }
+            
+            window.appBasePath = baseHref; // Store for other scripts
         })();
     </script>
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
@@ -46,7 +54,9 @@
             const params = new URLSearchParams(window.location.search);
             const path = params.get('path');
             if (path) {
-                window.history.replaceState(null, '', '/MinistryFinanceWebApp' + decodeURIComponent(path));
+                const base = window.appBasePath || '/';
+                const cleanBase = base.endsWith('/') ? base.slice(0, -1) : base;
+                window.history.replaceState(null, '', cleanBase + decodeURIComponent(path));
             }
         })();
 
