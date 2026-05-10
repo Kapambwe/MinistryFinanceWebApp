@@ -1,0 +1,74 @@
+[
+  {
+    "userId": "USR-JUD-001",
+    "username": "chief.justice",
+    "fullName": "Hon. Dr. Mumba Malila",
+    "position": "Chief Justice of the Republic of Zambia",
+    "department": "Office of the Chief Justice",
+    "email": "cj@judiciary.gov.zm",
+    "phoneNumber": "+260-211-252811",
+    "userRole": "Chief Justice",
+    "accessLevel": "Executive",
+    "accountStatus": "Active",
+    "createdDate": "2021-11-17",
+    "lastLoginDate": "2024-06-23T08:15:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Judicial Oversight",
+      "Budget Management",
+      "Strategic Planning",
+      "Workflow Approvals"
+    ],
+    "reportingTo": null,
+    "ministryOffice": "Supreme Court Buildings, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-JUD-002",
+    "username": "judicial.secretary",
+    "fullName": "Mr. Amos Lupiya",
+    "position": "Judicial Secretary",
+    "department": "Judicial Service Commission",
+    "email": "secretary@judiciary.gov.zm",
+    "phoneNumber": "+260-211-252815",
+    "userRole": "JudicialSecretary",
+    "accessLevel": "Senior Management",
+    "accountStatus": "Active",
+    "createdDate": "2022-01-10",
+    "lastLoginDate": "2024-06-23T07:45:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Execution",
+      "Financial Operations",
+      "HR Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-JUD-001",
+    "ministryOffice": "High Court Buildings, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-JUD-003",
+    "username": "director.finance.judiciary",
+    "fullName": "Mr. Mwape Sichone",
+    "position": "Director of Finance",
+    "department": "Finance Department",
+    "email": "finance@judiciary.gov.zm",
+    "phoneNumber": "+260-211-252820",
+    "userRole": "Director",
+    "accessLevel": "Management",
+    "accountStatus": "Active",
+    "createdDate": "2020-05-20",
+    "lastLoginDate": "2024-06-23T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Revenue Collections",
+      "Accounting",
+      "Payment Processing",
+      "Reporting"
+    ],
+    "reportingTo": "USR-JUD-002",
+    "ministryOffice": "High Court Buildings, Lusaka",
+    "biometricRegistered": true
+  }
+]

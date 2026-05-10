@@ -1,0 +1,98 @@
+[
+  {
+    "userId": "USR-PARL-001",
+    "username": "hon.speaker",
+    "fullName": "Hon. Nelly Mutti",
+    "position": "Speaker of the National Assembly",
+    "department": "Office of the Speaker",
+    "email": "speaker@parliament.gov.zm",
+    "phoneNumber": "+260-211-252811",
+    "userRole": "Speaker",
+    "accessLevel": "Executive",
+    "accountStatus": "Active",
+    "createdDate": "2021-09-03",
+    "lastLoginDate": "2024-06-23T08:15:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Oversight",
+      "Parliamentary Operations",
+      "Accounting",
+      "Workflow Approvals"
+    ],
+    "reportingTo": null,
+    "ministryOffice": "Parliament Buildings, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-PARL-002",
+    "username": "clerk.parliament",
+    "fullName": "Ms. Cecilia Mbewe",
+    "position": "Clerk of Parliament",
+    "department": "Office of the Clerk",
+    "email": "clerk@parliament.gov.zm",
+    "phoneNumber": "+260-211-252815",
+    "userRole": "ClerkOfParliament",
+    "accessLevel": "Senior Management",
+    "accountStatus": "Active",
+    "createdDate": "2018-05-15",
+    "lastLoginDate": "2024-06-23T07:45:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Financial Operations",
+      "HR Management",
+      "Procurement"
+    ],
+    "reportingTo": "USR-PARL-001",
+    "ministryOffice": "Parliament Buildings, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-PARL-003",
+    "username": "pac.chairman",
+    "fullName": "Hon. Howard Kunda",
+    "position": "Chairman - Public Accounts Committee",
+    "department": "Public Accounts Committee",
+    "email": "pac.chairman@parliament.gov.zm",
+    "phoneNumber": "+260-211-252820",
+    "userRole": "PACChairman",
+    "accessLevel": "Executive",
+    "accountStatus": "Active",
+    "createdDate": "2021-09-10",
+    "lastLoginDate": "2024-06-23T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Audit Scrutiny",
+      "Financial Monitoring",
+      "Budget Analysis",
+      "Reporting"
+    ],
+    "reportingTo": "USR-PARL-001",
+    "ministryOffice": "Parliament Buildings, Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-PARL-004",
+    "username": "pbo.director",
+    "fullName": "Dr. Alex Mwaba",
+    "position": "Director - Parliamentary Budget Office",
+    "department": "Parliamentary Budget Office",
+    "email": "director@pbo.parliament.gov.zm",
+    "phoneNumber": "+260-211-252825",
+    "userRole": "PBODirector",
+    "accessLevel": "Management",
+    "accountStatus": "Active",
+    "createdDate": "2020-02-01",
+    "lastLoginDate": "2024-06-22T16:30:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Analysis",
+      "Economic Forecasting",
+      "Policy Scrutiny",
+      "Reporting"
+    ],
+    "reportingTo": "USR-PARL-002",
+    "ministryOffice": "Parliament Buildings, Lusaka",
+    "biometricRegistered": true
+  }
+]

@@ -4,12 +4,24 @@ This document provides a quick reference to all sample data files organized by g
 
 ## Summary Statistics
 
-- **Total Government Entities**: 28 (15 ministries + 13 institutions)
+- **Total Government Entities**: 30 (15 ministries + 13 institutions + 2 constitutional bodies)
 - **Total Mock Services**: 161 services
 - **Sample Data Files Created**: 13+ files
-- **Total Folders**: 28 entity folders
+- **Total Folders**: 30 entity folders
 
 ## Files by Entity
+
+### Parliament
+- `institution-profile.json` - Entity profile
+- `users.json` - Parliamentary users (Speaker, Clerk, etc.)
+- `role-permissions.json` - Roles and permissions
+- `budget-utilization.json` - Budget execution data
+
+### Judiciary
+- `institution-profile.json` - Entity profile
+- `users.json` - Judicial users (Chief Justice, Judicial Secretary, etc.)
+- `role-permissions.json` - Roles and permissions
+- `budget-utilization.json` - Budget execution data
 
 ### Ministry of Finance
 - `budget-warrants.json` - Budget warrant records

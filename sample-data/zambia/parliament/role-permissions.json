@@ -1,0 +1,107 @@
+{
+  "CountryName": "Zambia",
+  "CountrySlug": "zambia",
+  "OrganizationType": "Parliament",
+  "TenantType": "PARLIAMENT",
+  "InstitutionTypePermissions": [
+    "PARLIAMENT.AccessAreas.Integration.View",
+    "PARLIAMENT.AccessAreas.Monitoring.View",
+    "PARLIAMENT.AccessAreas.Utilities.View",
+    "PARLIAMENT.AccessAreas.Diagnostics.View",
+    "PARLIAMENT.Dashboard.View"
+  ],
+  "EffectiveInstitutionPermissions": [
+    "PARLIAMENT.AccessAreas.Integration.View",
+    "PARLIAMENT.AccessAreas.Monitoring.View",
+    "PARLIAMENT.AccessAreas.Utilities.View",
+    "PARLIAMENT.AccessAreas.Diagnostics.View",
+    "PARLIAMENT.Dashboard.View",
+    "PARLIAMENT.Budgeting.ViewBudgetPreparation",
+    "PARLIAMENT.Budgeting.PrepareBudget",
+    "PARLIAMENT.Budgeting.SubmitBudget",
+    "PARLIAMENT.Budgeting.ApproveBudget",
+    "PARLIAMENT.Budgeting.ViewBudgetExecution",
+    "PARLIAMENT.Budgeting.ManageBudgetExecution",
+    "PARLIAMENT.Budgeting.ViewNationalBudget",
+    "PARLIAMENT.Payments.View",
+    "PARLIAMENT.Payments.Approve",
+    "PARLIAMENT.FundDisbursement.RequestFunds",
+    "PARLIAMENT.ChartOfAccounts.View",
+    "PARLIAMENT.GeneralLedger.View",
+    "PARLIAMENT.Accounting.ViewOperations",
+    "PARLIAMENT.Accounting.ViewFinancialStatements",
+    "PARLIAMENT.Parliamentary.View",
+    "PARLIAMENT.Parliamentary.ManageBudgetDocuments",
+    "PARLIAMENT.Parliamentary.ViewBudgetAnalysis",
+    "PARLIAMENT.Parliamentary.ViewAccountsCommittee",
+    "PARLIAMENT.Audit.ViewAuditTrail",
+    "PARLIAMENT.Reporting.ViewReports"
+  ],
+  "RolePermissions": [
+    {
+      "RoleId": "ROL-SPEAKER",
+      "RoleName": "Speaker",
+      "TemplateRole": "Speaker",
+      "Permissions": [
+        "PARLIAMENT.Dashboard.View",
+        "PARLIAMENT.Budgeting.ViewBudgetPreparation",
+        "PARLIAMENT.Budgeting.ApproveBudget",
+        "PARLIAMENT.Budgeting.ViewBudgetExecution",
+        "PARLIAMENT.Budgeting.ViewNationalBudget",
+        "PARLIAMENT.Payments.View",
+        "PARLIAMENT.Payments.Approve",
+        "PARLIAMENT.Parliamentary.View",
+        "PARLIAMENT.Parliamentary.ViewBudgetAnalysis",
+        "PARLIAMENT.Parliamentary.ViewAccountsCommittee",
+        "PARLIAMENT.Audit.ViewAuditTrail"
+      ]
+    },
+    {
+      "RoleId": "ROL-CLERK",
+      "RoleName": "Clerk of Parliament",
+      "TemplateRole": "ClerkOfParliament",
+      "Permissions": [
+        "PARLIAMENT.Dashboard.View",
+        "PARLIAMENT.Budgeting.ViewBudgetPreparation",
+        "PARLIAMENT.Budgeting.PrepareBudget",
+        "PARLIAMENT.Budgeting.SubmitBudget",
+        "PARLIAMENT.Budgeting.ViewBudgetExecution",
+        "PARLIAMENT.Budgeting.ManageBudgetExecution",
+        "PARLIAMENT.Payments.View",
+        "PARLIAMENT.Payments.Approve",
+        "PARLIAMENT.FundDisbursement.RequestFunds",
+        "PARLIAMENT.Accounting.ViewOperations",
+        "PARLIAMENT.Accounting.ViewFinancialStatements",
+        "PARLIAMENT.Parliamentary.View",
+        "PARLIAMENT.Parliamentary.ManageBudgetDocuments"
+      ]
+    },
+    {
+      "RoleId": "ROL-PAC",
+      "RoleName": "PAC Chairman",
+      "TemplateRole": "PACChairman",
+      "Permissions": [
+        "PARLIAMENT.Dashboard.View",
+        "PARLIAMENT.Budgeting.ViewNationalBudget",
+        "PARLIAMENT.Parliamentary.View",
+        "PARLIAMENT.Parliamentary.ViewBudgetAnalysis",
+        "PARLIAMENT.Parliamentary.ViewAccountsCommittee",
+        "PARLIAMENT.Audit.ViewAuditTrail",
+        "PARLIAMENT.Reporting.ViewReports"
+      ]
+    },
+    {
+      "RoleId": "ROL-PBO",
+      "RoleName": "PBO Director",
+      "TemplateRole": "PBODirector",
+      "Permissions": [
+        "PARLIAMENT.Dashboard.View",
+        "PARLIAMENT.Budgeting.ViewNationalBudget",
+        "PARLIAMENT.Parliamentary.View",
+        "PARLIAMENT.Parliamentary.ViewBudgetAnalysis",
+        "PARLIAMENT.Parliamentary.ManageBudgetDocuments",
+        "PARLIAMENT.Reporting.ViewReports"
+      ]
+    }
+  ]
+}

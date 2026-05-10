@@ -1,0 +1,87 @@
+{
+  "CountryName": "Zambia",
+  "CountrySlug": "zambia",
+  "OrganizationType": "Judiciary",
+  "TenantType": "JUDICIARY",
+  "InstitutionTypePermissions": [
+    "JUDICIARY.AccessAreas.Integration.View",
+    "JUDICIARY.AccessAreas.Monitoring.View",
+    "JUDICIARY.AccessAreas.Utilities.View",
+    "JUDICIARY.AccessAreas.Diagnostics.View",
+    "JUDICIARY.Dashboard.View"
+  ],
+  "EffectiveInstitutionPermissions": [
+    "JUDICIARY.AccessAreas.Integration.View",
+    "JUDICIARY.AccessAreas.Monitoring.View",
+    "JUDICIARY.AccessAreas.Utilities.View",
+    "JUDICIARY.AccessAreas.Diagnostics.View",
+    "JUDICIARY.Dashboard.View",
+    "JUDICIARY.Budgeting.ViewBudgetPreparation",
+    "JUDICIARY.Budgeting.PrepareBudget",
+    "JUDICIARY.Budgeting.SubmitBudget",
+    "JUDICIARY.Budgeting.ApproveBudget",
+    "JUDICIARY.Budgeting.ViewBudgetExecution",
+    "JUDICIARY.Budgeting.ManageBudgetExecution",
+    "JUDICIARY.Payments.View",
+    "JUDICIARY.Payments.Approve",
+    "JUDICIARY.FundDisbursement.RequestFunds",
+    "JUDICIARY.ChartOfAccounts.View",
+    "JUDICIARY.GeneralLedger.View",
+    "JUDICIARY.Accounting.ViewOperations",
+    "JUDICIARY.Accounting.ViewFinancialStatements",
+    "JUDICIARY.Revenue.ViewCollectionsWorkspace",
+    "JUDICIARY.Revenue.ManageCollectionsWorkspace",
+    "JUDICIARY.Reporting.ViewReports",
+    "JUDICIARY.Analytics.ViewFinancialAnalytics"
+  ],
+  "RolePermissions": [
+    {
+      "RoleId": "ROL-CJ",
+      "RoleName": "Chief Justice",
+      "TemplateRole": "ChiefJustice",
+      "Permissions": [
+        "JUDICIARY.Dashboard.View",
+        "JUDICIARY.Budgeting.ViewBudgetPreparation",
+        "JUDICIARY.Budgeting.ApproveBudget",
+        "JUDICIARY.Budgeting.ViewBudgetExecution",
+        "JUDICIARY.Payments.View",
+        "JUDICIARY.Payments.Approve",
+        "JUDICIARY.Accounting.ViewFinancialStatements",
+        "JUDICIARY.Analytics.ViewFinancialAnalytics"
+      ]
+    },
+    {
+      "RoleId": "ROL-JS",
+      "RoleName": "Judicial Secretary",
+      "TemplateRole": "JudicialSecretary",
+      "Permissions": [
+        "JUDICIARY.Dashboard.View",
+        "JUDICIARY.Budgeting.ViewBudgetPreparation",
+        "JUDICIARY.Budgeting.PrepareBudget",
+        "JUDICIARY.Budgeting.SubmitBudget",
+        "JUDICIARY.Budgeting.ViewBudgetExecution",
+        "JUDICIARY.Budgeting.ManageBudgetExecution",
+        "JUDICIARY.Payments.View",
+        "JUDICIARY.Payments.Approve",
+        "JUDICIARY.FundDisbursement.RequestFunds",
+        "JUDICIARY.Accounting.ViewOperations",
+        "JUDICIARY.Accounting.ViewFinancialStatements"
+      ]
+    },
+    {
+      "RoleId": "ROL-DF",
+      "RoleName": "Director of Finance",
+      "TemplateRole": "DirectorFinance",
+      "Permissions": [
+        "JUDICIARY.Dashboard.View",
+        "JUDICIARY.Budgeting.ViewBudgetExecution",
+        "JUDICIARY.Payments.View",
+        "JUDICIARY.Accounting.ViewOperations",
+        "JUDICIARY.GeneralLedger.View",
+        "JUDICIARY.Revenue.ViewCollectionsWorkspace",
+        "JUDICIARY.Revenue.ManageCollectionsWorkspace",
+        "JUDICIARY.Reporting.ViewReports"
+      ]
+    }
+  ]
+}
