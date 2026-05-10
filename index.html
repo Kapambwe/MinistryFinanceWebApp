@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Public Financial Management System</title>
- <base href="/" />
+ <base href="/MinistryFinanceWebApp/" />
     <link href="_framework/dotnet.gpfbo7rv5y.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-RCgH9aMztmVlWDkrEoj9qcvD4RdCukQkMsI87cilu80=" />
 
         <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
@@ -47,7 +47,7 @@
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="." class="reload">Reload</a>
-        <span class="dismiss">🗙</span>
+        <span class="dismiss">ðŸ—™</span>
     </div>
     <script src="_framework/blazor.webassembly.66stpp682q.js"></script>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
@@ -73,38 +73,38 @@
                 var totalJsSize = jsFiles.reduce(function(s, f) { return s + (f.size || 0); }, 0);
                 var totalSize = totalDllSize + totalJsSize;
 
-                console.log('%c📊 MinistryFinanceWebApp Performance Metrics', 'color: #4CAF50; font-size: 16px; font-weight: bold;');
-                console.log('%c━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━', 'color: #4CAF50;');
-                console.log('🔹 DLLs loaded:', dllFiles.length);
-                console.log('🔹 Total DLL size:', (totalDllSize / 1024 / 1024).toFixed(2), 'MB');
-                console.log('🔹 Total JS size:', (totalJsSize / 1024 / 1024).toFixed(2), 'MB');
-                console.log('🔹 Total download:', (totalSize / 1024 / 1024).toFixed(2), 'MB');
-                console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+                console.log('%cðŸ“Š MinistryFinanceWebApp Performance Metrics', 'color: #4CAF50; font-size: 16px; font-weight: bold;');
+                console.log('%câ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”', 'color: #4CAF50;');
+                console.log('ðŸ”¹ DLLs loaded:', dllFiles.length);
+                console.log('ðŸ”¹ Total DLL size:', (totalDllSize / 1024 / 1024).toFixed(2), 'MB');
+                console.log('ðŸ”¹ Total JS size:', (totalJsSize / 1024 / 1024).toFixed(2), 'MB');
+                console.log('ðŸ”¹ Total download:', (totalSize / 1024 / 1024).toFixed(2), 'MB');
+                console.log('â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”');
 
-                console.log('⏱️ Page Load Time:', (navTiming.loadEventEnd - navTiming.fetchStart).toFixed(0), 'ms');
-                console.log('⏱️ DOM Content Loaded:', (navTiming.domContentLoadedEventEnd - navTiming.fetchStart).toFixed(0), 'ms');
-                console.log('⏱️ Time to Interactive:', (navTiming.domInteractive - navTiming.fetchStart).toFixed(0), 'ms');
+                console.log('â±ï¸ Page Load Time:', (navTiming.loadEventEnd - navTiming.fetchStart).toFixed(0), 'ms');
+                console.log('â±ï¸ DOM Content Loaded:', (navTiming.domContentLoadedEventEnd - navTiming.fetchStart).toFixed(0), 'ms');
+                console.log('â±ï¸ Time to Interactive:', (navTiming.domInteractive - navTiming.fetchStart).toFixed(0), 'ms');
 
-                console.log('%c🎯 Phase 3: Real Lazy Loading ACTIVE!', 'color: #FF5722; font-weight: bold; font-size: 14px;');
-                console.log('%c   ✓ Workflows assembly configured for lazy loading', 'color: #FF5722;');
-                console.log('%c   ✓ Assembly loads on first access', 'color: #FF5722;');
-                console.log('%c   ✓ Reduced initial bundle size', 'color: #FF5722;');
-                console.log('%c   ✓ Production-ready lazy loading', 'color: #FF5722;');
-                console.log('%c   ℹ️  Navigate to various pages to see lazy loading in action', 'color: #FF5722;');
+                console.log('%cðŸŽ¯ Phase 3: Real Lazy Loading ACTIVE!', 'color: #FF5722; font-weight: bold; font-size: 14px;');
+                console.log('%c   âœ“ Workflows assembly configured for lazy loading', 'color: #FF5722;');
+                console.log('%c   âœ“ Assembly loads on first access', 'color: #FF5722;');
+                console.log('%c   âœ“ Reduced initial bundle size', 'color: #FF5722;');
+                console.log('%c   âœ“ Production-ready lazy loading', 'color: #FF5722;');
+                console.log('%c   â„¹ï¸  Navigate to various pages to see lazy loading in action', 'color: #FF5722;');
             }, 100);
         });
 
         // Lazy Load Tracking Functions
         window.trackLazyLoadStart = function(featureName) {
             window.lazyLoadStart = performance.now();
-            console.log('%c⏳ Loading: ' + featureName + '...', 'color: #FF9800; font-weight: bold;');
+            console.log('%câ³ Loading: ' + featureName + '...', 'color: #FF9800; font-weight: bold;');
         };
 
         window.trackLazyLoadEnd = function(featureName) {
             if (window.lazyLoadStart) {
                 var loadTime = performance.now() - window.lazyLoadStart;
                 window.lastFeatureLoadTime = loadTime;
-                console.log('%c✅ Loaded: ' + featureName + ' in ' + loadTime.toFixed(0) + 'ms', 'color: #4CAF50; font-weight: bold;');
+                console.log('%câœ… Loaded: ' + featureName + ' in ' + loadTime.toFixed(0) + 'ms', 'color: #4CAF50; font-weight: bold;');
             }
         };
 
@@ -124,3 +124,4 @@
 </body>
 
 </html>
+
