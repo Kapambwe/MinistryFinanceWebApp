@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Public Financial Management System</title>
  <base href="/MinistryFinanceWebApp/" />
-    <link href="_framework/dotnet.ipfqvqkx8s.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-+oaiVJYXecrwOaPnMBQPEz6d8hH/E5zzAAwFthUpaws=" />
+    <link href="_framework/dotnet.0jf7lbq74l.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-XOu3798xFigtX8oWjm9jo3dJFnFh9UjaOexgHyBoerA=" />
 
         <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />
@@ -14,21 +14,22 @@
     <link rel="icon" type="image/png" href="favicon.png" />
     <link href="CompanyApp.Government.MinistryFinanceWebApp.styles.css" rel="stylesheet" />
     <link href="_content/Radzen.Blazor/css/material-base.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script type="importmap">{
   "imports": {
-    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.66stpp682q.js",
-    "./_framework/dotnet.js": "./_framework/dotnet.ipfqvqkx8s.js",
-    "./_framework/dotnet.native.js": "./_framework/dotnet.native.bi1rwl2u5q.js",
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.958z1vx7fr.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.0jf7lbq74l.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.iizqdaooi1.js",
     "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.peu2mfb29t.js"
   },
   "scopes": {},
   "integrity": {
-    "./_framework/blazor.webassembly.66stpp682q.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
-    "./_framework/blazor.webassembly.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
-    "./_framework/dotnet.ipfqvqkx8s.js": "sha256-+oaiVJYXecrwOaPnMBQPEz6d8hH/E5zzAAwFthUpaws=",
-    "./_framework/dotnet.js": "sha256-+oaiVJYXecrwOaPnMBQPEz6d8hH/E5zzAAwFthUpaws=",
-    "./_framework/dotnet.native.bi1rwl2u5q.js": "sha256-nYsC+XVP7VzrhkDK97o+r1iTb3/1EDrUhYIZohTZ2kc=",
-    "./_framework/dotnet.native.js": "sha256-nYsC+XVP7VzrhkDK97o+r1iTb3/1EDrUhYIZohTZ2kc=",
+    "./_framework/blazor.webassembly.958z1vx7fr.js": "sha256-A59Tr9HqEhHMu8kU7kruLI9ayw5MRS6Lvc6z7jCbghk=",
+    "./_framework/blazor.webassembly.js": "sha256-A59Tr9HqEhHMu8kU7kruLI9ayw5MRS6Lvc6z7jCbghk=",
+    "./_framework/dotnet.0jf7lbq74l.js": "sha256-XOu3798xFigtX8oWjm9jo3dJFnFh9UjaOexgHyBoerA=",
+    "./_framework/dotnet.js": "sha256-XOu3798xFigtX8oWjm9jo3dJFnFh9UjaOexgHyBoerA=",
+    "./_framework/dotnet.native.iizqdaooi1.js": "sha256-trRPYs1LiZHo8Tdyibj7A6K+GtYuAFUS/OVVdYmyR5s=",
+    "./_framework/dotnet.native.js": "sha256-trRPYs1LiZHo8Tdyibj7A6K+GtYuAFUS/OVVdYmyR5s=",
     "./_framework/dotnet.runtime.js": "sha256-cajUr4vA/MpLPWj3omULUOwEQw3i8CE2n8AmDheqWBM=",
     "./_framework/dotnet.runtime.peu2mfb29t.js": "sha256-cajUr4vA/MpLPWj3omULUOwEQw3i8CE2n8AmDheqWBM="
   }
@@ -49,8 +50,11 @@
         <a href="." class="reload">Reload</a>
         <span class="dismiss">ðŸ—™</span>
     </div>
-    <script src="_framework/blazor.webassembly.66stpp682q.js"></script>
+    <script src="_framework/blazor.webassembly.958z1vx7fr.js"></script>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/natural-capital-map.js"></script>
+    <script src="js/portfolio-gantt.js"></script>
     <script>
         // If redirected from 404.html, restore path
         (function () {

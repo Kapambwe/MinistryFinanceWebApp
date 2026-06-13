@@ -1,0 +1,31 @@
+{
+  "NationalAverageConcentration": 450.5,
+  "Trend": "Increasing",
+  "TotalSequestrationCapacity": 1250000.0,
+  "Hotspots": [
+    {
+      "Area": "Copperbelt",
+      "Concentration": 550.2,
+      "Status": "Critical",
+      "PressureSource": "Mining"
+    },
+    {
+      "Area": "Lusaka",
+      "Concentration": 480.1,
+      "Status": "Warning",
+      "PressureSource": "Urbanization"
+    },
+    {
+      "Area": "North-Western",
+      "Concentration": 340.5,
+      "Status": "Stable",
+      "PressureSource": "Low-impact Agriculture"
+    },
+    {
+      "Area": "Southern",
+      "Concentration": 395.0,
+      "Status": "Stable",
+      "PressureSource": "Agriculture"
+    }
+  ]
+}

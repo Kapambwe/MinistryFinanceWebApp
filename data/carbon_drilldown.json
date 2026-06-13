@@ -1,0 +1,62 @@
+[
+  {
+    "AreaId": "copperbelt",
+    "AreaName": "Copperbelt Province",
+    "HistoricalConcentration": 420.5,
+    "CurrentConcentration": 550.2,
+    "ProjectedConcentration": 620.0,
+    "MitigationFactors": [
+      "Reforestation program in industrial zones",
+      "Transition to solar-powered mining operations",
+      "Stricter particulate emission standards"
+    ],
+    "SequestrationRate": 12.5,
+    "EmissionSources": ["Mining Operations", "Industrial Processing", "Vehicle Traffic"],
+    "HealthRiskIndex": 85
+  },
+  {
+    "AreaId": "lusaka",
+    "AreaName": "Lusaka Province",
+    "HistoricalConcentration": 390.2,
+    "CurrentConcentration": 480.1,
+    "ProjectedConcentration": 530.0,
+    "MitigationFactors": [
+      "Urban greenbelt development",
+      "Public transport electrification initiative",
+      "Waste-to-energy projects"
+    ],
+    "SequestrationRate": 8.2,
+    "EmissionSources": ["Transportation", "Energy Generation", "Residential Heating"],
+    "HealthRiskIndex": 72
+  },
+  {
+    "AreaId": "northwestern",
+    "AreaName": "North-Western Province",
+    "HistoricalConcentration": 310.0,
+    "CurrentConcentration": 340.5,
+    "ProjectedConcentration": 360.0,
+    "MitigationFactors": [
+      "Community forest management",
+      "Sustainable agriculture practices",
+      "Protection of Miombo woodlands"
+    ],
+    "SequestrationRate": 25.4,
+    "EmissionSources": ["Small-scale Agriculture", "Charcoal production"],
+    "HealthRiskIndex": 35
+  },
+  {
+    "AreaId": "southern",
+    "AreaName": "Southern Province",
+    "HistoricalConcentration": 350.8,
+    "CurrentConcentration": 395.0,
+    "ProjectedConcentration": 420.0,
+    "MitigationFactors": [
+      "Conservation farming initiatives",
+      "Solar-powered irrigation",
+      "Restoration of degraded savanna"
+    ],
+    "SequestrationRate": 15.8,
+    "EmissionSources": ["Agriculture", "Livestock farming"],
+    "HealthRiskIndex": 45
+  }
+]

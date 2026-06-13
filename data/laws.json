@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "LawCode": "PFM-2018",
+    "Name": "Public Finance Management Act, 2018",
+    "Description": "The master act for public finance management.",
+    "EffectiveDate": "2018-01-01T00:00:00",
+    "IsActive": true,
+    "Sections": [
+      {
+        "Id": 1,
+        "LawDefinitionId": 1,
+        "SectionNumber": "s.13",
+        "Title": "Accounting Officer Duties",
+        "Content": "Responsibilities of the accounting officer.",
+        "Rules": []
+      }
+    ]
+  }
+]

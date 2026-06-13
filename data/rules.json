@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "LawSectionId": 1,
+    "RuleName": "High Amount Approval",
+    "ConditionJson": "{\"amount\": {\"gt\": 10000}}",
+    "Action": "RequiresApproval"
+  }
+]
