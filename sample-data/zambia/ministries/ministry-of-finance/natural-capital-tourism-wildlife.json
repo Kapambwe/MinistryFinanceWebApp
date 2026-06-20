@@ -1,0 +1,18 @@
+{
+  "tourismRevenue": 98500000,
+  "visitors": "410K",
+  "wildlifeTrend": "Stable",
+  "communitySharePercent": 12,
+  "sites": [
+    { "site": "South Luangwa", "visitors": "120,000", "revenue": "34.2M", "wildlifeTrend": "Stable" },
+    { "site": "Kafue National Park", "visitors": "82,000", "revenue": "18.4M", "wildlifeTrend": "Improving" },
+    { "site": "Lower Zambezi", "visitors": "64,000", "revenue": "12.7M", "wildlifeTrend": "Stable" },
+    { "site": "Mosi-oa-Tunya", "visitors": "44,000", "revenue": "9.8M", "wildlifeTrend": "Declining" }
+  ],
+  "contributions": [
+    { "indicator": "Jobs supported", "value": "8,200", "note": "Direct and indirect nature-tourism employment." },
+    { "indicator": "Local revenue share", "value": "12%", "note": "Community benefit-sharing arrangements." },
+    { "indicator": "Average spend per visitor", "value": "240", "note": "Ticketing, lodging, and guide services." },
+    { "indicator": "Priority wildlife sites", "value": "5", "note": "Sites with habitat pressure or population decline." }
+  ]
+}

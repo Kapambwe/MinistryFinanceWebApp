@@ -1,0 +1,18 @@
+{
+  "renewableWaterMm3": 19920,
+  "waterStressPercent": 39,
+  "returnFlowPercent": 58,
+  "highStressBasins": 5,
+  "sectors": [
+    { "sector": "Agriculture", "annualUseMm3": "7,210", "share": "36%", "trend": "+1.6%" },
+    { "sector": "Electricity", "annualUseMm3": "2,980", "share": "15%", "trend": "+0.9%" },
+    { "sector": "Households", "annualUseMm3": "4,640", "share": "23%", "trend": "+1.2%" },
+    { "sector": "Industry", "annualUseMm3": "2,750", "share": "14%", "trend": "+0.4%" },
+    { "sector": "Tourism", "annualUseMm3": "880", "share": "4%", "trend": "+2.8%" }
+  ],
+  "catchments": [
+    { "catchment": "Vaal Basin", "latitude": -26.0000, "longitude": 27.5000, "availabilityMm3": "6,100", "abstractionMm3": "4,900", "stress": "High", "summary": "Urban and industrial demand are concentrated here." },
+    { "catchment": "Orange Basin", "latitude": -29.5000, "longitude": 23.5000, "availabilityMm3": "5,000", "abstractionMm3": "3,200", "stress": "Moderate", "summary": "Irrigation and transfer operations require coordination." },
+    { "catchment": "Limpopo Basin", "latitude": -23.5000, "longitude": 28.5000, "availabilityMm3": "3,100", "abstractionMm3": "2,700", "stress": "High", "summary": "Climate variability and agricultural abstraction pressure." }
+  ]
+}

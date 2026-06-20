@@ -1,0 +1,216 @@
+{
+  "topLevelLabel": "Province",
+  "hasConstituencies": false,
+  "areas": [
+    {
+      "level": "Province",
+      "code": "gauteng",
+      "name": "Gauteng",
+      "latitude": -26.2708,
+      "longitude": 28.1123,
+      "waterStressPercent": 52,
+      "forestCoverPercent": 12,
+      "tourismRevenue": 25100000,
+      "ecosystemConditionScore": 58,
+      "notes": "Dense urban demand and high catchment pressure.",
+      "children": [
+        {
+          "level": "District",
+          "code": "johannesburg",
+          "name": "City of Johannesburg",
+          "latitude": -26.2041,
+          "longitude": 28.0473,
+          "waterStressPercent": 54,
+          "forestCoverPercent": 11,
+          "tourismRevenue": 13200000,
+          "ecosystemConditionScore": 56,
+          "notes": "Metro demand, stormwater pressure, and urban greening needs.",
+          "children": [
+            {
+              "level": "Ward",
+              "code": "johannesburg-ward-1",
+              "name": "Ward 1",
+              "latitude": -26.2158,
+              "longitude": 28.0402,
+              "waterStressPercent": 55,
+              "forestCoverPercent": 10,
+              "tourismRevenue": 4200000,
+              "ecosystemConditionScore": 55,
+              "notes": "Built-up core with low canopy cover."
+            },
+            {
+              "level": "Ward",
+              "code": "johannesburg-ward-2",
+              "name": "Ward 2",
+              "latitude": -26.1893,
+              "longitude": 28.0679,
+              "waterStressPercent": 53,
+              "forestCoverPercent": 12,
+              "tourismRevenue": 3800000,
+              "ecosystemConditionScore": 57,
+              "notes": "Mixed urban and riparian interface."
+            }
+          ]
+        },
+        {
+          "level": "District",
+          "code": "tshwane",
+          "name": "City of Tshwane",
+          "latitude": -25.7479,
+          "longitude": 28.2293,
+          "waterStressPercent": 49,
+          "forestCoverPercent": 13,
+          "tourismRevenue": 11900000,
+          "ecosystemConditionScore": 60,
+          "notes": "Administrative capital with peri-urban land conversion pressure.",
+          "children": [
+            {
+              "level": "Ward",
+              "code": "tshwane-ward-1",
+              "name": "Ward 1",
+              "latitude": -25.7548,
+              "longitude": 28.2161,
+              "waterStressPercent": 48,
+              "forestCoverPercent": 14,
+              "tourismRevenue": 4600000,
+              "ecosystemConditionScore": 61,
+              "notes": "Mixed government and residential land use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Province",
+      "code": "kwazulu-natal",
+      "name": "KwaZulu-Natal",
+      "latitude": -29.8587,
+      "longitude": 31.0218,
+      "waterStressPercent": 44,
+      "forestCoverPercent": 22,
+      "tourismRevenue": 27300000,
+      "ecosystemConditionScore": 63,
+      "notes": "Coastal, agricultural, and port-related ecosystem pressures.",
+      "children": [
+        {
+          "level": "District",
+          "code": "ethekwini",
+          "name": "eThekwini Metro",
+          "latitude": -29.8587,
+          "longitude": 31.0218,
+          "waterStressPercent": 46,
+          "forestCoverPercent": 20,
+          "tourismRevenue": 15800000,
+          "ecosystemConditionScore": 61,
+          "notes": "Port city and coastal service economy.",
+          "children": [
+            {
+              "level": "Ward",
+              "code": "ethekwini-ward-1",
+              "name": "Ward 1",
+              "latitude": -29.8727,
+              "longitude": 31.0084,
+              "waterStressPercent": 47,
+              "forestCoverPercent": 19,
+              "tourismRevenue": 5400000,
+              "ecosystemConditionScore": 60,
+              "notes": "Coastal urban ward with stormwater challenges."
+            }
+          ]
+        },
+        {
+          "level": "District",
+          "code": "umgungundlovu",
+          "name": "uMgungundlovu",
+          "latitude": -29.6000,
+          "longitude": 30.3800,
+          "waterStressPercent": 41,
+          "forestCoverPercent": 26,
+          "tourismRevenue": 11500000,
+          "ecosystemConditionScore": 66,
+          "notes": "Agricultural and watershed interface with biodiversity assets.",
+          "children": [
+            {
+              "level": "Ward",
+              "code": "umgungundlovu-ward-1",
+              "name": "Ward 1",
+              "latitude": -29.5854,
+              "longitude": 30.3771,
+              "waterStressPercent": 40,
+              "forestCoverPercent": 27,
+              "tourismRevenue": 4700000,
+              "ecosystemConditionScore": 67,
+              "notes": "Rural edge with agricultural and watershed assets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Province",
+      "code": "western-cape",
+      "name": "Western Cape",
+      "latitude": -33.9249,
+      "longitude": 18.4241,
+      "waterStressPercent": 38,
+      "forestCoverPercent": 18,
+      "tourismRevenue": 29800000,
+      "ecosystemConditionScore": 65,
+      "notes": "Tourism, coastal systems, and water scarcity shape the profile.",
+      "children": [
+        {
+          "level": "District",
+          "code": "cape-town",
+          "name": "City of Cape Town",
+          "latitude": -33.9249,
+          "longitude": 18.4241,
+          "waterStressPercent": 39,
+          "forestCoverPercent": 17,
+          "tourismRevenue": 20100000,
+          "ecosystemConditionScore": 64,
+          "notes": "Metro with strong tourism and water security focus.",
+          "children": [
+            {
+              "level": "Ward",
+              "code": "cape-town-ward-1",
+              "name": "Ward 1",
+              "latitude": -33.9180,
+              "longitude": 18.4154,
+              "waterStressPercent": 40,
+              "forestCoverPercent": 17,
+              "tourismRevenue": 7200000,
+              "ecosystemConditionScore": 63,
+              "notes": "Urban coastal ward with water efficiency pressure."
+            }
+          ]
+        },
+        {
+          "level": "District",
+          "code": "west-coast",
+          "name": "West Coast District",
+          "latitude": -32.6176,
+          "longitude": 18.5160,
+          "waterStressPercent": 35,
+          "forestCoverPercent": 23,
+          "tourismRevenue": 9700000,
+          "ecosystemConditionScore": 68,
+          "notes": "Coastal tourism and conservation value.",
+          "children": [
+            {
+              "level": "Ward",
+              "code": "west-coast-ward-1",
+              "name": "Ward 1",
+              "latitude": -32.6114,
+              "longitude": 18.5225,
+              "waterStressPercent": 34,
+              "forestCoverPercent": 24,
+              "tourismRevenue": 3300000,
+              "ecosystemConditionScore": 69,
+              "notes": "Rural tourism and conservation interface."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

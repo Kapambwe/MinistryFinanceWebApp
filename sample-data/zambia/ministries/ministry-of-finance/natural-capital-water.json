@@ -1,0 +1,21 @@
+{
+  "renewableWaterMm3": 18340,
+  "waterStressPercent": 36,
+  "returnFlowPercent": 61,
+  "highStressBasins": 6,
+  "sectors": [
+    { "sector": "Agriculture", "annualUseMm3": "8,120", "share": "44%", "trend": "+3.1%" },
+    { "sector": "Electricity", "annualUseMm3": "2,480", "share": "14%", "trend": "+1.4%" },
+    { "sector": "Households", "annualUseMm3": "3,910", "share": "21%", "trend": "+0.8%" },
+    { "sector": "Industry", "annualUseMm3": "2,210", "share": "12%", "trend": "-0.4%" },
+    { "sector": "Tourism", "annualUseMm3": "620", "share": "3%", "trend": "+2.0%" }
+  ],
+  "catchments": [
+    { "catchment": "Upper Zambezi", "latitude": -15.2000, "longitude": 22.7000, "availabilityMm3": "5,600", "abstractionMm3": "3,200", "stress": "Moderate", "summary": "Balanced but irrigation pressure is rising." },
+    { "catchment": "Kafue Basin", "latitude": -15.8000, "longitude": 28.0000, "availabilityMm3": "4,200", "abstractionMm3": "3,900", "stress": "High", "summary": "High abstraction around agriculture and power generation." },
+    { "catchment": "Luangwa Basin", "latitude": -13.8000, "longitude": 31.8000, "availabilityMm3": "3,400", "abstractionMm3": "2,100", "stress": "Moderate", "summary": "Seasonal constraints in dry months." },
+    { "catchment": "Chambeshi Basin", "latitude": -10.2000, "longitude": 31.0000, "availabilityMm3": "2,900", "abstractionMm3": "2,600", "stress": "High", "summary": "Urban and peri-urban pressure is increasing." },
+    { "catchment": "Bangweulu Wetlands", "latitude": -11.6000, "longitude": 30.6000, "availabilityMm3": "3,150", "abstractionMm3": "1,420", "stress": "Low", "summary": "Wetland storage and flood buffering support fisheries and dry-season flows." },
+    { "catchment": "Mweru-Luapula Wetlands", "latitude": -11.4500, "longitude": 29.9000, "availabilityMm3": "2,780", "abstractionMm3": "1,260", "stress": "Low", "summary": "Lake-edge wetlands improve water quality and support local livelihoods." }
+  ]
+}

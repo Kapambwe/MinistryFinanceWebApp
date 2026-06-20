@@ -1,0 +1,25 @@
+{
+  "credentials": [
+    {
+      "schemaType": "Licence",
+      "template": {
+        "issuer": "did:zm:gov:mof:issuance-key-1",
+        "type": ["VerifiableCredential", "LicenceCredential"]
+      }
+    },
+    {
+      "schemaType": "Permit",
+      "template": {
+        "issuer": "did:zm:gov:mof:issuance-key-2",
+        "type": ["VerifiableCredential", "PermitCredential"]
+      }
+    },
+    {
+      "schemaType": "Certificate",
+      "template": {
+        "issuer": "did:zm:gov:mof:issuance-key-3",
+        "type": ["VerifiableCredential", "CertificateCredential"]
+      }
+    }
+  ]
+}

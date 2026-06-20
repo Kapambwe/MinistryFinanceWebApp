@@ -1,0 +1,48 @@
+{
+  "totalExtentHa": 17350000,
+  "conditionScore": 72.1,
+  "ecosystemServiceValue": 515000000,
+  "criticalEcosystems": 5,
+  "ecosystems": [
+    { "ecosystem": "Grasslands", "type": "Grassland", "extentHa": "8,300,000", "condition": "Fair", "keyService": "Grazing, water regulation, carbon storage", "threat": "Agriculture and invasive species" },
+    { "ecosystem": "Fynbos", "type": "Shrubland", "extentHa": "1,350,000", "condition": "Good", "keyService": "Tourism, biodiversity, pollination", "threat": "Urban expansion and fire pressure" },
+    { "ecosystem": "Wetlands", "type": "Wetland", "extentHa": "1,920,000", "condition": "Under Pressure", "keyService": "Flood regulation, water purification, habitat", "threat": "Pollution and drainage" },
+    { "ecosystem": "Savanna", "type": "Savanna", "extentHa": "4,600,000", "condition": "Good", "keyService": "Wildlife habitat, tourism, carbon storage", "threat": "Fencing and poaching" },
+    { "ecosystem": "Coastal and Marine Interface", "type": "Marine", "extentHa": "1,180,000", "condition": "Under Pressure", "keyService": "Fisheries, tourism, storm protection", "threat": "Pollution and overuse" }
+  ],
+  "extentAccounts": [
+    { "ecosystemType": "Grassland", "accountingArea": "Nation", "openingExtentHa": "8,420,000", "closingExtentHa": "8,300,000", "gainsHa": "60,000", "lossesHa": "180,000", "netChangeHa": "-120,000" },
+    { "ecosystemType": "Wetland", "accountingArea": "Nation", "openingExtentHa": "1,880,000", "closingExtentHa": "1,920,000", "gainsHa": "75,000", "lossesHa": "35,000", "netChangeHa": "+40,000" },
+    { "ecosystemType": "Savanna", "accountingArea": "Nation", "openingExtentHa": "4,520,000", "closingExtentHa": "4,600,000", "gainsHa": "120,000", "lossesHa": "40,000", "netChangeHa": "+80,000" }
+  ],
+  "conditionAccounts": [
+    { "ecosystem": "Grasslands", "indicator": "Vegetation cover", "openingValue": "74", "closingValue": "72", "change": "-2", "state": "Fair" },
+    { "ecosystem": "Wetlands", "indicator": "Hydrological integrity", "openingValue": "66", "closingValue": "63", "change": "-3", "state": "Under Pressure" },
+    { "ecosystem": "Fynbos", "indicator": "Species richness", "openingValue": "81", "closingValue": "82", "change": "+1", "state": "Good" }
+  ],
+  "physicalServiceFlows": [
+    { "service": "Water regulation", "assetType": "Wetland and catchment", "beneficiary": "Households, businesses, and water utilities", "benefits": "Cleaner water; reduced water treatment costs", "supply": "142.0", "use": "142.0", "unit": "Mm3 equivalent" },
+    { "service": "Pollination support", "assetType": "Grassland and fynbos", "beneficiary": "Agriculture", "benefits": "Higher crop yields; lower input losses", "supply": "44.1", "use": "44.1", "unit": "Index points" },
+    { "service": "Nature-based tourism", "assetType": "Protected areas and coasts", "beneficiary": "Businesses and households", "benefits": "Visitor spending; local jobs", "supply": "550,000", "use": "550,000", "unit": "Visitors" }
+  ],
+  "monetaryServiceFlows": [
+    { "service": "Water regulation", "assetType": "Wetland and catchment", "beneficiary": "Households, businesses, and water utilities", "benefits": "Cleaner water; reduced water treatment costs", "supply": "142,000,000", "use": "142,000,000", "unit": "ZAR" },
+    { "service": "Pollination support", "assetType": "Grassland and fynbos", "beneficiary": "Agriculture", "benefits": "Higher crop yields; lower input losses", "supply": "44,100,000", "use": "44,100,000", "unit": "ZAR" },
+    { "service": "Nature-based tourism", "assetType": "Protected areas and coasts", "beneficiary": "Businesses and households", "benefits": "Visitor spending; local jobs", "supply": "124,500,000", "use": "124,500,000", "unit": "ZAR" }
+  ],
+  "monetaryAssetAccounts": [
+    { "assetType": "Grassland assets", "accountingArea": "Nation", "openingStockValue": "1,480,000,000", "additionsValue": "100,000,000", "reductionsValue": "140,000,000", "closingStockValue": "1,440,000,000", "degradationNotes": "Agricultural conversion and invasive pressure reduce stock value." },
+    { "assetType": "Wetland assets", "accountingArea": "Nation", "openingStockValue": "740,000,000", "additionsValue": "70,000,000", "reductionsValue": "35,000,000", "closingStockValue": "775,000,000", "degradationNotes": "Drainage and pollution offset restoration gains." }
+  ],
+  "beneficiaryRelationships": [
+    { "assetType": "Wetlands", "beneficiary": "Households and businesses in Gauteng", "location": "Vaal Basin", "relationship": "Water security support", "spatialNote": "Catchment regulation benefits users far downstream of the asset boundary." },
+    { "assetType": "Savanna", "beneficiary": "Tourism operators and households", "location": "Limpopo and Mpumalanga", "relationship": "Wildlife and tourism corridor", "spatialNote": "Wildlife populations create income and employment around reserve edges and towns." },
+    { "assetType": "Grasslands", "beneficiary": "Agricultural businesses", "location": "Free State and KwaZulu-Natal", "relationship": "Pollination and grazing support", "spatialNote": "Service flows underpin farm production and household livelihoods." }
+  ],
+  "services": [
+    { "service": "Water regulation", "value": "142.0M", "notes": "Wetlands and catchments stabilise flow and water quality." },
+    { "service": "Pollination support", "value": "44.1M", "notes": "Supports agriculture and horticulture productivity." },
+    { "service": "Nature-based tourism", "value": "124.5M", "notes": "Protected areas, coasts, and mountains sustain tourism receipts." },
+    { "service": "Carbon storage", "value": "204.4M", "notes": "Grasslands, forests, and wetlands provide carbon stock value." }
+  ]
+}

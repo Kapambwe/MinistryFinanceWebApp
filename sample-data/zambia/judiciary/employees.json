@@ -1,0 +1,50 @@
+[
+  {
+    "EmployeeId": 700001,
+    "EmployeeNumber": "JUD-001",
+    "FirstName": "Mumba",
+    "LastName": "Malila",
+    "MiddleName": null,
+    "Email": "cj@judiciary.gov.zm",
+    "Position": "Chief Justice",
+    "Department": "Office of the Chief Justice",
+    "EmploymentType": "Permanent",
+    "Status": "Active",
+    "BasicSalary": 0,
+    "Allowances": 0,
+    "Grade": "Executive",
+    "DisplayName": "Mumba Malila - Chief Justice"
+  },
+  {
+    "EmployeeId": 700002,
+    "EmployeeNumber": "JUD-002",
+    "FirstName": "Amos",
+    "LastName": "Lupiya",
+    "MiddleName": null,
+    "Email": "secretary@judiciary.gov.zm",
+    "Position": "Judicial Secretary",
+    "Department": "Judicial Service Commission",
+    "EmploymentType": "Permanent",
+    "Status": "Active",
+    "BasicSalary": 0,
+    "Allowances": 0,
+    "Grade": "Senior Management",
+    "DisplayName": "Amos Lupiya - Judicial Secretary"
+  },
+  {
+    "EmployeeId": 700003,
+    "EmployeeNumber": "JUD-003",
+    "FirstName": "Mwape",
+    "LastName": "Sichone",
+    "MiddleName": null,
+    "Email": "finance@judiciary.gov.zm",
+    "Position": "Director of Finance",
+    "Department": "Finance Department",
+    "EmploymentType": "Permanent",
+    "Status": "Active",
+    "BasicSalary": 0,
+    "Allowances": 0,
+    "Grade": "Management",
+    "DisplayName": "Mwape Sichone - Director of Finance"
+  }
+]

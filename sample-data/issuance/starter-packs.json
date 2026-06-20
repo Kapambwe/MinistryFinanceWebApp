@@ -1,0 +1,333 @@
+[
+  {
+    "Id": "SP-BEEF-001",
+    "Name": "Beef Export Starter Pack",
+    "Description": "A complete pack to start raising cattle for beef export markets.",
+    "TargetSector": "Agriculture",
+    "AlignmentGoal": "Beef Exports, Import Substitution, SDG 1",
+    "CapitalRequired": 50000,
+    "ExpectedMonthlyIncome": 15000,
+    "DurationToProfit": "18 months",
+    "ProductionMetric": "Tons of Beef/Yr",
+    "ProductionCapacityPerUnit": 4.5,
+    "RequiresTender": true,
+    "FundingAvailable": true,
+    "Inputs": [
+      "20 Calves",
+      "Veterinary Starter Kit",
+      "Fencing Materials"
+    ],
+    "TrainingModules": [
+      "Export Quality Standards",
+      "Animal Husbandry 101"
+    ],
+    "SupplierLinkages": [
+      "National Beef Export Board"
+    ]
+  },
+  {
+    "Id": "SP-SOYA-001",
+    "Name": "Soya Bean Production Kit",
+    "Description": "High-yield soya bean production for local agro-processing and export.",
+    "TargetSector": "Agriculture",
+    "AlignmentGoal": "Soya Exports, Agro-Processing",
+    "CapitalRequired": 20000,
+    "ExpectedMonthlyIncome": 8000,
+    "DurationToProfit": "6 months",
+    "ProductionMetric": "Tons of Soya/Yr",
+    "ProductionCapacityPerUnit": 12.0,
+    "RequiresTender": false,
+    "FundingAvailable": true,
+    "Inputs": [
+      "50kg Premium Soya Seeds",
+      "Fertilizer Allocation",
+      "Irrigation Tools"
+    ],
+    "TrainingModules": [
+      "Yield Optimization",
+      "Crop Rotation"
+    ],
+    "SupplierLinkages": [
+      "Soya Processing Co-op"
+    ]
+  },
+  {
+    "Id": "SP-SHOES-001",
+    "Name": "Local Shoe Manufacturing Pack",
+    "Description": "Basic setup for establishing a community shoe manufacturing workshop.",
+    "TargetSector": "Manufacturing",
+    "AlignmentGoal": "Import Substitution, SDG 8 (Decent Work)",
+    "CapitalRequired": 35000,
+    "ExpectedMonthlyIncome": 12000,
+    "DurationToProfit": "3 months",
+    "ProductionMetric": "Pairs of Shoes/Month",
+    "ProductionCapacityPerUnit": 200,
+    "RequiresTender": false,
+    "FundingAvailable": true,
+    "Inputs": [
+      "Industrial Sewing Machine",
+      "Leather Stock (100 sqm)",
+      "Adhesives and Soles",
+      "Cutting Tools"
+    ],
+    "TrainingModules": [
+      "Shoe Design and Assembly",
+      "Quality Assurance"
+    ],
+    "SupplierLinkages": [
+      "National Leather Council",
+      "Ministry of Defence (Off-taker for uniform boots)"
+    ]
+  },
+  {
+    "Id": "SP-GARMENT-001",
+    "Name": "Garment & Textile Workshop",
+    "Description": "Equipment and material supply kit for producing school uniforms and hospital linens.",
+    "TargetSector": "Manufacturing",
+    "AlignmentGoal": "Import Substitution, Local Content Mandate",
+    "CapitalRequired": 25000,
+    "ExpectedMonthlyIncome": 9500,
+    "DurationToProfit": "2 months",
+    "ProductionMetric": "Uniforms/Month",
+    "ProductionCapacityPerUnit": 500,
+    "RequiresTender": true,
+    "FundingAvailable": true,
+    "Inputs": [
+      "3 Overlock Sewing Machines",
+      "2 Straight Stitch Machines",
+      "Initial Fabric Supply (Cotton/Polyester)",
+      "Pattern Drafting Kit"
+    ],
+    "TrainingModules": [
+      "Industrial Garment Construction",
+      "Tender Application Basics"
+    ],
+    "SupplierLinkages": [
+      "Ministry of Education (Uniforms)",
+      "Ministry of Health (Linens)"
+    ]
+  },
+  {
+    "Id": "SP-FURNITURE-001",
+    "Name": "School Desk Furniture Kit",
+    "Description": "Carpentry starter pack aligned with government school desk procurement targets.",
+    "TargetSector": "Carpentry & Manufacturing",
+    "AlignmentGoal": "National Procurement Inclusion, SDG 4 (Education)",
+    "CapitalRequired": 40000,
+    "ExpectedMonthlyIncome": 18000,
+    "DurationToProfit": "4 months",
+    "ProductionMetric": "Desks/Month",
+    "ProductionCapacityPerUnit": 150,
+    "RequiresTender": true,
+    "FundingAvailable": true,
+    "Inputs": [
+      "Heavy Duty Circular Saw",
+      "Planer & Sander",
+      "Timber Supply (Pine/Mukwa)",
+      "Varnish and Hardware"
+    ],
+    "TrainingModules": [
+      "Furniture Standardization & QA",
+      "Workshop Safety"
+    ],
+    "SupplierLinkages": [
+      "Ministry of General Education",
+      "Local Timber Producers"
+    ]
+  },
+  {
+    "Id": "SP-HONEY-001",
+    "Name": "Commercial Honey Processing",
+    "Description": "Starter kit for aggregating and processing honey for retail and export.",
+    "TargetSector": "Agro-Processing",
+    "AlignmentGoal": "Export Growth, Value Addition",
+    "CapitalRequired": 15000,
+    "ExpectedMonthlyIncome": 7000,
+    "DurationToProfit": "6 months",
+    "ProductionMetric": "Litres of Honey/Yr",
+    "ProductionCapacityPerUnit": 800,
+    "RequiresTender": false,
+    "FundingAvailable": true,
+    "Inputs": [
+      "20 Modern Beehives",
+      "Honey Extractor Machine",
+      "Protective Suits",
+      "Packaging Materials"
+    ],
+    "TrainingModules": [
+      "Modern Beekeeping",
+      "Food Safety Standards (HACCP)"
+    ],
+    "SupplierLinkages": [
+      "Zambia Honey Council",
+      "Export Retail Chains"
+    ]
+  },
+  {
+    "Id": "SP-SOLAR-001",
+    "Name": "Solar Installation Franchise",
+    "Description": "Toolkit and certification for installing and maintaining off-grid solar systems.",
+    "TargetSector": "Renewable Energy",
+    "AlignmentGoal": "SDG 7 (Clean Energy), Rural Electrification",
+    "CapitalRequired": 18000,
+    "ExpectedMonthlyIncome": 11000,
+    "DurationToProfit": "2 months",
+    "ProductionMetric": "Installations/Month",
+    "ProductionCapacityPerUnit": 10,
+    "RequiresTender": false,
+    "FundingAvailable": false,
+    "Inputs": [
+      "Multimeter & Electrical Tools",
+      "Safety Gear & Climbing Harness",
+      "Initial Stock of Solar Panels & Inverters",
+      "Marketing Materials"
+    ],
+    "TrainingModules": [
+      "Solar Panel Installation",
+      "Battery Maintenance & Troubleshooting"
+    ],
+    "SupplierLinkages": [
+      "Rural Electrification Authority",
+      "Global Solar Equipment Distributors"
+    ]
+  },
+  {
+    "Id": "SP-WASTE-001",
+    "Name": "Community Recycling Hub",
+    "Description": "Equipment for collecting, sorting, and processing plastic waste.",
+    "TargetSector": "Environment & Waste Management",
+    "AlignmentGoal": "Circular Economy, SDG 11 (Sustainable Cities)",
+    "CapitalRequired": 30000,
+    "ExpectedMonthlyIncome": 8500,
+    "DurationToProfit": "4 months",
+    "ProductionMetric": "Tons of Recycled Plastic/Month",
+    "ProductionCapacityPerUnit": 5,
+    "RequiresTender": true,
+    "FundingAvailable": true,
+    "Inputs": [
+      "Plastic Shredder/Granulator",
+      "Cargo Tricycle for Collection",
+      "Sorting Bins & Weighing Scales",
+      "PPE (Gloves, Masks)"
+    ],
+    "TrainingModules": [
+      "Waste Segregation Standards",
+      "Community Mobilization"
+    ],
+    "SupplierLinkages": [
+      "Lusaka City Council (Waste Management Unit)",
+      "National Plastic Recycling Plants"
+    ]
+  },
+  {
+    "Id": "SP-COOKINGOIL-001",
+    "Name": "Edible Oil Refining Plant",
+    "Description": "Small-scale processing unit to crush sunflower and soya into refined cooking oil, replacing millions in imported cooking oil.",
+    "TargetSector": "Agro-Processing",
+    "AlignmentGoal": "Aggressive Import Substitution (Cooking Oil)",
+    "CapitalRequired": 85000,
+    "ExpectedMonthlyIncome": 35000,
+    "DurationToProfit": "6 months",
+    "ProductionMetric": "Litres of Cooking Oil/Month",
+    "ProductionCapacityPerUnit": 1200,
+    "RequiresTender": false,
+    "FundingAvailable": true,
+    "Inputs": [
+      "Cold Press Oil Expeller",
+      "Filtration Press",
+      "Initial 500kg Seed Supply (Soya/Sunflower)",
+      "Bottling & Sealing Equipment"
+    ],
+    "TrainingModules": [
+      "Oil Refining Safety & Hygiene",
+      "Retail Packaging Standards"
+    ],
+    "SupplierLinkages": [
+      "Local Farmer Seed Co-ops",
+      "National Retail Supermarkets"
+    ]
+  },
+  {
+    "Id": "SP-FERTILIZER-001",
+    "Name": "Organic Fertilizer Production Kit",
+    "Description": "Local bio-fertilizer production facility to reduce reliance on imported chemical fertilizers.",
+    "TargetSector": "Agro-Processing",
+    "AlignmentGoal": "Import Substitution (Fertilizer), Sustainable Agriculture",
+    "CapitalRequired": 45000,
+    "ExpectedMonthlyIncome": 22000,
+    "DurationToProfit": "3 months",
+    "ProductionMetric": "Tons of Fertilizer/Month",
+    "ProductionCapacityPerUnit": 20,
+    "RequiresTender": true,
+    "FundingAvailable": true,
+    "Inputs": [
+      "Commercial Composting Bins",
+      "Aerobic Digesters",
+      "Moisture & pH Testing Kits",
+      "Bagging Machine"
+    ],
+    "TrainingModules": [
+      "Soil Science Basics",
+      "Bio-Fertilizer Formulation"
+    ],
+    "SupplierLinkages": [
+      "Ministry of Agriculture (FISP program)",
+      "Local Farming Cooperatives"
+    ]
+  },
+  {
+    "Id": "SP-DETERGENT-001",
+    "Name": "Soap & Detergent Manufacturing",
+    "Description": "Micro-factory for producing basic hygiene products to substitute imported household goods.",
+    "TargetSector": "Manufacturing",
+    "AlignmentGoal": "Import Substitution (Hygiene Products), SDG 3 (Health)",
+    "CapitalRequired": 25000,
+    "ExpectedMonthlyIncome": 14000,
+    "DurationToProfit": "2 months",
+    "ProductionMetric": "Cartons of Soap/Month",
+    "ProductionCapacityPerUnit": 600,
+    "RequiresTender": false,
+    "FundingAvailable": true,
+    "Inputs": [
+      "Industrial Mixer/Blender",
+      "Soap Molds and Cutter",
+      "Initial Raw Chemical Supply (Caustic Soda, Oils)",
+      "Protective Gear"
+    ],
+    "TrainingModules": [
+      "Chemical Handling & Safety",
+      "Product Formulation & QA"
+    ],
+    "SupplierLinkages": [
+      "Zambia Bureau of Standards",
+      "Wholesale Distributors"
+    ]
+  },
+  {
+    "Id": "SP-PAPERBAG-001",
+    "Name": "Eco-Packaging & Paper Bag Plant",
+    "Description": "Production line for eco-friendly packaging to replace imported plastic and paper bags.",
+    "TargetSector": "Manufacturing",
+    "AlignmentGoal": "Import Substitution (Packaging), Plastic Phase-out",
+    "CapitalRequired": 60000,
+    "ExpectedMonthlyIncome": 28000,
+    "DurationToProfit": "4 months",
+    "ProductionMetric": "Paper Bags/Month",
+    "ProductionCapacityPerUnit": 50000,
+    "RequiresTender": false,
+    "FundingAvailable": true,
+    "Inputs": [
+      "Automated Paper Bag Making Machine",
+      "Flexo Printing Press (1 Color)",
+      "Kraft Paper Rolls (2 Tons)"
+    ],
+    "TrainingModules": [
+      "Machine Operation & Maintenance",
+      "Sustainable Sourcing"
+    ],
+    "SupplierLinkages": [
+      "Supermarket Chains",
+      "Bakeries & Fast Food Franchises"
+    ]
+  }
+]

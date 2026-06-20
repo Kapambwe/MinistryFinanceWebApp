@@ -1,0 +1,19 @@
+{
+  "forestCoverPercent": 41.6,
+  "deforestationRatePercent": 1.8,
+  "protectedForestPercent": 28,
+  "hotspotDistricts": 9,
+  "landClasses": [
+    { "className": "Forest", "areaHa": "5,620,000", "share": "41.6%", "change": "-1.8%" },
+    { "className": "Cropland", "areaHa": "3,180,000", "share": "23.5%", "change": "+0.9%" },
+    { "className": "Grassland/Pasture", "areaHa": "2,450,000", "share": "18.2%", "change": "+0.3%" },
+    { "className": "Settlements", "areaHa": "610,000", "share": "4.5%", "change": "+2.6%" },
+    { "className": "Wetlands and Other", "areaHa": "1,660,000", "share": "12.2%", "change": "-0.4%" }
+  ],
+  "hotspots": [
+    { "district": "North District", "lossRate": "3.2%", "pressure": "High", "notes": "Agricultural expansion and logging pressure." },
+    { "district": "Central District", "lossRate": "2.6%", "pressure": "High", "notes": "Settlement growth near forest edges." },
+    { "district": "South District", "lossRate": "1.1%", "pressure": "Moderate", "notes": "Mixed land use with stable protected areas." },
+    { "district": "River Belt", "lossRate": "2.0%", "pressure": "Moderate", "notes": "Riparian conversion affecting water regulation." }
+  ]
+}

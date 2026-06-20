@@ -1,0 +1,18 @@
+{
+  "tourismRevenue": 124500000,
+  "visitors": "550K",
+  "wildlifeTrend": "Stable",
+  "communitySharePercent": 10,
+  "sites": [
+    { "site": "Kruger National Park", "visitors": "220,000", "revenue": "58.0M", "wildlifeTrend": "Stable" },
+    { "site": "Table Mountain", "visitors": "140,000", "revenue": "31.2M", "wildlifeTrend": "Improving" },
+    { "site": "Drakensberg", "visitors": "90,000", "revenue": "18.4M", "wildlifeTrend": "Stable" },
+    { "site": "Addo Elephant", "visitors": "52,000", "revenue": "11.8M", "wildlifeTrend": "Stable" }
+  ],
+  "contributions": [
+    { "indicator": "Jobs supported", "value": "12,400", "note": "Direct and indirect nature-tourism employment." },
+    { "indicator": "Local revenue share", "value": "10%", "note": "Community and conservation sharing arrangements." },
+    { "indicator": "Average spend per visitor", "value": "285", "note": "Ticketing, lodging, and guide services." },
+    { "indicator": "Priority wildlife sites", "value": "4", "note": "Sites with habitat pressure or population decline." }
+  ]
+}

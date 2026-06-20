@@ -1,0 +1,74 @@
+{
+  "totalExtentHa": 13780000,
+  "conditionScore": 68.4,
+  "ecosystemServiceValue": 476000000,
+  "criticalEcosystems": 10,
+  "ecosystems": [
+    { "ecosystem": "Miombo Woodlands", "type": "Forest", "extentHa": "4,900,000", "condition": "Fair", "keyService": "Fuelwood, habitat, water regulation", "threat": "Charcoal production and conversion" },
+    { "ecosystem": "Bangweulu Wetlands", "type": "Wetland", "extentHa": "1,120,000", "condition": "Under Pressure", "keyService": "Flood regulation, fisheries, bird tourism", "threat": "Drainage, seasonal burning, and encroachment" },
+    { "ecosystem": "Mweru-Luapula Wetlands", "type": "Wetland", "extentHa": "680,000", "condition": "Fair", "keyService": "Water filtration, fisheries, flood buffering", "threat": "Pollution, shoreline disturbance, and overfishing" },
+    { "ecosystem": "Barotse Floodplains", "type": "Wetland", "extentHa": "420,000", "condition": "Fair", "keyService": "Flood regulation, grazing, fisheries", "threat": "Hydrology shifts and infrastructure pressure" },
+    { "ecosystem": "Kasanka Wetlands", "type": "Wetland", "extentHa": "280,000", "condition": "Good", "keyService": "Bird tourism, water filtration, biodiversity", "threat": "Peat disturbance and land conversion" },
+    { "ecosystem": "Livingstone River Wetlands", "type": "Wetland", "extentHa": "330,000", "condition": "Under Pressure", "keyService": "Water purification, tourism, flood protection", "threat": "Urban runoff and shoreline disturbance" },
+    { "ecosystem": "Kafue Flats Wetlands", "type": "Wetland", "extentHa": "950,000", "condition": "Under Pressure", "keyService": "Flood regulation, fisheries, grazing", "threat": "Hydrology change and encroachment" },
+    { "ecosystem": "Zambezi Floodplains", "type": "Wetland", "extentHa": "1,150,000", "condition": "Fair", "keyService": "Flood storage, agriculture, tourism", "threat": "Settlement pressure and variability" },
+    { "ecosystem": "Luapula Floodplain Wetlands", "type": "Wetland", "extentHa": "540,000", "condition": "Fair", "keyService": "Fish nurseries, flood buffering, water quality", "threat": "Settlement growth and localized drainage" },
+    { "ecosystem": "Luangwa Valley", "type": "Savanna", "extentHa": "2,300,000", "condition": "Good", "keyService": "Wildlife habitat, tourism, carbon storage", "threat": "Poaching and fire regime change" },
+    { "ecosystem": "Lakes and River Riparian Zones", "type": "Freshwater", "extentHa": "1,240,000", "condition": "Under Pressure", "keyService": "Water supply, recreation, biodiversity", "threat": "Pollution and shoreline disturbance" }
+  ],
+  "extentAccounts": [
+    { "ecosystemType": "Forest", "accountingArea": "Nation", "openingExtentHa": "5,020,000", "closingExtentHa": "4,900,000", "gainsHa": "60,000", "lossesHa": "180,000", "netChangeHa": "-120,000" },
+    { "ecosystemType": "Wetland", "accountingArea": "Nation", "openingExtentHa": "2,050,000", "closingExtentHa": "2,340,000", "gainsHa": "315,000", "lossesHa": "25,000", "netChangeHa": "+290,000" },
+    { "ecosystemType": "Savanna", "accountingArea": "Nation", "openingExtentHa": "3,100,000", "closingExtentHa": "3,080,000", "gainsHa": "20,000", "lossesHa": "40,000", "netChangeHa": "-20,000" }
+  ],
+  "conditionAccounts": [
+    { "ecosystem": "Miombo Woodlands", "indicator": "Canopy cover", "openingValue": "71", "closingValue": "68", "change": "-3", "state": "Fair" },
+    { "ecosystem": "Bangweulu Wetlands", "indicator": "Hydrological connectivity", "openingValue": "69", "closingValue": "67", "change": "-2", "state": "Under Pressure" },
+    { "ecosystem": "Mweru-Luapula Wetlands", "indicator": "Water clarity", "openingValue": "73", "closingValue": "74", "change": "+1", "state": "Fair" },
+    { "ecosystem": "Barotse Floodplains", "indicator": "Flood pulse connectivity", "openingValue": "68", "closingValue": "69", "change": "+1", "state": "Fair" },
+    { "ecosystem": "Kasanka Wetlands", "indicator": "Habitat quality", "openingValue": "79", "closingValue": "80", "change": "+1", "state": "Good" },
+    { "ecosystem": "Livingstone River Wetlands", "indicator": "Riparian vegetation", "openingValue": "64", "closingValue": "62", "change": "-2", "state": "Under Pressure" },
+    { "ecosystem": "Kafue Flats Wetlands", "indicator": "Hydrological integrity", "openingValue": "66", "closingValue": "62", "change": "-4", "state": "Under Pressure" },
+    { "ecosystem": "Luapula Floodplain Wetlands", "indicator": "Floodplain vegetation", "openingValue": "70", "closingValue": "69", "change": "-1", "state": "Fair" },
+    { "ecosystem": "Luangwa Valley", "indicator": "Habitat connectivity", "openingValue": "74", "closingValue": "75", "change": "+1", "state": "Good" }
+  ],
+  "physicalServiceFlows": [
+    { "service": "Water regulation", "assetType": "Wetland and forest", "beneficiary": "Households, businesses, and water utilities", "benefits": "Cleaner water; reduced water treatment costs", "supply": "126.4", "use": "126.4", "unit": "Mm3 equivalent" },
+    { "service": "Wetland fisheries", "assetType": "Bangweulu and Luapula wetlands", "beneficiary": "Fishers, households, and local markets", "benefits": "Protein supply; local employment", "supply": "24.7", "use": "24.7", "unit": "Index points" },
+    { "service": "Flood buffering", "assetType": "Floodplain wetlands", "beneficiary": "Households, farmers, and district councils", "benefits": "Reduced flood damage; lower recovery costs", "supply": "18.3", "use": "18.3", "unit": "Index points" },
+    { "service": "Bird tourism", "assetType": "Wetland reserves", "beneficiary": "Tourism operators and communities", "benefits": "Visitor spending; local jobs", "supply": "21.5", "use": "21.5", "unit": "Index points" },
+    { "service": "Pollination support", "assetType": "Woodland and savanna", "beneficiary": "Farmers", "benefits": "Higher crop yields; lower input losses", "supply": "38.2", "use": "38.2", "unit": "Index points" },
+    { "service": "Nature-based tourism", "assetType": "Parks and wetlands", "beneficiary": "Tourism operators and communities", "benefits": "Visitor spending; local jobs", "supply": "410,000", "use": "410,000", "unit": "Visitors" }
+  ],
+  "monetaryServiceFlows": [
+    { "service": "Water regulation", "assetType": "Wetland and forest", "beneficiary": "Households, businesses, and water utilities", "benefits": "Cleaner water; reduced water treatment costs", "supply": "126,400,000", "use": "126,400,000", "unit": "ZMW" },
+    { "service": "Wetland fisheries", "assetType": "Bangweulu and Luapula wetlands", "beneficiary": "Fishers, households, and local markets", "benefits": "Protein supply; local employment", "supply": "34,200,000", "use": "34,200,000", "unit": "ZMW" },
+    { "service": "Flood buffering", "assetType": "Floodplain wetlands", "beneficiary": "Households, farmers, and district councils", "benefits": "Reduced flood damage; lower recovery costs", "supply": "22,800,000", "use": "22,800,000", "unit": "ZMW" },
+    { "service": "Bird tourism", "assetType": "Wetland reserves", "beneficiary": "Tourism operators and communities", "benefits": "Visitor spending; local jobs", "supply": "19,400,000", "use": "19,400,000", "unit": "ZMW" },
+    { "service": "Pollination support", "assetType": "Woodland and savanna", "beneficiary": "Farmers", "benefits": "Higher crop yields; lower input losses", "supply": "38,200,000", "use": "38,200,000", "unit": "ZMW" },
+    { "service": "Nature-based tourism", "assetType": "Parks and wetlands", "beneficiary": "Tourism operators and communities", "benefits": "Visitor spending; local jobs", "supply": "98,500,000", "use": "98,500,000", "unit": "ZMW" }
+  ],
+  "monetaryAssetAccounts": [
+    { "assetType": "Forest assets", "accountingArea": "Nation", "openingStockValue": "1,250,000,000", "additionsValue": "85,000,000", "reductionsValue": "120,000,000", "closingStockValue": "1,215,000,000", "degradationNotes": "Charcoal extraction and land conversion drive value losses." },
+    { "assetType": "Wetland assets", "accountingArea": "Nation", "openingStockValue": "620,000,000", "additionsValue": "101,400,000", "reductionsValue": "30,000,000", "closingStockValue": "691,400,000", "degradationNotes": "Bangweulu, Luapula, Barotse, and Kasanka restoration offsets localized hydrological change." }
+  ],
+  "beneficiaryRelationships": [
+    { "assetType": "Kafue Flats Wetlands", "beneficiary": "Farm households in the basin", "location": "Southern Province", "relationship": "Upstream ecosystem support", "spatialNote": "Wetland regulation benefits agriculture downstream during dry periods." },
+    { "assetType": "Bangweulu Wetlands", "beneficiary": "Fishers and local households", "location": "Luapula Province", "relationship": "Wetland fisheries and flood buffering", "spatialNote": "Wetland condition affects fish stocks, access routes, and household water security." },
+    { "assetType": "Mweru-Luapula Wetlands", "beneficiary": "Tourism enterprises and market traders", "location": "Luapula Province", "relationship": "Water quality and shoreline livelihoods", "spatialNote": "Cleaner water supports fisheries, tourism, and reduced treatment costs." },
+    { "assetType": "Barotse Floodplains", "beneficiary": "Grazing households and fishers", "location": "Western Province", "relationship": "Flood pulse livelihoods", "spatialNote": "Seasonal inundation supports grazing, fisheries, and flood recession farming." },
+    { "assetType": "Kasanka Wetlands", "beneficiary": "Tourism enterprises and park communities", "location": "Northern Province", "relationship": "Bird tourism and habitat services", "spatialNote": "Wetland quality influences wildlife viewing, local income, and habitat conservation." },
+    { "assetType": "Livingstone River Wetlands", "beneficiary": "Households and tourism operators", "location": "Southern Province", "relationship": "Water purification and tourism", "spatialNote": "Riparian condition supports visitor experience and lowers water treatment costs." },
+    { "assetType": "Luangwa Valley", "beneficiary": "Tourism enterprises", "location": "Eastern Province", "relationship": "Nature-based tourism corridor", "spatialNote": "Wildlife populations generate revenue and local employment around park gateways." },
+    { "assetType": "Miombo Woodlands", "beneficiary": "Urban households", "location": "Nationwide", "relationship": "Fuelwood and climate regulation", "spatialNote": "Forest condition affects energy access and microclimate far beyond the asset boundary." }
+  ],
+  "services": [
+    { "service": "Water regulation", "value": "126.4M", "notes": "Wetlands and forests stabilise seasonal flow." },
+    { "service": "Wetland fisheries", "value": "34.2M", "notes": "Wetlands support fish production, trade, and household nutrition." },
+    { "service": "Flood buffering", "value": "22.8M", "notes": "Floodplains reduce damage and recovery costs in wet seasons." },
+    { "service": "Bird tourism", "value": "19.4M", "notes": "Wetland bird habitats attract visitors and guide local tourism jobs." },
+    { "service": "Pollination support", "value": "38.2M", "notes": "Supports agriculture and horticulture productivity." },
+    { "service": "Nature-based tourism", "value": "98.5M", "notes": "Parks, reserves, and wetlands sustain tourism receipts." },
+    { "service": "Carbon storage", "value": "214.0M", "notes": "Forest and wetland carbon stock contributions." }
+  ]
+}

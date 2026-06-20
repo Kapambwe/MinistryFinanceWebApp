@@ -1,0 +1,608 @@
+{
+  "topLevelLabel": "Province",
+  "hasConstituencies": true,
+  "areas": [
+    {
+      "level": "Province",
+      "code": "lusaka",
+      "name": "Lusaka Province",
+      "latitude": -15.3875,
+      "longitude": 28.3228,
+      "waterStressPercent": 48,
+      "forestCoverPercent": 22,
+      "tourismRevenue": 18400000,
+      "ecosystemConditionScore": 61,
+      "notes": "High urban demand and river corridor pressure.",
+      "children": [
+        {
+          "level": "District",
+          "code": "lusaka-central",
+          "name": "Lusaka Central District",
+          "latitude": -15.4167,
+          "longitude": 28.2833,
+          "waterStressPercent": 51,
+          "forestCoverPercent": 18,
+          "tourismRevenue": 8200000,
+          "ecosystemConditionScore": 58,
+          "notes": "Urban expansion and catchment stress near the city.",
+          "children": [
+            {
+              "level": "Constituency",
+              "code": "lusaka-central-1",
+              "name": "Lusaka Central Constituency",
+              "latitude": -15.4072,
+              "longitude": 28.2878,
+              "waterStressPercent": 54,
+              "forestCoverPercent": 15,
+              "tourismRevenue": 3200000,
+              "ecosystemConditionScore": 56,
+              "notes": "Dense settlement with limited green space.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "lusaka-central-1-ward-1",
+                  "name": "Ward 1",
+                  "latitude": -15.4202,
+                  "longitude": 28.2951,
+                  "waterStressPercent": 57,
+                  "forestCoverPercent": 12,
+                  "tourismRevenue": 900000,
+                  "ecosystemConditionScore": 52,
+                  "notes": "High abstraction and low riparian cover."
+                },
+                {
+                  "level": "Ward",
+                  "code": "lusaka-central-1-ward-2",
+                  "name": "Ward 2",
+                  "latitude": -15.3984,
+                  "longitude": 28.2769,
+                  "waterStressPercent": 49,
+                  "forestCoverPercent": 17,
+                  "tourismRevenue": 700000,
+                  "ecosystemConditionScore": 55,
+                  "notes": "Mixed residential and commercial land use."
+                }
+              ]
+            },
+            {
+              "level": "Constituency",
+              "code": "lusaka-central-2",
+              "name": "Matero Constituency",
+              "latitude": -15.4233,
+              "longitude": 28.2505,
+              "waterStressPercent": 50,
+              "forestCoverPercent": 16,
+              "tourismRevenue": 2900000,
+              "ecosystemConditionScore": 57,
+              "notes": "Residential growth and stormwater runoff pressure.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "lusaka-central-2-ward-1",
+                  "name": "Ward 3",
+                  "latitude": -15.4318,
+                  "longitude": 28.2407,
+                  "waterStressPercent": 52,
+                  "forestCoverPercent": 14,
+                  "tourismRevenue": 600000,
+                  "ecosystemConditionScore": 53,
+                  "notes": "High surface runoff and low canopy cover."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": "District",
+          "code": "kafue",
+          "name": "Kafue District",
+          "latitude": -15.7699,
+          "longitude": 28.1818,
+          "waterStressPercent": 36,
+          "forestCoverPercent": 34,
+          "tourismRevenue": 5600000,
+          "ecosystemConditionScore": 67,
+          "notes": "River basin assets and peri-urban agricultural pressure.",
+          "children": [
+            {
+              "level": "Constituency",
+              "code": "kafue-1",
+              "name": "Kafue Constituency",
+              "latitude": -15.7806,
+              "longitude": 28.1757,
+              "waterStressPercent": 38,
+              "forestCoverPercent": 32,
+              "tourismRevenue": 2100000,
+              "ecosystemConditionScore": 64,
+              "notes": "Agricultural interface with river management needs.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "kafue-1-ward-1",
+                  "name": "Ward 1",
+                  "latitude": -15.7934,
+                  "longitude": 28.1629,
+                  "waterStressPercent": 39,
+                  "forestCoverPercent": 30,
+                  "tourismRevenue": 450000,
+                  "ecosystemConditionScore": 63,
+                  "notes": "Irrigation pressure along the floodplain."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Province",
+      "code": "luapula",
+      "name": "Luapula Province",
+      "latitude": -11.2000,
+      "longitude": 29.8000,
+      "waterStressPercent": 28,
+      "forestCoverPercent": 46,
+      "tourismRevenue": 22600000,
+      "ecosystemConditionScore": 73,
+      "notes": "Wetlands, floodplains, fisheries, and lake-edge ecosystems are central to livelihoods.",
+      "children": [
+        {
+          "level": "District",
+          "code": "mansa",
+          "name": "Mansa District",
+          "latitude": -11.2000,
+          "longitude": 28.8840,
+          "waterStressPercent": 26,
+          "forestCoverPercent": 49,
+          "tourismRevenue": 7400000,
+          "ecosystemConditionScore": 75,
+          "notes": "Bangweulu wetland systems support fishing, flood retention, and bird tourism.",
+          "children": [
+            {
+              "level": "Constituency",
+              "code": "mansa-central",
+              "name": "Mansa Central Constituency",
+              "latitude": -11.2013,
+              "longitude": 28.8871,
+              "waterStressPercent": 25,
+              "forestCoverPercent": 44,
+              "tourismRevenue": 2800000,
+              "ecosystemConditionScore": 74,
+              "notes": "Urban-wetland interface with strong dependence on wetland filtration.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "mansa-central-ward-1",
+                  "name": "Ward 1",
+                  "latitude": -11.2086,
+                  "longitude": 28.8764,
+                  "waterStressPercent": 24,
+                  "forestCoverPercent": 42,
+                  "tourismRevenue": 710000,
+                  "ecosystemConditionScore": 73,
+                  "notes": "Households and small businesses rely on wetland water purification."
+                },
+                {
+                  "level": "Ward",
+                  "code": "mansa-central-ward-2",
+                  "name": "Ward 2",
+                  "latitude": -11.1931,
+                  "longitude": 28.9003,
+                  "waterStressPercent": 27,
+                  "forestCoverPercent": 46,
+                  "tourismRevenue": 640000,
+                  "ecosystemConditionScore": 74,
+                  "notes": "Riparian settlements with fish trade and seasonal floodplain use."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": "District",
+          "code": "samfya",
+          "name": "Samfya District",
+          "latitude": -11.3575,
+          "longitude": 29.5568,
+          "waterStressPercent": 29,
+          "forestCoverPercent": 43,
+          "tourismRevenue": 6900000,
+          "ecosystemConditionScore": 71,
+          "notes": "Lake shore wetlands and tourism along the Bangweulu and Mweru corridor.",
+          "children": [
+            {
+              "level": "Constituency",
+              "code": "samfya-1",
+              "name": "Samfya Constituency",
+              "latitude": -11.3561,
+              "longitude": 29.5512,
+              "waterStressPercent": 30,
+              "forestCoverPercent": 41,
+              "tourismRevenue": 2600000,
+              "ecosystemConditionScore": 70,
+              "notes": "Fishing communities and lake access depend on wetland health.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "samfya-1-ward-1",
+                  "name": "Ward 1",
+                  "latitude": -11.3439,
+                  "longitude": 29.5441,
+                  "waterStressPercent": 31,
+                  "forestCoverPercent": 39,
+                  "tourismRevenue": 580000,
+                  "ecosystemConditionScore": 69,
+                  "notes": "Beachfront trade and fish landing sites are tied to lake-edge wetlands."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Province",
+      "code": "copperbelt",
+      "name": "Copperbelt Province",
+      "latitude": -12.9587,
+      "longitude": 27.8668,
+      "waterStressPercent": 43,
+      "forestCoverPercent": 31,
+      "tourismRevenue": 14300000,
+      "ecosystemConditionScore": 64,
+      "notes": "Mining and industrial land use shape the natural capital profile.",
+      "children": [
+        {
+          "level": "District",
+          "code": "ndola",
+          "name": "Ndola District",
+          "latitude": -12.9587,
+          "longitude": 28.6366,
+          "waterStressPercent": 46,
+          "forestCoverPercent": 28,
+          "tourismRevenue": 6800000,
+          "ecosystemConditionScore": 62,
+          "notes": "Industrial demand and settlement expansion.",
+          "children": [
+            {
+              "level": "Constituency",
+              "code": "ndola-1",
+              "name": "Ndola Constituency",
+              "latitude": -12.9661,
+              "longitude": 28.6360,
+              "waterStressPercent": 48,
+              "forestCoverPercent": 25,
+              "tourismRevenue": 2200000,
+              "ecosystemConditionScore": 60,
+              "notes": "Urban water demand is dominant.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "ndola-1-ward-1",
+                  "name": "Ward 1",
+                  "latitude": -12.9722,
+                  "longitude": 28.6302,
+                  "waterStressPercent": 50,
+                  "forestCoverPercent": 24,
+                  "tourismRevenue": 540000,
+                  "ecosystemConditionScore": 59,
+                  "notes": "Built-up ward with low tree cover."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": "District",
+          "code": "kitwe",
+          "name": "Kitwe District",
+          "latitude": -12.7990,
+          "longitude": 28.2474,
+          "waterStressPercent": 41,
+          "forestCoverPercent": 29,
+          "tourismRevenue": 5100000,
+          "ecosystemConditionScore": 63,
+          "notes": "Mining tailings and urban pressure require continued monitoring.",
+          "children": [
+            {
+              "level": "Constituency",
+              "code": "kitwe-1",
+              "name": "Kitwe Constituency",
+              "latitude": -12.8042,
+              "longitude": 28.2306,
+              "waterStressPercent": 43,
+              "forestCoverPercent": 27,
+              "tourismRevenue": 1800000,
+              "ecosystemConditionScore": 61,
+              "notes": "Industrial and household demand intersect.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "kitwe-1-ward-1",
+                  "name": "Ward 1",
+                  "latitude": -12.8114,
+                  "longitude": 28.2188,
+                  "waterStressPercent": 45,
+                  "forestCoverPercent": 26,
+                  "tourismRevenue": 390000,
+                  "ecosystemConditionScore": 60,
+                  "notes": "Mixed residential and industrial land use."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Province",
+      "code": "southern",
+      "name": "Southern Province",
+      "latitude": -16.1232,
+      "longitude": 26.3894,
+      "waterStressPercent": 39,
+      "forestCoverPercent": 27,
+      "tourismRevenue": 21200000,
+      "ecosystemConditionScore": 66,
+      "notes": "Tourism, agriculture, and riverine wetlands shape the natural capital profile.",
+      "children": [
+        {
+          "level": "District",
+          "code": "livingstone",
+          "name": "Livingstone District",
+          "latitude": -17.8500,
+          "longitude": 25.8500,
+          "waterStressPercent": 42,
+          "forestCoverPercent": 21,
+          "tourismRevenue": 10800000,
+          "ecosystemConditionScore": 63,
+          "notes": "Tourism gateway with river and wetland assets near major visitor corridors.",
+          "children": [
+            {
+              "level": "Constituency",
+              "code": "livingstone-central",
+              "name": "Livingstone Central Constituency",
+              "latitude": -17.8538,
+              "longitude": 25.8527,
+              "waterStressPercent": 43,
+              "forestCoverPercent": 20,
+              "tourismRevenue": 4200000,
+              "ecosystemConditionScore": 62,
+              "notes": "Urban tourism and riparian ecosystem pressure near the falls.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "livingstone-central-ward-1",
+                  "name": "Ward 1",
+                  "latitude": -17.8604,
+                  "longitude": 25.8442,
+                  "waterStressPercent": 44,
+                  "forestCoverPercent": 18,
+                  "tourismRevenue": 940000,
+                  "ecosystemConditionScore": 61,
+                  "notes": "Tourism services and river-front settlement."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Province",
+      "code": "eastern",
+      "name": "Eastern Province",
+      "latitude": -13.1446,
+      "longitude": 32.6358,
+      "waterStressPercent": 37,
+      "forestCoverPercent": 33,
+      "tourismRevenue": 17800000,
+      "ecosystemConditionScore": 69,
+      "notes": "Miombo, agricultural landscapes, and protected-area corridors drive ecosystem value.",
+      "children": [
+        {
+          "level": "District",
+          "code": "chipata",
+          "name": "Chipata District",
+          "latitude": -13.6333,
+          "longitude": 32.6500,
+          "waterStressPercent": 41,
+          "forestCoverPercent": 29,
+          "tourismRevenue": 7600000,
+          "ecosystemConditionScore": 66,
+          "notes": "Agriculture and peri-urban growth shape woodland cover and water demand.",
+          "children": [
+            {
+              "level": "Constituency",
+              "code": "chipata-central",
+              "name": "Chipata Central Constituency",
+              "latitude": -13.6378,
+              "longitude": 32.6436,
+              "waterStressPercent": 42,
+              "forestCoverPercent": 27,
+              "tourismRevenue": 2900000,
+              "ecosystemConditionScore": 65,
+              "notes": "Urban and peri-urban services require water quality protection.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "chipata-central-ward-1",
+                  "name": "Ward 1",
+                  "latitude": -13.6465,
+                  "longitude": 32.6577,
+                  "waterStressPercent": 43,
+                  "forestCoverPercent": 26,
+                  "tourismRevenue": 620000,
+                  "ecosystemConditionScore": 64,
+                  "notes": "Smallholder farming and market access depend on reliable water."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Province",
+      "code": "northern",
+      "name": "Northern Province",
+      "latitude": -10.3840,
+      "longitude": 31.3330,
+      "waterStressPercent": 31,
+      "forestCoverPercent": 47,
+      "tourismRevenue": 19600000,
+      "ecosystemConditionScore": 72,
+      "notes": "Wetlands, forests, and lake-shore systems support fisheries and biodiversity.",
+      "children": [
+        {
+          "level": "District",
+          "code": "kasama",
+          "name": "Kasama District",
+          "latitude": -10.2000,
+          "longitude": 31.2000,
+          "waterStressPercent": 33,
+          "forestCoverPercent": 45,
+          "tourismRevenue": 6400000,
+          "ecosystemConditionScore": 70,
+          "notes": "Wetland corridors and forest patches provide water regulation around the district.",
+          "children": [
+            {
+              "level": "Constituency",
+              "code": "kasama-central",
+              "name": "Kasama Central Constituency",
+              "latitude": -10.2056,
+              "longitude": 31.1912,
+              "waterStressPercent": 34,
+              "forestCoverPercent": 43,
+              "tourismRevenue": 2400000,
+              "ecosystemConditionScore": 69,
+              "notes": "Markets, institutions, and wetlands interact in a peri-urban setting.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "kasama-central-ward-1",
+                  "name": "Ward 1",
+                  "latitude": -10.2131,
+                  "longitude": 31.1835,
+                  "waterStressPercent": 35,
+                  "forestCoverPercent": 41,
+                  "tourismRevenue": 520000,
+                  "ecosystemConditionScore": 68,
+                  "notes": "Riparian gardens and small businesses rely on local watershed health."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Province",
+      "code": "western",
+      "name": "Western Province",
+      "latitude": -15.4067,
+      "longitude": 23.1239,
+      "waterStressPercent": 34,
+      "forestCoverPercent": 41,
+      "tourismRevenue": 14800000,
+      "ecosystemConditionScore": 70,
+      "notes": "Floodplains and wetland systems are central to fisheries, grazing, and flood buffering.",
+      "children": [
+        {
+          "level": "District",
+          "code": "mongu",
+          "name": "Mongu District",
+          "latitude": -15.2482,
+          "longitude": 23.1302,
+          "waterStressPercent": 35,
+          "forestCoverPercent": 39,
+          "tourismRevenue": 5900000,
+          "ecosystemConditionScore": 69,
+          "notes": "Barotse floodplains shape the local economy and settlement pattern.",
+          "children": [
+            {
+              "level": "Constituency",
+              "code": "mongu-central",
+              "name": "Mongu Central Constituency",
+              "latitude": -15.2541,
+              "longitude": 23.1288,
+              "waterStressPercent": 36,
+              "forestCoverPercent": 38,
+              "tourismRevenue": 2100000,
+              "ecosystemConditionScore": 68,
+              "notes": "Floodplain livelihoods and seasonal water management are core issues.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "mongu-central-ward-1",
+                  "name": "Ward 1",
+                  "latitude": -15.2622,
+                  "longitude": 23.1211,
+                  "waterStressPercent": 37,
+                  "forestCoverPercent": 36,
+                  "tourismRevenue": 480000,
+                  "ecosystemConditionScore": 67,
+                  "notes": "Wetland grazing and flood recession farming influence household income."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Province",
+      "code": "north-western",
+      "name": "North-Western Province",
+      "latitude": -12.0920,
+      "longitude": 25.0952,
+      "waterStressPercent": 29,
+      "forestCoverPercent": 52,
+      "tourismRevenue": 16200000,
+      "ecosystemConditionScore": 74,
+      "notes": "High forest cover and protected landscapes support biodiversity and watershed protection.",
+      "children": [
+        {
+          "level": "District",
+          "code": "solwezi",
+          "name": "Solwezi District",
+          "latitude": -12.1761,
+          "longitude": 26.3650,
+          "waterStressPercent": 31,
+          "forestCoverPercent": 49,
+          "tourismRevenue": 6200000,
+          "ecosystemConditionScore": 72,
+          "notes": "Mining and expanding settlements coexist with intact woodland and water resources.",
+          "children": [
+            {
+              "level": "Constituency",
+              "code": "solwezi-central",
+              "name": "Solwezi Central Constituency",
+              "latitude": -12.1828,
+              "longitude": 26.3858,
+              "waterStressPercent": 32,
+              "forestCoverPercent": 47,
+              "tourismRevenue": 2300000,
+              "ecosystemConditionScore": 71,
+              "notes": "Urban water demand and watershed management are key priorities.",
+              "children": [
+                {
+                  "level": "Ward",
+                  "code": "solwezi-central-ward-1",
+                  "name": "Ward 1",
+                  "latitude": -12.1911,
+                  "longitude": 26.3998,
+                  "waterStressPercent": 33,
+                  "forestCoverPercent": 45,
+                  "tourismRevenue": 530000,
+                  "ecosystemConditionScore": 70,
+                  "notes": "Residential and commercial land use pressures are rising."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "AggregationId": "AGG-SOYA-2026",
+    "NationalTarget": "50,000 Tons of Soya Bean for Processing",
+    "StarterPackId": "SP-SOYA-001",
+    "ProductionMetric": "Tons of Soya/Yr",
+    "CapacityPerPack": 12.0,
+    "RequiredPacks": 4167,
+    "AllocatedPacks": 3200,
+    "ProjectedOutput": 38400.0,
+    "Status": "Deploying"
+  },
+  {
+    "AggregationId": "AGG-DESKS-2026",
+    "NationalTarget": "100,000 School Desks for General Education",
+    "StarterPackId": "SP-FURNITURE-001",
+    "ProductionMetric": "Desks/Month",
+    "CapacityPerPack": 150,
+    "RequiredPacks": 667,
+    "AllocatedPacks": 667,
+    "ProjectedOutput": 100050,
+    "Status": "Fulfilled"
+  },
+  {
+    "AggregationId": "AGG-OIL-2026",
+    "NationalTarget": "5,000,000 Litres of Cooking Oil (Import Substitution)",
+    "StarterPackId": "SP-COOKINGOIL-001",
+    "ProductionMetric": "Litres of Cooking Oil/Month",
+    "CapacityPerPack": 1200,
+    "RequiredPacks": 4167,
+    "AllocatedPacks": 1200,
+    "ProjectedOutput": 1440000,
+    "Status": "Deploying"
+  }
+]
