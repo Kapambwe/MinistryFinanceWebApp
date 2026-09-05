@@ -1,0 +1,84 @@
+{
+  "formId": "sars-it77tr",
+  "formName": "SARS IT77TR - Application for Registration as an Income Taxpayer (Trust)",
+  "sections": [
+    {
+      "sectionTitle": "1. TRUST CORE PROFILE",
+      "fields": [
+        {
+          "id": "trustName",
+          "label": "Registered Name of the Trust:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TrustRegistration.Core.TrustName"
+        },
+        {
+          "id": "masterReferenceNumber",
+          "label": "Master of the High Court Reference Number (e.g., IT1234/2026):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TrustRegistration.Core.MasterRefNo"
+        },
+        {
+          "id": "trustType",
+          "label": "Type of Trust (Family Trust / Testamentary Trust / Inter Vivos / Special Trust):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TrustRegistration.Core.TrustType"
+        },
+        {
+          "id": "dateEstablished",
+          "label": "Date Trust Created / Registered (YYYY-MM-DD):",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "TrustRegistration.Core.EstablishmentDate"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. MAIN TRUSTEE / REPRESENTATIVE TAXPAYER",
+      "fields": [
+        {
+          "id": "mainTrusteeFullName",
+          "label": "Full Legal Name of Representative Trustee / Administrator:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TrustRegistration.Representative.FullName"
+        },
+        {
+          "id": "mainTrusteeIdNo",
+          "label": "Representative ID / Passport Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TrustRegistration.Representative.IdNumber"
+        },
+        {
+          "id": "representativeEmail",
+          "label": "Representative Contact Email Address:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TrustRegistration.Representative.Email"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. DECLARATION OF AUTHORIZATION",
+      "fields": [
+        {
+          "id": "trusteeSignature",
+          "label": "Signature of Authorised Trustee:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TrustRegistration.Declaration.Signature"
+        },
+        {
+          "id": "executionDate",
+          "label": "Date of Declaration Execution:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "TrustRegistration.Declaration.Date"
+        }
+      ]
+    }
+  ]
+}

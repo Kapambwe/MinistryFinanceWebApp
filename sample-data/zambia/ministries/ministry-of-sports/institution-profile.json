@@ -1,5 +1,24 @@
-﻿{
-    "countryName":  "Zambia",
-    "institutionType":  "ministries",
-    "institutionName":  "ministry-of-sports"
+{
+  "countryName": "Zambia",
+  "institutionType": "ministries",
+  "institutionName": "ministry-of-sports",
+  "AccessiblePages": [
+    "/",
+    "/dashboard",
+    "/budget-preparation",
+    "/budget/execution",
+    "/revenue/billing",
+    "/revenue/collections",
+    "/ar/dashboard",
+    "/ar/billing",
+    "/payments/requests",
+    "/accounting/journal-entries",
+    "/accounting/trial-balance",
+    "/accounting/operations",
+    "/accounting/coa",
+    "/accounting/chart-of-accounts",
+    "/hrpayroll",
+    "/assets",
+    "/workflow/approvals"
+  ]
 }

@@ -1,0 +1,110 @@
+{
+  "formId": "sars-vat201",
+  "formName": "SARS VAT201 - Vendor Declaration Form",
+  "sections": [
+    {
+      "sectionTitle": "1. VENDOR IDENTIFICATION & PERIOD",
+      "fields": [
+        {
+          "id": "vatRegistrationNumber",
+          "label": "VAT Registration Number (Starts with '4'):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Vat201.Vendor.VatRefNo"
+        },
+        {
+          "id": "vendorTradingName",
+          "label": "Trading Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Vat201.Vendor.TradingName"
+        },
+        {
+          "id": "taxPeriod",
+          "label": "Tax Period (e.g., 2026/03):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Vat201.Period.TaxPeriod"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. OUTPUT TAX (Supplies Made)",
+      "fields": [
+        {
+          "id": "standardRatedSupplies",
+          "label": "Standard Rated Supplies (Excluding VAT) (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Vat201.OutputTax.StandardRatedSupplies"
+        },
+        {
+          "id": "outputTaxAmount",
+          "label": "Output Tax Calculated (15%):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Vat201.OutputTax.TaxAmount"
+        },
+        {
+          "id": "zeroRatedSupplies",
+          "label": "Zero Rated Supplies:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Vat201.OutputTax.ZeroRatedSupplies"
+        },
+        {
+          "id": "exemptSupplies",
+          "label": "Exempt Supplies:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Vat201.OutputTax.ExemptSupplies"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. INPUT TAX (Capital and Goods/Services Imported or Capital Domestic)",
+      "fields": [
+        {
+          "id": "capitalGoodsCapitalPurchases",
+          "label": "Input Tax: Capital Goods/Services Domestic (ZAR):",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Vat201.InputTax.CapitalGoodsDomestic"
+        },
+        {
+          "id": "otherGoodsDomestic",
+          "label": "Input Tax: Other Goods/Services Domestic:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Vat201.InputTax.OtherGoodsDomestic"
+        },
+        {
+          "id": "importedGoodsTax",
+          "label": "Input Tax: Goods Imported:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Vat201.InputTax.ImportedGoods"
+        },
+        {
+          "id": "totalInputTax",
+          "label": "Total Input Tax Deduction Amount:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Vat201.InputTax.TotalInputTax"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. VAT CALCULATION SUMMARY",
+      "fields": [
+        {
+          "id": "netVatPayableRefundable",
+          "label": "Net VAT Due Payable / (Refundable) (Output minus Input):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Vat201.Summary.NetVatBalance"
+        }
+      ]
+    }
+  ]
+}

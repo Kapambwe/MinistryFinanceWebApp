@@ -1,0 +1,91 @@
+{
+  "formId": "zra-taxpayer-details-update",
+  "formName": "Zambia Revenue Authority Taxpayer Details Update & Maintenance Form",
+  "sections": [
+    {
+      "sectionTitle": "SECTION A: TAXPAYER IDENTIFICATION",
+      "fields": [
+        {
+          "id": "tpin",
+          "label": "Taxpayer Identification Number (TPIN):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.tpin"
+        },
+        {
+          "id": "registeredName",
+          "label": "Registered Name of Individual or Corporate Entity:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.registeredName"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "SECTION B: BANK PROFILE MAINTENANCE",
+      "fields": [
+        {
+          "id": "bankName",
+          "label": "Bank Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Account.Asset.PrimaryName"
+        },
+        {
+          "id": "branchName",
+          "label": "Branch Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.branchName"
+        },
+        {
+          "id": "accountNumber",
+          "label": "Bank Account Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.accountNumber"
+        },
+        {
+          "id": "accountType",
+          "label": "Account Type (Savings / Current):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.accountType"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "SECTION C: CONTACT & AMENDMENT AUTHORIZATION",
+      "fields": [
+        {
+          "id": "updatedMobileNumber",
+          "label": "New / Updated Primary Mobile Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.updatedMobileNumber"
+        },
+        {
+          "id": "updatedEmailAddress",
+          "label": "New / Updated Primary Email Address:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.updatedEmailAddress"
+        },
+        {
+          "id": "authorizingOfficerSignature",
+          "label": "Signature of Authorizing Officer / Taxpayer:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.authorizingOfficerSignature"
+        },
+        {
+          "id": "updateSubmissionDate",
+          "label": "Date of Update Request:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "SchemaLocal.updateSubmissionDate"
+        }
+      ]
+    }
+  ]
+}

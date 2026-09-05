@@ -1,0 +1,84 @@
+{
+  "formId": "sars-tt03",
+  "formName": "SARS TT03 - Turnover Tax Return for Micro Businesses",
+  "sections": [
+    {
+      "sectionTitle": "1. MICRO BUSINESS PARTICULARS",
+      "fields": [
+        {
+          "id": "taxReferenceNumber",
+          "label": "Turnover Tax Reference Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Tt03.Business.TaxReferenceNumber"
+        },
+        {
+          "id": "taxYear",
+          "label": "Tax Year of Assessment:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Tt03.Business.TaxYear"
+        },
+        {
+          "id": "entityName",
+          "label": "Name of Micro Business / Sole Proprietor:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Tt03.Business.EntityName"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. TAXABLE TURNOVER DECLARATION",
+      "fields": [
+        {
+          "id": "grossTradingReceipts",
+          "label": "Gross Cash Receipts from Trading/Services (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Tt03.Turnover.TradingReceipts"
+        },
+        {
+          "id": "assetDisposalReceipts",
+          "label": "50% of Gross Receipts from Disposal of Capital Assets:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Tt03.Turnover.AssetDisposals"
+        },
+        {
+          "id": "totalTaxableTurnover",
+          "label": "Total Taxable Turnover (Must be under R1,000,000 threshold):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Tt03.Turnover.TotalTaxable"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. TAX LIABILITY AND PAYMENTS",
+      "fields": [
+        {
+          "id": "turnoverTaxLiability",
+          "label": "Calculated Turnover Tax Liability (Based on statutory micro business rates):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Tt03.Calculation.TaxLiability"
+        },
+        {
+          "id": "lessInterimPayments",
+          "label": "Less: Interim Turnover Tax Payments previously made for this tax year:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Tt03.Calculation.InterimPayments"
+        },
+        {
+          "id": "netTurnoverTaxDue",
+          "label": "Net Turnover Tax Payable / (Refundable):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Tt03.Calculation.NetDue"
+        }
+      ]
+    }
+  ]
+}

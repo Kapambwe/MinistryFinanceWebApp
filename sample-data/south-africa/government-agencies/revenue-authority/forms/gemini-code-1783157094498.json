@@ -1,0 +1,124 @@
+{
+  "formId": "sars-itr12",
+  "formName": "SARS ITR12 - Income Tax Return for Individuals",
+  "sections": [
+    {
+      "sectionTitle": "1. TAXPAYER IDENTIFICATION & PERIOD",
+      "fields": [
+        {
+          "id": "taxReferenceNumber",
+          "label": "Tax Reference Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr12.Taxpayer.TaxReferenceNumber"
+        },
+        {
+          "id": "taxYear",
+          "label": "Tax Year of Assessment:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr12.Taxpayer.TaxYear"
+        },
+        {
+          "id": "surname",
+          "label": "Surname:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr12.Taxpayer.Surname"
+        },
+        {
+          "id": "firstNames",
+          "label": "First Names:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr12.Taxpayer.FirstNames"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. INCOME DECLARATION WIZARD QUESTIONS",
+      "fields": [
+        {
+          "id": "hasSalariesRemuneration",
+          "label": "Did you receive any remuneration/salary (IRP5/IT3a)? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr12.Wizard.HasSalaries"
+        },
+        {
+          "id": "hasInvestmentIncome",
+          "label": "Did you accrue any local/foreign interest or dividends (IT3b)? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr12.Wizard.HasInvestmentIncome"
+        },
+        {
+          "id": "hasLocalBusinessIncome",
+          "label": "Did you derive any income from local business activities / sole proprietorship? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr12.Wizard.HasLocalBusiness"
+        },
+        {
+          "id": "hasCapitalGains",
+          "label": "Did you have any capital gain/loss transactions (IT3c)? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr12.Wizard.HasCapitalGains"
+        },
+        {
+          "id": "hasFarmingIncome",
+          "label": "Did you carry out any farming operations? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr12.Wizard.HasFarming"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. INCOME DEDUCTIONS & ALLOWANCES",
+      "fields": [
+        {
+          "id": "retirementAnnuityContributions",
+          "label": "Total Retirement Annuity Fund Contributions (ZAR):",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Itr12.Deductions.RetirementAnnuity"
+        },
+        {
+          "id": "medicalSchemeContributions",
+          "label": "Total Medical Scheme Contributions Paid Directly:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Itr12.Deductions.MedicalContributions"
+        },
+        {
+          "id": "numberOfDependents",
+          "label": "Number of Registered Dependents on Medical Scheme:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Itr12.Deductions.MedicalDependents"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. DECLARATION",
+      "fields": [
+        {
+          "id": "signature",
+          "label": "I declare that the info provided is true and correct (Signature Name):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr12.Declaration.Signature"
+        },
+        {
+          "id": "date",
+          "label": "Date:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "Itr12.Declaration.Date"
+        }
+      ]
+    }
+  ]
+}

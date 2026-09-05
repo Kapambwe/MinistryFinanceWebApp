@@ -1,0 +1,84 @@
+{
+  "formId": "sars-it14sd",
+  "formName": "SARS IT14SD - Company Income Tax Supplementary Declaration",
+  "sections": [
+    {
+      "sectionTitle": "1. CASE & ENQUIRY SPECIFICATIONS",
+      "fields": [
+        {
+          "id": "caseNumber",
+          "label": "SARS Verification / Audit Case Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "It14sd.Case.CaseNumber"
+        },
+        {
+          "id": "companyName",
+          "label": "Company Registered Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "It14sd.Case.CompanyName"
+        },
+        {
+          "id": "taxReferenceNumber",
+          "label": "Tax Reference Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "It14sd.Case.TaxReferenceNumber"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. FINANCIAL STATEMENT RECONCILIATIONS",
+      "fields": [
+        {
+          "id": "financialTurnover",
+          "label": "Total Turnover per Financial Statements (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "It14sd.Reconciliation.FinancialTurnover"
+        },
+        {
+          "id": "vatDeclaredTurnover",
+          "label": "Total Output Sales declared across VAT201 returns for the year:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "It14sd.Reconciliation.VatTurnover"
+        },
+        {
+          "id": "turnoverVariance",
+          "label": "Unreconciled Variance (Financial Statements vs VAT Declarations):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "It14sd.Reconciliation.TurnoverVariance"
+        },
+        {
+          "id": "payrollCostPerFinancials",
+          "label": "Total Salaries & Wages Expense per Financial Statements:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "It14sd.Reconciliation.FinancialPayroll"
+        },
+        {
+          "id": "emp201GrossRemuneration",
+          "label": "Total Gross Remuneration declared across monthly EMP201 returns:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "It14sd.Reconciliation.Emp201Payroll"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. RECONCILIATION EXPLANATIONS",
+      "fields": [
+        {
+          "id": "varianceExplanation",
+          "label": "Provide detailed reasons for any variances declared above:",
+          "type": "textarea",
+          "required": false,
+          "bindingProperty": "It14sd.Explanations.VarianceReason"
+        }
+      ]
+    }
+  ]
+}

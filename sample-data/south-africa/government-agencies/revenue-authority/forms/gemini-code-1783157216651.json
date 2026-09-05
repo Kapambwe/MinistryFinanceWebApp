@@ -1,0 +1,77 @@
+{
+  "formId": "sars-it12ei",
+  "formName": "SARS IT12EI - Return of Income for Tax Exempt Organisations",
+  "sections": [
+    {
+      "sectionTitle": "1. ORGANISATION PARTICULARS",
+      "fields": [
+        {
+          "id": "taxReferenceNumber",
+          "label": "Tax Reference Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "It12ei.Organisation.TaxReferenceNumber"
+        },
+        {
+          "id": "pboReferenceNumber",
+          "label": "Public Benefit Organisation (PBO) / Section 18A Exemption Number:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "It12ei.Organisation.PboNumber"
+        },
+        {
+          "id": "organisationName",
+          "label": "Registered Legal Name of Organisation:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "It12ei.Organisation.LegalName"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. REVENUE AND RECEIPTS",
+      "fields": [
+        {
+          "id": "donationsReceived",
+          "label": "Total Local & Foreign Donations / Gratuities Received (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "It12ei.Financials.Donations"
+        },
+        {
+          "id": "tradingIncome",
+          "label": "Gross Receipts from Business / Commercial Trading Activities:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "It12ei.Financials.TradingIncome"
+        },
+        {
+          "id": "exemptReceipts",
+          "label": "Amount of Receipts Exempt from Tax under Section 10(1)(cN):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "It12ei.Financials.ExemptReceipts"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. DECLARATION OF COMPLIANCE",
+      "fields": [
+        {
+          "id": "representativeName",
+          "label": "Full Name of Representative / Trustee / Public Officer:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "It12ei.Declaration.RepresentativeName"
+        },
+        {
+          "id": "complianceConfirmation",
+          "label": "I confirm the organization operated strictly within its tax exemption mandates (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "It12ei.Declaration.IsCompliant"
+        }
+      ]
+    }
+  ]
+}

@@ -10,7 +10,31 @@
     "MOF.AccessAreas.Utilities.View",
     "MOF.AccessAreas.Diagnostics.View",
     "MOF.AccessAreas.AI.View",
-    "MOF.Dashboard.View"
+    "MOF.Dashboard.View",
+    "MOF.AccessAreas.Applications.View",
+    "MOF.AccessAreas.Operations.View",
+    "MOF.AccessAreas.Operations.Manage",
+    "MOF.AccessAreas.Operations.Meetings.View",
+    "MOF.AccessAreas.Operations.Meetings.Manage",
+    "MOF.Revenue.ViewAccountsReceivable",
+    "MOF.Accounting.View",
+    "MOF.Accounting.ViewAccountingRecords",
+    "MOF.Accounting.CreateJournalEntry",
+    "MOF.Accounting.ManageJournalEntries",
+    "MOF.Accounting.ViewOperations",
+    "MOF.Accounting.ViewPeriods",
+    "MOF.Accounting.ManagePeriods",
+    "MOF.Accounting.ViewFinancialStatements",
+    "MOF.Accounting.ViewSubledgers",
+    "MOF.Accounting.ViewControls",
+    "MOF.Accounting.ViewMultiCurrency",
+    "MOF.Accounting.ViewCoAGovernance",
+    "MOF.Accounting.ViewFundAccounting",
+    "MOF.ChartOfAccounts.View",
+    "MOF.HRPayroll.View",
+    "MOF.HRPayroll.ViewPayroll",
+    "MOF.HRPayroll.ManagePayroll",
+    "MOF.HRPayroll.ProcessPayroll"
   ],
   "EffectiveInstitutionPermissions": [
     "MOF.AccessAreas.Integration.View",
@@ -264,7 +288,12 @@
     "MOF.Assets.TrackAssets",
     "MOF.Zambia.FullAccess",
     "MOF.Revenue.ViewZRAIntegration",
-    "MOF.Revenue.ManageZRAIntegration"
+    "MOF.Revenue.ManageZRAIntegration",
+    "MOF.AccessAreas.Applications.View",
+    "MOF.AccessAreas.Operations.View",
+    "MOF.AccessAreas.Operations.Manage",
+    "MOF.AccessAreas.Operations.Meetings.View",
+    "MOF.AccessAreas.Operations.Meetings.Manage"
   ],
   "AccessiblePages": [
     "/",
@@ -301,7 +330,11 @@
     "/parliamentary",
     "/municipal-bonds",
     "/workflow",
-    "/integration"
+    "/integration",
+    "/ar/dashboard",
+    "/accounting/bank-reconciliation",
+    "/accounting/coa",
+    "/accounting/chart-of-accounts"
   ],
   "Roles": [
     {

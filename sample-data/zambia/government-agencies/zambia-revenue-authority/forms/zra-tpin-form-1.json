@@ -1,0 +1,218 @@
+{
+  "formId": "zra-tpin-form-1",
+  "formName": "Zambia Revenue Authority TPIN Form 1 - Application for TPIN and Tax Registration / Amendment",
+  "sections": [
+    {
+      "sectionTitle": "SECTION A: PURPOSE OF APPLICATION",
+      "fields": [
+        {
+          "id": "applicationPurpose",
+          "label": "Purpose of Application (New TPIN Registration / Amendment of Details):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.applicationPurpose"
+        },
+        {
+          "id": "existingTpin",
+          "label": "Existing TPIN (If amending details):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.existingTpin"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "SECTION B: TAXPAYER CLASSIFICATION",
+      "fields": [
+        {
+          "id": "taxpayerType",
+          "label": "Taxpayer Type (Individual / Limited Company / Partnership / Sole Proprietor / NGO or Club / Trust):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.taxpayerType"
+        },
+        {
+          "id": "reasonForTpin",
+          "label": "Reason for TPIN Request (Employment / Opening Bank Account / Motor Vehicle Registration / Property Transfer / Intending Trader):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.reasonForTpin"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "SECTION C: GENERAL DETAILS (All Applicants to Complete)",
+      "fields": [
+        {
+          "id": "taxpayerLegalName",
+          "label": "Full Name of Individual or Registered Legal Business Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.taxpayerLegalName"
+        },
+        {
+          "id": "tradingName",
+          "label": "Trading Name (If different from Legal Name):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.tradingName"
+        },
+        {
+          "id": "nrcOrPassportNo",
+          "label": "National Registration Card (NRC) No. / Passport No. (For Individuals):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.nrcOrPassportNo"
+        },
+        {
+          "id": "pacraRegistrationNo",
+          "label": "PACRA Registration Number (For Corporate Entities/Firms):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.pacraRegistrationNo"
+        },
+        {
+          "id": "dateOfBirthOrIncorporation",
+          "label": "Date of Birth (Individual) or Date of Incorporation/Registration (Business):",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "SchemaLocal.dateOfBirthOrIncorporation"
+        },
+        {
+          "id": "estimatedAnnualTurnover",
+          "label": "Estimated Annual Turnover (ZMW):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.estimatedAnnualTurnover"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "SECTION D: CONTACT & PHYSICAL ADDRESS DETAILS",
+      "fields": [
+        {
+          "id": "plotHouseNo",
+          "label": "Plot / House No.:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.plotHouseNo"
+        },
+        {
+          "id": "streetName",
+          "label": "Street Name:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.streetName"
+        },
+        {
+          "id": "area",
+          "label": "Area / Suburb:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.area"
+        },
+        {
+          "id": "town",
+          "label": "Town / City:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.town"
+        },
+        {
+          "id": "province",
+          "label": "Province:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.province"
+        },
+        {
+          "id": "pobox",
+          "label": "P.O. Box (Optional):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.pobox"
+        },
+        {
+          "id": "mobileNumber",
+          "label": "Primary Mobile Phone Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.mobileNumber"
+        },
+        {
+          "id": "emailAddress",
+          "label": "Active Email Address:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.emailAddress"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "SECTION E: TAX TYPE REGISTRATION (Optional Annexure Selection)",
+      "fields": [
+        {
+          "id": "registerIncomeTax",
+          "label": "Register for Income Tax? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.registerIncomeTax"
+        },
+        {
+          "id": "registerTurnoverTax",
+          "label": "Register for Turnover Tax? (Turnover below K800,000 per annum) (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.registerTurnoverTax"
+        },
+        {
+          "id": "registerPaye",
+          "label": "Register for Pay As You Earn (PAYE) as an Employer? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.registerPaye"
+        },
+        {
+          "id": "registerVat",
+          "label": "Register for Value Added Tax (VAT)? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.registerVat"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "SECTION F: DECLARATION OF TRUTH",
+      "fields": [
+        {
+          "id": "declarantFullName",
+          "label": "Full Name of Declarant (Authorized Officer / Representative):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.declarantFullName"
+        },
+        {
+          "id": "declarantDesignation",
+          "label": "Designation / Capacity (e.g., Self, Director, Partner, Agent):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.declarantDesignation"
+        },
+        {
+          "id": "declarationSignature",
+          "label": "Signature of Applicant / Representative:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.declarationSignature"
+        },
+        {
+          "id": "declarationDate",
+          "label": "Date:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "SchemaLocal.declarationDate"
+        }
+      ]
+    }
+  ]
+}

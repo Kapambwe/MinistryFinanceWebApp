@@ -1,0 +1,131 @@
+{
+  "formId": "sars-it77",
+  "formName": "SARS IT77 - Application for Registration as an Income Taxpayer (Individual)",
+  "sections": [
+    {
+      "sectionTitle": "1. PERSONAL PARTICULARS",
+      "fields": [
+        {
+          "id": "surname",
+          "label": "Surname:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "IndividualRegistration.Personal.Surname"
+        },
+        {
+          "id": "firstNames",
+          "label": "First Names:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "IndividualRegistration.Personal.FirstNames"
+        },
+        {
+          "id": "dateOfBirth",
+          "label": "Date of Birth (YYYY-MM-DD):",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "IndividualRegistration.Personal.DateOfBirth"
+        },
+        {
+          "id": "saIdNumber",
+          "label": "South African Identity Number:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "IndividualRegistration.Personal.SaIdNumber"
+        },
+        {
+          "id": "passportNumber",
+          "label": "Passport Number (If non-SA citizen):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "IndividualRegistration.Personal.PassportNumber"
+        },
+        {
+          "id": "passportCountry",
+          "label": "Passport Country of Issue:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "IndividualRegistration.Personal.PassportCountry"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. CONTACT & RESIDENTIAL SETTINGS",
+      "fields": [
+        {
+          "id": "cellphoneNumber",
+          "label": "Mobile Phone Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "IndividualRegistration.Contact.CellNumber"
+        },
+        {
+          "id": "emailAddress",
+          "label": "Email Address:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "IndividualRegistration.Contact.Email"
+        },
+        {
+          "id": "residentialAddressText",
+          "label": "Full Residential Address Lines:",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "IndividualRegistration.Contact.ResidentialAddress"
+        },
+        {
+          "id": "residentialPostalCode",
+          "label": "Postal Code:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "IndividualRegistration.Contact.PostalCode"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. EMPLOYMENT & INCOME PARAMETERS",
+      "fields": [
+        {
+          "id": "employmentStatus",
+          "label": "Employment Status (Employed / Unemployed / Sole Proprietor / Pensioner):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "IndividualRegistration.Income.EmploymentStatus"
+        },
+        {
+          "id": "dateEmployed",
+          "label": "Date of Current Employment / Commencement of Trade:",
+          "type": "date",
+          "required": false,
+          "bindingProperty": "IndividualRegistration.Income.CommencementDate"
+        },
+        {
+          "id": "estimatedAnnualIncome",
+          "label": "Estimated Annual Gross Income (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "IndividualRegistration.Income.EstimatedAnnualGross"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. DECLARATION",
+      "fields": [
+        {
+          "id": "applicantSignatureText",
+          "label": "Signature Name confirmation:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "IndividualRegistration.Declaration.SignatureName"
+        },
+        {
+          "id": "submissionDate",
+          "label": "Date:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "IndividualRegistration.Declaration.Date"
+        }
+      ]
+    }
+  ]
+}

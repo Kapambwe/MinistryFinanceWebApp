@@ -1,0 +1,91 @@
+{
+  "formId": "zra-ptt-declaration-form",
+  "formName": "Zambia Revenue Authority Property Transfer Tax Return",
+  "sections": [
+    {
+      "sectionTitle": "1. TRANSACTION PROFILES (Transferor & Transferee)",
+      "fields": [
+        {
+          "id": "transferorTpin",
+          "label": "Transferor (Seller) TPIN:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.transferorTpin"
+        },
+        {
+          "id": "transferorName",
+          "label": "Transferor Full Legal Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.transferorName"
+        },
+        {
+          "id": "transfereeTpin",
+          "label": "Transferee (Buyer) TPIN:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.transfereeTpin"
+        },
+        {
+          "id": "transfereeName",
+          "label": "Transferee Full Legal Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.transfereeName"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. PROPERTY CLASSIFICATION & CHARACTERISTICS",
+      "fields": [
+        {
+          "id": "propertyType",
+          "label": "Type of Property Being Transferred (Land / Company Shares / Intellectual Property Rights):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.propertyType"
+        },
+        {
+          "id": "propertyDescriptionDetails",
+          "label": "Detailed Description (e.g., Plot No, Title Number, Shares Transferred, IP Registration Number):",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "SchemaLocal.propertyDescriptionDetails"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. VALUATION & ASSESSMENT COMPUTATION",
+      "fields": [
+        {
+          "id": "agreedContractConsideration",
+          "label": "Agreed Contract Price / Consideration (ZMW):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.agreedContractConsideration"
+        },
+        {
+          "id": "openMarketValue",
+          "label": "Government / Open Market Valuation (If applicable):",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "SchemaLocal.openMarketValue"
+        },
+        {
+          "id": "realisedValueDetermined",
+          "label": "Realised Value for Tax Purposes (Higher of Price or Market Value):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.realisedValueDetermined"
+        },
+        {
+          "id": "propertyTransferTaxPayable",
+          "label": "Property Transfer Tax Payable (Calculated at statutory asset rate):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.propertyTransferTaxPayable"
+        }
+      ]
+    }
+  ]
+}

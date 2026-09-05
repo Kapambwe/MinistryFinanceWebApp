@@ -1,6 +1,26 @@
 {
-    "countryName":  "Zambia",
-    "institutionType":  "government-agencies",
-    "institutionName":  "bank-of-zambia",
-    "abbreviatedName":  "BOZ"
+  "countryName": "Zambia",
+  "institutionType": "government-agencies",
+  "institutionName": "bank-of-zambia",
+  "abbreviatedName": "BOZ",
+  "AccessiblePages": [
+    "/",
+    "/dashboard",
+    "/budget-preparation",
+    "/budget/execution",
+    "/revenue/billing",
+    "/revenue/collections",
+    "/ar/dashboard",
+    "/ar/billing",
+    "/payments/requests",
+    "/accounting",
+    "/accounting/trial-balance",
+    "/accounting/operations",
+    "/accounting/coa",
+    "/accounting/chart-of-accounts",
+    "/accounting/bank-reconciliation",
+    "/procurement/*",
+    "/tenders/*",
+    "/reports/agency"
+  ]
 }

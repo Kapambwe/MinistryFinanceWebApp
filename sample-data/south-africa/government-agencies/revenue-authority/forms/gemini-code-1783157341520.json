@@ -1,0 +1,91 @@
+{
+  "formId": "sars-irp5-it3a-certificate",
+  "formName": "SARS IRP5 / IT3(a) Employee Tax Certificate Structure",
+  "sections": [
+    {
+      "sectionTitle": "1. EMPLOYEE PERSONAL & TPIN ATTRIBUTES",
+      "fields": [
+        {
+          "id": "employeeTaxRefNo",
+          "label": "Employee Personal Income Tax Reference Number:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "Certificate.Employee.TaxReferenceNumber"
+        },
+        {
+          "id": "identityNumber",
+          "label": "ID Number / Passport Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Certificate.Employee.IdNumber"
+        },
+        {
+          "id": "surname",
+          "label": "Surname:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Certificate.Employee.Surname"
+        },
+        {
+          "id": "firstNames",
+          "label": "First Names:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Certificate.Employee.FirstNames"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. REMUNERATION CODES AND VALUES (Dynamic List)",
+      "fields": [
+        {
+          "id": "remunerationRecords",
+          "label": "Remuneration Item Entries:",
+          "type": "table",
+          "required": true,
+          "bindingProperty": "Certificate.RemunerationEntries",
+          "columns": [
+            {
+              "id": "sarsSourceCode",
+              "label": "SARS Source Code (e.g., 3601 for Salary, 3701 for Travel Allowance)",
+              "type": "text",
+              "required": true
+            },
+            {
+              "id": "monetaryValue",
+              "label": "Total Value for Period (ZAR)",
+              "type": "number",
+              "required": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. DEDUCTIONS AND EMPLOYEE TAX DEDUCTED SUMMARY",
+      "fields": [
+        {
+          "id": "totalGrossRemuneration",
+          "label": "Aggregate Gross Remuneration Total (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Certificate.Summary.GrossRemuneration"
+        },
+        {
+          "id": "payeDeductedCode4101",
+          "label": "Employees Tax Deducted (PAYE) - Source Code 4101 Value:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Certificate.Summary.PayeDeducted"
+        },
+        {
+          "id": "certificateType",
+          "label": "Certificate Classification Type (IRP5 with Tax Deducted / IT3(a) Zero Deductions):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Certificate.Summary.CertificateClassification"
+        }
+      ]
+    }
+  ]
+}

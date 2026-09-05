@@ -1,0 +1,91 @@
+{
+  "formId": "sars-tppoa",
+  "formName": "SARS TPPOA - Special Power of Attorney by Tax Practitioner",
+  "sections": [
+    {
+      "sectionTitle": "1. PRINCIPAL (TAXPAYER) AUTHORIZATION PROFILE",
+      "fields": [
+        {
+          "id": "principalTaxRefNo",
+          "label": "Principal (Taxpayer) Core Reference Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PowerOfAttorney.Principal.TaxRefNo"
+        },
+        {
+          "id": "principalLegalName",
+          "label": "Full Legal Name / Registered Corporate Name of Principal:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PowerOfAttorney.Principal.LegalName"
+        },
+        {
+          "id": "principalIdOrCipcNo",
+          "label": "Principal ID Number / Passport Number / Company Registration Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PowerOfAttorney.Principal.IdentityNo"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. APPOINTED TAX PRACTITIONER DETAILS",
+      "fields": [
+        {
+          "id": "practitionerSarsRegNo",
+          "label": "Tax Practitioner PR Registration Number (Starts with 'PR'):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PowerOfAttorney.Practitioner.SarsRegNo"
+        },
+        {
+          "id": "practitionerFullName",
+          "label": "Full Name of Appointed Tax Practitioner:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PowerOfAttorney.Practitioner.FullName"
+        },
+        {
+          "id": "rdoName",
+          "label": "Recognised Controlling Body (RCB) Name (e.g., SAICA, SAIT, SAIPA):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PowerOfAttorney.Practitioner.RcbName"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. SCOPE OF MANDATE & LIVE RIGHTS",
+      "fields": [
+        {
+          "id": "mandateScopeTaxTypes",
+          "label": "Tax Types Authorized Under Mandate (e.g., All Tax Types / Only Income Tax / Only VAT):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PowerOfAttorney.Mandate.ScopeTaxTypes"
+        },
+        {
+          "id": "actionsAuthorized",
+          "label": "Authorized Scope Actions (Full Rights inclusive of Disputes / Only Return Submissions / View Profile Only):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PowerOfAttorney.Mandate.ActionsAllowed"
+        },
+        {
+          "id": "principalSignatureName",
+          "label": "Authorized Signature Name of Taxpayer / Public Officer confirming mandate validation:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PowerOfAttorney.Mandate.PrincipalSignatureName"
+        },
+        {
+          "id": "authorizationDate",
+          "label": "Date Mandate Signed & Executed:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "PowerOfAttorney.Mandate.ExecutionDate"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "formId": "zra-form-wht-3",
+  "formName": "Zambia Revenue Authority Form WHT 3 - Application/Claim Form for Withholding Tax Deductions",
+  "sections": [
+    {
+      "sectionTitle": "1. CLAIM PROFILE & INITIAL DECLARATION",
+      "fields": [
+        {
+          "id": "claimPeriodCommencement",
+          "label": "Date of Commencement of period for which claim is made:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "SchemaLocal.claimPeriodCommencement"
+        },
+        {
+          "id": "isFirstClaim",
+          "label": "Is this your FIRST claim for Withholding Tax in Zambia? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.isFirstClaim"
+        },
+        {
+          "id": "claimantFullName",
+          "label": "Claimant's Full Name (or Corporate Name):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.claimantFullName"
+        },
+        {
+          "id": "claimantPostalAddress",
+          "label": "Claimant's Postal & Physical Address:",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "SchemaLocal.claimantPostalAddress"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. NOMINEE & HISTORICAL DETAILS",
+      "fields": [
+        {
+          "id": "nomineeDetails",
+          "label": "If payment is to be made to a nominee, state nominee's full name and address:",
+          "type": "textarea",
+          "required": false,
+          "bindingProperty": "SchemaLocal.nomineeDetails"
+        },
+        {
+          "id": "lastZambianTaxOffice",
+          "label": "Tax Office (and reference) in Zambia to which last return or claim was made:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.lastZambianTaxOffice"
+        },
+        {
+          "id": "incomeFirstReceivedDate",
+          "label": "If no prior claim, state date on which income was first received from Zambia:",
+          "type": "date",
+          "required": false,
+          "bindingProperty": "SchemaLocal.incomeFirstReceivedDate"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. INCOME TYPE & DEDUCTIONS CLAIMED",
+      "fields": [
+        {
+          "id": "incomeCategory",
+          "label": "Category of Income (Dividends / Interest / Royalties / Management and Consultant Fees):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.incomeCategory"
+        },
+        {
+          "id": "grossIncomeAmount",
+          "label": "Gross Amount of Income Received (ZMW):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.grossIncomeAmount"
+        },
+        {
+          "id": "whtDeductedSuffered",
+          "label": "Withholding Tax Deducted / Suffered in Zambia:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.whtDeductedSuffered"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. DECLARATION",
+      "fields": [
+        {
+          "id": "authorizedSignatureName",
+          "label": "Full Name of Signatory & Capacity (If claimant is not an individual):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.authorizedSignatureName"
+        },
+        {
+          "id": "signature",
+          "label": "Signature of Claimant / Representative:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Customer.Name"
+        }
+      ]
+    }
+  ]
+}

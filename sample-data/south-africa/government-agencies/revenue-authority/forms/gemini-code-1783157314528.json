@@ -1,0 +1,65 @@
+{
+  "formId": "sars-emp501",
+  "formName": "SARS EMP501 - Employer Reconciliation Declaration",
+  "sections": [
+    {
+      "sectionTitle": "1. RECONCILIATION SPECIFICATIONS",
+      "fields": [
+        {
+          "id": "payeReferenceNumber",
+          "label": "PAYE Reference Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp501.Header.PayeRefNo"
+        },
+        {
+          "id": "reconPeriod",
+          "label": "Reconciliation Period (Bi-Annual Ending August / Annual Ending February):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp501.Header.ReconPeriod"
+        },
+        {
+          "id": "taxYear",
+          "label": "Tax Year Covered:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp501.Header.TaxYear"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. EMP201 DECLARATIONS VS CERTIFICATE TOTALS",
+      "fields": [
+        {
+          "id": "totalPayeDeclared",
+          "label": "Total PAYE Declared Across Monthly EMP201s (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Emp501.Totals.PayeDeclared"
+        },
+        {
+          "id": "totalPayeOnCertificates",
+          "label": "Total PAYE Value Extracted from IRP5/IT3(a) Certificates:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Emp501.Totals.PayeCertificates"
+        },
+        {
+          "id": "payeDifference",
+          "label": "Reconciliation Difference (Declared vs Certificates Balance):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Emp501.Totals.PayeDifference"
+        },
+        {
+          "id": "totalCertificatesSubmitted",
+          "label": "Total Number of IRP5 and IT3(a) Tax Certificates Generated:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Emp501.Totals.CertificateCount"
+        }
+      ]
+    }
+  ]
+}

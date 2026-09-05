@@ -1,0 +1,105 @@
+{
+  "formId": "zra-turnover-tax-return",
+  "formName": "Zambia Revenue Authority Turnover Tax Return",
+  "sections": [
+    {
+      "sectionTitle": "TAXPAYER IDENTIFICATION",
+      "fields": [
+        {
+          "id": "tpin",
+          "label": "Taxpayer Identification Number (TPIN):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.tpin"
+        },
+        {
+          "id": "taxpayerName",
+          "label": "Full Name of Taxpayer / Business Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.taxpayerName"
+        },
+        {
+          "id": "returnPeriod",
+          "label": "Turnover Remittance Month/Year (MM/YYYY):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.returnPeriod"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "TURNOVER DECLARATION & CALCULATIONS",
+      "fields": [
+        {
+          "id": "sourceOfIncome",
+          "label": "Primary Source of Income (e.g., Retail, Farming, Manufacturing):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.sourceOfIncome"
+        },
+        {
+          "id": "totalGrossTurnover",
+          "label": "Total Gross Turnover / Sales for the Period (ZMW):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.totalGrossTurnover"
+        },
+        {
+          "id": "turnoverTaxPayable",
+          "label": "Turnover Tax Payable (Calculated at statutory rate):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.turnoverTaxPayable"
+        },
+        {
+          "id": "whtDeducted",
+          "label": "Withholding Tax Deducted (If applicable in Month 12):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.whtDeducted"
+        },
+        {
+          "id": "netTaxDue",
+          "label": "Net Turnover Tax Due:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.netTaxDue"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "DECLARATION",
+      "fields": [
+        {
+          "id": "declarantName",
+          "label": "Full Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.declarantName"
+        },
+        {
+          "id": "declarantCapacity",
+          "label": "Capacity (e.g., Sole Proprietor, Director, Partner):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.declarantCapacity"
+        },
+        {
+          "id": "signature",
+          "label": "Signature:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Customer.Name"
+        },
+        {
+          "id": "date",
+          "label": "Date:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "SchemaLocal.date"
+        }
+      ]
+    }
+  ]
+}

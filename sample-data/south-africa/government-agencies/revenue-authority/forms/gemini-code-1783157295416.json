@@ -1,0 +1,105 @@
+{
+  "formId": "sars-emp101e",
+  "formName": "SARS EMP101e - Application for Registration of PAYE / SDL / UIF",
+  "sections": [
+    {
+      "sectionTitle": "1. EMPLOYER ENTITY PARTICULARS",
+      "fields": [
+        {
+          "id": "legalName",
+          "label": "Legal Registered Name of Employer:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp101e.Employer.LegalName"
+        },
+        {
+          "id": "tradingName",
+          "label": "Trading Name (If different):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "Emp101e.Employer.TradingName"
+        },
+        {
+          "id": "registrationNumber",
+          "label": "CIPC Company / Trust / Partnership Registration Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp101e.Employer.RegistrationNumber"
+        },
+        {
+          "id": "incomeTaxRefNo",
+          "label": "Corporate Income Tax Reference Number (If registered):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "Emp101e.Employer.IncomeTaxRefNo"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. REGISTRATION OPTIONS AND LIABILITY DATES",
+      "fields": [
+        {
+          "id": "registerPaye",
+          "label": "Register for Pay As You Earn (PAYE)? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp101e.TaxTypes.Paye.IsRegistering"
+        },
+        {
+          "id": "payeLiabilityDate",
+          "label": "Date on which employer became liable for PAYE (YYYY-MM-DD):",
+          "type": "date",
+          "required": false,
+          "bindingProperty": "Emp101e.TaxTypes.Paye.LiabilityDate"
+        },
+        {
+          "id": "registerSdl",
+          "label": "Register for Skills Development Levy (SDL)? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp101e.TaxTypes.Sdl.IsRegistering"
+        },
+        {
+          "id": "registerUif",
+          "label": "Register for Unemployment Insurance Fund (UIF)? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp101e.TaxTypes.Uif.IsRegistering"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. PAYROLL ESTIMATES & BANKING DETAILS",
+      "fields": [
+        {
+          "id": "estimatedEmployees",
+          "label": "Estimated Number of Employees:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Emp101e.Payroll.EstimatedEmployees"
+        },
+        {
+          "id": "estimatedMonthlyRemuneration",
+          "label": "Estimated Total Monthly Remuneration (Gross ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Emp101e.Payroll.EstimatedMonthlyRemuneration"
+        },
+        {
+          "id": "bankName",
+          "label": "Bank Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp101e.Banking.BankName"
+        },
+        {
+          "id": "accountNumber",
+          "label": "Account Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp101e.Banking.AccountNumber"
+        }
+      ]
+    }
+  ]
+}

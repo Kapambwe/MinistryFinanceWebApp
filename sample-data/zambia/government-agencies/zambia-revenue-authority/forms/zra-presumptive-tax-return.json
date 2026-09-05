@@ -1,0 +1,96 @@
+{
+  "formId": "zra-presumptive-tax-return",
+  "formName": "Zambia Revenue Authority Presumptive Tax Return",
+  "sections": [
+    {
+      "sectionTitle": "TAXPAYER IDENTIFICATION",
+      "fields": [
+        {
+          "id": "tpin",
+          "label": "Taxpayer Identification Number (TPIN):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.tpin"
+        },
+        {
+          "id": "operatorName",
+          "label": "Name of Operator / Business Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.operatorName"
+        },
+        {
+          "id": "taxPeriod",
+          "label": "Tax Period (Month/Year):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.taxPeriod"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "FLEET & OPERATIONAL DETAILS (Passenger / Transport Sector)",
+      "fields": [
+        {
+          "id": "vehicleCategory",
+          "label": "Vehicle Type/Seating Capacity Range (e.g., 64+ Seater, 30-63 Seater, Hiace, Taxi):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.vehicleCategory"
+        },
+        {
+          "id": "numberOfVehicles",
+          "label": "Number of Operational Vehicles in Category:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.numberOfVehicles"
+        },
+        {
+          "id": "registrationNumbers",
+          "label": "Vehicle Registration Number(s) List:",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "SchemaLocal.registrationNumbers"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "PRESUMPTIVE TAX CALCULATION",
+      "fields": [
+        {
+          "id": "statutoryRatePerVehicle",
+          "label": "Presumptive Tax Statutory Rate per Vehicle (ZMW):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.statutoryRatePerVehicle"
+        },
+        {
+          "id": "totalPresumptiveTaxDue",
+          "label": "Total Presumptive Tax Due (Rate x Quantity):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.totalPresumptiveTaxDue"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "DECLARATION",
+      "fields": [
+        {
+          "id": "signature",
+          "label": "Signature of Taxpayer / Authorized Officer:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Customer.Name"
+        },
+        {
+          "id": "date",
+          "label": "Date:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "SchemaLocal.date"
+        }
+      ]
+    }
+  ]
+}

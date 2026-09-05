@@ -1,0 +1,157 @@
+{
+  "formId": "zra-itf-46-1",
+  "formName": "Zambia Revenue Authority ITF 46_1 - Individual Income Tax Return",
+  "sections": [
+    {
+      "sectionTitle": "TAXPAYER IDENTIFICATION & DETAILS",
+      "fields": [
+        {
+          "id": "tpin",
+          "label": "Taxpayer Identification Number (TPIN):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.tpin"
+        },
+        {
+          "id": "chargeYear",
+          "label": "Tax Charge Year:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.chargeYear"
+        },
+        {
+          "id": "taxpayerFullName",
+          "label": "Full Name (Forename, Middle Name, Last Name):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.taxpayerFullName"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "PART 1: RENTAL INCOME",
+      "fields": [
+        {
+          "id": "grossRentalIncome",
+          "label": "Annual Gross Rental Income (ZMW):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.grossRentalIncome"
+        },
+        {
+          "id": "rentalWhtSuffered",
+          "label": "Less: Withholding Tax (WHT) Suffered on Rental Income:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.rentalWhtSuffered"
+        },
+        {
+          "id": "netRentalTax",
+          "label": "Net Tax on Rental Income:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.netRentalTax"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "PART 2: STATEMENT OF COMPREHENSIVE INCOME (Profit & Loss)",
+      "fields": [
+        {
+          "id": "grossTurnover",
+          "label": "Sales / Gross Turnover from Business or Profession:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.grossTurnover"
+        },
+        {
+          "id": "costOfSales",
+          "label": "Cost of Sales:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.costOfSales"
+        },
+        {
+          "id": "grossProfit",
+          "label": "Gross Profit:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.grossProfit"
+        },
+        {
+          "id": "totalOperatingExpenses",
+          "label": "Total Operating Expenses:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.totalOperatingExpenses"
+        },
+        {
+          "id": "netProfitLoss",
+          "label": "Net Profit / (Loss) Before Tax:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.netProfitLoss"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "PART 3: TAX COMPUTATION & SUMMARY",
+      "fields": [
+        {
+          "id": "totalTaxAllSources",
+          "label": "Total Tax from all Sources:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.totalTaxAllSources"
+        },
+        {
+          "id": "lessTaxCredits",
+          "label": "Less: Tax Credits:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.lessTaxCredits"
+        },
+        {
+          "id": "lessAdvanceTax",
+          "label": "Less: Advance Income Tax Paid:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.lessAdvanceTax"
+        },
+        {
+          "id": "finalTaxPayableRefundable",
+          "label": "Net Tax Payable / (Refundable):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.finalTaxPayableRefundable"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "DECLARATION",
+      "fields": [
+        {
+          "id": "declarantName",
+          "label": "Full Name of Declarant:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.declarantName"
+        },
+        {
+          "id": "declarantSignature",
+          "label": "Signature:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.declarantSignature"
+        },
+        {
+          "id": "declarationDate",
+          "label": "Date:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "SchemaLocal.declarationDate"
+        }
+      ]
+    }
+  ]
+}

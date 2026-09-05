@@ -1,0 +1,154 @@
+{
+  "formId": "zra-paye-monthly-return",
+  "formName": "Zambia Revenue Authority PAYE Monthly Return Form",
+  "sections": [
+    {
+      "sectionTitle": "1. EMPLOYER IDENTIFICATION & PERIOD",
+      "fields": [
+        {
+          "id": "employerTpin",
+          "label": "Employer Taxpayer Identification Number (TPIN):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Customer.TaxId"
+        },
+        {
+          "id": "employerName",
+          "label": "Legal Registered Name of Employer:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Customer.Name"
+        },
+        {
+          "id": "taxPeriodMonthYear",
+          "label": "Tax Remittance Period (Month/Year - MM/YYYY):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PayrollRun.PayPeriodEnd"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. EMPLOYEE PAYROLL SCHEDULE",
+      "fields": [
+        {
+          "id": "employeeRecords",
+          "label": "Employee Payroll Records:",
+          "type": "table",
+          "required": true,
+          "columns": [
+            {
+              "id": "employeeTpin",
+              "label": "Employee TPIN",
+              "type": "text",
+              "required": true,
+              "bindingProperty": "SchemaLocal.employeeTpin"
+            },
+            {
+              "id": "employeeName",
+              "label": "Employee Full Name",
+              "type": "text",
+              "required": true,
+              "bindingProperty": "PayrollItem.EmployeeName"
+            },
+            {
+              "id": "nrcOrPassport",
+              "label": "NRC or Passport Number",
+              "type": "text",
+              "required": true,
+              "bindingProperty": "SchemaLocal.nrcOrPassport"
+            },
+            {
+              "id": "basicPay",
+              "label": "Basic Salary (ZMW)",
+              "type": "number",
+              "required": true,
+              "bindingProperty": "SchemaLocal.basicPay"
+            },
+            {
+              "id": "allowancesAndBenefits",
+              "label": "Allowances & Cash Benefits (ZMW)",
+              "type": "number",
+              "required": false,
+              "bindingProperty": "SchemaLocal.allowancesAndBenefits"
+            },
+            {
+              "id": "grossEmoluments",
+              "label": "Total Chargeable Emoluments (ZMW)",
+              "type": "number",
+              "required": true,
+              "bindingProperty": "SchemaLocal.grossEmoluments"
+            },
+            {
+              "id": "payeDeducted",
+              "label": "PAYE Tax Deducted (ZMW)",
+              "type": "number",
+              "required": true,
+              "bindingProperty": "SchemaLocal.payeDeducted"
+            }
+          ],
+          "bindingProperty": "SchemaLocal.employeeRecords"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. PAYROLL & LIABILITIES SUMMARY",
+      "fields": [
+        {
+          "id": "totalEmployees",
+          "label": "Total Number of Employees in Payroll Cycle:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PayrollSummary.TotalEmployees"
+        },
+        {
+          "id": "totalChargeableEmoluments",
+          "label": "Total Chargeable Emoluments (Salaries, Wages, Bonuses, Cash Benefits, Allowances):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PayrollSummary.TotalGrossPay"
+        },
+        {
+          "id": "totalPayePayable",
+          "label": "Total PAYE Tax Deducted / Payable for the Month (ZMW):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PayrollSummary.TotalPAYE"
+        },
+        {
+          "id": "skillsDevelopmentLevyPayable",
+          "label": "Skills Development Levy Payable (If applicable):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "PayrollSummary.TotalEmployerContributions"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. RESPONSIBILITY DECLARATION",
+      "fields": [
+        {
+          "id": "authorizedOfficerName",
+          "label": "Full Name of Authorized Payroll/Finance Representative:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Customer.Name"
+        },
+        {
+          "id": "officerSignature",
+          "label": "Signature:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Customer.Name"
+        },
+        {
+          "id": "submissionDate",
+          "label": "Date of Submission:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "SchemaLocal.submissionDate"
+        }
+      ]
+    }
+  ]
+}

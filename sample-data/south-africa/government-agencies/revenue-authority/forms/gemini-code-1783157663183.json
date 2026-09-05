@@ -1,0 +1,63 @@
+{
+  "formId": "sars-wt002",
+  "formName": "SARS WT002 - Return for Withholding Tax on Interest",
+  "sections": [
+    {
+      "sectionTitle": "1. WITHHOLDING AGENT DATA",
+      "fields": [
+        {
+          "id": "withholdingAgentTaxRef",
+          "label": "Withholding Agent Tax Reference Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Wt002.Agent.TaxRefNo"
+        },
+        {
+          "id": "agentTradingName",
+          "label": "Agent Entity Legal/Trading Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Wt002.Agent.LegalName"
+        },
+        {
+          "id": "reportingPeriodMonthYear",
+          "label": "Transaction Month / Payment Cycle Period (YYYYMM):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Wt002.Period.ReportMonth"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. NON-RESIDENT INTEREST DETAILS",
+      "fields": [
+        {
+          "id": "grossInterestPaid",
+          "label": "Total Gross Interest Paid to or for the benefit of Non-Residents (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Wt002.Interest.GrossPaid"
+        },
+        {
+          "id": "exemptInterestAmount",
+          "label": "Less: Interest Exempt from Withholding Tax under domestic law exemptions:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Wt002.Interest.ExemptAmount"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. TAX ALLOCATION COMPUTATION",
+      "fields": [
+        {
+          "id": "withholdingTaxOnInterestDue",
+          "label": "Total Withholding Tax on Interest Due (Calculated at statutory 15% or DTA rate):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Wt002.Summary.TotalTaxDue"
+        }
+      ]
+    }
+  ]
+}

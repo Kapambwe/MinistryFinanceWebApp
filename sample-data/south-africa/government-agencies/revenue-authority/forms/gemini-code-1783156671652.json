@@ -1,0 +1,145 @@
+{
+  "formId": "sars-rav01",
+  "formName": "SARS RAV01 - Registration, Amendment, and Verification Form",
+  "sections": [
+    {
+      "sectionTitle": "1. TAXPAYER IDENTITY & CLIENT DETAILS",
+      "fields": [
+        {
+          "id": "registeredName",
+          "label": "Registered Legal Name / Surname & Forenames:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.Identity.RegisteredName"
+        },
+        {
+          "id": "tradingName",
+          "label": "Trading Name (If applicable):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "TaxpayerProfile.Identity.TradingName"
+        },
+        {
+          "id": "identityNumber",
+          "label": "South African ID Number / Passport Number:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "TaxpayerProfile.Identity.IdNumber"
+        },
+        {
+          "id": "companyRegistrationNumber",
+          "label": "CIPC Company Registration Number (For Corporates):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "TaxpayerProfile.Identity.CipcRegNumber"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. DEMOGRAPHIC PARAMETERS & ADDRESS AMENDMENT",
+      "fields": [
+        {
+          "id": "physicalAddressUnitNo",
+          "label": "Physical Address - Unit / Complex / House No.:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.Demographics.PhysicalAddress.UnitNo"
+        },
+        {
+          "id": "physicalAddressStreet",
+          "label": "Physical Address - Street / Farm Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.Demographics.PhysicalAddress.Street"
+        },
+        {
+          "id": "physicalAddressSuburb",
+          "label": "Physical Address - Suburb / District:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.Demographics.PhysicalAddress.Suburb"
+        },
+        {
+          "id": "physicalAddressCity",
+          "label": "Physical Address - City / Town:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.Demographics.PhysicalAddress.City"
+        },
+        {
+          "id": "physicalAddressPostalCode",
+          "label": "Physical Address - Postal Code:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.Demographics.PhysicalAddress.PostalCode"
+        },
+        {
+          "id": "postalAddressSameAsPhysical",
+          "label": "Is Postal Address the same as Physical Address? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.Demographics.PostalAddress.SameAsPhysical"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. TAX TYPE ACTIVATION & SUB-REGISTRATIONS",
+      "fields": [
+        {
+          "id": "activateIncomeTax",
+          "label": "Activate / Add Personal or Corporate Income Tax? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.TaxTypes.IncomeTax.IsActive"
+        },
+        {
+          "id": "activatePaye",
+          "label": "Activate / Add Pay As You Earn (PAYE)? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.TaxTypes.Paye.IsActive"
+        },
+        {
+          "id": "activateVat",
+          "label": "Activate / Add Value Added Tax (VAT)? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.TaxTypes.Vat.IsActive"
+        },
+        {
+          "id": "activateCustoms",
+          "label": "Activate / Add Customs & Excise Profile? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.TaxTypes.Customs.IsActive"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. VERIFICATION DECLARATION",
+      "fields": [
+        {
+          "id": "representativeSignatureName",
+          "label": "Full Name of Representative / Tax Practitioner:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.Verification.DeclarantName"
+        },
+        {
+          "id": "representativeCapacity",
+          "label": "Capacity (e.g., Public Officer, Individual, Registered Practitioner):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.Verification.Capacity"
+        },
+        {
+          "id": "signature",
+          "label": "Electronic Signature / Confirmation Code:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "TaxpayerProfile.Verification.Signature"
+        }
+      ]
+    }
+  ]
+}

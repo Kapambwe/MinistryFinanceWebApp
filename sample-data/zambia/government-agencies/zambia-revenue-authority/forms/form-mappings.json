@@ -1,0 +1,121 @@
+{
+  "mappings": [
+    {
+      "formId": "zra-itf-46-1",
+      "taxTypeId": "individual-income-tax",
+      "returnType": "CorporateTax",
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Income Tax Form ITF-46 for individuals and corporations"
+    },
+    {
+      "formId": "zra-vat-monthly-return",
+      "taxTypeId": "vat-monthly",
+      "returnType": "VAT",
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Value Added Tax Monthly Return Form"
+    },
+    {
+      "formId": "zra-paye-monthly-return",
+      "taxTypeId": "paye-monthly",
+      "returnType": "PAYE",
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Pay As You Earn Monthly Return Form"
+    },
+    {
+      "formId": "zra-form-wht-3",
+      "taxTypeId": "withholding-tax",
+      "returnType": "WithholdingTax",
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Withholding Tax Form WHT-3"
+    },
+    {
+      "formId": "zra-turnover-tax-return",
+      "taxTypeId": "turnover-tax",
+      "returnType": "TurnoverTax",
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Turnover Tax Return Form"
+    },
+    {
+      "formId": "zra-presumptive-tax-return",
+      "taxTypeId": "presumptive-tax",
+      "returnType": null,
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Presumptive Tax Return Form"
+    },
+    {
+      "formId": "zra-it-46a-provisional-return",
+      "taxTypeId": "provisional-income-tax",
+      "returnType": "ProvisionalTax",
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Provisional Income Tax Return Form IT-46A"
+    },
+    {
+      "formId": "zra-ppt-declaration-form",
+      "taxTypeId": "property-transfer-tax",
+      "returnType": "PropertyTax",
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Property Transfer Tax Declaration Form"
+    },
+    {
+      "formId": "zra-mineral-royalty-return",
+      "taxTypeId": "mineral-royalty",
+      "returnType": null,
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Mineral Royalty Tax Return Form"
+    },
+    {
+      "formId": "zra-excise-tax-return",
+      "taxTypeId": "excise-tax",
+      "returnType": "ExciseDuty",
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Excise Tax Return Form"
+    },
+    {
+      "formId": "zra-tpin-form-1",
+      "taxTypeId": "tpin-application",
+      "returnType": null,
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA TPIN Application and Registration Form"
+    },
+    {
+      "formId": "zra-taxpayer-details-update",
+      "taxTypeId": "taxpayer-profile-update",
+      "returnType": null,
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Taxpayer Details Update and Maintenance Form"
+    },
+    {
+      "formId": "zra-form-p13",
+      "taxTypeId": "employee-particulars",
+      "returnType": "PAYE",
+      "authority": "Zambia Revenue Authority",
+      "priority": 1,
+      "isActive": true,
+      "description": "ZRA Particulars of Employees Form P13"
+    }
+  ]
+}

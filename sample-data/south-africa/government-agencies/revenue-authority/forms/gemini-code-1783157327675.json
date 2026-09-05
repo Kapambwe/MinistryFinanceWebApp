@@ -1,0 +1,51 @@
+{
+  "formId": "sars-emp123t",
+  "formName": "SARS EMP123T - Application for the Cancellation of Registration for PAYE/SDL/UIF",
+  "sections": [
+    {
+      "sectionTitle": "1. TAXPAYER PROFILED IDENTIFICATION",
+      "fields": [
+        {
+          "id": "payeReferenceNumber",
+          "label": "Active PAYE Reference Number to Cancel:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp123t.Employer.PayeRefNo"
+        },
+        {
+          "id": "legalEntityName",
+          "label": "Registered Corporate or Trade Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp123t.Employer.LegalName"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. CANCELLATION CRITERIA AND TIMELINES",
+      "fields": [
+        {
+          "id": "reasonForCancellation",
+          "label": "Reason for Request (Ceased Trading / Closed Payroll / Registered in Error / Below Liability Threshold):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp123t.Request.Reason"
+        },
+        {
+          "id": "dateOperationsCeased",
+          "label": "Effective Date on which Payroll Operations Ceased (YYYY-MM-DD):",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "Emp123t.Request.CeasedDate"
+        },
+        {
+          "id": "areAllReturnsSubmitted",
+          "label": "Have all past EMP201 returns and EMP501 recons been finalized and paid to date? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp123t.Request.ReturnsFinalized"
+        }
+      ]
+    }
+  ]
+}

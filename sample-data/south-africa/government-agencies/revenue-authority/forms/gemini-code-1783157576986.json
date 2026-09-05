@@ -1,0 +1,70 @@
+{
+  "formId": "sars-tdc01",
+  "formName": "SARS TDC01 - Transfer Duty Declaration",
+  "sections": [
+    {
+      "sectionTitle": "1. TRANSACTION ROLES & TAXPAYER IDENTIFICATION",
+      "fields": [
+        {
+          "id": "sellerNameOrTpin",
+          "label": "Transferor (Seller) Legal Name / ID / Tax Ref:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Tdc01.Transferor.Details"
+        },
+        {
+          "id": "buyerNameOrTpin",
+          "label": "Transferee (Buyer) Legal Name / ID / Tax Ref:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Tdc01.Transferee.Details"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. PROPERTY DESCRIPTION & TRANSACTION ATTRIBUTES",
+      "fields": [
+        {
+          "id": "propertyDeedsDescription",
+          "label": "Property Erf / Stand Number & Deeds Registry Description:",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "Tdc01.Property.DeedsDescription"
+        },
+        {
+          "id": "dateOfAcquisition",
+          "label": "Date of Sale / Acquisition Agreement (YYYY-MM-DD):",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "Tdc01.Transaction.AcquisitionDate"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. VALUATION & ASSESSMENT PROFILE",
+      "fields": [
+        {
+          "id": "purchaseConsiderationPrice",
+          "label": "Purchase Consideration Price / Contract Value (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Tdc01.Valuation.PurchaseConsideration"
+        },
+        {
+          "id": "declaredFairMarketValue",
+          "label": "Declared Fair Market Value (If transaction between related parties):",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Tdc01.Valuation.MarketValue"
+        },
+        {
+          "id": "transferDutyDuePayable",
+          "label": "Transfer Duty Due and Payable (Calculated using statutory sliding brackets):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Tdc01.Summary.TransferDutyDue"
+        }
+      ]
+    }
+  ]
+}

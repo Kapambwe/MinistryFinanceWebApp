@@ -1,0 +1,72 @@
+{
+  "formId": "sars-irp6",
+  "formName": "SARS IRP6 - Return for Payment of Provisional Tax",
+  "sections": [
+    {
+      "sectionTitle": "1. TAXPAYER & PERIOD DETAILS",
+      "fields": [
+        {
+          "id": "taxReferenceNumber",
+          "label": "Tax Reference Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Irp6.Taxpayer.ReferenceNumber"
+        },
+        {
+          "id": "provisionalPeriod",
+          "label": "Provisional Period (Period 1 / Period 2):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Irp6.Taxpayer.Period"
+        },
+        {
+          "id": "taxYear",
+          "label": "Tax Year:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Irp6.Taxpayer.TaxYear"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. ESTIMATE OF TAXABLE INCOME",
+      "fields": [
+        {
+          "id": "estimatedTaxableIncome",
+          "label": "Estimated Total Taxable Income for the Year (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Irp6.Estimation.TaxableIncome"
+        },
+        {
+          "id": "calculatedTax",
+          "label": "Calculated Tax Liability on Estimated Income:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Irp6.Estimation.CalculatedTax"
+        },
+        {
+          "id": "lessEmployeesTax",
+          "label": "Less: Employees Tax Deducted (PAYE) for this period:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Irp6.Credits.PayeDeductions"
+        },
+        {
+          "id": "lessPriorProvisionalPayments",
+          "label": "Less: Prior Provisional Tax Payments for this Tax Year (Period 1 payment if this is Period 2):",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Irp6.Credits.PriorPayments"
+        },
+        {
+          "id": "netProvisionalTaxDue",
+          "label": "Net Provisional Tax Amount Due / Payable:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Irp6.Summary.AmountDue"
+        }
+      ]
+    }
+  ]
+}

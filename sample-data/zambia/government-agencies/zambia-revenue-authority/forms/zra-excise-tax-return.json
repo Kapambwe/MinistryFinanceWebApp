@@ -1,0 +1,72 @@
+{
+  "formId": "zra-excise-tax-return",
+  "formName": "Zambia Revenue Authority Excise Tax Return Form",
+  "sections": [
+    {
+      "sectionTitle": "1. LICENSEE PROFILE",
+      "fields": [
+        {
+          "id": "manufacturerTpin",
+          "label": "Excise Licensee TPIN:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.manufacturerTpin"
+        },
+        {
+          "id": "manufacturerName",
+          "label": "Registered Legal Name of Licensed Manufacturer/Importer:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.manufacturerName"
+        },
+        {
+          "id": "exciseWarehouseLicenseNo",
+          "label": "Approved Excise Warehouse License Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.exciseWarehouseLicenseNo"
+        },
+        {
+          "id": "taxPeriodMonthYear",
+          "label": "Filing Period (MM/YYYY):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PayrollRun.PayPeriodEnd"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. EXCISABLE GOODS PRODUCTION & LIABILITY ASSESSMENT",
+      "fields": [
+        {
+          "id": "excisableCommodityCategory",
+          "label": "Commodity Category (e.g., Clear Beer, Spirits, Soft Drinks, Tobacco, Petroleum Products):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.excisableCommodityCategory"
+        },
+        {
+          "id": "quantityClearedForHomeConsumption",
+          "label": "Quantity Cleared for Local Consumption (Liters / Kilograms / Units):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.quantityClearedForHomeConsumption"
+        },
+        {
+          "id": "taxableValueOrAdValoremBase",
+          "label": "Taxable Value (Ad Valorem Base) or Specific Volume Measure Basis:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.taxableValueOrAdValoremBase"
+        },
+        {
+          "id": "totalExciseDutyPayable",
+          "label": "Total Excise Duty Due and Payable (ZMW):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.totalExciseDutyPayable"
+        }
+      ]
+    }
+  ]
+}

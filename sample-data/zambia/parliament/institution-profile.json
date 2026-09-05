@@ -1,5 +1,35 @@
 {
-    "countryName": "Zambia",
-    "institutionType": "parliament",
-    "institutionName": "National Assembly of Zambia"
+  "countryName": "Zambia",
+  "institutionType": "parliament",
+  "institutionName": "National Assembly of Zambia",
+  "AccessiblePages": [
+    "/",
+    "/dashboard",
+    "/budget-preparation",
+    "/budget/execution",
+    "/payments/requests",
+    "/payments/status",
+    "/ar/dashboard",
+    "/accounting/journal-entries",
+    "/accounting/trial-balance",
+    "/accounting/operations",
+    "/accounting/coa",
+    "/accounting/chart-of-accounts",
+    "/hrpayroll",
+    "/assets",
+    "/procurement/*",
+    "/tenders/*",
+    "/workflow/approvals",
+    "/budget/parliamentary",
+    "/budget/audit-oversight",
+    "/parliamentary/budget-analysis",
+    "/parliamentary/mp-budget-analysis",
+    "/parliamentary/accounts-committee",
+    "/parliamentary/committees",
+    "/parliamentary/oversight",
+    "/reports/parliamentary",
+    "/budget/citizen-budget",
+    "/budget/open-data",
+    "/budget/public-consultation"
+  ]
 }

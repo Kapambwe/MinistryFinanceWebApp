@@ -1,5 +1,29 @@
 {
-    "countryName": "Zambia",
-    "institutionType": "judiciary",
-    "institutionName": "Judiciary of Zambia"
+  "countryName": "Zambia",
+  "institutionType": "judiciary",
+  "institutionName": "Judiciary of Zambia",
+  "AccessiblePages": [
+    "/",
+    "/dashboard",
+    "/budget-preparation",
+    "/budget/execution",
+    "/payments/requests",
+    "/payments/status",
+    "/ar/dashboard",
+    "/accounting/journal-entries",
+    "/accounting/trial-balance",
+    "/accounting/operations",
+    "/accounting/coa",
+    "/accounting/chart-of-accounts",
+    "/hrpayroll",
+    "/assets",
+    "/procurement/*",
+    "/tenders/*",
+    "/workflow/approvals",
+    "/budget/judiciary",
+    "/revenue/collections",
+    "/reports/judiciary",
+    "/budget/audit-oversight",
+    "/budget/citizen-budget"
+  ]
 }

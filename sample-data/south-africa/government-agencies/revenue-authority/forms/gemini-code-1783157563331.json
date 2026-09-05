@@ -1,0 +1,63 @@
+{
+  "formId": "sars-vat101",
+  "formName": "SARS VAT101 - Application for Registration for Value Added Tax",
+  "sections": [
+    {
+      "sectionTitle": "1. APPLICANT PROFILES AND REGISTRATION BASIS",
+      "fields": [
+        {
+          "id": "legalName",
+          "label": "Legal Name of Entity/Individual applying for VAT:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Vat101.Applicant.LegalName"
+        },
+        {
+          "id": "registrationBasis",
+          "label": "Registration Type Basis (Compulsory Threshold Reached / Voluntary Basis):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Vat101.Registration.Basis"
+        },
+        {
+          "id": "dateThresholdExceeded",
+          "label": "Date on which compulsory threshold exceeded or voluntary criteria met (YYYY-MM-DD):",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "Vat101.Registration.ThresholdDate"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. FINANCIAL METRICS & TURNOVER HISTORY",
+      "fields": [
+        {
+          "id": "past12MonthsTurnover",
+          "label": "Total Value of Taxable Supplies for the past 12 months (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Vat101.Financials.PastTurnover"
+        },
+        {
+          "id": "expectedTurnoverVoluntary",
+          "label": "If Voluntary, expected turnover for next 12 months (Must exceed statutory minimum):",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Vat101.Financials.ExpectedTurnover"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. NATURE OF BUSINESS ACTIVITIES",
+      "fields": [
+        {
+          "id": "natureOfActivity",
+          "label": "Main Nature of Business Activity (Standard Industry Code selection description):",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "Vat101.Business.NatureOfActivity"
+        }
+      ]
+    }
+  ]
+}

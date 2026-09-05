@@ -1,0 +1,65 @@
+{
+  "formId": "sars-noa-adr2",
+  "formName": "SARS NOA / ADR2 - Notice of Appeal Form",
+  "sections": [
+    {
+      "sectionTitle": "1. PROFILE & DISPUTE CASE METRICS",
+      "fields": [
+        {
+          "id": "taxReferenceNumber",
+          "label": "Tax Reference Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Appeal.Taxpayer.TaxRefNo"
+        },
+        {
+          "id": "legalEntityName",
+          "label": "Full Legal Name of Appellant:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Appeal.Taxpayer.LegalName"
+        },
+        {
+          "id": "disallowanceNoticeCaseNo",
+          "label": "SARS Notice of Disallowance / Partial Allowance Case Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Appeal.CaseDetails.DisallowanceCaseNo"
+        },
+        {
+          "id": "dateOfObjectionDecision",
+          "label": "Date of SARS Objection Decision Notification (YYYY-MM-DD):",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "Appeal.CaseDetails.DecisionDate"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. GROUND OF APPEAL AND LEGAL ARGUMENTS",
+      "fields": [
+        {
+          "id": "appealedItemsList",
+          "label": "Specify which items or portions of the disallowed objection are being appealed:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Appeal.Grounds.AppealedItems"
+        },
+        {
+          "id": "detailedAppealArguments",
+          "label": "Grounds of Appeal (Set out clearly the conclusions of law or fact being challenged):",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "Appeal.Grounds.DetailedArguments"
+        },
+        {
+          "id": "preferredResolutionChannel",
+          "label": "Preferred Dispute Forum Channel (Alternative Dispute Resolution (ADR) / Tax Board / Tax Court):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Appeal.Forum.PreferredChannel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,26 @@
 {
-    "countryName":  "Zambia",
-    "institutionType":  "government-agencies",
-    "institutionName":  "rural-electrification-authority",
-    "abbreviatedName":  "REA"
+  "countryName": "Zambia",
+  "institutionType": "government-agencies",
+  "institutionName": "rural-electrification-authority",
+  "abbreviatedName": "REA",
+  "AccessiblePages": [
+    "/",
+    "/dashboard",
+    "/budget-preparation",
+    "/budget/execution",
+    "/revenue/billing",
+    "/revenue/collections",
+    "/ar/dashboard",
+    "/ar/billing",
+    "/payments/requests",
+    "/accounting",
+    "/accounting/trial-balance",
+    "/accounting/operations",
+    "/accounting/coa",
+    "/accounting/chart-of-accounts",
+    "/accounting/bank-reconciliation",
+    "/procurement/*",
+    "/tenders/*",
+    "/reports/agency"
+  ]
 }

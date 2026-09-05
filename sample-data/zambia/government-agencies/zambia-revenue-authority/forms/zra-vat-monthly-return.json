@@ -1,0 +1,124 @@
+{
+  "formId": "zra-vat-monthly-return",
+  "formName": "Zambia Revenue Authority VAT Return Form",
+  "sections": [
+    {
+      "sectionTitle": "1. TAXPAYER & PERIOD IDENTIFICATION",
+      "fields": [
+        {
+          "id": "taxpayerTpin",
+          "label": "Taxpayer Identification Number (TPIN):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.taxpayerTpin"
+        },
+        {
+          "id": "taxpayerName",
+          "label": "Registered Business Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.taxpayerName"
+        },
+        {
+          "id": "taxPeriodMonthYear",
+          "label": "Tax Period Month/Year (MM/YYYY):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PayrollRun.PayPeriodEnd"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. OUTPUT TAX DECLARATION (Sales Summary)",
+      "fields": [
+        {
+          "id": "standardRatedSalesValue",
+          "label": "Total Standard Rated Supplies/Sales Value (Excluding VAT):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.standardRatedSalesValue"
+        },
+        {
+          "id": "outputTaxCharged",
+          "label": "Output Tax Charged (Calculated at statutory 16%):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.outputTaxCharged"
+        },
+        {
+          "id": "zeroRatedSalesValue",
+          "label": "Total Zero-Rated Supplies / Exports Value:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "SchemaLocal.zeroRatedSalesValue"
+        },
+        {
+          "id": "exemptSalesValue",
+          "label": "Total Exempt Supplies Value:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "SchemaLocal.exemptSalesValue"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. INPUT TAX CLAIM (Purchases Summary)",
+      "fields": [
+        {
+          "id": "domesticPurchasesValue",
+          "label": "Total Taxable Domestic Purchases Value (Excluding VAT):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.domesticPurchasesValue"
+        },
+        {
+          "id": "domesticInputTaxClaimed",
+          "label": "Input Tax Claimed on Domestic Purchases:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.domesticInputTaxClaimed"
+        },
+        {
+          "id": "importedGoodsValue",
+          "label": "Total Value of Imported Taxable Goods (VDP Value):",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "SchemaLocal.importedGoodsValue"
+        },
+        {
+          "id": "importInputTaxClaimed",
+          "label": "Input Tax Claimed on Imported Goods:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "SchemaLocal.importInputTaxClaimed"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. NET VAT CALCULATION & ACCOUNT SUMMARY",
+      "fields": [
+        {
+          "id": "netVatPayableRefundable",
+          "label": "Net VAT Payable / (Refundable) for Period (Output Tax minus Input Tax):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.netVatPayableRefundable"
+        },
+        {
+          "id": "withholdingVatDeducted",
+          "label": "Less: Withholding VAT Suffered (From ZRA WHV Agents):",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "SchemaLocal.withholdingVatDeducted"
+        },
+        {
+          "id": "finalVatPayableAmount",
+          "label": "Final Net VAT Amount Payable / Due:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.finalVatPayableAmount"
+        }
+      ]
+    }
+  ]
+}

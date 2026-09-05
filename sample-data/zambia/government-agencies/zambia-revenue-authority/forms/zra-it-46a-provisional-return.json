@@ -1,0 +1,117 @@
+{
+  "formId": "zra-it-46a-provisional-return",
+  "formName": "Zambia Revenue Authority IT 46A - Return of Provisional Income and Tax Payable",
+  "sections": [
+    {
+      "sectionTitle": "RETURN PROFILE & TYPING",
+      "fields": [
+        {
+          "id": "chargeYear",
+          "label": "Income Tax Charge Year Ending 31st December:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.chargeYear"
+        },
+        {
+          "id": "returnType",
+          "label": "Type of Return Submission (Original / Revised):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.returnType"
+        },
+        {
+          "id": "entityClassification",
+          "label": "Taxpayer Entity Classification (Company or Other Bodies / Individual):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.entityClassification"
+        },
+        {
+          "id": "revisionReason",
+          "label": "If Revised, State Reason for Revision:",
+          "type": "textarea",
+          "required": false,
+          "bindingProperty": "SchemaLocal.revisionReason"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "TAXPAYER IDENTIFICATION",
+      "fields": [
+        {
+          "id": "tpin",
+          "label": "Taxpayer Identification Number (TPIN):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.tpin"
+        },
+        {
+          "id": "taxpayerName",
+          "label": "Name of Taxpayer:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.taxpayerName"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "ESTIMATED INCOME & PROVISIONAL TAX COMPUTATIONS",
+      "fields": [
+        {
+          "id": "estimatedRentalIncomeTax",
+          "label": "Estimated Tax on Rental Income (Section A Summary):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.estimatedRentalIncomeTax"
+        },
+        {
+          "id": "estimatedOtherIncomeTax",
+          "label": "Estimated Tax on Sources Other Than Rental (Section B Summary):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.estimatedOtherIncomeTax"
+        },
+        {
+          "id": "totalProvisionalTaxPayable",
+          "label": "Total Estimated Provisional Tax Payable for the Year (Rental + Other):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.totalProvisionalTaxPayable"
+        },
+        {
+          "id": "quarterlyInstalmentAmount",
+          "label": "Quarterly Instalment Amount Due (Total / 4):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.quarterlyInstalmentAmount"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "DECLARATION",
+      "fields": [
+        {
+          "id": "declarantName",
+          "label": "Full Name of Authorized Representative:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.declarantName"
+        },
+        {
+          "id": "signature",
+          "label": "Signature:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Customer.Name"
+        },
+        {
+          "id": "date",
+          "label": "Date:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "SchemaLocal.date"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "formId": "sars-it77c",
+  "formName": "SARS IT77C - Application for Registration as an Income Taxpayer (Company)",
+  "sections": [
+    {
+      "sectionTitle": "1. COMPANY REGISTRATION DETAILS",
+      "fields": [
+        {
+          "id": "companyRegisteredName",
+          "label": "Company Registered Name (As per CIPC):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.LegalEntity.RegisteredName"
+        },
+        {
+          "id": "companyTradingName",
+          "label": "Trading Name (If different):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "CompanyRegistration.LegalEntity.TradingName"
+        },
+        {
+          "id": "cipcRegistrationNumber",
+          "label": "CIPC Company Registration Number (e.g., 2026/123456/07):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.LegalEntity.CipcRegNo"
+        },
+        {
+          "id": "dateOfIncorporation",
+          "label": "Date of Incorporation (YYYY-MM-DD):",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.LegalEntity.IncorporationDate"
+        },
+        {
+          "id": "financialYearEndMonth",
+          "label": "Financial Year-End Month (e.g., February, June, December):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.LegalEntity.FinancialYearEnd"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. PUBLIC OFFICER / AUTHORIZED REPRESENTATIVE",
+      "fields": [
+        {
+          "id": "publicOfficerName",
+          "label": "Full Name of Appointed Public Officer:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.PublicOfficer.FullName"
+        },
+        {
+          "id": "publicOfficerId",
+          "label": "Public Officer ID or Passport Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.PublicOfficer.IdNumber"
+        },
+        {
+          "id": "publicOfficerTaxNumber",
+          "label": "Public Officer Personal Income Tax Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.PublicOfficer.PersonalTaxNo"
+        },
+        {
+          "id": "publicOfficerContactNo",
+          "label": "Public Officer Daytime Contact Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.PublicOfficer.ContactNumber"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. BUSINESS PHYSICAL & REGISTRATION ADDRESS",
+      "fields": [
+        {
+          "id": "businessPhysicalAddress",
+          "label": "Registered Corporate Physical Address:",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.Addresses.Physical"
+        },
+        {
+          "id": "businessPostalAddress",
+          "label": "Corporate Postal Address:",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.Addresses.Postal"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. CORPORATE BANK ACCOUNT DETAILS",
+      "fields": [
+        {
+          "id": "bankName",
+          "label": "South African Bank Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.Banking.BankName"
+        },
+        {
+          "id": "branchCode",
+          "label": "Branch Code:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.Banking.BranchCode"
+        },
+        {
+          "id": "accountNumber",
+          "label": "Account Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.Banking.AccountNumber"
+        },
+        {
+          "id": "accountType",
+          "label": "Account Type (Cheque / Transmission):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "CompanyRegistration.Banking.AccountType"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "formId": "sars-noo-adr1",
+  "formName": "SARS NOO / ADR1 - Notice of Objection Form",
+  "sections": [
+    {
+      "sectionTitle": "1. TAXPAYER & REPRESENTATIVE IDENTIFICATION",
+      "fields": [
+        {
+          "id": "taxReferenceNumber",
+          "label": "Tax Reference Number (Income Tax / VAT / PAYE):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Objection.Taxpayer.TaxRefNo"
+        },
+        {
+          "id": "taxpayerLegalName",
+          "label": "Full Legal Name of Taxpayer / Entity Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Objection.Taxpayer.LegalName"
+        },
+        {
+          "id": "representativeName",
+          "label": "Full Name of Authorized Representative / Practitioner (If applicable):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "Objection.Representative.FullName"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. ASSESSMENT DETAILS BEING DISPUTED",
+      "fields": [
+        {
+          "id": "assessmentNumber",
+          "label": "Notice of Assessment Number (ITA34 / VAT217 etc.):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Objection.Assessment.NoticeNumber"
+        },
+        {
+          "id": "taxYearPeriod",
+          "label": "Tax Year or Period of Assessment under Dispute:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Objection.Assessment.Period"
+        },
+        {
+          "id": "dateOfAssessment",
+          "label": "Date of Issue of the Disputed Assessment (YYYY-MM-DD):",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "Objection.Assessment.IssueDate"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. GROUNDS FOR OBJECTION",
+      "fields": [
+        {
+          "id": "disputedSourceCodes",
+          "label": "Specific Source Codes / Items Disputed (e.g., Code 3601, Input VAT Refusal):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Objection.Grounds.SourceCodes"
+        },
+        {
+          "id": "detailedGroundsDescription",
+          "label": "Detailed Grounds for Objection (Specify the legal or factual facts relied upon):",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "Objection.Grounds.Description"
+        },
+        {
+          "id": "isLateObjection",
+          "label": "Is this objection being submitted outside the statutory 30-day period? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Objection.LateFiling.IsLate"
+        },
+        {
+          "id": "lateFilingReason",
+          "label": "If Yes, state conditional/exceptional circumstances for late submission:",
+          "type": "textarea",
+          "required": false,
+          "bindingProperty": "Objection.LateFiling.Reason"
+        }
+      ]
+    }
+  ]
+}

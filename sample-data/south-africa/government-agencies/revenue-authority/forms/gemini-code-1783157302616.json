@@ -1,0 +1,72 @@
+{
+  "formId": "sars-emp201",
+  "formName": "SARS EMP201 - Monthly Employer Declaration",
+  "sections": [
+    {
+      "sectionTitle": "1. EMPLOYER & PERIOD IDENTIFICATION",
+      "fields": [
+        {
+          "id": "payeReferenceNumber",
+          "label": "PAYE Reference Number (Starts with '7'):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp201.Employer.PayeRefNo"
+        },
+        {
+          "id": "employerName",
+          "label": "Employer Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp201.Employer.Name"
+        },
+        {
+          "id": "taxPeriod",
+          "label": "Declaration Period Year/Month (YYYYMM):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Emp201.Period.TaxPeriod"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. LIABILITY ALLOCATIONS",
+      "fields": [
+        {
+          "id": "payeLiability",
+          "label": "PAYE Liability (Tax deducted from staff) (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Emp201.Liabilities.Paye"
+        },
+        {
+          "id": "sdlLiability",
+          "label": "SDL Liability Amount (Typically 1% of leviable amount):",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Emp201.Liabilities.Sdl"
+        },
+        {
+          "id": "uifLiability",
+          "label": "UIF Liability Amount (1% Employee + 1% Employer):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Emp201.Liabilities.Uif"
+        },
+        {
+          "id": "etiClaimed",
+          "label": "Less: Employment Tax Incentive (ETI) Claimed:",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Emp201.Liabilities.EtiClaimed"
+        },
+        {
+          "id": "totalAmountPayable",
+          "label": "Total Net Amount Payable (PAYE + SDL + UIF - ETI):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Emp201.Summary.TotalPayable"
+        }
+      ]
+    }
+  ]
+}

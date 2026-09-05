@@ -1,0 +1,70 @@
+{
+  "formId": "sars-dtr02",
+  "formName": "SARS DTR02 - Dividends Tax Return",
+  "sections": [
+    {
+      "sectionTitle": "1. DECLARANT IDENTIFICATION",
+      "fields": [
+        {
+          "id": "declarantTaxRef",
+          "label": "Tax Reference Number of Company Declaring Dividend / Regulated Intermediary:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Dtr02.Declarant.TaxRefNo"
+        },
+        {
+          "id": "declarantLegalName",
+          "label": "Legal Name of Entity:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Dtr02.Declarant.LegalName"
+        },
+        {
+          "id": "transactionPeriod",
+          "label": "Month of Dividend Declaration/Payment (YYYYMM):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Dtr02.Period.TransactionMonth"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. DIVIDEND PAYMENT DETAILS",
+      "fields": [
+        {
+          "id": "totalDividendDeclared",
+          "label": "Total Gross Amount of Dividend Declared / Paid (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Dtr02.Dividends.GrossAmount"
+        },
+        {
+          "id": "exemptDividendsAmount",
+          "label": "Less: Total Dividends Exempt from Withholding Tax (Exempt beneficial owners):",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Dtr02.Dividends.ExemptAmount"
+        },
+        {
+          "id": "reducedRateDividendsAmount",
+          "label": "Total Dividends Subject to Reduced Tax Rate (DTA relief entries):",
+          "type": "number",
+          "required": false,
+          "bindingProperty": "Dtr02.Dividends.ReducedRateAmount"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. TAX LIABILITY CALCULATION",
+      "fields": [
+        {
+          "id": "dividendsTaxPayable",
+          "label": "Total Dividends Withholding Tax Due (Calculated at standard 20% or reduced rules):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Dtr02.Summary.TaxPayable"
+        }
+      ]
+    }
+  ]
+}

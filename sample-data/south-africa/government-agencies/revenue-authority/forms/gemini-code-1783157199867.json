@@ -1,0 +1,103 @@
+{
+  "formId": "sars-itr14",
+  "formName": "SARS ITR14 - Income Tax Return for Companies",
+  "sections": [
+    {
+      "sectionTitle": "1. COMPANY PARTICULARS",
+      "fields": [
+        {
+          "id": "companyTaxReferenceNumber",
+          "label": "Company Tax Reference Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr14.Company.TaxReferenceNumber"
+        },
+        {
+          "id": "cipcRegistrationNumber",
+          "label": "CIPC Registration Number:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr14.Company.CipcRegistrationNumber"
+        },
+        {
+          "id": "registeredName",
+          "label": "Registered Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr14.Company.RegisteredName"
+        },
+        {
+          "id": "financialYearEnd",
+          "label": "Financial Year-End Date (YYYY-MM-DD):",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "Itr14.Company.YearEndDate"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. COMPANY CLASSIFICATION",
+      "fields": [
+        {
+          "id": "isSmallBusinessCorporation",
+          "label": "Does the company qualify as a Small Business Corporation (SBC) under Sec 12E? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr14.Classification.IsSbc"
+        },
+        {
+          "id": "isDormant",
+          "label": "Was the company dormant during this year of assessment? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr14.Classification.IsDormant"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. FINANCIAL INFORMATION SUMMARY",
+      "fields": [
+        {
+          "id": "grossRevenue",
+          "label": "Gross Sales / Turnover (ZAR):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Itr14.Financials.GrossRevenue"
+        },
+        {
+          "id": "costOfSales",
+          "label": "Cost of Sales:",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Itr14.Financials.CostOfSales"
+        },
+        {
+          "id": "accountingProfitLoss",
+          "label": "Net Profit or Loss before Tax (Accounting):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "Itr14.Financials.NetAccountingProfit"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. PUBLIC OFFICER DECLARATION",
+      "fields": [
+        {
+          "id": "publicOfficerName",
+          "label": "Full Name of Public Officer:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr14.Declaration.PublicOfficerName"
+        },
+        {
+          "id": "signature",
+          "label": "Signature of Public Officer:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Itr14.Declaration.Signature"
+        }
+      ]
+    }
+  ]
+}

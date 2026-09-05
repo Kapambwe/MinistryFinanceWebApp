@@ -1,0 +1,124 @@
+{
+  "formId": "zra-form-p13",
+  "formName": "Zambia Revenue Authority Form P13 - Particulars of Employee Leaving (PAYE Refund / Transition)",
+  "sections": [
+    {
+      "sectionTitle": "1. LEAVING EMPLOYEE PERSONAL DETAILS",
+      "fields": [
+        {
+          "id": "employeeTpin",
+          "label": "Employee TPIN:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.employeeTpin"
+        },
+        {
+          "id": "employeeFullName",
+          "label": "Employee Full Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "PayrollItem.EmployeeName"
+        },
+        {
+          "id": "employeeNrc",
+          "label": "National Registration Card (NRC) / Passport No.:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.employeeNrc"
+        },
+        {
+          "id": "employeeResidentialAddress",
+          "label": "Employee Residential Address:",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "SchemaLocal.employeeResidentialAddress"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. HISTORICAL ACCUMULATED ENTRIES ON TERMINATION",
+      "fields": [
+        {
+          "id": "dateOfLeaving",
+          "label": "Effective Date of Termination / Leaving (DD/MM/YYYY):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.dateOfLeaving"
+        },
+        {
+          "id": "cumulativeGrossPay",
+          "label": "Total Cumulative Gross Pay Received in Current Charge Year:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.cumulativeGrossPay"
+        },
+        {
+          "id": "cumulativeTaxDeducted",
+          "label": "Total Cumulative Tax Deducted in Current Charge Year:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.cumulativeTaxDeducted"
+        },
+        {
+          "id": "terminationGratuitiesPaid",
+          "label": "Lump Sum Gratuities or Contract Termination Payments Paid (Not inside Cumulative Gross above):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.terminationGratuitiesPaid"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. PREVIOUS EMPLOYER CERTIFICATION",
+      "fields": [
+        {
+          "id": "formerEmployerNameAddress",
+          "label": "Former Employer Name and Legal Address:",
+          "type": "textarea",
+          "required": true,
+          "bindingProperty": "SchemaLocal.formerEmployerNameAddress"
+        },
+        {
+          "id": "formerEmployerSignature",
+          "label": "Signature on behalf of Former Employer:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.formerEmployerSignature"
+        },
+        {
+          "id": "certificationDate",
+          "label": "Date Certified:",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "SchemaLocal.certificationDate"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. NEW EMPLOYER ACCEPTER SECTION (To be completed upon Re-Employment)",
+      "fields": [
+        {
+          "id": "newEmployerTpin",
+          "label": "New Employer TPIN:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.newEmployerTpin"
+        },
+        {
+          "id": "newEmployerName",
+          "label": "New Employer Name:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.newEmployerName"
+        },
+        {
+          "id": "commencementDate",
+          "label": "Date of Commencement of New Employment:",
+          "type": "date",
+          "required": false,
+          "bindingProperty": "SchemaLocal.commencementDate"
+        }
+      ]
+    }
+  ]
+}

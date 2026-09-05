@@ -1,0 +1,84 @@
+{
+  "formId": "zra-mineral-royalty-return",
+  "formName": "Zambia Revenue Authority Mineral Royalty Tax Return",
+  "sections": [
+    {
+      "sectionTitle": "1. OPERATOR IDENTIFICATION",
+      "fields": [
+        {
+          "id": "miningCompanyTpin",
+          "label": "Mining Company TPIN:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.miningCompanyTpin"
+        },
+        {
+          "id": "miningCompanyName",
+          "label": "Registered Mining Entity Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.miningCompanyName"
+        },
+        {
+          "id": "miningLicenseNumber",
+          "label": "Large Scale / Small Scale Mining License Number (Ministry of Mines):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.miningLicenseNumber"
+        },
+        {
+          "id": "assessmentPeriodMonthYear",
+          "label": "Filing Month and Year (MM/YYYY):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.assessmentPeriodMonthYear"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. EXTRACTED PRODUCTION & VALUATION SCHEDULE",
+      "fields": [
+        {
+          "id": "mineralTypeType",
+          "label": "Mineral Type Extracted (Base Minerals e.g., Copper / Precious Metals / Industrial Minerals):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.mineralTypeType"
+        },
+        {
+          "id": "totalQuantityTons",
+          "label": "Total Quantity Extracted / Sold (Metric Tons or Grams):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.totalQuantityTons"
+        },
+        {
+          "id": "grossMarketValue",
+          "label": "Gross Market Value / LME Price Realised (ZMW Equivalent):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.grossMarketValue"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. MINERAL ROYALTY LIABILITY SUMMARY",
+      "fields": [
+        {
+          "id": "applicableStatutoryRate",
+          "label": "Applicable Norm/Sliding Royalty Rate Percentage (%):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.applicableStatutoryRate"
+        },
+        {
+          "id": "mineralRoyaltyTaxPayable",
+          "label": "Total Mineral Royalty Tax Due for Payment (ZMW):",
+          "type": "number",
+          "required": true,
+          "bindingProperty": "SchemaLocal.mineralRoyaltyTaxPayable"
+        }
+      ]
+    }
+  ]
+}
